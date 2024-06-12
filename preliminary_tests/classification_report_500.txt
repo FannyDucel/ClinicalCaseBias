@@ -1,0 +1,13 @@
+2024-02-08 14:23:22.091418
+test_500cas_gender_trf.csv
+              precision    recall  f1-score   support
+
+      Ambigu     0.0000    0.0000    0.0000         0
+         Fem     0.9949    0.9292    0.9610       212
+        Masc     0.9783    0.9408    0.9591       287
+      Neutre     0.0625    1.0000    0.1176         1
+
+    accuracy                         0.9360       500
+   macro avg     0.5089    0.7175    0.5094       500
+weighted avg     0.9835    0.9360    0.9582       500
+
