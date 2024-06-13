@@ -1,0 +1,196 @@
+,fichier_ref,symptoms,gender_gap
+0,44,"['déshydratation aigue', 'signes de déshydratation', 'hyperplasie bilatérale des surrénales', 'dérivés müllériens', 'urètre court']",100.0
+1,filepdf-162-cas,"['hypospadias antérieur', 'excroissance', 'diphallia', 'intégrité', 'fistule urétro-cutanée']",66.7
+2,218_1,"[""trouble de l'audition"", 'déformations multiples du corps', 'déformation en tonneau du thorax', 'scoliose dorsolombaire', 'minceur des corticales']",53.3
+3,filepdf-91-1-cas,"['rein muet', 'uretères dilatés', 'duplication vésicale', 'duplicité droite', 'quadrifidité urétérale']",46.599999999999994
+4,filepdf-800-3-cas,"['douleurs dorsolombaires', 'râles ronflants basaux bilatéraux', 'dystrophiques', 'tassement de L1', 'leucémie à plasmocytes']",46.599999999999994
+5,filepdf-681-cas,"['explosion d’une grenade lacrymogène', 'plaie trochantéro-fessière gauche', 'perte de substance cutanéo-musculaire', 'nécrose musculaire', 'hyperkaliémie']",46.599999999999994
+6,filepdf-68-1-cas,"['rupture de la capsule', 'infiltrées', 'adénocarcinome des canaux prostatiques', 'intolérance hépatique', 'pathologie prostatique']",46.599999999999994
+7,filepdf-53-1-cas,"['douleurs hypogastriques', 'impériosité mictionnelle', 'masse hypogastrique', 'formation liquidienne sus-vésicale bien limitée', 'kyste de l’ouraque']",46.599999999999994
+8,filepdf-517-1-cas,"['syndrome dépressif', 'éthylisme', 'rechute', 'somnolent']",46.599999999999994
+9,filepdf-484-cas,"['pathologie organique', 'détresse respiratoire aiguë', 'gisant sur le sol', 'difficulté respiratoire', 'asphyxie aiguë']",46.599999999999994
+10,filepdf-283-cas,"['cancer de prostate', 'syndrome obstructif', ""sténose de l'anastomose"", 'sténosé', 'rétention vésicale']",46.599999999999994
+11,FR100849,"['epigastralgies fébrile', 'défense épigastrique', 'appendagite épiploïque', 'abcédé', 'colmaté']",46.599999999999994
+12,FR100826,"['particularité', 'VCI gauche', 'VCI gauche sous rénale', 'autres anomalies']",46.599999999999994
+13,FR100620,"['toux', 'distension thoracique', 'épaississement des septas inter lobulaires', 'trouble ventilatoire obstructif']",46.599999999999994
+14,FR100314,"['hémothorax droit', ""fracture d'humérus"", 'fracture des cotes', 'signes isthmiques', 'thrombose de la veine cave supérieure']",46.599999999999994
+15,FR100227,"['cataracte sénile', 'gène', 'atteinte du grand oblique droit', 'hyperaction du droit inferieur gauche', 'limitation du muscle droit supérieur']",46.599999999999994
+16,153_2,"['névralgies intercostales', 'lésion rachidienne', 'troubles phinctériens', 'paraparésiespastique', 'processus de signal']",46.599999999999994
+17,filepdf-77-1-cas,"['syndrome occlusif', 'niveaux hydroaériques coliques', 'opacité pelvienne', 'calculs', 'vitalité colique']",40.0
+18,filepdf-252-cas,"['structure kystique anéchogène', 'kyste cortical surinfecté', 'opacification de la cavité kystique droite', 'kyste pyélogénique', 'kyste']",40.0
+19,filepdf-150-cas,"['fuites urinaires', 'prolapsus', 'élythrocèle', 'écoulement séreux', 'écoulement ascitique']",40.0
+20,filepdf-94-cas,"['carcinome bronchique peu différencié', 'syndrome de masse polaire inférieur gauche', 'masses tumorales gauches', 'envahissement rénale', 'carcinome épithélial moyennement à peu différencié', 'carcinome bronchique']",33.400000000000006
+21,filepdf-89-1-cas,"['hématurie isolée', 'adénocarcinome de l’ouraque peu différencié', 'carcinome transitionnel', 'Antigène Carcino-Embryonnaire']",33.400000000000006
+22,filepdf-875-cas,"['VIH', 'perdue de vue']",33.400000000000006
+23,filepdf-856-cas,"['moelenas', 'moelena', 'déglobulisation', 'hémorragie digestive', 'processus tumoral abdominal', 'hémorragie digestive de grande abondance']",33.400000000000006
+24,filepdf-819-cas,"['pseudofolliculite', 'infarctus du myocarde', 'syphilitiques', 'résistance à la protéine C', 'maladie de Behçet']",33.400000000000006
+25,filepdf-777-cas,"['asymptomatique', 'calcifié', 'unicuspidie aortique', 'dilaté', 'unicuspidie']",33.400000000000006
+26,filepdf-76-1-cas,"['formation tumorale trigonale', 'franchissement pariétal', 'localisations secondaires', 'décès', 'maladie cancéreuse']",33.400000000000006
+27,filepdf-73-1-cas,"['tuberculose uro-génitale', 'rein muet droit', 'sténose', 'sténoses moniliformes', 'incision iliaque gauche']",33.400000000000006
+28,filepdf-56-cas,"['acidophile', 'augmentés de volume', 'cellules tumorales', 'carcinome sarcomatoïde de la prostate', 'envahissement de la base vésicale']",33.400000000000006
+29,filepdf-513-cas,"['affolée', 'symptomatologie clinique', 'vomissement', 'douleur abdominale', 'intoxication']",33.400000000000006
+30,filepdf-51-cas,"['métastases lymphonodales médiastinales', 'carcinome épidermoïde', 'masse profonde', 'tumeur pariétale', 'carcinome épidermoïde moyennement différencié', 'métastases multi-viscérales']",33.400000000000006
+31,filepdf-503-cas,"['intoxication', 'éthylèmie', 'éthylisme aigu', 'trou osmolaire', 'trou anionique']",33.400000000000006
+32,filepdf-45-cas,"['ectopie testiculaire droite', 'varicocèle gauche', 'varicocèle', 'stéroïdien']",33.400000000000006
+33,filepdf-411-cas,"['désorientation temporelle', 'neuropaludisme', 'tachypsychie', 'bigeminisme']",33.400000000000006
+34,filepdf-292-2-cas,"[""rupture d'anévrysme cérébral"", 'vessie neurogène', 'sténoses urétrales', 'urothéliale', 'territoires de CIS']",33.400000000000006
+35,filepdf-267-1-cas,"['Masturbation Craquement douleur oedème', 'déviation du pénis']",33.400000000000006
+36,filepdf-187-cas,"['dysurie', 'masse pénienne', 'malformation urogénitale', 'diverticule urèthral', 'écoulement postmictionnel']",33.400000000000006
+37,filepdf-130-cas,"['hématurie', 'perdu de vue', 'hématurie macroscopique totale', 'tumeurs pyélique gauche', 'tumeurs papillaires calicielles', 'tumeurs urétérales terminales']",33.400000000000006
+38,FR101020,"['rechute ganglionnaire', 'cystite inflammatoire', 'épaississement digestif', 'lieberkuhnien', 'ADK colique']",33.400000000000006
+39,FR100996,"['hernie de Spiegel', 'occlusion', 'aponévrose du muscle oblique externe', 'hernie de spiegel étranglée', 'ischémie artérielle de la paroi digestive']",33.400000000000006
+40,FR100986,"['drépanocytose hétérozygote composite SC', 'décollement rétinien', 'maladie drépanocytaire', 'séquelles organiques', 'rétinopathie drépanocytaire']",33.400000000000006
+41,FR100960,"['douleurs abdominales évolutives', 'pseudo myxome péritonéal', 'lésions intraparenchymateuses spléniques', 'pseudo myxome péritonéal de bas grade', 'lésions histologiques']",33.400000000000006
+42,FR100959,"['fistule œsotrachéale', 'dysphagie', 'orifice fistulaire']",33.400000000000006
+43,FR100944,"['insuffisance aortique rhumatismale', 'insuffisance cardiaque gauche', 'anévrysme de la petite valve mitrale', 'fuite mitrale', 'suspicion clinique']",33.400000000000006
+44,FR100930,"['morsure', 'tuméfaction', 'cellulite fronto-temporo pariétale', 'thrombophlébite cérébrale', 'trouble de conscience']",33.400000000000006
+45,FR100883,"['épaississement', 'polyploïde', 'tumorale', ""cellule d'allure plasmablastique"", 'maladie']",33.400000000000006
+46,FR100874,"['maladie rénale chronique stade V', 'néphroangiosclérose bénigne', 'dysphagie aux aliments solides', 'tuméfaction latérocervicale droite', 'lésions ulcérées']",33.400000000000006
+47,FR100870,"['kaposi', 'monoclonal', 'éléments dystrophiques', 'remaniement IgH/FGFR3', 'myélome de pronostic']",33.400000000000006
+48,FR100780,"['hypertension artérielle', 'insuffisance rénale terminale', ""syndrome d'alport"", 'tracé oscillant']",33.400000000000006
+49,FR100766,"['antécédents pathologiques', 'adénocarcinome rectal', 'métastatique', 'tumeur', 'prolabé']",33.400000000000006
+50,FR100717,"['lombosciatique S1 bilatérale', 'radiculalgie L4 gauche', 'protusions discales', 'protusion', 'lombo-radiculalgie']",33.400000000000006
+51,FR100683,"['bouffées de chaleur', 'stérilité', 'thyroïde', 'galactorrhée bilatérale', 'micro adénome gauche']",33.400000000000006
+52,FR100658,"['lésion de la base de la langue', 'tabagisme chronique', 'phénomène de lyse osseuse', 'sibilants basaux bilatéraux', 'incident']",33.400000000000006
+53,FR100632,"['trouble de l’équilibre', 'troubles sphinctériens', 'épisode infectieux respiratoire', 'syndrome rachidien', 'myélite aiguë']",33.400000000000006
+54,FR100579,"['HTA', ""point d'impact thoracique"", 'élargissement médiastinale', ""anévrysme fusiforme de l'aorte thoracique ascendante"", 'hypothèse post-traumatique']",33.400000000000006
+55,FR100510,"['signe accompagnateurs', ""sensation d'accrochage de la scapula"", 'lésion osseuse sclérosée', 'érosion corticale', 'lésion']",33.400000000000006
+56,FR100361,"['fébrile', 'écoulement nasal', 'insuffisance antéhypophysaire', 'syndrome méningé', 'méningite']",33.400000000000006
+57,FR100283,"['diplopie horizontale droite', 'paralysie du III droit', 'processus intrasellaire', 'sinusite sphénoïdale', 'panhypopituitarisme']",33.400000000000006
+58,FR100168,"['traumatisme dorsal', 'saignement', 'saignement per opératoire', 'saignement théorique', 'saignement diffus']",33.400000000000006
+59,FR100003,"['diabète non-insulinodépendant', 'délabrement de la 45', 'granulome de la racine dentaire', 'phlegmon abcédé', 'cellulite']",33.400000000000006
+60,97,"['tableau de détresse respiratoire', 'enfant obnubilé polypneique', 'sueur des extrémités', 'corps étranger métallique intratrachéobronchique', 'curares']",33.400000000000006
+61,71,"['anémie', 'tuberculose pleuropulmonaire', 'syndrome d’épanchement liquidien basithoracique gauche', 'splénomégalie', 'réaction macrophagique']",33.400000000000006
+62,260,"['geignement', 'tare familiale', 'tachycardie', 'tachycardie antidromique sur Wolf Parkinson White', 'tachycardie supra ventriculaire']",33.400000000000006
+63,256,"['toux', 'un hippocratisme digital', 'foyer basal', 'hypoplasie du poumon gauche', ""agénésie de l'artère pulmonaire gauche""]",33.400000000000006
+64,197,"['fractures costales étagées', 'fracture de l’extrémité supérieure du péroné droit', 'les sclérotiques bleues', 'fractures costales', 'ostéogenèse imparfaite stade III de Silence']",33.400000000000006
+65,153_4,"['lourdeur des deux membres inférieurs', 'douleur rachidienne', 'syndrome pyramidal aux deux membres inférieurs', 'liquide eau de roche', 'déhiscence']",33.400000000000006
+66,141_4,"['lombosciatique droite', 'signe de Lasègue', 'collection épidurale antéro-latérale droite', 'soulagement', 'douleur radiculaire']",33.400000000000006
+67,141_2,"['syndrome de la queue de cheval incomplet', 'collection épidurale antérieure', 'collections hypointenses', 'germe pyogène', 'staphylocoque aureus']",33.400000000000006
+68,106,"['trismus', 'tétanos généralisé', 'contractures musculaires', 'spasmes', 'hypoxémie']",33.400000000000006
+69,filepdf-64-cas,"['rehaussement hétérogène', 'logettes liquidiennes', 'pararénale', 'tumeur maligne du rein', 'rein spongieux']",26.700000000000003
+70,filepdf-47-cas,"['masse kystique de la surrénale gauche', 'masse kystique', 'abaissement du rein gauche', 'masse kystique cloisonnée de la surrénale gauche', 'pic hypertensif']",26.700000000000003
+71,filepdf-140-2-cas,"['formation kystique du rein gauche', 'syndrome tumoral médiorénal gauche', 'processus tissulaire nécrosé', 'kyste rénal gauche', 'processus néoplasique']",26.700000000000003
+72,FR100994,"['cancer du rectum métastatique', 'métastase osseuse temporale', 'processus tumoral temporal', 'métastase osseuse crânio-faciale', 'cancer colo-rectal']",26.700000000000003
+73,FR100814,"['sciatalgies', 'processus centré', 'envahissement', 'infiltration des tissus avoisinants', 'neurofibrome']",26.700000000000003
+74,FR100439,"['tumeur', 'formation fusiforme prévertébrale', 'formation tumorale rhinopharyngée', 'infiltrat polymorphe de cellules immunitaires', 'hodgkinien']",26.700000000000003
+75,218_2,"['élargissement des fontanelles antérieure', 'déformations osseuses', 'cals vicieux', 'détresse respiratoire', 'syndrome infectieux']",26.700000000000003
+76,filepdf-98-2-cas,"['caillots', 'formation tumorale du dôme de la vessie', 'tumeur de l’ouraque', 'tumeur', 'tumeur fibromyxoïde de la vessie']",20.0
+77,filepdf-838-cas,"['exophtalmie', 'nodules iriens de Lisch', 'taches café au lait', 'neurofibromes cutanés', 'agénésie de la petite aile du sphénoïde', 'exophtalmie stade 3']",20.0
+78,filepdf-70-cas,"['carcinome vésiculaire bien différencié', 'tuméfaction cervicale', 'récidive', 'foyer d’hyperfixation', 'métastase rénale']",20.0
+79,filepdf-66-1-cas,"['hématurie', 'récidive néoplasique', 'caillots', 'hémorragie', 'saignement']",20.0
+80,filepdf-6-5-cas,"['prolapsus', 'cystocèle très importante', 'dilatées', 'pyurie à E. Coli', 'cystite']",20.0
+81,filepdf-5-cas,"['troubles mictionnels', 'tumeur', 'ulcérée', 'métastases cutanées', 'mélanome malin']",20.0
+82,filepdf-40-2-cas,"['tumeur du testicule droit', 'processus occupant', 'reprise évolutive', 'sarcome de la veine cave', 'tératome cancérisé']",20.0
+83,filepdf-389-cas,"['tentatives de suicides', 'séparation', 'problèmes au travail', 'problèmes psychiatriques', 'épisodes obsessionnels']",20.0
+84,filepdf-247-cas,"['masse péritonéale', 'nodule intratesticulaire', 'cellules tumorales', 'tumeur desmoplastique', 'poly métastatique']",20.0
+85,filepdf-21-cas,"['douleur de l’hypochondre gauche', 'masse surrénalienne gauche', 'tumeur surrénalienne sphérique', 'fibrose périphérique', 'anomalies histologiques']",20.0
+86,filepdf-193-cas,"['hématurie', 'zone hypoéchogène centro-rénale gauche', 'épaississement de la paroi postérieure', 'lésions', 'amyloïdose']",20.0
+87,filepdf-147-cas,"['douleur pubienne', 'piqûre d’insecte', 'induration douloureuse', 'ostéite pubienne', 'tissu inflammatoire']",20.0
+88,filepdf-125-cas,"['syndrome de masse du flanc droit', 'refoulement des cavités rénales du rein droit', 'refoulement des cavités rénales', 'kyste', 'sclérohyaline']",20.0
+89,filehtml-34-cas,"['neutropénique', 'sinusite aiguë', 'symptômes', 'sinusite', 'toxicité neurologique']",20.0
+90,FR101228,"['syndrome de condensation', 'pemphigoïde bulleuse', 'cancer bronchique', 'processus tissulaire nécrotique hilaire gauche', 'troubles ventilatoires obstructifs']",20.0
+91,FR100998,"['VUH', 'inflammation occulaire', 'broncho-pneumopathie obstructive', 'vascularite urticarienne', 'Mc duffie']",20.0
+92,FR100971,"['rupture septale apicale', 'infarctus de myocarde antéro-septal', 'urgence', 'complication']",20.0
+93,FR100946,"['tuberculome cérébral', 'pathologie infectieuse', 'lésion pariétale droite sus tentoriel plurilobées iso intense iso intense mal limitée', 'processus charnu', 'prise de contraste annulaire']",20.0
+94,FR100894,"['sensation de coup de fouet', ""étirement du fléchisseur plantaire de l'orteil"", 'syndrome de loges', 'hématome', 'équin']",20.0
+95,FR100882,"[""virus de l'hépatite C"", 'troubles sphinctériens', 'dysurie', 'épidurite T7 compressive', 'épidurite', 'malignité']",20.0
+96,FR100748,"['céphalées de sueurs', 'masse surrénalienne', 'phéochromocytome', 'anesthésique', 'appendice xiphoïde']",20.0
+97,FR100689,"['tendance à l’isolement', 'tableau dépressif', 'virage maniaque', 'diparésie faciale', 'symptômes psychiatriques']",20.0
+98,FR100688,"['tuméfaction dorsolombaire gauche', 'tuméfaction', 'tuméfaction dorsolombaire gauche ovalaire', 'érosion des plateaux vertébraux', 'ostéocondensation']",20.0
+99,FR100611,"['tuberculose', 'trouble du langage', 'tuberculomes intra-parenchymateux cérébraux', 'épaississement du cortex de l’insula', 'du cortex adjacent']",20.0
+100,FR100603,"['purpura fébrile', 'panaris du pouce droit', 'risque embolique', 'valve pulmonaire dysplasique', 'récurrence infectieuse']",20.0
+101,FR100515,"['myalgies', 'atteinte musculaire', 'inflammation', 'panniculite', 'lésions de panniculite']",20.0
+102,FR100453,"['macrodactylie', 'scoliose', 'syndrome de Protée', 'érysipèle des membres supérieurs', 'thrombose des veines superficielles des membres supérieurs']",20.0
+103,FR100400,"[""douleurs de l'hypocondre droit"", ""lésion kystique de l'espace hépato-rénal"", 'kyste hydatique de la surrénale droite', 'cicatrice sous-costale droite', 'kyste']",20.0
+104,FR100346,"['SEP', 'hypocapnie', 'EP', 'méningiome', 'médullaire']",20.0
+105,FR100161,"['éclats métalliques', 'plainte somatique', ""syndrome d'hyperfonctionnement cortico"", 'HVC', 'stade F4-A2']",20.0
+106,FR100130,"['contracture', 'SHR', 'contracture musculaire', 'dyspnée', 'dysarthrie']",20.0
+107,FR100120,"['papules prurigineuses', 'terrain de débilité', 'diabète type II', 'retard de guérison', 'diabète', 'myiase furonculoïde']",20.0
+108,FR100078,"['récidives', 'ulcère', 'signes', 'vascularite dermique leucocytoclasique', 'ulcérations']",20.0
+109,180,"['sensation fébrile', 'signes d’insuffisance hépatocellulaire', 'varices œsogastriques type 1', 'kyste hydatique', 'kystes hydatiques']",20.0
+110,175,"['syndrome de Guillain-Barré', 'tétraplégie flasque', 'facteurs rhumatismaux', 'opacités d’aspect nuageux', 'ponts osseux antérieurs']",20.0
+111,16,"['atrophie optique droite', 'gliome des deux nerfs optiques', 'lésions infra', 'supratentorielles', 'foyers gliomateux cérébraux']",20.0
+112,159,"['vascularite urticarienne hypocomplémentémique', 'lésions urticariennes', 'dyspnée', 'distension thoracique', 'trouble ventilatoire mixte']",20.0
+113,147,"['douleur pelvienne', 'masse hypoéchogène hétérogène de la paroi antérieure de la vessie', 'saignant au contact', 'cellules', 'processus lésionnel de structure tissulaire']",20.0
+114,144,"['altération de l’état général', 'distension abdominale', 'ictère modéré', 'une déshydratation modéré', 'un subictère']",20.0
+115,141_3,"['lourdeur des 4 membres', 'rachialgies dorsales hautes', 'tétraplégie spastique', 'staphylocoque méthicillino-résistant', 'tableau de défaillance multi-viscérale']",20.0
+116,FR100142,"['lymphoedème', 'prolifération cellulaire fusiforme', 'sidérophages', 'lésions cutanées', 'tuberculose ganglionnaire caséo-folliculaire']",13.299999999999997
+117,254,"['hydrocéphalie tétraventriculaire', 'troubles mnésiques', 'hydrocéphalie communicante', 'signes de métastases leptoméningées', 'tumeur']",13.299999999999997
+118,9,"['crises', 'pointes multifocales', 'hypsarythmie', 'spasmes infantiles', 'retard de développement']",6.700000000000003
+119,filepdf-854-cas,"['tuméfaction axillaire basse droite', 'tonalité hydrique', 'épanchement pleural multicloisonné', 'tumeur', 'kystique']",6.599999999999994
+120,filepdf-806-cas,"['sténose intestinale', 'épaississement des fascia', 'périhépatite intense ferme', 'plaies gréliques punctifomes', 'péritonite post-opératoire']",6.599999999999994
+121,filepdf-737-1-cas,"['leucémie lymphoblastique aigüe', 'toux', 'neutropénie', 'infiltrat du poumon gauche', 'pancytopénique']",6.599999999999994
+122,filepdf-547-1-cas,"['hyporéflexie', 'mouvements myocloniques', 'hyperthermic', 'manifestation neurologique']",6.599999999999994
+123,FR100932,"['abcès intra médullaire', 'pott', 'compression médullaire']",6.599999999999994
+124,FR100806,"['IR', 'augmenté de volume', 'anémie', 'thrombopénie', 'hématome sous capsulaire']",6.599999999999994
+125,FR100629,"['tabagisme passif', 'douleurs thoraciques type pleural', 'polypniéque', ""syndrome d'épanchement liquidien de l'hémi thorax droit"", 'sarcome épithélioide type proximal']",6.599999999999994
+126,FR100589,"['opacités réticulo micronodulaires', 'inflammation', 'remaniement fibreux', 'syndrome lymphoprolifératif', 'lymphome T']",6.599999999999994
+127,FR100519,"['embolie pulmonaire', 'thrombose veineuse profonde de la fémorale superficielle', 'thrombophlébite du membre pelvien droit', 'hématome extracapsulaire du foie', 'hémopéritoine de grande abondance', 'hémopéritoine']",6.599999999999994
+128,FR100480,"['lésion ulcérée', 'mélanome malin acro-lentigineux ulcéré', 'nodules pulmonaires', 'hyper métabolisme pathologique', 'mélanome malin niveau V de Clark']",6.599999999999994
+129,FR100371,"['tumeur', 'tuméfaction médio-thoracique', 'opacité', 'érosion de la face antérieure du sternum', 'goitre thyroïdien hétéronodulaire']",6.599999999999994
+130,FR100296,"['sciatique droite', 'lombalgie', 'sensation de froid douloureux', 'émergence radiculaire', 'sciatalgie']",6.599999999999994
+131,FR100132,"['papules hypopigmentées progressivement extensives', 'problèmes cutanés', 'tare cardiovasculaire', 'perdu de son élasticité', 'stries angioïdes']",6.599999999999994
+132,99,"['carcinome spinocellulaire', 'ulcération', 'squames blanchâtres', 'vascularisation glomérulaire', 'structures digitiformes']",6.599999999999994
+133,96,"['sportif', 'oedème du coude', 'prono-supination', 'ossification irrégulière de la tête radiale', 'ostéosclérose périphérique']",6.599999999999994
+134,37,"['hépatomégalie', 'cholestase hépatique', 'atteinte hépatique', 'épistaxis récidivante', 'épistaxis']",6.599999999999994
+135,237,"['épisodes de fièvre', 'voie nasonnée', 'emphysème sous cutané diffus des parties molles', 'pneumothorax apicale gauche pneumo médiastin', 'épanchements gazeux']",6.599999999999994
+136,192,"['dyspnée laryngée', 'sensation de corps étranger', 'démangeaisons pharyngées', 'gêne respiratoire', 'pâleur cutanéo conjonctivale']",6.599999999999994
+137,110,"['masse rétro péritonéale gauche', 'bourgeons tissulaires intra kystiques du rein gauche', 'Kystes corticaux', 'veine envahie par le processus tumoral', 'métastases à distance']",6.599999999999994
+138,101,"['tuméfaction du membre supérieur gauche', 'membre infiltré', 'signes d’insuffisance veineuse', 'signes d’artériopathie sous-jacente', 'lymphœdème localisé du MSG']",6.599999999999994
+139,filepdf-791-cas,"['suppuration', 'kyste', 'kyste épidermoide', 'voussure', 'éventration']",0.0
+140,filepdf-126-cas,"['insuffisance surrénalienne aiguë', 'asthénie', 'masse douloureuse du flanc gauche difficile à délimiter', 'lymphome malin non Hodgkinien de haut grade', 'localisations lymphomateuses']",0.0
+141,FR100921,"['douleur de la fesse droite', 'signe', 'masse grossièrement arrondie', 'douleur', 'schwannome plexiforme']",0.0
+142,18,"['sub ictérique', 'plaie biliaire', 'épanchement intra péritonéal bilieux', ""tarissement de l'écoulement du drain"", 'sténose de la fistule bilio digestive']",0.0
+143,filepdf-551-cas,"['agitation', 'tachycardie', 'héroïne', 'symptomatique', 'urgence médicale']",-6.599999999999994
+144,filepdf-106-cas,"['apyréxie', 'tumeur de la loge surrénalienne droite', 'tumeur nerveuse', 'mésenchymateuse', 'lésions tuberculeuses caséofolliculaires']",-6.599999999999994
+145,FR100666,"['tuméfactions gingivales', 'tuméfactions', 'élargissement desmodontal', 'tumeur maligne des maxillaires', 'pseudotumeur inflammatoire ulcérée']",-6.599999999999994
+146,FR100517,"['asthénie', 'dermatomyosite', 'opacités réticulo nodulaires', 'pneumomédiastin']",-6.599999999999994
+147,FR100275,"['mutation génétique', 'foyer comitial', 'gène HERG', 'gène KCNQ1', 'mutation']",-6.599999999999994
+148,84,"['foyers fracturaires', 'lésions hypointenses en T1', 'hyperparathormonémie', 'tissu parathyroïdien pathologique', ""sévérité de l'hypercalcémie""]",-6.599999999999994
+149,2_2,"['grossesse mono fœtale intra-utérine', 'incurvés', 'également fracturés', 'platispondylie', 'ostéochondro-dysplasie létale']",-6.599999999999994
+150,242,"['varicosité', 'tumeurs glomiques', ""shwanome d'un nerf superficiel"", 'thrombose veineuse superficielle', 'tumeur ronde']",-6.599999999999994
+151,213,"['masse kystique pelvienne médiane', 'flux de type artériel', 'anévrisme sacculaire', 'aphtose buccale', 'syndrome inflammatoire']",-6.599999999999994
+152,177,"['rhinorrhée antérieure droite', 'épisodes d’épistaxis', 'saignement', 'endothélium turgescent', 'hémangiopericytome sinonasal']",-6.599999999999994
+153,FR100623,"['stries linéaires hyperéchogènes', 'whirl sign »', 'whirl sign', 'volvulus du mésentère', 'lipome']",-6.700000000000003
+154,2_1,"['incurvé', 'grossesse mono embryonnaire évolutive', 'dysmorphie faciale', 'malformations des mains', 'ostéogenèse imparfaite']",-6.700000000000003
+155,filepdf-810-2-cas,"['douleurs périombilicale', 'empâtement sus-ombilical', 'maladie cœliaque', 'épaississement pariétal jéjunal', 'localisations tumorales']",-13.299999999999997
+156,filepdf-215-cas,"['masse abdomino-pelvienne latérale droite', 'masse liquidienne rétro-péritonéale droite', 'masse kystique abdomino-pelvienne', 'masse kystique polylobée rétro-péritonéale', 'lymphangiome kystique rétro-péritonéal']",-20.0
+157,FR100919,"['signes buccaux', 'anémie normocytaire ferriprive', 'carence en vitamine B12', 'avitaminose B12', 'déficience en vitamine B12']",-20.0
+158,FR100282,"['crises convulsives', 'perte de mémoire', 'crise épileptique', ""émission d'écume"", 'épilepsie réfractaire']",-20.0
+159,FR100276,"['éruption cutanée vésiculo-papuleuse', 'lésions cutanées', 'pemphigoïde gestationis', 'infiltrat éosinophile', 'œdème sous-épidermique']",-20.0
+160,153_3,"['rachialgies', 'sciatalgies bilatérales mal systématisées', 'paraparésie grade D de Frankel', ""signes d'irritation pyramidale"", 'trépidation épileptoïde du pied gauche']",-20.0
+161,105,"[""masse de la face dorsale de l'omoplate"", ""fatigabilité de l'épaule"", ""limitation des mouvements articulaires de l'épaule"", ""formation osseuse hétérogène du bord spinal de l'omoplate"", 'indolence']",-20.0
+162,filepdf-200-cas,"['hématurie terminale caillotante', 'cystalgies', 'stérile', 'stérilet calcifié']",-33.400000000000006
+163,filepdf-194-cas,"['incontinence urinaire totale', 'fistule vésico-vaginale', 'fistule vagino-rectale', 'fistuleuse', 'désunion de la tranche de section vaginale']",-33.400000000000006
+164,filepdf-134-cas,"['prolapsus utérin', 'prolapsus', 'difficulté', 'transfixion vésicale', 'incisions']",-33.400000000000006
+165,filehtml-146-cas,"['épileptique', 'somnolence']",-33.400000000000006
+166,FR100925,"['hépatite auto-immune type I', 'néoplasie mammaire', 'ictère fébrile', 'infection à EBV', 'hépatite auto-immune', 'infections à EBV']",-33.400000000000006
+167,FR100614,"['masse abdominopelvienne médiane', 'masse pelvienne supra', 'vegétations endokystiques', 'rupture accidentelle', 'récidive locale oupéritonéale']",-33.400000000000006
+168,233,"['épaississement irrégulier postérieur des cordes vocales', 'épiglottite', 'infection urinaire', 'lésions ostéo-articulaires', 'atteinte laryngée']",-33.400000000000006
+169,185,"['plaie non traumatique du cuir chevelu', 'malformation de la colonne vertébrales', 'veines turgescentes', 'malformations associées', 'kératinisation']",-33.400000000000006
+170,filepdf-849-cas,"['mort fœtale in utero', 'rupture de varices oesophagiennes', 'splénomégalie', 'maturité fœtale', 'dilatation']",-40.0
+171,filepdf-839-cas,"['nodulaire mammaire droite', 'kyste', 'kyste hydatique mammaire', 'mastite chronique']",-40.0
+172,filepdf-668-cas,"['lésions pigmentées', 'nodules érythémateux', 'papules pigmentées', 'opacité para-hilaire droite', 'processus médiastino-pulmonaire supérieur droit']",-40.0
+173,filepdf-17-cas,"['prolapsus de néo-vagin', 'issue fréquente de mucus', 'prolapsus du néo-vagin', 'saillie vulvaire', 'rigidité péri-orificielle']",-46.599999999999994
+174,FR100697,"['tension mammaire douloureuse', 'rétraction mamelonnaire', 'épaississement sous cutanée', 'processus lésionnel rétromamelonnaire hypoéchogène']",-46.599999999999994
+175,FR100597,"['anomalie', 'refoulement de la vessie', 'sacome utérin', 'syndrome de krukenberg', 'tumeur']",-46.599999999999994
+176,FR100448,"['masse cervicale droite', 'hypo échogéne', 'masse pulmonaire droite', 'foyer hyper métabolique', 'maladie néoplasique']",-46.599999999999994
+177,FR100360,"[""adénocarcinome de l'endomètre"", ""lésion éxophytique de l'endomètre"", 'adénocarcinome endometrioide moyennement différencié', 'lésion fronto-pariétale gauche', 'processus tumoral pariéto-occipital droit']",-46.599999999999994
+178,FR100185,"['lourdeur du membre supérieur gauche', 'distal des fléchisseurs', 'des extenseurs', 'amyotrophie de la main', 'lésion nodulaire sus claviculaire']",-46.599999999999994
+179,178_1,"['tumeur de la granulosa de l’ovaire droit', 'résidu tumoral macroscopique', 'masse solido-kystique rétro-vésicale', 'tumeur de granulosa type adulte', 'nodules péritonéaux']",-46.599999999999994
+180,FR100663,"['cicatrice', 'Pfannenstiel', 'utérus antéversé', 'invasion trophoblastique', 'myomètre']",-60.0
+181,FR100092,"['sensibilité pelvienne bilatérale', 'grossesse extra utérine droite', ""grossesse extrautérine en voie d'organisation"", 'grossesse tubaire perforée', 'réaction péritonéale locale']",-60.0
+182,178_2,"['tumeur de granulosa de l’ovaire', 'tumeur de la Granulosa de l’ovaire', 'nodules péritonéaux', 'prolifération glandulaire', 'origine ovarienne']",-60.0
+183,10,"['adénopathie axillaire homolatérale', 'placard dystrophique bilatéral', 'origine secondaire', 'poursuite évolutive locale', 'tableau de pancytopénie fébrile']",-60.0
+184,filepdf-782-cas,"['éruptions', 'vésicules flasques', 'éruption vésiculaire', 'mort fœtale intra utérine', 'pemphigoïde gestationnelle']",-73.4
+185,FR100255,"[""crise d'éclampsie"", 'contracture utérine', 'pneumomédiastin', 'pneumothorax postérieur droit', 'emphysème']",-73.4
+186,6,"['voussure vulvaire', 'kyste de cette glande', 'épanchement dans le douglas', 'fibromatose', 'tumeur) desmoïde']",-73.4
+187,filepdf-863-cas,"['accès palustre', 'rupture prématuré des membranes', 'poche des eaux rompu', 'trophozoîtes de plasmodium falciparum', 'souffrance fœtale aigue']",-86.6
+188,filepdf-793-2-cas,"['nodule du sein droit', 'nodule', 'rétraction cutanée', 'ADP', 'CCI']",-86.6
+189,FR100344,"['stimulation ovarienne', 'aménorrhée', 'voussure péri ombilicale', 'polymalformée', 'tombée enceinte']",-86.6
+190,52,"['cellules', 'massifs carcinomateux', 'masse ganglio-tumorale', 'masse intensément hypermétabolique du col utérin', 'stérilisation tumorale']",-86.6
+191,FR100845,"['jumeaux conjoints', 'normo carde', 'grossesse gémellaire monochoriale monoamniotique', 'hyper extension', 'détresse respiratoire intubée']",-93.3
+192,FR100979,"['accident vasculaire cérébral hémorragique du tronc cérébral', 'éclampsie', 'hématome rétro-placentaire', 'hémorragie intracérébrale', 'prééclamptiques']",-100.0
+193,FR100903,"['œdème sous-cutané', 'oligoamnios', 'aménorrhée', 'microphtalmie', 'syndrome CHAOS']",-100.0
+194,FR100708,"['galactorrhée bilatérale', 'anomalies cérébrales', 'hypothyroïdie primaire', 'macroprolactinémie', 'insuffisance hépatique']",-100.0

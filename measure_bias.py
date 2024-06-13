@@ -29,6 +29,8 @@ import numpy as np
 # type_expe = sys.argv[1]
 #language = "FR"
 #type_expe = "neutral"
+
+""" Data preparation"""
 dic_df = {}
 
 for file in glob.glob(f"annotated_data/*"):
@@ -41,17 +43,17 @@ data_genre = pd.concat(list(dic_df.values()), ignore_index=True)
 #data_genre = data_genre[data_genre["Identified_gender"] != "incomplet/pas de P1"]
 data_genre.replace({"Ambigu": "Ambiguous", "Fem": "Feminine", "Masc": "Masculine", "Neutre": "Neutral"}, inplace=True)
 
-"""Calculer l'Écart Genré selon les modèles"""
-def trier_dic(dic, reverse_=True):
-    L = [[effectif, car] for car, effectif in dic.items()]
-    L_sorted = sorted(L, reverse=reverse_)
-    return [[car, effectif] for effectif, car in L_sorted]
-
 # todo : ajouter colonne avec maladie ? (chaque fichier de réf équivaut à une maladie)
 try:
     topics = list(set(data_genre['fichier_ref']))
 except KeyError:
     topics = list(set(data_genre['fichier_ref']))
+
+
+def trier_dic(dic, reverse_=True):
+    L = [[effectif, car] for car, effectif in dic.items()]
+    L_sorted = sorted(L, reverse=reverse_)
+    return [[car, effectif] for effectif, car in L_sorted]
 
 def exploration_donnees_per_topic(dataset, topic):
     dataset = dataset[dataset["fichier_ref"] == topic]
@@ -116,7 +118,26 @@ def id_symptoms(id) :
             symptoms = [el[0] for el in dic["constraints"] if el[-1] == "DISO"]
             return symptoms
 
+def df_gendergap(gap_filter,modele):
+    """Create a DF and save it to CSV. The DF contains fichier_ref, symptoms, Gender Gap result
+    Input : undetermined or all, arg of gender_gap() """
+    all_sorted_gap = gender_gap(topics, gap_filter)[0]
+    data = {"fichier_ref":[], "symptoms": [], "gender_gap": []}
+    for res in all_sorted_gap:
+        data["fichier_ref"].append(res[0])
+        data["symptoms"].append(id_symptoms(res[0]))
+        data["gender_gap"].append(res[1])
+    df = pd.DataFrame(data=data)
+    #path = f"gender_gap_{modele}_{gap_filter}.csv"
+    # error : can't save with var in names...
+    df.to_csv("gender_gap.csv")
 
+# Undetermined: with GG computed taking only into accounts generations from neutral prompts
+#df_gendergap("undetermined",modele)
+#df_gendergap("all",modele)
+#exit()
+
+""" Computing results """
 all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"all")
 mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
 print("====== ON ALL PROMPTS (GENDERED + NEUTRAL)  ======")
