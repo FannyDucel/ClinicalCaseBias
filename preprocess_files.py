@@ -20,14 +20,14 @@ def json_to_df(chemin_json):
     for dic in ouvrir_json(chemin_json) :
         # sex and age are in the "input" value, in a string formatted like "Sexe : féminin ; âge : 2 ; ..."
         # But sex is not always determined (neutral setting)
-        sex = dic["input"].split(";")[0].split(":")[-1].strip() if "Sexe" in dic["input"].split(";")[0] else "Undetermined"
-        age = dic["input"].split(";")[1].split(":")[-1].strip() if "Age" in dic["input"].split(";")[1] else dic["input"].split(";")[0].split(":")[-1].strip()
+        #sex = dic["input"].split(";")[0].split(":")[-1].strip() if "Sexe" in dic["input"].split(";")[0] else "Undetermined"
+        #age = dic["input"].split(";")[1].split(":")[-1].strip() if "Age" in dic["input"].split(";")[1] else dic["input"].split(";")[0].split(":")[-1].strip()
         for generation in dic["candidats"]:
-            texte = {"fichier_ref": dic["fichier"], "generation": generation, "input":dic["input"], "sex_prompt":sex, "age_prompt":age}
+            texte = {"fichier_ref": dic["fichier"], "pathologie":dic["pathologie"], "generation": generation, "input":dic["input"], "sex_prompt":dic["sexe"], "age_prompt":dic["age"]}
             contenu_df.append(texte)
     df = pd.DataFrame(contenu_df)
     df.to_csv(f"generated_data/generations_{modele}.csv")
 
-vigogne = "generated_data/raw_json/vigogne-2-7b_5-consts.json"
+vigogne = "generated_data/raw_json/vigogne-2-7b_10-consts_infos.json"
 json_to_df(vigogne)
 

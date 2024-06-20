@@ -179,4 +179,4 @@ def detecter_genre(csv_path):
     df_lm.to_csv("annotated_data/"+path+f"_gender_trf.csv")
 
 # detecter_genre("generated_data/generations_vigogne_test30.csv")
-detecter_genre("generated_data/generations_vigogne-2-7b_5-consts.csv")
+detecter_genre("generated_data/test_2.csv")
