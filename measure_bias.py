@@ -12,7 +12,7 @@ import argparse
 import sys
 import numpy as np
 
-# TODO : ajouter filtre pour maladies stéréotypées => ajouter colonne dans Dataframe avec la maladie ??
+# TODO : changer corpus var to arg
 # class MyParser(argparse.ArgumentParser):
 #     def error(self, message):
 #         sys.stderr.write('error: %s\n' % message)
@@ -32,23 +32,35 @@ import numpy as np
 
 """ Data preparation"""
 dic_df = {}
+corpus = "all"
 
-# for file in glob.glob(f"annotated_data/*"):
-file = "annotated_data/generations_vigogne-2-7b_10-consts_infos_gender_trf.csv"
-df = pd.read_csv(file)
-modele = file.split('_')[1]
-df["modele"] = modele
-dic_df[modele] = df
+for file in glob.glob(f"annotated_data/data_biais/*"):
+    df = pd.read_csv(file)
+    modele = file.split('_')[1]
+    df["modele"] = modele
+    dic_df[modele] = df
+#file = "annotated_data/generations_vigogne-2-7b_10-consts_infos_gender_trf.csv"
+#df = pd.read_csv(file)
+
+if corpus == "stereoFem":
+    df = df[df["pathologie"].isin(["sein", "osteoporose", "ovaire", "depression"])]
+if corpus == "stereoMasc":
+    df = df[df["pathologie"].isin(["COVID-19", "prostate", "infarctus", "drepanocytose"])]
+if corpus == "stereoNeutre":
+    df = df[df["pathologie"].isin(["colon", "vessie"])]
+
+#modele = file.split('_')[1]
+#df["modele"] = modele
+#dic_df[modele] = df
 
 data_genre = pd.concat(list(dic_df.values()), ignore_index=True)
-#data_genre = data_genre[data_genre["genre_auto"] != "incomplet/pas de P1"]
 data_genre.replace({"Ambigu": "Ambiguous", "Fem": "Feminine", "Masc": "Masculine", "Neutre": "Neutral"}, inplace=True)
 
 # todo : ajouter colonne avec maladie ? (chaque fichier de réf équivaut à une maladie)
-try:
-    topics = list(set(data_genre['fichier_ref']))
-except KeyError:
-    topics = list(set(data_genre['fichier_ref']))
+#try:
+topics = list(set(data_genre['pathologie']))
+#except KeyError:
+    #topics = list(set(data_genre['fichier_ref']))
 
 
 def trier_dic(dic, reverse_=True):
@@ -59,8 +71,8 @@ def trier_dic(dic, reverse_=True):
 def exploration_donnees_per_topic(dataset, topic):
     dataset = dataset[dataset["pathologie"] == topic]
 
-    x_fig = dataset["genre_auto"].value_counts(normalize=True)
-    x = dataset["genre_auto"].value_counts(normalize=True).mul(100).round(1).astype(str) + '%'
+    x_fig = dataset["Identified_gender"].value_counts(normalize=True)
+    x = dataset["Identified_gender"].value_counts(normalize=True).mul(100).round(1).astype(str) + '%'
     return x.to_dict()
 
 def gender_gap(topics, filter, data_genre=data_genre):
@@ -93,20 +105,26 @@ def gender_gap(topics, filter, data_genre=data_genre):
 
 def gender_shift(df):
     """Renvoie la probabilité que le prompt ne soit pas respecté (= nb de fois où le texte est généré dans le genre opposé ou ambigu)"""
-    df.replace({"masculin":"Masc", "féminin":"Fem"}, inplace=True)
+    df.replace({"masculin":"Masculine", "féminin":"Feminine"}, inplace=True)
 
-    df['gender_shift'] = np.where((df['sex_prompt'] != df['genre_auto']) & (df['sex_prompt'] == "neutre") & (
-                df['genre_auto'] != "Neutral") & (df['genre_auto'] != "incomplet/pas de P1"), 1, 0)
+    #df['gender_shift'] = np.where((df['sex_prompt'] != df['Identified_gender']) & (df['sex_prompt'] == "neutre") & (
+                #df['Identified_gender'] != "Neutral"), 1, 0)
 
     # exclusion du neutre
-    df = df[df.sex_prompt != "neutre"]
-    df['gender_shift'] = np.where((df['sex_prompt'] != df['genre_auto']) & (df['genre_auto'] != "Neutral") & (
-                df['genre_auto'] != "incomplet/pas de P1"), 1, 0)
+    df = df[df.sex_prompt != "neutre"].copy()
+    #df['gender_shift'] = np.where((df['sex_prompt'] != df['Identified_gender']) & (df['Identified_gender'] != "Neutral"), 1, 0)
+    df["gender_shift"] = 0
+    df.loc[(df['sex_prompt'] != df['Identified_gender']) & (df['Identified_gender'] != "Neutral"), "gender_shift"] = 1
+    #print(df.shape)
 
     # print IDs of files that have a positive gender shift
-    positive_gf = df.loc[df["gender_shift"] == 1, "fichier_ref"].to_list()
-    print("List of files with positive GS :", [(el, id_symptoms(el)) for el in positive_gf])
-    # df.to_csv("gender_shift_noneutral.csv")
+    positive_gf = df['pathologie'][df["gender_shift"] == 1].to_list()
+    #positive_gf = df.loc[df["gender_shift"] == 1, "pathologie"].to_list()
+    print("List of pathologies with positive GS :", set(positive_gf))
+    # GS per pathology: group by pathology and avg on the subcorpus
+    print("Mean Gender Shift per pathology")
+    print(df.groupby(['pathologie'])["gender_shift"].mean().nlargest(10))
+    df.to_csv("bias_results/gender_shift.csv")
     return sum(df['gender_shift']) / len(df['gender_shift'])
 
 def id_symptoms(id) :
@@ -131,7 +149,7 @@ def df_gendergap(gap_filter,modele):
     df = pd.DataFrame(data=data)
     #path = f"gender_gap_{modele}_{gap_filter}.csv"
     # error : can't save with var in names...
-    df.to_csv("bias_results/gender_gap_10.csv")
+    df.to_csv(f"bias_results/gender_gap_10_{corpus}.csv")
 
 # neutre: with GG computed taking only into accounts generations from neutral prompts
 #df_gendergap("neutre",modele)
@@ -143,20 +161,19 @@ all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"all")
 mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
 print("====== ON ALL PROMPTS (GENDERED + NEUTRAL)  ======")
 print("The global Gender Gap is of", mean_gap_total)
-print("The 10 diseases (ref doc) with the highest Gender Gaps are", all_sorted_gap[:10])
-print("The 10 diseases (ref doc) with the lowest Gender Gaps are", all_sorted_gap[-10:])
+print("The 10 diseases with the highest Gender Gaps are", all_sorted_gap[:10])
+print("The 10 diseases with the lowest Gender Gaps are", all_sorted_gap[-10:])
 
 all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"neutre")
 mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
 print("\n====== ONLY ON NEUTRAL  ======")
 print("The global Gender Gap is of", mean_gap_total)
-print("\n\tTop 10 highest Gender Gaps (id, symptoms list)")
-for id in all_sorted_gap[:10] :
-    print(id, id_symptoms(id[0]))
-print("\n\tTop 10 lowest Gender Gaps (id, symptoms list)")
-for id in all_sorted_gap[-10:] :
-    print(id, id_symptoms(id[0]))
+print("The 10 diseases with the highest Gender Gaps are", all_sorted_gap[:10])
+print("The 10 diseases with the lowest Gender Gaps are", all_sorted_gap[-10:])
 
 print("\n")
 print("\nThe global Gender Shift is of", gender_shift(data_genre))
-
+# /!/ High GS for feminine but because it's the masculine prompts that are not respected (so a bit tricky),
+# e.g. more difficult to make texts on men for stereotypically feminine diseases than the other way around
+# Note: only 2000 rows for Gender Shift because exclude all neutral prompts
+#Ovaire with 50% GS equals = only feminine generations so always respect when feminine prompts but never when masc
