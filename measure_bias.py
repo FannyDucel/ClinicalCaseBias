@@ -34,20 +34,21 @@ import numpy as np
 dic_df = {}
 corpus = "all"
 
-for file in glob.glob(f"annotated_data/data_biais/*"):
+for file in glob.glob(f"annotated_data/*.csv"):
+    #print(file)
     df = pd.read_csv(file)
-    modele = file.split('_')[1]
+    modele = file.split('_')[2]
     df["modele"] = modele
     dic_df[modele] = df
 #file = "annotated_data/generations_vigogne-2-7b_10-consts_infos_gender_trf.csv"
 #df = pd.read_csv(file)
 
-if corpus == "stereoFem":
+"""if corpus == "stereoFem":
     df = df[df["pathologie"].isin(["sein", "osteoporose", "ovaire", "depression"])]
 if corpus == "stereoMasc":
     df = df[df["pathologie"].isin(["COVID-19", "prostate", "infarctus", "drepanocytose"])]
 if corpus == "stereoNeutre":
-    df = df[df["pathologie"].isin(["colon", "vessie"])]
+    df = df[df["pathologie"].isin(["colon", "vessie"])]"""
 
 #modele = file.split('_')[1]
 #df["modele"] = modele
@@ -55,7 +56,6 @@ if corpus == "stereoNeutre":
 
 data_genre = pd.concat(list(dic_df.values()), ignore_index=True)
 data_genre.replace({"Ambigu": "Ambiguous", "Fem": "Feminine", "Masc": "Masculine", "Neutre": "Neutral"}, inplace=True)
-
 # todo : ajouter colonne avec maladie ? (chaque fichier de réf équivaut à une maladie)
 #try:
 topics = list(set(data_genre['pathologie']))
@@ -157,6 +157,7 @@ def df_gendergap(gap_filter,modele):
 #exit()
 
 """ Computing results """
+
 all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"all")
 mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
 print("====== ON ALL PROMPTS (GENDERED + NEUTRAL)  ======")
