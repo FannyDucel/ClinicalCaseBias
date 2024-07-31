@@ -36,8 +36,7 @@ def correlation(token_csv_path, coeff="pearson"):
     avg_gs0 = df['respect_contraintes'].loc[df['gender_shift'] == 0].mean()
 
     print("Average respect rate for texts with a positive GS (=bias)", round(avg_gs1,2), "and with a negative GS", round(avg_gs0,2))
-    #print("Pearson correlation between bias score and token gap", df["fixed_score"].corr(df["token_gap"], method=coeff))
-    #print("Pearson correlation between bias score and gap between logs", df["fixed_score"].corr(df["log_gap"], method=coeff))
+    print("Correlation between respect contraintes and GS:")
     return round(df["respect_contraintes"].corr(df["gender_shift"], method=coeff),4)
 
 def avg_respect_per_gender(token_csv_path):
@@ -60,12 +59,29 @@ def avg_respect_per_patho(token_csv_path):
     print("Respect contraintes avg total", round(df["respect_contraintes"].mean(),2))
     return avg_patho
 
+
+full_corpus = "annotated_data/generations_full-corpus.csv"
+print(correlation(full_corpus))
+print(avg_respect_per_gender(full_corpus))
+print(avg_respect_per_patho(full_corpus))
+exit()
+
+##df_list = []
 for file in glob.glob("annotated_data/*.csv"):
+    # to merge all files into one big df
+    ##model = file.split("_")[-5].split(".")[0]
+    ##df = pd.read_csv(file)
+    ##df["model"] = model
+    ##df_list.append(df)
     print(file)
-    #print(correlation(file))
-    #print(avg_respect_per_gender(file))
-    print(avg_respect_per_patho(file))
+    #print(correlation(file), end="\n")
+    #print(avg_respect_per_gender(file), end="\n")
+    #print(avg_respect_per_patho(file), end="\n")
     print("*"*50)
+
+## total_df = pd.concat([df for df in df_list])
+
+
 
 # Note : vigogne-7b and 13B respect the most the constraints.
 #print(correlation())
