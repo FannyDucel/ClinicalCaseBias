@@ -59,25 +59,38 @@ def avg_respect_per_patho(token_csv_path):
     print("Respect contraintes avg total", round(df["respect_contraintes"].mean(),2))
     return avg_patho
 
+def correl_nb_respect_contr(generation_path):
+    """Check if there's a correlation between the respected rate and the nb of constraints (in generated_data file)
+    => no significant correlations, between -0.06 and -0.33"""
+    df = pd.read_csv(generation_path)
+    return df["nb_contraintes"].corr(df["respect_contraintes"])
 
-full_corpus = "annotated_data/generations_full-corpus.csv"
-print(correlation(full_corpus))
-print(avg_respect_per_gender(full_corpus))
-print(avg_respect_per_patho(full_corpus))
+
+for file in glob.glob("generated_data/*infos.csv"):
+    print(correl_nb_respect_contr(file))
 exit()
 
+
+full_corpus = "annotated_data/generations_full-corpus.csv"
+#(correlation(full_corpus))
+#print(avg_respect_per_gender(full_corpus))
+#print(avg_respect_per_patho(full_corpus))
+
+
 ##df_list = []
-for file in glob.glob("annotated_data/*.csv"):
+for file in glob.glob("annotated_data/*_trf.csv"):
+    df = pd.read_csv(file)
+    model = file.split("_")[-5].split(".")[0]
+    print(model, round(df["respect_contraintes"].mean(), 3))
     # to merge all files into one big df
-    ##model = file.split("_")[-5].split(".")[0]
+    ##
     ##df = pd.read_csv(file)
     ##df["model"] = model
     ##df_list.append(df)
-    print(file)
     #print(correlation(file), end="\n")
     #print(avg_respect_per_gender(file), end="\n")
     #print(avg_respect_per_patho(file), end="\n")
-    print("*"*50)
+    #print("*"*50)
 
 ## total_df = pd.concat([df for df in df_list])
 

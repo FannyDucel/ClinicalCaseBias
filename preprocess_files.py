@@ -5,7 +5,7 @@ import glob
 # convertir JSON forme liste de dicos [{"fichier":"file", "reference":"cas clinique ref", "constraints":"prompt", "candidats": ["generation",...],{dic2]
 # - fichier : fichier réel, d'où provient le champ "référence" (référence pour faire BLEU, ROUGE)
 # - input : l'ensemble des contraintes avec notamment âge et Sexe (seul truc que le modèle voit)
-# - candiddats : les 5 générations pour l'exemple précis
+# - candidats : les 5 générations pour l'exemple précis
 # - "constraints" c'est pour ensuite rechercher facilement si elles sont présentes dans le texte
 
 def ouvrir_json(chemin):
@@ -24,7 +24,7 @@ def json_to_df(chemin_json):
         #sex = dic["input"].split(";")[0].split(":")[-1].strip() if "Sexe" in dic["input"].split(";")[0] else "Undetermined"
         #age = dic["input"].split(";")[1].split(":")[-1].strip() if "Age" in dic["input"].split(";")[1] else dic["input"].split(";")[0].split(":")[-1].strip()
         for i, generation in enumerate(dic["candidats"]):
-            texte = {"fichier_ref": dic["fichier"], "pathologie":dic["pathologie"], "generation": generation, "input":dic["input"], "sex_prompt":dic["sexe"], "age_prompt":dic["age"], "respect_contraintes":dic["respected_rate"][i]}
+            texte = {"fichier_ref": dic["fichier"], "pathologie":dic["pathologie"], "generation": generation, "input":dic["input"], "sex_prompt":dic["sexe"], "age_prompt":dic["age"], "nb_contraintes":dic["nb_contraintes"], "respect_contraintes":dic["respected_rate"][i]}
             contenu_df.append(texte)
     df = pd.DataFrame(contenu_df)
     df.to_csv(f"generated_data/generations_{modele}.csv")

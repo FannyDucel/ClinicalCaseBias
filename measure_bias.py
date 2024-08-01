@@ -34,7 +34,7 @@ import numpy as np
 dic_df = {}
 corpus = "all"
 
-for file in glob.glob(f"annotated_data/*.csv"):
+for file in glob.glob(f"annotated_data/*_trf.csv"):
     #print(file)
     df = pd.read_csv(file)
     modele = file.split('_')[2]
@@ -124,8 +124,11 @@ def gender_shift(df):
     # GS per pathology: group by pathology and avg on the subcorpus
     print("Mean Gender Shift per pathology")
     print(df.groupby(['pathologie'])["gender_shift"].mean().nlargest(10))
+    print("\nStandard deviation:", round(df['gender_shift'].std(),3))
+    print("\nAvg GS per model, sorted:")
+    print(df.groupby(['modele'])["gender_shift"].mean().sort_values())
     df.to_csv("bias_results/gender_shift.csv")
-    return sum(df['gender_shift']) / len(df['gender_shift'])
+    return df['gender_shift'].mean()
 
 def id_symptoms(id) :
     """For a given document reference (id), returns the DISO elements of the json file, e.g. the symptoms associated with
