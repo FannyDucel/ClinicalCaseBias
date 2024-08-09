@@ -24,13 +24,16 @@ def json_to_df(chemin_json):
         #sex = dic["input"].split(";")[0].split(":")[-1].strip() if "Sexe" in dic["input"].split(";")[0] else "Undetermined"
         #age = dic["input"].split(";")[1].split(":")[-1].strip() if "Age" in dic["input"].split(";")[1] else dic["input"].split(";")[0].split(":")[-1].strip()
         for i, generation in enumerate(dic["candidats"]):
-            texte = {"fichier_ref": dic["fichier"], "pathologie":dic["pathologie"], "generation": generation, "input":dic["input"], "sex_prompt":dic["sexe"], "age_prompt":dic["age"], "nb_contraintes":dic["nb_contraintes"], "respect_contraintes":dic["respected_rate"][i]}
+            texte = {"fichier_ref": dic["fichier"], "pathologie":dic["pathologie"], "generation": generation, "input":dic["input"], "sex_prompt":dic["sexe"], "age_prompt":dic["age"], "nb_contraintes":dic["nb_contraintes"], "respect_contraintes":dic["respected_rate"][i],
+                     "has_reps":dic["has_reps"][i], "scores_reps":dic["scores_reps"][i], "debuts_boucles":dic["debuts_boucles"], "prop_avant_boucle":dic["prop_avant_boucle"][i]}
             contenu_df.append(texte)
     df = pd.DataFrame(contenu_df)
-    df.to_csv(f"generated_data/generations_{modele}.csv")
+    #df.to_csv(f"generated_data/generations_{modele}.csv")
+    df.to_csv(f"generations_scores_repetitions/{modele}_repetitions.csv")
 
 #vigogne = "generated_data/raw_json/vigogne-2-7b_10-consts_infos.json"
 #json_to_df(vigogne)
 
-for file in glob.glob(f"generated_data/raw_json/data_biais/*"):
+#for file in glob.glob(f"generated_data/raw_json/data_biais/*"):
+for file in glob.glob(f"generations_scores_repetitions/*"):
     json_to_df(file)
