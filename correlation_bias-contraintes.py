@@ -66,12 +66,12 @@ def correl_nb_respect_contr(generation_path):
     return df["nb_contraintes"].corr(df["respect_contraintes"])
 
 
-for file in glob.glob("generated_data/*infos.csv"):
-    print(correl_nb_respect_contr(file))
-exit()
+#for file in glob.glob("generated_data/*infos.csv"):
+    #print(correl_nb_respect_contr(file))
+#exit()
 
 
-full_corpus = "annotated_data/generations_full-corpus.csv"
+#full_corpus = "annotated_data/generations_full-corpus.csv"
 #(correlation(full_corpus))
 #print(avg_respect_per_gender(full_corpus))
 #print(avg_respect_per_patho(full_corpus))
@@ -87,10 +87,10 @@ for file in glob.glob("annotated_data/*_trf.csv"):
     ##df = pd.read_csv(file)
     ##df["model"] = model
     ##df_list.append(df)
-    #print(correlation(file), end="\n")
-    #print(avg_respect_per_gender(file), end="\n")
-    #print(avg_respect_per_patho(file), end="\n")
-    #print("*"*50)
+    print(correlation(file), end="\n")
+    print(avg_respect_per_gender(file), end="\n")
+    print(avg_respect_per_patho(file), end="\n")
+    print("*"*50)
 
 ## total_df = pd.concat([df for df in df_list])
 

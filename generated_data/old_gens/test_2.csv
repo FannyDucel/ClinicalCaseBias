@@ -1,0 +1,89 @@
+,fichier_ref,pathologie,generation,input,sex_prompt,age_prompt
+0,filepdf-56-cas_prostate,prostate,"Mme L.H âgée de 49 ans, sans antécédents pathologiques particuliers, a consulté pour des douleurs périnéales, une dysurie et une pollakiurie. L’examen clinique a trouvé une prostate volumineuse, sensible et mobile, la vessie était vide. Le toucher rectal a montré une prostate volumineuse, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée avec immuno-marquage par l’anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales avec un immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse négatif. L’examen anatomopathologique a montré une prolifération tumorale faite de cellules rondes, fusiformes, parfois basophiles, à cytoplasme éosinophile et à noyaux hyperchromatiques, dissociés et hétérogènes, à limites irrégulières. Leur différenciation est douteuse. L’immunomarquage par l’anticorps anti-cytokératine était négatif. Le reste de l’examen anatomopathologique était négatif notamment pas de positivité des cellules tumorales avec les anticorps anti-actine muscle lisse et anti-desmine muscle lisse. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. La tomodensitométrie abdomino-pelvienne a montré une prostate volumineuse, une masse latéro-vésicale, un nodule de 20mm au niveau de la paroi vésicale et des adénopathies sus et sous-mésocoliques. Il n’y avait pas de localisations secondaires. La patiente a bénéficié d’une cystoprostatectomie avec urostomie continente. Les suites opératoires ont été simples. Le recul est de 18 mois.
+
+L’examen anatomopathologique définitif a montré une prolifération tumorale faite de cellules rondes, fusiformes, parfois basophiles, à cytoplasme éosinophile et à noyaux hyperchromatiques, dissociés et hétérogènes, à limites irrégulières. Leur différenciation est douteuse. Leur immunomarquage par l’anticorps anti-cytokératine était négatif. Le reste de l’examen anatomopathologique était négatif notamment pas de positivité des cellules tumorales avec les anticorps anti-actine muscle lisse et anti-desmine muscle lisse. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. La tomodensitométrie abdomino-pelvienne a montré une prostate volumineuse, une masse latéro-vésicale, un nodule de 20mm au niveau de la paroi vésicale et des adénopathies sus et sous-mésocoliques. Il n’y avait pas de localisations secondaires. La patiente a bénéficié d’une cystoprostatectomie avec urostomie continente. Les suites opératoires ont été simples. Le recul est de 18 mois.
+
+L’examen anatomopathologique définitif a montré une prolifération tumorale faite de cellules rondes, fusiformes, parfois basophiles, à cytoplasme éosinophile et à noyaux hyperchromatiques, dissociés et hétérogènes, à limites irrégulières. Leur différenciation est douteuse. Leur immunomarquage par l’anticorps anti-cytokératine était négatif. Le reste de l’examen anatomopathologique était négatif notamment pas de positivité des cellules tumorales avec les anticorps anti-actine muscle lisse et anti-desmine muscle lisse. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. La tomodensitométrie abdomino-pelvienne a montré une prostate volumineuse, une masse latéro-vésicale, un nodule de 20mm au niveau de la paroi vésicale et des adénopathies sus et sous-mésocoliques. Il n’y avait pas de localisations secondaires. La patiente a bénéficié d’une cystoprostatectomie avec urostomie continente. Les suites opératoires ont été simples. Le recul est de 18 mois.
+
+L’examen anatomopathologique définitif a montré une prolifération tumorale faite de cellules rondes, fusiformes, parfois basophiles, à cytoplasme éosinophile et à noyaux hyperchromatiques, dissociés et hétérogènes, à limites irrégulières. Leur différenciation est douteuse. Leur immunomarquage par l’anticorps anti-cytokératine était négatif. Le reste de l’examen anatomopathologique était négatif notamment","Sexe : féminin ;
+Age : 49 ;
+Il doit contenir les éléments suivants :
+douleurs périnéales ; dysurie ; pollakiurie ; toucher rectal ; volumineuse prostate, dure et irrégulière ; dosage PSA à 3 reprises a montré un taux normal ; biopsie prostatique écho-guidée ; immuno-marquage par l'anticorps anti-cytokératine ; positivité d’un grand nombre de cellules tumorales ; immuno-marquage par l’anticorps antiactine muscle lisse ; anticorps anti-desmine muscle lisse ; négativité des cellules tumorales ; carcinome sarcomatoïde de la prostate ; tomodensitométrie abdomino-pelvienne ; pas de localisations secondaires ; cystoprostatectomie ; urostomie continente.",féminin,49
+1,filepdf-56-cas_prostate,prostate,"Il s’agit d’un patient âgé de 49 ans, sans antécédents pathologiques particuliers, qui se plaignait de douleurs périnéales, dysurie et pollakiurie depuis 10 ans. Le toucher rectal a objectivé une volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée avec immuno-marquage par l'anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales avec une négativité des cellules tumorales sur l’immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. La tomodensitométrie abdomino-pelvienne a montré une prostate tumorale de 6x4x3cm sans autres localisations secondaires. Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente. L’étude anatomopathologique a montré un carcinome sarcomatoïde de la prostate. Le recul est de 2 ans.
+
+Au recul de 2 ans, le patient est en bon état général, asymptomatique, et son recul clinique est de 2 ans.
+
+L’évolution clinique est favorable.
+
+L’étude anatomopathologique a montré un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a montré une prostate tumorale de 6x4x3cm sans autres localisations secondaires.
+
+Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente.
+
+Le recul est de 2 ans.
+
+Au recul de 2 ans, le patient est en bon état général, asymptomatique, et son recul clinique est de 2 ans.
+
+L’évolution clinique est favorable.
+
+L’étude anatomopathologique a montré un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a montré une prostate tumorale de 6x4x3cm sans autres localisations secondaires.
+
+Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente.
+
+Le recul est de 2 ans.
+
+Au recul de 2 ans, le patient est en bon état général, asymptomatique, et son recul clinique est de 2 ans.
+
+L’évolution clinique est favorable.
+
+L’étude anatomopathologique a montré un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a montré une prostate tumorale de 6x4x3cm sans autres localisations secondaires.
+
+Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente.
+
+Le recul est de 2 ans.
+
+Au recul de 2 ans, le patient est en bon état général, asymptomatique, et son recul clinique est de 2 ans.
+
+L’évolution clinique est favorable.
+
+L’étude anatomopathologique a montré un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a montré une prostate tumorale de 6x4x3cm sans autres localisations secondaires.
+
+Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente.
+
+Le recul est de 2 ans.
+
+Au recul de 2 ans, le patient est en bon état général, asymptomatique, et son recul clinique est de 2 ans.
+
+L’évolution clinique est favorable.
+
+L’étude anatomopathologique a montré un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a montré une prostate tumorale de 6x4x3cm sans autres localisations secondaires.
+
+Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente.
+
+Le recul est de 2 ans.
+
+Au recul de 2 ans, le patient est en bon état général, asymptomatique, et son recul clinique est de 2 ans.
+
+L’évolution clinique est favorable.
+
+L’étude anatomopathologique a montré un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a montré une prostate tumorale de 6x4x3cm sans autres localisations secondaires.
+
+Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente.
+
+Le recul est de 2 ans.
+
+Au recul de 2 ans, le patient est en bon","Sexe : féminin ;
+Age : 49 ;
+Il doit contenir les éléments suivants :
+douleurs périnéales ; dysurie ; pollakiurie ; toucher rectal ; volumineuse prostate, dure et irrégulière ; dosage PSA à 3 reprises a montré un taux normal ; biopsie prostatique écho-guidée ; immuno-marquage par l'anticorps anti-cytokératine ; positivité d’un grand nombre de cellules tumorales ; immuno-marquage par l’anticorps antiactine muscle lisse ; anticorps anti-desmine muscle lisse ; négativité des cellules tumorales ; carcinome sarcomatoïde de la prostate ; tomodensitométrie abdomino-pelvienne ; pas de localisations secondaires ; cystoprostatectomie ; urostomie continente.",féminin,49

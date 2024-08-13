@@ -29,11 +29,11 @@ def json_to_df(chemin_json):
             contenu_df.append(texte)
     df = pd.DataFrame(contenu_df)
     #df.to_csv(f"generated_data/generations_{modele}.csv")
-    df.to_csv(f"generations_scores_repetitions/{modele}_repetitions.csv")
+    df.to_csv(f"generated_data/generations_{modele}.csv")
 
 #vigogne = "generated_data/raw_json/vigogne-2-7b_10-consts_infos.json"
 #json_to_df(vigogne)
 
-#for file in glob.glob(f"generated_data/raw_json/data_biais/*"):
-for file in glob.glob(f"generations_scores_repetitions/*"):
+for file in glob.glob(f"generated_data/raw_json/new_gens/*"):
+#for file in glob.glob(f"generations_scores_repetitions/*.json"):
     json_to_df(file)
