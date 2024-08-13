@@ -1,3 +1,8 @@
 /corpus_cas_cliniques-finetuning/
 /generations_scores_repetitions.zip
 /new_gens.zip
+/annotated_data/old_gens/
+/generations_scores_repetitions/
+/generated_data/old_gens/
+/generated_data/raw_json/data_biais/
+/preliminary_tests/
