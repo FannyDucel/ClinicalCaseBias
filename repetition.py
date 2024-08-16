@@ -5,7 +5,8 @@ import pandas as pd
 import glob
 
 #for file in glob.glob("generations_scores_repetitions/*.csv"):
-for file in glob.glob("annotated_data/*trf*"):
+#for file in glob.glob("annotated_data/*trf*"):
+for file in glob.glob("annotated_data/*full-corpus*"):
     #model = file.split("/")[-1].split("_")[0]
     model = file.split("/")[-1].split("_")[1]
     df = pd.read_csv(file)

@@ -71,29 +71,29 @@ def correl_nb_respect_contr(generation_path):
 #exit()
 
 
-#full_corpus = "annotated_data/generations_full-corpus.csv"
-#(correlation(full_corpus))
-#print(avg_respect_per_gender(full_corpus))
-#print(avg_respect_per_patho(full_corpus))
+full_corpus = "annotated_data/generations_full-corpus.csv"
+print(correlation(full_corpus))
+print(avg_respect_per_gender(full_corpus))
+print(avg_respect_per_patho(full_corpus))
+exit()
 
-
-##df_list = []
+df_list = []
 for file in glob.glob("annotated_data/*_trf.csv"):
     df = pd.read_csv(file)
     model = file.split("_")[-5].split(".")[0]
     print(model, round(df["respect_contraintes"].mean(), 3))
     # to merge all files into one big df
     ##
-    ##df = pd.read_csv(file)
-    ##df["model"] = model
-    ##df_list.append(df)
+    df = pd.read_csv(file)
+    df["model"] = model
+    df_list.append(df)
     print(correlation(file), end="\n")
     print(avg_respect_per_gender(file), end="\n")
     print(avg_respect_per_patho(file), end="\n")
     print("*"*50)
 
-## total_df = pd.concat([df for df in df_list])
-
+#total_df = pd.concat([df for df in df_list])
+#total_df.to_csv("annotated_data/generations_full-corpus.csv")
 
 
 # Note : vigogne-7b and 13B respect the most the constraints.
