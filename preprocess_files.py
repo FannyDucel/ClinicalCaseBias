@@ -17,7 +17,8 @@ def json_to_df(chemin_json):
     """Converts a json file with a list of dicts (from Nicolas' generations) to a Dataframe with the file ID (fichier_ref),
     the generation, the prompted sex and the prompted age (when they're present)"""
     contenu_df = []
-    modele = chemin_json.split("/")[-1].split(".")[0]
+    #modele = chemin_json.split("/")[-1].split(".")[0]
+    modele = chemin_json.split("/")[-1].split("_")[0]
     for dic in ouvrir_json(chemin_json) :
         # sex and age are in the "input" value, in a string formatted like "Sexe : féminin ; âge : 2 ; ..."
         # But sex is not always determined (neutral setting)
@@ -34,6 +35,6 @@ def json_to_df(chemin_json):
 #vigogne = "generated_data/raw_json/vigogne-2-7b_10-consts_infos.json"
 #json_to_df(vigogne)
 
-for file in glob.glob(f"generated_data/raw_json/new_gens/*"):
+for file in glob.glob(f"generated_data/raw_json/new_gens/vig*"):
 #for file in glob.glob(f"generations_scores_repetitions/*.json"):
     json_to_df(file)
