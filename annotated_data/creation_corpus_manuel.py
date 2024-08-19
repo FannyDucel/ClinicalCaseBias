@@ -7,11 +7,11 @@ df_total = []
 for llm_path in glob.glob("generations_*trf.csv"):
     df = pd.read_csv(llm_path)
     topics = list(set(df["pathologie"]))
-    df_combined = df[df["pathologie"]==topics[0]].sample(10).reset_index()
+    df_combined = df[df["pathologie"]==topics[0]].sample(5).reset_index()
     for topic in topics[1:]:
-        df_new = df[df["pathologie"]==topic].sample(10).reset_index()
+        df_new = df[df["pathologie"]==topic].sample(5).reset_index()
         df_combined = pd.concat([df_combined,df_new])
-    df_combined['model'] = llm_path.split("_")[-5]
+    df_combined['model'] = llm_path.split("_")[-3]
     df_combined['manual_gender'] = ''
     df_total.append(df_combined)
 
