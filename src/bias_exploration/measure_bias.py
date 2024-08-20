@@ -34,7 +34,7 @@ import numpy as np
 dic_df = {}
 corpus = "all"
 
-for file in glob.glob(f"annotated_data/*_trf.csv"):
+for file in glob.glob(f"../../annotated_data/*_trf.csv"):
     #print(file)
     df = pd.read_csv(file)
     modele = file.split('_')[2]
@@ -103,8 +103,9 @@ def gender_gap(topics, filter, data_genre=data_genre):
     return sorted_gap, masc_gap, fem_gap
 
 
-def gender_shift(df):
-    """Renvoie la probabilité que le prompt ne soit pas respecté (= nb de fois où le texte est généré dans le genre opposé ou ambigu)"""
+def gender_shift(df, details):
+    """Renvoie la probabilité que le prompt ne soit pas respecté (= nb de fois où le texte est généré dans le genre opposé ou ambigu)
+    details=True pour print plein de stats sur les GS par genre généré et/ou genre prompté et/ou patho et/ou modèle"""
     df.replace({"masculin":"Masculine", "féminin":"Feminine"}, inplace=True)
 
     #df['gender_shift'] = np.where((df['sex_prompt'] != df['Identified_gender']) & (df['sex_prompt'] == "neutre") & (
@@ -120,33 +121,41 @@ def gender_shift(df):
     # print IDs of files that have a positive gender shift
     positive_gf = df['pathologie'][df["gender_shift"] == 1].to_list()
     #positive_gf = df.loc[df["gender_shift"] == 1, "pathologie"].to_list()
-    print("List of pathologies with positive GS :", set(positive_gf))
+    #print("List of pathologies with positive GS :", set(positive_gf))
     # GS per pathology: group by pathology and avg on the subcorpus
     print("Mean Gender Shift per pathology")
     print(df.groupby(['pathologie'])["gender_shift"].mean().sort_values())
     print("\nStandard deviation:", round(df['gender_shift'].std(),3))
+
     print("\nAvg GS per model, sorted:")
     print(df.groupby(['modele'])["gender_shift"].mean().sort_values())
 
     print("\nAvg GS per generated gender, sorted:")
     print(df.groupby(['Identified_gender'])["gender_shift"].mean().sort_values())
 
-    print("\nAvg GS per generated gender AND pathology, sorted:")
-    for gender in ["Masculine", "Feminine"]:
-        print("\n\t",gender)
-        df_gender = df[df["Identified_gender"] == gender]
-        print(df_gender.groupby(['pathologie'])["gender_shift"].mean().sort_values())
-
     print("\nAvg GS per PROMPTED gender, sorted:")
     print(df.groupby(['sex_prompt'])["gender_shift"].mean().sort_values())
 
-    print("\nAvg GS per PROMPTED gender AND pathology, sorted:")
-    for gender in ["Masculine", "Feminine"]:
-        print("\n\t", gender)
-        df_gender = df[df["sex_prompt"] == gender]
-        print(df_gender.groupby(['pathologie'])["gender_shift"].mean().sort_values())
+    if details:
+        print("\nAvg GS per generated gender AND pathology, sorted:")
+        for gender in ["Masculine", "Feminine"]:
+            print("\n\t",gender)
+            df_gender = df[df["Identified_gender"] == gender]
+            print(df_gender.groupby(['pathologie'])["gender_shift"].mean().sort_values())
 
+        print("\nAvg GS per PROMPTED gender AND pathology, sorted:")
+        for gender in ["Masculine", "Feminine"]:
+            print("\n\t", gender)
+            df_gender = df[df["sex_prompt"] == gender]
+            print(df_gender.groupby(['pathologie'])["gender_shift"].mean().sort_values())
 
+        print("\nAvg GS per model AND pathology, sorted:")
+        for model in set(df["modele"]):
+            print("\n\t", model)
+            df_model = df[df["modele"] == model]
+            print(df_model.groupby(['pathologie'])["gender_shift"].mean().sort_values())
+
+    """
     df['pathologie'] = df['pathologie'].replace(
         {"COVID-19": 1, "colon": 2, "depression": 3, "drepanocytose": 4, "infarctus": 5, "osteoporose": 6, "ovaire": 7,
          "prostate": 8, "sein": 9, "vessie": 10})
@@ -156,8 +165,10 @@ def gender_shift(df):
     print("Correlations GS x Identified_gender",df["gender_shift"].corr(df["Identified_gender"]))
     #print("Correlations GS x sex_prompt", df["gender_shift"].corr(df["sex_prompt"]))
     print("Correlations GS x pathologie", df["gender_shift"].corr(df["pathologie"]))
-
-    df.to_csv("bias_results/gender_shift.csv")
+    df["modele"] = df["modele"].replace({model:i for i,model in enumerate(list(set(df["modele"])))})
+    print("Correlations GS x modele", df["gender_shift"].corr(df["modele"]))
+    """
+    #df.to_csv("bias_results/gender_shift.csv")
     return df['gender_shift'].mean()
 
 def id_symptoms(id) :
@@ -195,18 +206,16 @@ all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"all")
 mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
 print("====== ON ALL PROMPTS (GENDERED + NEUTRAL)  ======")
 print("The global Gender Gap is of", mean_gap_total)
-print("The 10 diseases with the highest Gender Gaps are", all_sorted_gap[:10])
-print("The 10 diseases with the lowest Gender Gaps are", all_sorted_gap[-10:])
+print("Diseases ranked by GG", all_sorted_gap)
 
 all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"neutre")
 mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
 print("\n====== ONLY ON NEUTRAL  ======")
 print("The global Gender Gap is of", mean_gap_total)
-print("The 10 diseases with the highest Gender Gaps are", all_sorted_gap[:10])
-print("The 10 diseases with the lowest Gender Gaps are", all_sorted_gap[-10:])
+print("Diseases ranked by GG", all_sorted_gap)
 
-print("\n")
-print("\nThe global Gender Shift is of", gender_shift(data_genre))
+print("\n --- GENDER SHIFT ---")
+print("\nThe global Gender Shift is of", gender_shift(data_genre, False))
 # /!/ High GS for feminine but because it's the masculine prompts that are not respected (so a bit tricky),
 # e.g. more difficult to make texts on men for stereotypically feminine diseases than the other way around
 # Note: only 2000 rows for Gender Shift because exclude all neutral prompts
