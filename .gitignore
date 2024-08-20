@@ -11,3 +11,7 @@ res_llama3/
 res_vigogne-2.zip
 /annotated_data/generations_full-corpus.csv
 /annotated_data/corpus_manuel.csv
+/delimitations_cas/
+/src/bias_exploration/viz_gendered_fr_stereoFem.ipynb
+/src/bias_exploration/viz_gendered_fr_stereoMasc.ipynb
+/src/bias_exploration/viz_gendered_fr_stereoNeutre.ipynb
