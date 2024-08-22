@@ -154,6 +154,8 @@ def gender_shift(df, details):
             print("\n\t", model)
             df_model = df[df["modele"] == model]
             print(df_model.groupby(['pathologie'])["gender_shift"].mean().sort_values())
+            sorted_df = df_model.groupby(['pathologie'])["gender_shift"].mean().sort_values()
+            print(df_model.to_latex())
 
     """
     df['pathologie'] = df['pathologie'].replace(

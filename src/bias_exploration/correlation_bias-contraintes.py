@@ -71,7 +71,7 @@ def correl_nb_respect_contr(generation_path):
 #exit()
 
 
-full_corpus = "annotated_data/generations_full-corpus.csv"
+full_corpus = "../../annotated_data/generations_full-corpus.csv"
 print(correlation(full_corpus))
 print(avg_respect_per_gender(full_corpus))
 print(avg_respect_per_patho(full_corpus))
