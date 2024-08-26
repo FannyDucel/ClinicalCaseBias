@@ -36,11 +36,11 @@ def common_suffix(list_of_strings: List[str]) -> str:
     list_of_strings = [x[::-1] for x in list_of_strings]
     return common_prefix(list_of_strings)[::-1]
 
-def prec_recall_fscore(file,corpus,trf=False):
+def prec_recall_fscore(file,corpus):
     """Use sklearn to get classification report and overall precision, recall and fscore"""
     df = pd.read_csv(file)
 
-    print("Ajout masque pour textes avec problèmes d'annotation manuelle")
+    #print("Ajout masque pour textes avec problèmes d'annotation manuelle")
     # FR100350/FR101419/FR101436/FR100795/FR100731 (à discuter, "nourrisson" puis "patient"),
     # FR100760 (pluriel mais décrit 2 hommes), FR101566 (pluriel), FR101084 (pluriel mais fém)
     # FR101356/FR101335/FR101585/FR100967/FR101193/FR101039/FR101709 (enfant), FR100319 (enfant mais fém),
@@ -58,13 +58,14 @@ def prec_recall_fscore(file,corpus,trf=False):
             ["filepdf-855-cas", "filepdf-554-2-cas", "filepdf-533-6-cas", "filepdf-534-8-cas", "filepdf-554-3-cas", "filepdf-508-2-cas"
              , "filepdf-508-1-cas", "filepdf-23-cas"])
         df = df[~mask]
-    errors = df.query('genre_manuel != genre_auto')
+    #errors = df.query('genre_manuel != genre_auto')
+    errors = df.query('genre_manuel != Identified_gender')
 
     n_annote = df.genre_manuel.count()
-    errors.to_csv(f"errors_detection_{n_annote}_{corpus}.csv")
+    errors.to_csv(f"../../annotated_data/errors_detection_{n_annote}_{corpus}.csv")
 
     y_true = df["genre_manuel"].loc[:n_annote].to_numpy()
-    y_pred = df["genre_auto"].loc[:n_annote].to_numpy()
+    y_pred = df["Identified_gender"].loc[:n_annote].to_numpy()
 
     prec, recall, fscore, support = precision_recall_fscore_support(y_true, y_pred, average='macro')
 
@@ -75,8 +76,9 @@ def prec_recall_fscore(file,corpus,trf=False):
 
     return prec, recall, fscore, support
 
+print(prec_recall_fscore("../../annotated_data/corpus_manuel_annote.csv","full_annote"))
 #print(prec_recall_fscore("test_121cas_gender_trf.csv"))
-print(prec_recall_fscore("preliminary_tests/test_500cas_gender_trf.csv", "cas"))
-print(prec_recall_fscore("preliminary_tests/test_300e3c_gender_trf.csv", "e3c"))
-print(prec_recall_fscore("preliminary_tests/generations_bloomz_gender_trf.csv", "bloomz"))
-print(prec_recall_fscore("preliminary_tests/generations_vigogne_gender_trf.csv", "vigogne"))
+#print(prec_recall_fscore("preliminary_tests/test_500cas_gender_trf.csv", "cas"))
+#print(prec_recall_fscore("preliminary_tests/test_300e3c_gender_trf.csv", "e3c"))
+#print(prec_recall_fscore("preliminary_tests/generations_bloomz_gender_trf.csv", "bloomz"))
+#print(prec_recall_fscore("preliminary_tests/generations_vigogne_gender_trf.csv", "vigogne"))

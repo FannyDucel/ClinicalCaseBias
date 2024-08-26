@@ -1,0 +1,13 @@
+2024-08-26 09:20:28.337143
+../../annotated_data/corpus_manuel_annote.csv
+              precision    recall  f1-score   support
+
+      Ambigu     0.3333    1.0000    0.5000         1
+         Fem     1.0000    0.9684    0.9839       158
+        Masc     0.9793    0.9895    0.9844       191
+      Neutre     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.9800       350
+   macro avg     0.5782    0.7395    0.6171       350
+weighted avg     0.9868    0.9800    0.9828       350
+

@@ -15,6 +15,7 @@ Check 3 hypotheses:
 
 import pandas as pd
 import glob
+from scipy.stats import pearsonr
 
 def correlation(token_csv_path, coeff="pearson"):
     """Computes correlations between Gender Shift (0 or 1) and constraints respect rate.
@@ -37,6 +38,7 @@ def correlation(token_csv_path, coeff="pearson"):
 
     print("Average respect rate for texts with a positive GS (=bias)", round(avg_gs1,2), "and with a negative GS", round(avg_gs0,2))
     print("Correlation between respect contraintes and GS:")
+    print(pearsonr(df["respect_contraintes"], df["gender_shift"]))
     return round(df["respect_contraintes"].corr(df["gender_shift"], method=coeff),4)
 
 def avg_respect_per_gender(token_csv_path):
@@ -56,6 +58,7 @@ def avg_respect_per_patho(token_csv_path):
 
     df['pathologie'] = df['pathologie'].replace({"COVID-19":1, "colon":2, "depression":3, "drepanocytose":4, "infarctus":5, "osteoporose":6, "ovaire":7, "prostate":8, "sein":9, "vessie":10})
     print("Correlations respect contraintes x Pathology",round(df["respect_contraintes"].corr(df["pathologie"]), 4))
+    print(pearsonr(df["respect_contraintes"], df["pathologie"]))
     print("Respect contraintes avg total", round(df["respect_contraintes"].mean(),2))
     return avg_patho
 
@@ -63,18 +66,44 @@ def correl_nb_respect_contr(generation_path):
     """Check if there's a correlation between the respected rate and the nb of constraints (in generated_data file)
     => no significant correlations, between -0.06 and -0.33"""
     df = pd.read_csv(generation_path)
+    print(pearsonr(df["nb_contraintes"], df["respect_contraintes"]))
     return df["nb_contraintes"].corr(df["respect_contraintes"])
 
+def correl_respect_repet(generation_path):
+    """Check if there's a correlation between the respected rate and the nb of constraints (in generated_data file)
+    => no significant correlations, between -0.06 and -0.33"""
+    df = pd.read_csv(generation_path)
+    print(pearsonr(df["scores_reps"], df["respect_contraintes"]))
+    return df["scores_reps"].corr(df["respect_contraintes"])
 
-#for file in glob.glob("generated_data/*infos.csv"):
-    #print(correl_nb_respect_contr(file))
-#exit()
+
+def correl_gender_patho(generation_path):
+    """Check if there's a correlation between the respected rate and the nb of constraints (in generated_data file)
+    => no significant correlations, between -0.06 and -0.33"""
+    df = pd.read_csv(generation_path)
+    df['Identified_gender'] = df['Identified_gender'].replace({'Fem':0, 'Masc':1, 'Neutre':3, 'Ambigu':4})
+    df['pathologie'] = df['pathologie'].replace({"COVID-19":1, "colon":2, "depression":3, "drepanocytose":4, "infarctus":5, "osteoporose":6, "ovaire":7, "prostate":8, "sein":9, "vessie":10})
+
+    print(pearsonr(df["Identified_gender"], df["pathologie"]))
+    return df["Identified_gender"].corr(df["pathologie"])
+
+def avg_repetition(generation_path):
+    df = pd.read_csv(generation_path)
+    return df["scores_reps"].mean()
+
+for file in glob.glob("../../annotated_data/*_trf.csv"):
+    print(file)
+    print(avg_repetition(file))
+exit()
 
 
 full_corpus = "../../annotated_data/generations_full-corpus.csv"
 print(correlation(full_corpus))
 print(avg_respect_per_gender(full_corpus))
 print(avg_respect_per_patho(full_corpus))
+print(correl_gender_patho(full_corpus))
+print(correl_respect_repet(full_corpus))
+
 exit()
 
 df_list = []
