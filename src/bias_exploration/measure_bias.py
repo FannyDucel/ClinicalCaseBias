@@ -126,12 +126,18 @@ def gender_shift(df, details):
     print("Mean Gender Shift per pathology")
     print(df.groupby(['pathologie'])["gender_shift"].mean().sort_values())
     print("\nStandard deviation:", round(df['gender_shift'].std(),3))
+    print("STD",df.groupby(['pathologie'])["gender_shift"].std().sort_values())
+
 
     print("\nAvg GS per model, sorted:")
     print(df.groupby(['modele'])["gender_shift"].mean().sort_values())
+    print("STD",df.groupby(['modele'])["gender_shift"].std().sort_values())
+
 
     print("\nAvg GS per generated gender, sorted:")
     print(df.groupby(['Identified_gender'])["gender_shift"].mean().sort_values())
+    print("STD",df.groupby(['Identified_gender'])["gender_shift"].std().sort_values())
+
 
     print("\nAvg GS per PROMPTED gender, sorted:")
     print(df.groupby(['sex_prompt'])["gender_shift"].mean().sort_values())
