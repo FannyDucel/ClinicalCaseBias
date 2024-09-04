@@ -34,12 +34,13 @@ import numpy as np
 dic_df = {}
 corpus = "all"
 
-for file in glob.glob(f"../../annotated_data/*_trf.csv"):
-    #print(file)
+for file in glob.glob(f"../../annotated_data/filtered_generations/*_trf.csv"):
+    print(file)
     df = pd.read_csv(file)
-    modele = file.split('_')[2]
+    modele = file.split('_')[-3]
     df["modele"] = modele
     dic_df[modele] = df
+
 #file = "annotated_data/generations_vigogne-2-7b_10-consts_infos_gender_trf.csv"
 #df = pd.read_csv(file)
 
@@ -59,6 +60,7 @@ data_genre.replace({"Ambigu": "Ambiguous", "Fem": "Feminine", "Masc": "Masculine
 # todo : ajouter colonne avec maladie ? (chaque fichier de réf équivaut à une maladie)
 #try:
 topics = list(set(data_genre['pathologie']))
+#print(data_genre.size)
 #except KeyError:
     #topics = list(set(data_genre['fichier_ref']))
 
