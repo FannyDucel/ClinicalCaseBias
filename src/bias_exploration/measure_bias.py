@@ -82,6 +82,8 @@ def gender_gap(topics, filter, data_genre=data_genre):
     # => arg filter : all (mélange tout prompt) ou neutre (seulement prompts neutres)
     if filter == "neutre" :
         data_genre = data_genre[data_genre["sex_prompt"] == "neutre"]
+    if filter == "gendered":
+        data_genre = data_genre[data_genre["sex_prompt"] != "neutre"]
     gap = {}  # seulement topic et gap
     for topic in topics:
         op = exploration_donnees_per_topic(data_genre, topic)
@@ -215,6 +217,12 @@ def df_gendergap(gap_filter,modele):
 all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"all")
 mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
 print("====== ON ALL PROMPTS (GENDERED + NEUTRAL)  ======")
+print("The global Gender Gap is of", mean_gap_total)
+print("Diseases ranked by GG", all_sorted_gap)
+
+all_sorted_gap, all_masc_gap, all_fem_gap = gender_gap(topics,"gendered")
+mean_gap_total = sum([el[1] for el in all_sorted_gap])/len(all_sorted_gap)
+print("\n====== ONLY ON GENDERED  ======")
 print("The global Gender Gap is of", mean_gap_total)
 print("Diseases ranked by GG", all_sorted_gap)
 
