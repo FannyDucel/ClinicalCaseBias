@@ -101,7 +101,7 @@ for file in glob.glob("../../annotated_data/*_trf.csv"):
 """
 
 
-full_corpus = "../../annotated_data/filtered_generations/full_corpus.csv"
+full_corpus = "../../annotated_data/automatic_annotations/full_corpus.csv"
 print(correlation(full_corpus))
 print(avg_respect_per_gender(full_corpus))
 print(avg_respect_per_patho(full_corpus))
@@ -111,7 +111,7 @@ print(correl_respect_repet(full_corpus))
 exit()
 
 df_list = []
-for file in glob.glob("../../annotated_data/filtered_generations/full*"):
+for file in glob.glob("../../annotated_data/automatic_annotations/full*"):
     df = pd.read_csv(file)
     model = file.split("_")[-5].split(".")[0]
     print(model, round(df["respect_contraintes"].mean(), 3))

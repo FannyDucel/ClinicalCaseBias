@@ -53,5 +53,11 @@ res_vigogne-2.zip
 /bias_results/fig/radar_gg_pathology.svg
 /bias_results/fig/radar_gg_pathology_full+neutral.pdf
 /bias_results/fig/radar_gg_pathology_gendered+neutral.pdf
-/annotated_data/filtered_generations/full_corpus.csv
-/annotated_data/filtered_generations/.~lock.full_corpus.csv#
+/annotated_data/automatic_annotations/full_corpus.csv
+/annotated_data/automatic_annotations/.~lock.full_corpus.csv#
+/annotated_data/automatic_annotations/.~lock.full_corpus.csv#
+/annotated_data/automatic_annotations/full_corpus.csv
+/ressources_lgq/dic_stereotypes.json
+/main.py
+/src/bias_exploration/misc.py.ipynb
+/src/bias_exploration/visualize_total.ipynb
