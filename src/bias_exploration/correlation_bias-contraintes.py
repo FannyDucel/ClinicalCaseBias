@@ -46,10 +46,12 @@ def avg_respect_per_gender(token_csv_path):
     df = pd.read_csv(token_csv_path)
     avg_generation = df.groupby(["Identified_gender"])["respect_contraintes"].mean()
     avg_prompt = df.groupby(["sex_prompt"])["respect_contraintes"].mean()
+    print("Respect contraintes STD",df.groupby(["Identified_gender"])["respect_contraintes"].std())
 
     df['Identified_gender'] = df['Identified_gender'].replace({'Fem':0, 'Masc':1, 'Neutre':3, 'Ambigu':4})
     print("Correlations respect contraintes x Identified gender",round(df["respect_contraintes"].corr(df["Identified_gender"]), 4))
     print("Respect contraintes avg total", round(df["respect_contraintes"].mean(),2))
+
     return avg_generation, avg_prompt
 
 def avg_respect_per_patho(token_csv_path):
@@ -85,19 +87,21 @@ def correl_gender_patho(generation_path):
     df['pathologie'] = df['pathologie'].replace({"COVID-19":1, "colon":2, "depression":3, "drepanocytose":4, "infarctus":5, "osteoporose":6, "ovaire":7, "prostate":8, "sein":9, "vessie":10})
 
     print(pearsonr(df["Identified_gender"], df["pathologie"]))
+
     return df["Identified_gender"].corr(df["pathologie"])
 
 def avg_repetition(generation_path):
     df = pd.read_csv(generation_path)
     return df["scores_reps"].mean()
 
+"""
 for file in glob.glob("../../annotated_data/*_trf.csv"):
     print(file)
     print(avg_repetition(file))
-exit()
+"""
 
 
-full_corpus = "../../annotated_data/generations_full-corpus.csv"
+full_corpus = "../../annotated_data/filtered_generations/full_corpus.csv"
 print(correlation(full_corpus))
 print(avg_respect_per_gender(full_corpus))
 print(avg_respect_per_patho(full_corpus))
@@ -107,7 +111,7 @@ print(correl_respect_repet(full_corpus))
 exit()
 
 df_list = []
-for file in glob.glob("annotated_data/*_trf.csv"):
+for file in glob.glob("../../annotated_data/filtered_generations/full*"):
     df = pd.read_csv(file)
     model = file.split("_")[-5].split(".")[0]
     print(model, round(df["respect_contraintes"].mean(), 3))
