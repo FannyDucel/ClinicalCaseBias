@@ -4,18 +4,13 @@ and model/pathology/generated gender"""
 import pandas as pd
 import glob
 
-#for file in glob.glob("generations_scores_repetitions/*.csv"):
-#for file in glob.glob("annotated_data/*trf*"):
-#for file in glob.glob("../../annotated_data/automatic_annotations/*.csv"):
+
 for file in glob.glob("../../annotated_data/automatic_annotations/full_corpus.csv"):
-    #model = file.split("/")[-1].split("_")[0]
     model = file.split("/")[-1].split("_")[1]
     df = pd.read_csv(file)
     df.fillna("N/A", inplace=True)
-
-    #df_annotated = pd.read_csv(f"annotated_data/generations_{model}_10-consts_infos_gender_trf.csv")
-    #df["Identified_gender"] = df_annotated["Identified_gender"]
     print(file)
+
     print("TOTAL MEAN AND STD",df["scores_reps"].mean(), df["scores_reps"].std())
     print("TOTAL MEDIAN, MIN, MAX", df["scores_reps"].median(), df["scores_reps"].min(),df["scores_reps"].max())
     #print(df.groupby("pathologie")["scores_reps"].mean())
@@ -28,7 +23,6 @@ for file in glob.glob("../../annotated_data/automatic_annotations/full_corpus.cs
     # sex_prompt = {el: i for i, el in enumerate(list(set(df['sex_prompt'])))}
     # df['sex_prompt'] = df['sex_prompt'].replace(sex_prompt)
     # print("Corrélation scores_reps x sex_prompt", df["sex_prompt"].corr(df["scores_reps"]))
-
 
     print(df.groupby("Identified_gender")["scores_reps"].mean())
     print("STD",df.groupby("Identified_gender")["scores_reps"].std())

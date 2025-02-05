@@ -1,12 +1,14 @@
+"""
+Convert JSON files containing lists of dictionaries [{"fichier":"file", "reference":"cas clinique ref", "constraints":"prompt", "candidats": ["generation",...],{dic2]
+- fichier : real file, from where the field "reference" comes from (to compute BLEU, ROUGE)
+- input : set of constraints, notably age and sex (only thing that the model sees)
+- candidates : the 5 generated texts
+- constraints : to easily see if they are present in the text
+"""
+
 import pandas as pd
 import json
 import glob
-
-# convertir JSON forme liste de dicos [{"fichier":"file", "reference":"cas clinique ref", "constraints":"prompt", "candidats": ["generation",...],{dic2]
-# - fichier : fichier réel, d'où provient le champ "référence" (référence pour faire BLEU, ROUGE)
-# - input : l'ensemble des contraintes avec notamment âge et Sexe (seul truc que le modèle voit)
-# - candidats : les 5 générations pour l'exemple précis
-# - "constraints" c'est pour ensuite rechercher facilement si elles sont présentes dans le texte
 
 def ouvrir_json(chemin):
     with open(chemin, encoding="utf-8") as f:
@@ -21,10 +23,11 @@ def cas_multi(delimitations_cas):
     return multi
 
 def json_to_df(chemin_json):
-    """Converts a json file with a list of dicts (from Nicolas' generations) to a Dataframe with the file ID (fichier_ref),
-    the generation, the prompted sex and the prompted age (when they're present)"""
+    """
+    Converts a json file with a list of dicts (from clinical cases generations) to a Dataframe with the file ID (fichier_ref),
+    the generation, the prompted sex and the prompted age (when they're present)
+    """
     contenu_df = []
-    #modele = chemin_json.split("/")[-1].split(".")[0]
     modele = chemin_json.split("/")[-1].split("_")[0]
     for dic in ouvrir_json(chemin_json) :
         # sex and age are in the "input" value, in a string formatted like "Sexe : féminin ; âge : 2 ; ..."
@@ -37,12 +40,9 @@ def json_to_df(chemin_json):
                      "new_gen":dic["is_new"][i]}
             contenu_df.append(texte)
     df = pd.DataFrame(contenu_df)
-    #df.to_csv(f"generated_data/generations_{modele}.csv")
     df.to_csv(f"../../filtered_generations/generations_{modele}.csv")
 
-#vigogne = "generated_data/raw_json/vigogne-2-7b_10-consts_infos.json"
-#json_to_df(vigogne)
+
 
 for file in glob.glob(f"../../filtered_generations/*.json"):
-#for file in glob.glob(f"generations_scores_repetitions/*.json"):
     json_to_df(file)

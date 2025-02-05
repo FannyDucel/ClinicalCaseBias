@@ -1,36 +1,30 @@
 """To compute correlations between biais and constraints respect rates.
 Check 3 hypotheses:
-    1) Les textes genrés au féminin respectent moins les contraintes.
-        => comparer moyenne respect contraintes selon genre générations
-            >> Moyennes très similaires peu importe le genre du prompt. Par contre, textes générés au féminin respectent toujours moins que ceux au masculin. Mais corrélations pas significatives (mais positives).
-    2) Les textes portant sur des maladies stéréotypiquement fém respectent moins les contraintes
-        => comparer moy. Gender Gap et moy respect contraintes par maladie et par groupe de maladies selon genre du stéréo)
-            >> Ovaires et seins font toujours partie des maladies qui respectent le moins les contraintes. Corrélations négatives mais un peu élevées (-0.2, -0.4).
-    3) Les textes contredisant le genre stéréotypique de la maladie respectent moins les contraintes
-        => corrélations entre Gender Shift (0 ou 1) et respect des contraintes (par phrase entre 0 et 1)
+    1) Generated texts with a majority of feminin have a lower constraints respect rate.
+        => compare average constraints respect w.r.t the generation's gender
+        >> Averages are very similar, no matter the gender of the prompt. However, generated texts with a majority of fem always have a lower respect rate than masc texts. But the correlations are not significant (but positive).
+    2) Texts about stereotypically female illnesses have a lower respect rate
+        => compare avg. Gender Gap and average compliance by disease and disease group according to gender of stereotype)
+            >> Ovaries and breasts are still among the diseases that are least compliant with constraints. Negative but slightly high correlations (-0.2, -0.4).
+    3) Texts that contradict the stereotypical gender of the disease are less compliant with constraints
+        => correlations between Gender Shift (0 or 1) and compliance with constraints (per sentence between 0 and 1)
             >> NO SIGNIFICANT CORRELATIONS. ALL NEGATIVE AND VERY LOW.
 """
 
-#TODO: make a big merged file of everything (or find a way to compute on all data to get global stats)
-
 import pandas as pd
-import glob
 from scipy.stats import pearsonr
 
 def correlation(token_csv_path, coeff="pearson"):
     """Computes correlations between Gender Shift (0 or 1) and constraints respect rate.
     ALso need to choose the correlation coefficient: Pearson, Kendall or Spearman"""
     df = pd.read_csv(token_csv_path)
-    model = token_csv_path.split("_")[-1].split(".")[0]
     df['sex_prompt'] = df['sex_prompt'].replace({'féminin': 'Fem', 'masculin': 'Masc', 'neutre': 'Neutral'})
     # Removing generations from neutral prompts as Gender Shift is irrelevant in this case
     df = df.loc[df["sex_prompt"] != "Neutral"]
 
     df['gender_shift'] = 0
     df.loc[df['sex_prompt'] != df['Identified_gender'] , "gender_shift"] = 1
-    #df.loc[df['sex_prompt'] == "Neutral", "gender_shift"] = "N/A"
 
-    #df.to_csv(output_file)
     # Compute average respect rate for texts with a positive GS
     avg_gs1 = df['respect_contraintes'].loc[df['gender_shift'] == 1].mean()
     # Compute average respect rate for texts with a negative GS
@@ -108,9 +102,9 @@ print(avg_respect_per_patho(full_corpus))
 print(correl_gender_patho(full_corpus))
 print(correl_respect_repet(full_corpus))
 
-exit()
 
-df_list = []
+# Creation of the full corpus file
+"""df_list = []
 for file in glob.glob("../../annotated_data/automatic_annotations/full*"):
     df = pd.read_csv(file)
     model = file.split("_")[-5].split(".")[0]
@@ -124,7 +118,7 @@ for file in glob.glob("../../annotated_data/automatic_annotations/full*"):
     print(avg_respect_per_gender(file), end="\n")
     print(avg_respect_per_patho(file), end="\n")
     print("*"*50)
-
+"""
 #total_df = pd.concat([df for df in df_list])
 #total_df.to_csv("annotated_data/generations_full-corpus.csv")
 

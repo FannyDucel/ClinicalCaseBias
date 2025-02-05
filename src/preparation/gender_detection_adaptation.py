@@ -1,65 +1,45 @@
-"""But : adapter le système de détection du genre dans les lettres de motivation (P1) pour que ça fonctionne sur de la preliminary_tests (cas cliniques)"""
-# TODO : save row by row ?
+"""Adaptation of the gender detection system for *third* person singular in French. Based on morpho-syntactic gender markers
+and leveraging semantic information."""
 
 import json
 import pandas as pd
 import spacy
 from collections import Counter
 from tqdm import tqdm
-from spacy.lang.fr.examples import sentences
 import glob
 
-#nlp = spacy.load("fr_core_news_sm")
-#nlp = spacy.load("fr_core_news_md")
+
 nlp = spacy.load("fr_dep_news_trf")
 
-# Notes : problèmes qu'on ne peut pas résoudre -> cas écrits comme listes non rédigées, "patient" pour désigner femmes, cas au pluriel (sur plusieurs patient-es en même temps)
-# Erreurs d'annotations manuelles pour filepdf-879-cas, -94-, -554-1-
-# Pbs annotation manuelles à discuter :
-#       filepdf-267-3-cas => techniquement grammaticalement il n'y a pas de marqueur (mais mention de pénis)
-#       filepdf-554-4-cas, filepdf-54-1-cas => prénoms
-# On décide de ne pas prendre en compte les pronoms de preliminary_tests tels quels pour éviter pbs de résolution de coréférence (mais possible dans spacy apparemment,
-# mais faudrait bcp changer l'implémentation qui fonctionne par phrase pour le moment, et présence d'un élément genré avant coréf de toute façon)
-# FR101095 corrigé M > F
-# TODO : donner + de poids aux premiers marqueurs de genre ? (premiers mots) = ex patiente mais dans antécédent "un enfant né..."
-# TODO : voir si on remet mère/père
-
-# TODO : "surpris par sa mère" et autres groupes prépositionnels
-# Fichier e3c : FR101754
-# Pbs annotations manuelles :
-# corrigées : FR100552 (âgé oublié -> corrigé), FR101166 (âgé oublié -> corrigé), FR101225 (âgé oublié -> corrigé), FR100319, FR101226
-# FR100350/FR101419/FR101436/FR100795/FR100731 (à discuter, "nourrisson" puis "patient"),
-# , FR100760 (pluriel mais décrit 2 hommes), FR101566 (pluriel), FR101084 (pluriel mais fém)
-# FR101356/FR101335/FR101585/FR100967/FR101193/FR101039/FR101709 (enfant), FR100319 (enfant mais fém),
-# FR101263 = 2 cas en 1 et 1 homme et 1 femme
-# À traiter : FR101084 (pluriel compté ???), FR101256, cas avec mère + bébé, FR101534, FR100275
-# Enlever mère, père, ... (?), guide
-# Ajouter "jeune" dans agent et épicène ?
-# FR101511 = âgée puis "le patient"... => conserver seulement infos de la 1re phrase ?/ FR101085 1re phrase avec "patient"
-
 def get_gender(text, details=False):
-    """Système de détection automatique du genre en français, à base de règles sur Spacy et de ressources lexicales.
-    Entrée : Un texte (chaîne de caractères).
-    Sortie : Le genre majoritaire détecté, le détail du Counter des genres détectés, la liste des marqueurs de genre détectés."""
+    """
+    Apply linguistic rules based on Spacy tags to detect the first person singular gender
+    markers in a text.
 
-    # remplacer les doubles espaces, car ils peuvent fausser la détection spacy
+    Args:
+        text (str): The text to be analyzed (= for which we want to find the author's gender).
+        details (bool): (False by default), True to get the details (token, lemma, pos, dep, gender, number) of all tokens that are detected as gender markers, False otherwise.
+
+    Returns:
+        res, Counter_gender, gender_markers
+        res (str): the majority gender of the text (i.e. the annotated gender of the author of the text)
+        Counter_gender (Counter): the details of the numbers of markers found per gender
+        gender_markers (list): the list of identified gender markers
+    """
+
     text = text.replace("  ", " ")
     doc = nlp(text)
 
-    #list of gender-neutral (épicène) job titles from DELA, with Profession:fs:ms, to check and filter out if they're identified as Masc when used without a masc DET
-    # enlever erreurs : notamment suffixes en -eur "procureur", "professeur", "proviseur", censeur, chauffeur, chef, auteur, docteur, défenseur, gouverneur, ingénieur, ...
-    # ajout (suffixes en -ist et -aire issus de l'autre ressources)
-    #with open("../ressources_lgq/professions_epicenes_dela.json", encoding="utf-8") as f:
+    # list of gender-neutral (épicène) job titles from DELA, with Profession:fs:ms, to check and filter out if they're identified as Masc when used without a masc DET
     with open("../../ressources_lgq/epicenes_corr.json", encoding="utf-8") as f:
         epicene_jobs = json.load(f)
         epicene_jobs.append("tout")
         epicene_jobs.append("toute")
 
-    # preliminary_tests : ajouter mme, mlle, m., madame, monsieur, mademoiselle, fillette, collégien, collégienne, lycéen, lycéenne, + enlever membre
     with open("../../ressources_lgq/ressource_p3.json", encoding="utf-8") as f:
         agents_hum = json.load(f)
 
-    # enlever les professions médicales ou juridiques qui apparaissent souvent mais pour désigner une personne tierce, pas lae patient-e
+    # Remove medical or judiciary job titles that are often present but to refer to a third person, not the patient
     agents_hum = [el for el in agents_hum if el not in ["magistrat", "requérant", "requérante","magistrate", "toxicologue", "médecin", "docteur",
                                                         "docteure", "cardiologue", "gérontolongue", "gastroentérologue" ,"neurologue", "pneumologue", "dermatologue", "mycologue", "virologue", "immunologue", "bactériologue",
                                                         "podologue", "gynécologue", "radiologue", "allergologue"]]
@@ -82,44 +62,33 @@ def get_gender(text, details=False):
         split_sent = str(sent).replace("'", ' ').split()
         for token in sent:
             this_sent.append(token.text.lower() + "-" + token.dep_)
-            # NON-1. Le sujet doit être "il" ou "elle" = morph:Gender=Fem|Number=Sing|Person=3, pos:PRON, dep:nsubj
-            # En fait non, pb de coréférence (il peut référer à un examen ou n'importe quoi d'autre de mentionné) + pbs si prénoms comme seul élément de réf au genre
-            #cond_iel = ("il-nsubj" in this_sent or "elle-nsubj" in this_sent or "il-nsubj:pass" in this_sent or "elle'-nsubj:pass" in this_sent)
-            #cond_p3 = (token.pos_ == "PRON" and token.morph.get("Person") == "['3']" and token.morph.get("Number") == "['Sing']")
 
-            # 2a. Le token est un nom référant à un-e agent-e humain-e et n'est pas un argument "oblique" (dans un syntagme prépositionnel) #obl:agent, obl:arg
-            cond_agt = token.text.lower() in agents_hum and token.pos_=="NOUN"  #and "obl" not in token.dep_ #"obl:" in token.dep_
+            # 1. The token is a noun referring to a human agent or initials (names)
+            cond_agt = token.text.lower() in agents_hum and token.pos_=="NOUN"
             if len(this_sent) == 1 and ((token.pos_ == "PROPN" and "nsubj" in token.dep_) or (token.text.isupper() and len(token)==2 or len(token)==4 and "." in token.text)):
                 prenom_initiale.append(token.text)
 
-            # Vérifier qu'il y ait un marqueur de preliminary_tests agent dans la phrase (seulement agent de la ressource)
-            #cond_p3_agt_avt = ("il-nsubj" in this_sent or "elle-nsubj" in this_sent or "il-nsubj:pass" in this_sent or "elle'-nsubj:pass" in this_sent) or ([s for s in this_sent if "nsubj" in s] and [s for s in this_sent if "nsubj" in s][-1] in agents_hum)
             cond_agt_avt = [s for s in this_sent if "nsubj" in s] and [s for s in this_sent if "nsubj" in s][-1].split("-")[0] in agents_hum
 
-            # 2b. le token est un adjectif ou un participe passé qui dépend soit d'un nom d'agent-e (épithète),
-            # soit d'un sujet "je" (attribut), mais dans ce cas l'auxiliaire n'est pas avoir (sauf si passif),
-            # ((on exclut également les cas où "avoir" est utilisé en tant que verbe et non d'auxiliaire ("sémantiquement plein")))
+            # 2. The token is an adj or past participle (that has an auxiliary different from "avoir") that refers to a human agent/initial
             cond_pos = (token.pos_ == "ADJ" or token.pos_ == "VERB")
             cond_noavoir = (("a-aux:tense" not in this_sent and "avoir-aux:tense" not in this_sent) or ("a-aux:tense" in this_sent and "été-aux:pass" in this_sent))
-            #cond_adj_pp = cond_pos and ((token.head.text.lower() in agents_hum and cond_noavoir and token.head.dep_ != "obl:arg") or (token.head.pos_ != "NOUN" and cond_noavoir and cond_agt_avt))
-            #cond_adj_pp = cond_pos and (
-                        #(((token.head.text.lower() in agents_hum and "avait-aux:tense" not in this_sent[-3:]) or (prenom_initiale and token.head.text == prenom_initiale[0])) and cond_noavoir) or (
-                            #token.head.pos_ != "NOUN" and cond_noavoir and cond_agt_avt))
             cond_adj_pp = cond_pos and (
                     ((token.head.text.lower() in agents_hum or (
                                 prenom_initiale and token.head.text == prenom_initiale[0])) and cond_noavoir) or (
                             token.head.pos_ != "NOUN" and cond_noavoir and cond_agt_avt))
-            # corriger manuellement des problèmes de Spacy qui met comme Masc des mots Fem
+
+            # Manually fix Spacy mistakes (mislabeling some Feminine words as Masculine ones)
             erreurs_genre = ["inscrite", "technicienne"]
 
             if cond_agt or cond_adj_pp:
                 token_gender = token.morph.get('Gender')
-                # traiter les épicènes ici (pour que les conditions précédentes soient toujours ok)
-                # traiter l'écriture inclusive manuellement ici
+                # If the token has a gender label, is not epicene nor in gender-inclusive form, then we add it to the gender markers.
                 if token_gender and token.text.lower() not in epicene_jobs and "(" not in token.text.lower() and token.text.lower() not in erreurs_genre: #(e
                     gender.append(token_gender[0])
                     gender_markers.append(token)
                 else:
+                    # Managing epicene nouns here: if they are preceded by a masculine/feminine articles, we put them in the corresponding gender category, else in neutral.
                     if (token.text.lower() in epicene_jobs and len(this_sent)>1 and this_sent[-2] in ["un-det", "le-det"]) or token.text.lower()=="chef" and "chef" not in [str(tok) for tok in gender_markers]:
                         gender.append("Masc")
                         gender_markers.append(token)
@@ -135,24 +104,34 @@ def get_gender(text, details=False):
 
     Counter_gender = Counter(gender)
     if len(Counter_gender) > 0:
+        # The final result (= the gender of the token) is the majority gender, i.e. the gender that has the most markers in this text.
         res = Counter_gender.most_common(1)[0][0]
     else:
+        # If there are no gender markers, the gender is "Neutral".
         res = "Neutre"
 
-    # raise an error if as many masculine as feminine markers = ambiguity
     counter_val = Counter_gender.values()
     if len(counter_val) > 1 and len(set(counter_val))==1:
-        # print(Counter_gender, gender_markers)
-        # raise ValueError("Ambiguity here: as many masculine as feminine markers")
+        # If there are as many masculine as feminine markers, the category is "Ambiguous".
         res = "Ambigu"
 
     return res, Counter_gender, gender_markers
 
 
 def detecter_genre(csv_path):
-    """Processus de détection de genre et ajout des résultats dans des nouveaux CSV
-    Entrée : Le fichier CSV contenant les lettres générées par un modèle de langue.
-    Sortie : Un nouveau fichier CSV avec les lettres générées et des colonnes avec le résultat de l'identification du genre."""
+    """
+    Apply gender detection system (from function get_gender) on the generations contained in a CSV file and append
+    the results (manual annotations) in a new CSV file.
+
+    Args:
+        csv_path: A string -> the path of the CSV file containing the generated cover letters.
+        This CSV file must have a column "output" (with the generated texts), a column "prompt" and "Theme" (pro. field).
+
+    Returns:
+        Nothing, creates a new annotated CSV file by appending the manual annotations
+        (= new columns "Identified_gender" with the detected gender, "Detailed_counter" with the nb of markers found
+        for each gender, and "Detailed_markers" with the list of identified gender markers and their associated gender)
+    """
 
     df_lm = pd.read_csv(csv_path)
 
@@ -178,7 +157,6 @@ def detecter_genre(csv_path):
 
     df_lm.to_csv("annotated_data/"+path+f"_gender_trf.csv")
 
-# detecter_genre("generated_data/generations_vigogne_test30.csv")
 for file in glob.glob(f"generated_data/*"):
     if "_infos.csv" in file:
         print(file)
