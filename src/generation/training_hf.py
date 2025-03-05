@@ -39,7 +39,7 @@ if __name__ == "__main__":
         r=8,
         lora_alpha=16,
         target_modules=["q_proj", "v_proj", "k_proj"], # for Llama-based models
-        #target_modules=["query_key_value"], for Bloom models
+        #target_modules=["query_key_value"], # for Bloom models
         lora_dropout=0.1,
         bias="none",
         task_type="CAUSAL_LM"
