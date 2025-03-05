@@ -24,12 +24,7 @@ if __name__ == "__main__":
 
     data_process = DataProcess(args.model_path, block_size=args.block_size)
 
-    #train_loader, val_loader, tokenizer = Data.prepare_data_instruct(args.training_file, args.validation_file, batch_size=args.batch_size)
     print("Loading data")
-    #train_data, val_data, tokenizer = data_process.prepare_data_instruct(args.training_file, args.validation_file, batch_size=args.batch_size, hf_trainer=True)
-    #special_tokens = load_special_tokens(bos_and_eos=False, path_special_tokens="../corpus/instruct_datasets/taln/no_special_tokens/special_tokens.json")
-    #special_tokens_dict = {"additional_special_tokens": special_tokens}
-    #train_data, val_data, tokenizer = data_process.prepare_data_lm(args.training_file, args.validation_file, batch_size=args.batch_size, special_tokens=special_tokens_dict)
     train_data, val_data, tokenizer = data_process.prepare_data_instruct(args.training_file, args.validation_file, template=args.template, batch_size=args.batch_size, hf_trainer=True)
     print("Loading model")
     print(len(tokenizer))
@@ -43,11 +38,8 @@ if __name__ == "__main__":
     config = LoraConfig(
         r=8,
         lora_alpha=16,
-        target_modules=["q_proj", "v_proj", "k_proj", "o_proj", "gate_proj", "up_proj", "down_proj", "embed_tokens"],
-        #modules_to_save=["input_layernorm", "post_attention_layernorm", "norm"],
-        #target_modules=["query_key_value"], # "dense", "dense_h_to_4h", "dense_4h_to_h"], #, "word_embeddings"],
-        #modules_to_save=["word_embeddings"],
-        #modules_to_save=["*input_layernorm", "post_attention_layernorm", "ln_f"],
+        target_modules=["q_proj", "v_proj", "k_proj"], # for Llama-based models
+        #target_modules=["query_key_value"], for Bloom models
         lora_dropout=0.1,
         bias="none",
         task_type="CAUSAL_LM"
