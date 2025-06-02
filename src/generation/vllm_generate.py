@@ -21,6 +21,8 @@ if __name__ == "__main__":
     constraints = get_constraints(args.test_path)
     print(f"{len(constraints)} jeux de contraintes.")
 
+    print(torch.cuda.device_count())
+
     print("Loading the model...")
 
     sampling_params = SamplingParams(
@@ -35,8 +37,8 @@ if __name__ == "__main__":
 
     llm = LLM(
 	model=args.model_path,
-        dtype=torch.bfloat16,
-        tensor_parallel_size=8,
+        dtype="auto",
+        tensor_parallel_size=torch.cuda.device_count(),
         distributed_executor_backend="mp",
         enable_chunked_prefill=False,
         ## deux paramètres suivant à dé-commenter pour Llama-3.1

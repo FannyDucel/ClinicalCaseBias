@@ -2,7 +2,6 @@ import math
 import transformers
 from typing import Dict, List, Optional, Sequence
 import torch
-from vigogne.data_utils import IGNORE_INDEX
 
 
 class DataCollatorForSupervisedDataset(object):

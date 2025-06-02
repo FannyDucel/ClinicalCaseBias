@@ -8,7 +8,7 @@ from utils import *
 from functools import partial
 from collator import DataCollatorForSupervisedDataset
 from typing import Dict, List, Optional, Sequence
-from vigogne.utils.packing import Concatenator, ModerateConcatenator
+from packing import Concatenator, ModerateConcatenator
 from processors import data_processor
 
 

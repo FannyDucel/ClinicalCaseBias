@@ -29,7 +29,7 @@ if __name__ == "__main__":
     print("Loading model")
     print(len(tokenizer))
 
-    model = AutoModelForCausalLM.from_pretrained(args.model_path, torch_dtype=torch.bfloat16, device_map="auto")
+    model = AutoModelForCausalLM.from_pretrained(args.model_path, torch_dtype="auto", device_map="auto")
     #model.resize_token_embeddings(len(tokenizer))
     print("Done")
     print(model.hf_device_map)

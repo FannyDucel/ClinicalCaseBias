@@ -38,14 +38,14 @@ if __name__ == "__main__":
     llm = LLM(
         model=args.base_model_path,
         #dtype=torch.float16,
-        dtype=torch.bfloat16,
-        tensor_parallel_size=8,
+        dtype="auto",
+        tensor_parallel_size=torch.cuda.device_count(),
         distributed_executor_backend="mp",
         #enable_prefix_caching=True,
         enable_chunked_prefill=False,
         ## deux paramètres suivant à dé-commenter pour Llama-3.1
-        #max_model_len=4096,
-        #max_num_batched_tokens=65528,
+        max_model_len=4096,
+        max_num_batched_tokens=65528,
 
         enable_lora=True
     )
