@@ -46,7 +46,7 @@ $ python training_hf.py --model-path desired_model_path --training-file instruct
 ## Generate your clinical cases
 Generation script:
 
-src/generation/vll_peft_generate.py
+src/generation/vllm_peft_generate.py
 
 To run the script:
 
