@@ -33,15 +33,26 @@ If you have questions, feel free to reach out: *fanny.ducel@universite-paris-sac
 
 # How to replicate the experiments
 ## Fine-tune your LLMs
-Training file:
+Training script:
+
 src/generation/training_hf.py
-Running the script:
+
+To run the script:
+
 ```bash
 $ python training_hf.py --model-path desired_model_path --training-file instruction_corpus/train.json --validation-file instruction_corpus/val.json --save-path desired_saving_path --template [bloom|vigogne]
 ```
 
 ## Generate your clinical cases
-TODO and TBA
+Generation script:
+
+src/generation/vll_peft_generate.py
+
+To run the script:
+
+```bash
+$ python vllm_peft_generate.py --base-model-path base_model_path --lora-path path_to_lora_weights --test-path instruction_corpus/test.json --out-path generation_output_path --template [bloom|vigogne] --candidates 100
+```
 
 ## Evaluate bias
 
