@@ -33,7 +33,12 @@ If you have questions, feel free to reach out: *fanny.ducel@universite-paris-sac
 
 # How to replicate the experiments
 ## Fine-tune your LLMs
-TODO and TBA
+Training file:
+src/generation/training_hf.py
+Running the script:
+```bash
+$ python training_hf.py --model-path desired_model_path --training-file instruction_corpus/train.json --validation-file instruction_corpus/val.json --save-path desired_saving_path --template [bloom|vigogne]
+```
 
 ## Generate your clinical cases
 TODO and TBA
