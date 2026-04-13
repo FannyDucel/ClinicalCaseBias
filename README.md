@@ -16,7 +16,9 @@ If you have questions, feel free to reach out: *fanny.ducel@universite-paris-sac
 # Repo organization
 - annotated_data/: contains generated clinical cases with gender annotations. All but corpus_manuel_annote.csv have been automatically annotated, by the gender detection system, and are in the subfolder "automatic annotations".
 - bias_results/: contains csv files with gender metrics results and figures (in the fig/ subfolder) based on results obtained after bias metrics computation. Also contains analyse_phrase1.ipynb to look at the data and some other demographic features.
-- generated_data/: contains the generated clinical cases in raw json files (in corresponding subfolder raw_json/) and their DataFrames versions
+- filtered_generations/: contains the generated clinical cases in raw json files (in corresponding subfolder raw_json/) and their DataFrames versions
+- generated_texts/: contains the generated clinical cases in text files, organized by model and targeted disorder
+- instruction_corpus/: contains the corpus used for training, validation and testing of generative models in json format
 - ressources_lgq/: contains two json files with lists of epicene nouns as well as nouns referring to human entities
 - src/: 
   - bias_exploration/:
