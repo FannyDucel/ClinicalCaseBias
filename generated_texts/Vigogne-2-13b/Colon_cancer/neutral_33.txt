@@ -1,0 +1,7 @@
+Monsieur O.N. âgé de 45 ans, reçoit en mars 1999 un traitement dans le cadre de la guerre du Golfe. En juin 1999, il a des douleurs périombilicale intenses associées à des vomissements sans signe inflammatoire extérieur. L’examen clinique trouve une sensibilité périombilicale, un empâtement sus-ombilical et un état hémodynamique hémodynamique et respiratoire stable. L’hémogramme révèle une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. Une fibroscopie oeso-gastroduodénale montre une gastrite congestive et une atrophie des villosités duodénale. La tomodensitométrie abdominale révèle l’absence de lésion tumorale, mais l’épaississement pariétal jéjunal et une tumeur à 50cm de l’angle duodéno-jéjunal, ce qui amène à une résection segmentaire du jéjunum. L’étude histologique révèle un adénocarcinome lieberkuhien, l’étude immuno-histochimique n’est pas faite.
+
+L’anémie était causée par la maladie cœliaque. Elle a disparue avec le traitement chirurgical et sans les réponses anémiques nécessaires.
+
+Le patient meurt d’une pneumonie secondaire à une septicémie nécrosante un mois après l’intervention chirurgicale.
+
+\end{document}

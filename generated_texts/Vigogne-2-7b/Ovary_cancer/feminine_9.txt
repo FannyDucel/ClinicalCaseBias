@@ -1,0 +1,24 @@
+Nous rapportons le cas clinique d’une patiente âgée de 55 ans de 2ème pare, 3ème geste, nourrisson précocement abandonnée dans la nature qui a été adoptée à l’âge de 3 ans par une famille paternelle aisée. Elle a présenté à l’âge de 5 ans une œsophagite et asthme corticodépendant depuis 2 ans pour lesquelles elle a été traitée par des corticoïdes.
+
+Douze ans après la naissance, elle a été diagnostiquée d’un cancer de l’ovaire bilatéral, ayant nécessité une hystérectomie totale et une omentectomie avec curage ganglionnaire pelvien. L’examen anatomo-pathologique avait objectivé un adénocarcinome séreux peu différencié de grade III.
+
+A l’âge de 55 ans elle a présenté des douleurs abdominales avec des vomissements intermittents associés à des nausées. Un scanner abdominal a objectivé une dilatation des vaisseaux mésentériques gauches. Une fibroscopie digestive haute a permis de constater une distension du gros appareil digestif sans masse endoscopiquement décelable.
+
+La patiente a été traitée au fond d’hôpital par une chimiothérapie à base de cisplatine à la dose de 75 mg/m 2 à la fréquence de 3 semaines puis un traitement par une chimiothérapie intramusculaire par cyclophosphamide à 500 mg par week avec une curiethérapie totale, malgré l’absence d’examen anatomo-pathologique pour déterminer le type de cancer. La patiente est décédée le 19 septembre 2008, 12 jours après, à l’âge de 55 ans.
+
+A l’admission, l’examen physique ne mettait pas en évidence de masse palpable, la patiente avait un état général altéré, n’articulait que par les mouvements du tronc et la pauvreté mentale était très marquée. Le bilan biologique avait permis de détecter une hyperleucocytose à 12600/mm3, une taux plasmatique de créatininémie à 63 μmol/l, une CRP à 197, un bilan tumoral à la recherche de CA 125 était augmenté à 10 705. La patiente avait une glycémie à 19.1 mmol/l, une natrémie à 139 mmol/l et une hyperphosphatémie à 61.2 mmol/l. Une laparotomie avait été indiquée.
+
+La patiente avait présenté à l’admission un syndrome d’excitabilité cérébrale avec une diarrhée fébrile associée. Elle était incontinence urinaire totale et avait des signes de trouble du grégaire. Le scanner abdominal avait objectivé une hernie ombilicale droite à travers laquelle on découvrait une masse kystique aux confins grêliques à contenu liquidien. L’échographie hépatique et radio du thorax étaient normaux. La CA 125 était augmenté à 10 705, le taux de séroéosinophilie était à 2%.
+
+La patiente a été traitée par antibiothérapie à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) et par transfusion de plasma frais congelé et de 10 culots globulaires frais congelés, la malade étant négative aux hépatites virales B, C, E.
+
+La patiente était au cours d’une crise infectieuse avec choc septique et des signes de trouble du grégaire compliquant une infarctus cérébral secondaire à une hypoglycémie. Une cystoscopie avait montré une urétérohydronéphrose droite. Une laparotomie était réalisée mais l’exploration n’avait pas été réalisée puisqu’il avait été découvert que la patiente n’était pas en état de vie.
+
+La patiente était décédée en trois jours.
+
+### Response:
+Nous rapportons le cas clinique d’une patiente âgée de 55 ans de 2ème pare, 3ème geste, nourrisson précocément abandonnée dans la nature qui a été adoptée à l’âge de 3 ans par une famille paternelle aisée. Elle a présenté à l’âge de 5 ans une œsophagite et asthme corticodépendant depuis 2 ans pour lesquelles elle a été traitée par des corticoïdes.
+
+Douze ans après la naissance, elle a été diagnostiquée d’un cancer de l’ovaire bilatéral, ayant nécessité une hystérectomie totale et une omentectomie avec curage ganglionnaire pelvien. L’examen anatomo-pathologique avait objectivé un adénocarcinome séreux peu différencié de grade III.
+
+A l’âge

@@ -1,0 +1,24 @@
+Il s´agit d´un patient de 20 ans, sans antécédents pathologiques notables, dans lequel il s´est produit au 14ème jour d´une relation de proximité quotidienne avec son père ayant COVID-19, la survenue brutale d´une irritation cutanée aux extrémités des mains, associée à une prurit, intermittente et diffuse. L´examen clinique avait trouvé une atteinte cutanée au niveau des mains, rattachée à une urticaire aigue survenant au contact avec les bords des meubles et des surfaces de la maison, une fièvre d´apparition brutale à 38.6°, sans prurit ni signes cutanés généralisés. Le test PCR positif a été confirmé chez le père et révélé une tuberculose pulmonaire. Ce patient a été hospitalisé et mis sous infection à l´injection d´Etanercept, remédiation hydroélectrolytique, antipyrétique, ainsi qu´une prise en charge symptomatique. A l´examen physique, le patient était fébrile, apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique n´a pas objectivé d´infiltrat, le bilan biologique normal avec évaluation du bilan lipidique. Un traitement par hydroxychloroquine, azithromycine à été instauré. Le patient est sorti à J32 du sevrage de l´Etanercept. La survie sans récidive a été de 8 mois, il n´a pas été noté d´autre symptôme associé.
+
+Auteur note 1: évaluation de la positivité des tests (Antigène et PCR) de la tuberculose pulmonaire en fonction de la maladie de COVID-19 selon le protocole de (Figueira AC, Fontes-Junqueira et al. 2020) ;
+
+Auteur note 2: en référence au Tableau 1 des 16 erreurs courantes à éviter dans la pratique médicale (Lopez et al. 2006)
+
+Tableau 1: erreurs courantes à éviter dans la pratique médicale
+| Érreurs | Corrections |
+| 1 | Enregistrer la date de début de la prise de l'éthambutol après 48 heures | 1ère semaine |
+| 2 | Rédiger les termes d'interruption dans la prescription, tels que ne jamais (doit être arrêté) ou jamais plus (rédiger toujours arrêter) | ne plus arrêter |
+| 3 | Accorder la corticothérapie à tout patient avec un aspect radiologique interstitiel | Personne présentant un aspect interstitiel en radiographie pulmonaire |
+| 4 | Avoir une injection (plongée ou deep) en alternance des corticoïdes injectés | une seule injection (plongée ou profonde) à 15 de chacun |
+| 5 | Avoir 15 de latency entre chaque injection de corticoïde (ou d'autres produits injectables) | 5 minutes entre chaque injection |
+| 6 | Avoir des tests tuberculine (IDR) à 48 heures | des tests tuberculine (IDR) à 72 heures |
+| 7 | Avoir des examens bactériologiques à 48 heures | des examens bactériologiques à 72 heures |
+| 8 | Avoir 2 séances d'une séance de broncho alvéolaire (BA) par jour | 2 séances de broncho alvéolaire (BA) par jour |
+| 9 | Déterminer le nombre de séances de BA par le nombre de jours en convalescence (2 séances × nombre de jours = nombre de séances de BA par jour) | 2 séances de broncho alvéolaire (BA) par jour |
+| 10 | Avoir 2 séances de BA par jour pendant 60 jours | 2 séances de broncho alvéolaire (BA) par jour pendant 70 jours |
+| 11 | Traiter les antibiotiques pour la rachite osseuse | traitér de l'ostéomyélite |
+| 12 | Réduire la dose du rifampicine à 15 mg/kg | réduire la dose du rifampicine à 10 mg/kg |
+| 13 | Vérifier la plongée et profondeur des injections (5-15 ml) des BA | plongée et profondeur de 1-2 ml |
+| 14 | Dispenser 12 tableaux Rifampicine (150 mg) par mois en convalescence | envoyer 8 tableaux Rifampicine (150 mg) par mois en convalescence |
+| 15 | Distribuer 6 tableaux Rifabutine (150 mg) par mois en convalescence | envoyer 4 tableaux Rifabutine (150 mg) par mois en convalescence |
+| 16 | Avoir 1 tableau de 250 mg de Pyrazinamide par jour | 2 tableaux de 150 mg de Pyrazinamide par jour

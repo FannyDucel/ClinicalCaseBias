@@ -1,0 +1,20 @@
+Un homme âgé de 20 ans, sans antécédents pathologiques notables a été hospitalisé pour prise en charge des œdèmes des membres inférieurs et des deux bras, secondairement à un contact avec son père ayant COVID-19. Le patient rapporte l'apparition d'une atteinte cutanée au niveau des mains, avant l'apparition des œdèmes, sans signes cliniques associées. Une biopsie des lésions cutanées a objectivé un aspect de chéilite granulomateuse, évoquant l´urticaire.
+A l'interrogatoire, il s´agit d'un patient connu avec un syndrome inflammatoire chronique, dont la dernière préscription était un mois avant l'apparition de l'urticaire aigue. Le test PCR pour COVID-19, ainsi que la sérologie érythémateuse humaine de type IgG était revenu positifs chez le patient, tandis que les anticorps anti-nucléaires et anti-DNA étaient négatifs. La vaccination contre la COVID-19 n'avait pas été menée pour ce patient. Il était mis sous injection d´Etanercept à la dose de 50 mg à chaque semaine.
+A l'examen, le patient était apyrétique à 37°,4, sans détresse respidatoire ni hémodynamique. Le patient a un choc fébrile d´allure évolutive par la suite. La tomodensitométrie thoracique a montré une dilatation thoracique avec un liquide pleural minimal, sans pas d´infiltrat. Le bilan biologique normal (incluant la VS, la numération formule sanguine et l'échinocytose). La Covid-19-RRT-PCR dans le liquide pleural était négative.
+Le patient a été mis sous hydroxychloroquine 200mg par jour, et azithromycine 500mg par jour. La moitié des œdèmes des membres inférieurs et des deux bras s´est régressé sous traitement, et il ne s´est observé aucun écoulement oculaire, ni adénopathie généralisée, ou altération de la vision.
+Le patient est sorti à j36, avec une amélioration marquée des œdèmes, ainsi que des placards cutanées, et d'un écoulement oculaire bilatéral.
+Il n'a pas été reçu le reste de son traitement à base d´Etanercept, vu l'absence d´adresses médicales locales.
+Devant la stabilité de l'atteinte cutanée, une biopsie cutanée a été envisagée, mais n'a pas pu être réalisée.
+Après 1 mois d´arrêt du traitement, une biopsie cutanée a été effectuée, ne montrant aucun signe d'inflammation, ni de lésion cutanée en place, ou à proximité de la zone d´échinocytose.
+Le patient a été perdu de vue.
+Une phase II de la Covid-19-RRT-PCR n'a pas été effectuée.
+Devant la stabilité clinique, la négativité du diagnostic par la Covid-19-RRT-PCR, et la normalité du bilan biologique, l'origine de l'urticaire est incertaine.
+L'étude de casque n'a pas pu être envisagée vu l'interruption du traitement.
+Le diagnostic le plus probable est une urticaire induite par le traitement à base d´Etanercept, vu l'absence de toute autre cause possible d'urticaire aiguë, ainsi que le normal de tout le reste du bilan biologique.
+La négativité du diagnostic par la Covid-19-RRT-PCR, ainsi que la normalité du bilan biologique, l'absence de la présence d'une virose d'autres virus à l'échinocytose, et à l'évolution favorable malgré l'arrêt du traitement à base d'Etanercept, a permis d'envisager l'hypothèse d'une réaction aigue immunitaire, sans pouvoir pour autant éliminer d'autres origines d'urticaires, telles que la vaccination par le vaccin anti-Covid-19, le traitement par corticothérapies à fortes doses, les antihypertenseurs, les anti-inflammatoires non stéroidiens.
+Devant le manque de données scientifiques, et les coûts trop élevés de la phase III, aucune déclaration de normalité ou d'abandon du traitement n'a pu être faite.
+Les limites de ce cas clinique sont son bref délai, sa briévété, et son arrêt du traitement.
+Ainsi, il n'est pas possible d'en tirer de réponse définitive, et de normalité à partir de ce cas, mais permet plutôt de poursuivre la recherche et les recherches sur les mécanismes impliqués dans la réponse immunitaire à la COVID-19, afin de guider et de normaliser le traitement dans un futur proche.
+
+Figure 2
+Évolution des œdèmes des membres supérieurs et inf

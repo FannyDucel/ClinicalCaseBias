@@ -1,0 +1,24 @@
+Un patient de 20 ans a été hospitalisé dans notre structure pour une atteinte cutanée au niveau des mains. Il a rapporté un contact avec son père ayant COVID-19. L´examen clinique objectivait une éruption érythémateuse prurigineuse à character urticarien à la face dermique des mains et aux doigts. Un test PCR positif a été effectué. L´administration d´une injection d´Etanercept a été décidée vu son état critique. Le reste de l´examen physique avait trouvé un patient apyrétique, sans détresse respidatoire ni hémodynamique. Un test PCR nasopharyngée avait montré un résultat négatif. La radiographie thoracique et la tomodensitométrie thoracique étaient normales. Un bilan biologique était normal.
+Le patient était mis sous traitement par hydroxychloroquine et azithromycine. Après 2 jours, les lésions cutanées avaient régressé. Le patient était ramené à 3 jours du retour en famille. Une nouvelle PCR avait montré un résultat positif. Le patient n´a pas présenté de nouveau contact avec son père.
+Il ne nous a pas été rapporté de symptômes respiratoires.
+Bien qu´il s’agisse d’une atteinte cutanée associée à une atteinte pulmonaire, il n’avait pas de symptômes respiratoires.
+Une étude sur la dermatite maculaire liée à la SARS-CoV-2 est en cours.
+Une étude sur l’association entre l’Etanercept et la dermatite maculaire n’existe pas.
+L’aspect clinique est inédit.
+L’effet pharmacologique du médecin était: l’aspect urticarien.
+Le cas a été présenté aux réunions d’examen médical.
+L’accord du patient pour la publication a été obtenu.
+
+A 3 semaines de son admission, le patient revoit son père qui se trouve en mauvais état respiratoire, et c’est le père qui a fait un test PCR positif. Le patient est readmis, c’est alors que nous devons faire un traitement en fonction de la lourde gravité de l’affection. La thérapie a été dépaysante. Les principaux antibiotiques ont été remplacés par le corticoïde et les antibacillaires. En trois semaines, le patient a récupéré une respiration libre. Il a été transféré dans un établissement hospitalier spécialisé en réadaptation.
+
+A ce jour, nous nous trouvons en situation classique: les antiviraux, les antibiotiques, les anticoagulants et le corticoïde sont administrés.
+
+Lorsqu’on a reçu le patient en hospitalisation de soins intensifs, nous sommes confrontés à un dilemme thérapeutique et à une prophylaxie inconnue. Notre approche est restée empirique: nous avons offert un traitement prophylactique basé sur l’observation de ce patient. Notre traitement était basé sur les éléments suivants:
+
+• les anticoagulants en raison de l’inflammation systemique associée à une embolie pulmonaire;
+
+• l’hydroxychloroquine pour sa capacité anti-viral (ni l’efficacité ni l’indication de l’hydroxychloroquine n’ont été évaluées, tout en tenant compte des risques d’aggravation d’une anomalie du rythme cardiaque, en particulier d’une bradycardie);
+
+• les corticoïdes (préférer les anti-inflammatoires non stéroïdiens; cependant, les corticoïdes ont été utilisé dans cette situation particulière).
+
+Le 12 mars 2020, nous avons reçu un patient de 20 ans avec une symptomatologie respiratoire associée à une chute d’évasion. L’interrogatoire avait révélé un contact avec son père ayant COVID-19. Les symptômes d’apparition abrupte étaient classiques. Le patient a présenté une toux sevère, des paresthésies dans le membre inférieur gauche, une fièvre à 39°C, une bradycardie à 42 coup/minute, un frottement cardiaque et une hypotension artérielle. Au toucher oral, le patient présentait une urticaire aigue avec des lésions purpuriques et des chevauchant au niveau des lèvres. La radiographie thoracique avait montré une opacité au niveau des lobes supérieurs droits avec une pneumothorax droite. Le test PCR positif était fait. Le patient a été mis sous dopage par glucagon et sur un perfusseur de vasopresseurs. Il a reçu des bolus de noradrénaline et de dopamine à dose élevée pour correction de l’hypotension artérielle. Il a été mis sous ventilation mécanique avec une pression de suppléance positive de 12cmH2O. Les canules ont été posées: une de vasopression, une de

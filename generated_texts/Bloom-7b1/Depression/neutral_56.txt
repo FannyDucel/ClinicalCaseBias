@@ -1,0 +1,31 @@
+Patient de 48 ans, admis en unité de soins intensifs pour intoxication médicamenteuse volontaire.
+
+Il présentait des céphalées d’évolution progressive, des vomissements et une tristesse de l’humeur depuis une semaine, avec aggravation depuis deux jours. Le patient rapportait une baisse de l’appétit, de l’activité physique et un sommeil perturbé. Il présentait aussi une anhédonie et une asthénie. L’ensemble des symptômes, apparaissait à un contexte de troubles du sommeil et de l’appétit, de tristesse de l’humeur, d’anhédonie et d’asthénie. Il n’avait pas de fièvre, et il n’y avait pas de trouble des réflexes tendineux. Il n’y avait pas de crise convulsive. Il n’y avait pas de trouble psychotique. L’ensemble de ces symptômes était sans antécédent.
+
+L’examen clinique avait mis en évidence un syndrome dépressif avec une tristesse de l’humeur, une anhédonie, une asthénie. Il n’y avait pas de retard psychomoteur et il n’y avait pas de troubles de la marche. L’ensemble de ces symptômes était en faveur d’un trouble dépressif chronique.
+
+L’examen sanguin avait mis en évidence une anémie hypochrome normocytaire avec une concentration sérique de ferritine à 100 µg/l, une hyperuricémie à 480 mg/l, une insuffisance rénale modérée avec une créatinine à 160 mg/l et une fonction hépatique conservée.
+
+L’électroencéphalogramme était normal.
+
+Le bilan d’extension notamment une recherche de masse (TDM thoraco-abdomino-pelvienne) et une radiographie pulmonaire étaient sans anomalie.
+
+Le diagnostic retenu était celui d’un syndrome néphrotique, l’urine était sans anomalie. La biopsie rénale avait objectivé une sclérothérapie sans anomalie histologique. L’immunophénotypage des leucocytes sanguins avait mis en évidence la présence d’anticorps anti-nucléaires homogènes et anti-dsDNA de type IgG kappa et anti-scl70 (révélés en immunofluorescence indirecte) et d’anticorps anti-phospholipides négatifs.
+
+La sérologie du lupus érythémateux disséminé (SLEDAI) et les anticorps anti-phospholipides étaient négatifs, de même que les anticorps anti-cardiolipine et les anticoagulant lupique négatifs.
+
+Le bilan inflammatoire était normal et l’écho-endoscopie digestive n’avait pas mis en évidence de thrombophlébite des deux membres supérieurs. La sérologie myéloproliférative (TDR-Auto) était négative, de même que la recherche d’anticorps anti-vHC et anti-vHCV était négative.
+
+Le patient était mis sous anticoagulant lupique, sa thrombophlébite des deux membres supérieurs a été traitée par un traitement par anticoagulants oraux.
+
+Le patient a été hospitalisé en unité de soins intensifs, pour défaillance rénale associée à une insuffisance cardiaque terminale en rapport avec un tableau de syndrome néphrotique. L’insuffisance rénale et cardiaque ont nécessité le transfert du patient dans l’unité de soins intensifs avec relais par hémodialyse chronique. Aucune autre atteinte viscérale n’était retrouvée.
+L’examen clinique était normal. Le bilan biologique avait objectivé une hépatopathie non cirrhotique sans ascite réfractaire. Le scanner abdominal et l’échographie thoracique avaient objectivé une masse hépatique avec une ascite réfractaire. Une greffe hépatique fut pratiquée. Le patient décéda à la 5ème semaine post-opératoire de l’encéphalopathie ammoniacale sur un tableau de poussée neurologique sévère du lupus avec angio-IRM cérébrale, échographie cérébrale et scanner cérébral retrouvant la présence de multiples plages hypodenses.
+En raison du caractère récent de ce tableau neurologique, nous n’avons pas mis en évidence les lésions associées. Un scanner cérébral a été demandé à ce moment là, avec un scanner thoracique demandé à un autre moment.
+
+La biopsie hépatique avait objectivé une expansion fibro stellaire et de très rares nodules hépatiques micronodulaires. L’étude anatomo-pathologique de la greffe hépatique avait mis en évidence une prolifération fibroblastique à activité très élevée sans nécrose caséeuse ni prolifération nodulaire. La biopsie hépatique a été menée à la recherche des signes d’activation de la voie de l’IFN-γ et IL-2 par la recherche d’hybridome endogène mais elle était négative.
+
+L’étude immunohistochimique et l’immunomarquage de ces lésions hépatiques ont mis en évidence la présence des anticorps anti-endothélium vasculaire (anticorps anti-CD68+) et des anticorps anti-RAGE (anticorps anti-CD57+) spécifiques de la voie de l’IFN-γ.
+
+A l’examen histologique, il était objectivé la présence de lésions vasculaires chroniques. La biopsie hépatique était alors élargie à un autre examen (étude immunohistochimique et l’immunomarquage) pour tenter de rechercher d’autres anomalies. L’étude immunohistochimique et l’immunomarquage de ces lésions hépatiques avaient objectivé la présence des anticorps anti-IFN-γ spécifiques de la voie de l’IL-2 (anticorps anti-CD3 et CD57+) et des anticorps anti-IL4 spécifiques de la voie de l’IL-4 (anticorps anti-CD3 et CD20+) avec l’IL-4 et l’IL-13 (anticorps anti-CD3 et CD3+).
+
+A la recherche d’autres anomalies, nous n’avons pas objectivé la présence de récepteurs de l’IL-2 à la membrane plasmique des cellules immunitaires (anticorps anti-CD25+) et la sécrétion des cytokines: IL-4, IL-5, IL-7, IL-9, IL-10, IL-12, TNF-α, l’IL-2 et IL-13 par les monocytes (anticorps anti-CD3 et CD20+

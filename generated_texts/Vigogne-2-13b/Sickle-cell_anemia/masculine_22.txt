@@ -1,0 +1,22 @@
+Patient 2 Il s'agit d'un garçon de 18 ans, négroïde de deux frères décédes par drépanocytose, qui présente depuis 6 mois des douleurs osseuses diffuses, d'évolution progressive, paroxystique, bilatérales, occasionnant une impotence fonctionnelle totale, attribuées à l'ingestion de plusieurs milligrammes de plomb, sans notion de bu une préparation contenant du plomb.
+Le bilan radiographique montre une ostéonécrose aseptique extensive de la diaphyse, des aires métaphysaires et l'épifise des os longs de l'hémithorax gauche ainsi que du rachis (Figure 5). Le reste du bilan radiologique est normal (Figures 1 à 4).
+La radiographie du bassin, fait dans le même angle et position que les radiographies dorsales des jambes, a permis de mettre en évidence les images de décalcification osseuse dans l'apophyse sacré postérieure gauche (Figure 6).
+La radiographie du rachis dorsolombaire a objectivé de multiples images de fractures malalignées et de luxations effusives (Figure 7).
+Le bilan étiologique fait de recherche du plomb dans le sérum, le plasma, l'urine et la kératine, ainsi que l'électrophorèse d'hémoglobine, était négatif. Le diagnostic de drépanocytose par l'électrophorèse d'hémoglobine a montré une hémoglobine S à 79%, associée à la recherche du déficit en glucose-6-phosphatase (D6Pase) excluant ainsi l'ostéodystrophie familiale dans cette famille.
+Le patient est décédé depuis son admission en réanimation, 2 mois après l'ingestion de plomb.
+Ces trois cas montrent que le délire toxicomaniaque peut s'accompagner d'une ostéodystrophie indolore à sédation centrale, à priori totalement asymptomatique.
+De plus, un bilan radiologique simple (métallique, radiologique) a montré la toxicomanie. Il est donc préférable de réaliser un bilan biologique et une recherche de l'ostéodystrophie familiale chez tous les drépanocytes devant l'ingestion de plomb.
+Figure 1. Examen des radiographies de l'hémithorax gauche et du rachis dorsolombaire d'avant et après traitement de M. E.S, et M. A.M.
+Figure 2. Examen des radiographies de l'hémithorax droit et du rachis dorsolombaire d'avant et après traitement de M. M.B.
+Figure 3. Examen des radiographies de l'hémithorax gauche et du rachis dorsolombaire d'avant et après traitement de M. M. B.
+Figure 4. Examen des radiographies du bassin de face et de profil et du rachis dorsolombaire d'avant et après traitement de M. M. B.
+Figure 5. Examen des radiographies du bassin, du rachis dorsolombaire dorsolombaire d'avant et après traitement et de la projection des os longs de l'hémithorax gauche.
+Figure 6. Examen des radiographies du bassin, du rachis dorsolombaire et du rachis lombaire du même patient.
+Figure 7. Examen des radiographies du bassin, du rachis dorsolombaire et du rachis lombaire du même patient.
+
+### Response:
+Il s'agit d'un garçon de 18 ans, négroïde de deux frères décédés par drépanocytose, qui présente depuis 6 mois des douleurs osseuses diffuses, d'évolution progressive, paroxystique, bilatérales, occasionnant une impotence fonctionnelle totale, attribuées à l'ingestion de plusieurs milligrammes de plomb, sans notion de bu une préparation contenant du plomb.
+Le bilan radiographique montre une ostéonécrose aseptique extensive de la diaphyse, des aires métaphysaires et l'épifise des os longs de l'hémithorax gauche ainsi que du rachis (Figure 5). Le reste du bilan radiologique est normal (Figures 1 à 4).
+La radiographie du bassin, fait dans le même angle et position que les radiographies dorsales des jambes, a permis de mettre en évidence les images de décalcification osseuse dans l'apophyse sacré postérieure gauche (Figure 6).
+La radiographie du rachis dorsolombaire a objectivé de multiples images de fractures malalignées et de luxations effusives (Figure 7).
+Le bilan étiologique fait de recherche du plomb dans le sérum, le plasma, l'urine et la kératine, ainsi que l'électrophorèse d'hémoglobine, était négatif. Le diagnostic de drépanocytose par l'électrophorèse d'hémog

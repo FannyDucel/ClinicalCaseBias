@@ -1,0 +1,25 @@
+Nous rapportons le cas d´un patient de 20 ans, sans antécédent pathologique notable, qui a été admis dans notre centre pour une dyspnée. Le contexte clinique était le suivant: contact avec son père ayant COVID-19, 3 jours avant la manifestation clinique une atteinte cutanée au niveau des mains a été constatée. Le résultat du test PCR était négatif. Un seul rein était conservé après la prophylaxie par injection d´Etanercept avait été préconisé (1 dose/semaine) par le traitement à long terme (clinique).
+
+L’examen à l’admission avait trouvé un patient apyrétique (37,4°C) et asymptomatique en dehors d’une dyspnée marquée sans détresse respidatoire ni hémodynamique avec un état général conservé. L’examen de l’ensemble des mains avait objectivé une gêne à la mobilisation du poignet et des doigts de la main gauche à cause d’une inflammation de la peau avec lésions d’urticaire aigue au niveau des poignets. Le reste de l’examen était sans particularité.
+
+Le test PCR avait été demandé et était revenu négatif.
+
+La décision était de réaliser une hydroxychloroquine (100 mg trois fois par jour) et azithromycine (500 mg une fois par jour) dans un contexte d’isolation avec prise des précautions de contre-infection.
+
+Une tomodensitométrie thoracique avait été réalisée et était normale (pas d´infiltrat).
+
+Le bilan biologique était normal en dehors d’une hyperleucocytose (10700/mm3).
+
+L’évolution était marquée par l’amélioration clinique et biologique avec disparition des lésions cutanées après 5 jours d’hospitalisation sans récidive à 3 mois de suivi.
+
+Tous les examens cliniques, biologiques et radiologiques demandés étaient normaux.
+
+Ce cas montre la possibilité de survenue de symptômes cutanés associés à un COVID-19 sans atteinte pulmonaire, et le rôle de l’injection d´Etanercept dans la survenue de cette atteinte cutanée.
+
+Dans notre cas, le contexte clinique était celui d’un patient lymphocytopénique avant la courbe épidémique avec les signes de gravité, en l’occurrence, la dyspnée, une artériosclérose, et une néphrite aigue.
+
+Il avait été mis sous rénalde -62,5mg, l'hydroxychloroquine - 200mg trois fois par jour et l'Azithromycine - 500mg une fois par jour. Le patient n'a pas été sous antibiotique à la fin de la courbe épidémique. La corticothérapie avait été efficace, et le patient avait été transféré en réanimation 4 jours après la prise en charge. La fonction rénale a été stabilisée, le bilan inflammatoire normalisé et la dyspnée a disparu. Le patient avait bénéficié de trois séances de plasmaéxchange et de 5 sessions de hémodialyse. Le séjour en réanimation était marqué par une crise ischémique responsable d'une cécité, mais aucun AVC n'était constaté au niveau des membres inférieurs. La fonction rénale était stable à la sortie de la réanimation et une réhabilitation spécialisée était programmée. Le traitement a été ensuite transféré au bloc pour poursuivre un mois de traitement avec un décision de garder la corticothérapie avec un décision de décroître de 20mg par mois. Le traitement des séquelles n'avait pas été nécessaire.
+
+Dans le cadre de la prise en charge d'un syndrome néphrotique idiopathique chez une femme de 34 ans, qui était mise sous immunosuppression, un RONIA avait été nécessaire pour des épisodes de saignement digestif. La recherche d'un anticorps anti-cardiolipine et anti-β2 glycoproteine n'avait pas été faite. Après sa sortie de l'unité, la patiente avait été perdue de vue, et il était difficile de trouver des informations relatives à son développement à l'âge adulte, le traitement précédent et le devenir ultérieur.
+
+L'étude des défaillances multi-organiques en vue de l'aptitude à l'implantation d'un dispositif médical à l'intérieur d'une personne immunodéprimée est un travail complexe [1, 2]. Il est d'autant plus important qu'on parle d'implantation d'un dispositif médical dans un organisme dont la fonction cardiovasculaire est déjà compromise. En effet, la maladie artérielle obstructive reste la principale cause de morbidité et de mortalité après les maladies cardiaques [3]. Le traitement classique des PCA fait appel à des préparations chimiothé

@@ -1,0 +1,23 @@
+Un jeune homme âgé de 20 ans, sans antécédents pathologiques particuliers, est hospitalisé pour une atteinte cutanée au niveau des mains. L’examen clinique trouve un patient apyrétique en bon état général, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique ne trouve pas d’infiltrat. Le bilan biologique est normal, excepté la CRP qui est à 35mg/l. La ponction cérébro-lombo-médrulaile est normale. La sérologie VIH est négative. Les tests PCR sont négatifs au niveau de la bouche et des conjonctives mais positif à la main gauche. L’arrêt de l´Etanercept est décidé et l’administration de la Hydroxychloroquine à la dose de 200 mg x 2 par jour associée à l´Azithromycine à la dose de 500mg/j durant 5 jours est décidée. L’évolution est favorable avec disparition du prurit dès le deuxième jour d´administration des hydroxychloroquine et de l’azithromycine. Le patient est mis en quarentaine à domicile avec une bonne évolution. Le contact avec son père ayant COVID-19 est très bref (environ 2 minutes) sans aucun contact physical.
+
+L’étude de la conception de cette intervention a pour objectif de préciser le contexte et les spécificités particulière de cette intervention. Cette étude a été réalisée par l’équipe méthodologique de recherche, en complément de la documentation, à partir des documents suivants : protocoles, questionnaires d’évaluation des effets indésirables des médicaments, rapport d’évaluation clinique, pôle diagnostic « diabète et hypertension artérielle ». Cette méthode a consisté à faire l’inventaire des différents éléments d’information des documents dont le contenu s’avérait pertinent à la question de l’analyse, soit les éléments du contexte qui peuvent avoir influencé le résultat de l’évaluation, soit les événements précédant le traitement en cause, soit les suites du traitement, etc. Le profil de la patiente étudiée est présenté en Tableau 1.
+
+Afin de rendre le tableau plus clair et éviter tout risque d’équivoque, il nous a été proposé de le faire consister en trois parties : les premiers éléments en italiques sont ceux qui nous intéressent, ils concernent le contexte, l’événement, et les suites.
+
+La patiente est une femme âgée de 58 ans, de race noire. Elle a comme diagnostic un diabète type 2 confirmé par la recherche de glucose en sang veineux, avec une valeur de 12,6 mmol/l, et un surpoids.
+
+La patiente a été hospitalisée pour une infection séquellaire d’un diabète mal contrôlé.
+
+A son admission à l’unité de soins intensifs, elle présente une affection pulmonaire d’évolution modérée, avec plusieurs jours d’antécédents d’infection des voies respiratoires, nécessitant un apport d’oxygène par voie nasale avec une fréquence ventilatoire de 24 cycles/min, et l’absence d’une saturation aux oxygènes supérieure à 92% avec des concentrations d’oxygène dans les sangs artériels et veineux de 16,7 et 13,9 mmHg respectivement, un pH artériel de 7,46 et un pH veineux de 7,32, une hyperlactatémie de 2,4 mmol/l, une pression de fraction d’inspiration par rapport à la pression artérielle de 18 mmHg, une hypercapnie de 45 mmHg.
+
+Les examens biologiques montraient une anémie à 8 g/dl, une hyperglycémie à 17 mmol/l, une acidose métabolique à 8,4 mmol/l, une acidose respiratoire à 16,7 mmol/l, un sodium de 136 mmol/l, un potassium de 3,9 mmol/l, une créatinine de 103 micromol/l et une GGT à 38 U/L.
+
+Les analyses bactériologiques des expectorations étaient négatives.
+
+L’objection du patient était de ne pas supporter le port des masks médicales, la patiente refusait toute forme d’aide de professionnels de la santé pour sa prise médicamenteuse.
+
+Le chirurgien commença par une prise en charge chirurgicale par une bronchoaspiration, avec l’ajout d’une therapy antibiotique, et de thérapie antitussive.
+
+Le contrôle en urgence par l’ECG et la troponine, ce qui a permis de découvrir un ecart de CK au sein même de la patiente, mais également une hypercholestérolémie avec une hyperbilirubinémie sérique et hépatique.
+
+Il était déc

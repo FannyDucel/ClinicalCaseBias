@@ -1,0 +1,27 @@
+Patiente âgée de 49 ans, n’ayant jamais eu d’autres antécédents pathologiques particuliers, a consulté au Centre de Cancérologie de Tunis pour des douleurs périnéales évoluant depuis 1 mois associées à une dysurie et une pollakiurie. Le toucher rectal a mis en évidence une prostate volumineuse, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée avec immuno-marquage par l'anticorps anti-cytokératine a mis en évidence une positivité d’un grand nombre de cellules tumorales marquées par l’anticorps antiactine muscle lisse et de l’anticorps anti-desmine muscle lisse mais négativité des cellules tumorales pour l'anticorps anti-PSA. Le bilan d’extension a montré pas de localisations secondaires à l’échographie et à la tomodensitométrie abdomino-pelvienne. La patiente a bénéficié d’une cystoprostatectomie avec urostomie continente. Les limites de l’intervention chirurgicale ont été respectées. Le résultat anatomopathologique a confirmé le carcinome sarcomatoïde de la prostate, dépourvu de toute négativité des cellules tumorales pour l’anticorps anti-PSA. Le bilan d’extension et la tomodensitométrie abdomino-pelvienne ont montré pas de localisations secondaires. La patiente est actuellement en rémission complète.
+
+Il s’agit d’une patiente âgée de 49 ans ayant consulté pour des douleurs périnéales à type de pesanteur, d’une dysurie et d’une pollakiurie évoluant depuis 1 mois. Les examens du toucher rectal et l’échographie pelvienne n’ont pas montré de localisations secondaires.
+
+Devant ces signes cliniques, une biopsie prostatique écho-guidée et immuno-marquée par l’anticorps anti-cytokératine a mis en évidence une positivité d’un grand nombre de cellules tumorales marquées par l’anticorps antiactine muscle lisse et de l’anticorps anti-desmine muscle lisse. Le carcinome sarcomatoïde de la prostate est associé à une négativité des cellules tumorales pour l’anticorps anti-PSA.
+
+A l’échographie abdomino-pelvienne, on ne retrouve pas de localisations secondaires.
+
+L’indication d’une cystoprostatectomie est retenue ainsi qu’une urostomie continente. Les limites de l’intervention chirurgicale ont été respectées.
+
+L’examen anatomopathologique a confirmé le carcinome sarcomatoïde de la prostate, dépourvu de toute négativité des cellules tumorales pour l’anticorps anti-PSA. Le bilan d’extension et la tomodensitométrie abdomino-pelvienne n’ont pas montré pas de localisations secondaires.
+
+La patiente est actuellement en rémission complète et sans symptômes avec un recul de 2 ans.
+
+Il s’agit d’une patiente âgée de 49 ans ayant consulté pour des douleurs périnéales à type de pesanteur, d’une dysurie et d’une pollakiurie évoluant depuis 1 mois.
+
+Ces signes cliniques ont motivé l’initiative d’une biopsie prostatique écho-guidée et immuno-marquée par l’anticorps anticytokératine qui a montré une positivité d’un grand nombre de cellules tumorales marquées par l’anticorps antiactine muscle lisse et de l’anticorps anti-desmine muscle lisse, sans positivité des cellules tumorales pour l’anticorps anti-PSA.
+
+Le bilan d’extension a montré pas de localisations secondaires à l’échographie et à la tomodensitométrie abdomino-pelvienne.
+
+La patiente a bénéficié d’une cystoprostatectomie avec urostomie continente. Les limites de l’intervention chirurgicale ont été respectées.
+
+L’examen anatomopathologique a confirmé le carcinome sarcomatoïde de la prostate, dépourvu de toute négativité des cellules tumorales pour l’anticorps anti-PSA.
+
+Le bilan d’extension et la tomodensitométrie abdomino-pelvienne n’ont pas retrouvé de localisations secondaires.
+
+La patiente est actuellement en rémission complète et sans symptômes, avec un recul de 2 ans.

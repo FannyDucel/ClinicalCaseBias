@@ -1,0 +1,55 @@
+Il s'agit d'une patiente âgée de 64 ans, hypertendue, tabagique et diabétique depuis plus de 20 ans. Elle a présenté en mai 1996 un infarctoide inaugurale du muscle droit de la cuisse et un IDM circonférentiel non thrombolysé au niveau du grand circonfluence, avant une crise cardiaque.
+
+À l'admission, la patiente était en mauvais état général (PS: 5/10), de température normale (36.2), une fréquence cardiaque de 85bat/min, un pouls normal et une tension artérielle normale.
+
+L'auscultation cardio-pulmonaire retrouvait un souffle systolique au niveau du foie et des râles crépitant aux deux bases.
+
+L'échocardiographie a révélé la présence d'une CIV musculaire, un ventricule gauche non dilaté et une akinésie apicale et inféroseptale.
+
+Le bilan biologique a noté une hyperglycémie à 15.4g/l.
+
+Le diagnostic d'un infarctus du myocarde à type d'ischémie aortique a été retenu. La coronarographie a révélé la présence de lésions bi-tronculaires au niveau de la coronaire droite et de l'artère pulmonaire, avec un anévrysme du ventricule gauche.
+
+La fermeture chirurgicale de la CIV a été réalisée.
+
+L'évolution a été marquée par la survenue à J2 post opératoire d'une mort abrupte de la patiente avec des tracés ECG normaux, sans signe de récidive infarctus du myocarde.
+
+L'autopsie n'a pas été réalisée.
+
+Au cours de cette intervention, une cure de l'anévrysme ventriculaire gauche a été effectuée, complétée par un monopontage aortocoronaire sur la coronaire droite.
+
+Aucune conséquence n'a été notée, et la malade est décédée au bout de 2 jours.
+
+Cette observation confirme l'existence d'un lien étroit entre l'anévrysme du ventricule gauche et la coronarographie.
+
+Ainsi, la fermeture chirurgicale du circuit artériel coronarien est aussi à prendre en considération pour permettre une récidive et des complications dans la clinique chirurgicale moderne.
+
+### Response:
+Il s'agit d'une patiente âgée de 64 ans, hypertendue, tabagique et diabétique depuis plus de 20 ans. Elle a présenté en mai 1996 un infarctoide inaugurale du muscle droit de la cuisse et un IDM circonférentiel non thrombolysé au niveau du grand circonfluence, avant une crise cardiaque.
+
+À l'admission, la patiente était en mauvais état général (PS: 5/10), de température normale (36.2), une fréquence cardiaque de 85bat/min, un pouls normal et une tension artérielle normale.
+
+L'auscultation cardio-pulmonaire a révélé un souffle systolique au niveau du foie et des râles crépitant aux deux bases.
+
+L'échocardiographie a révélé la présence d'une CIV musculaire, un ventricule gauche non dilaté et une akinésie apicale et inféroseptale.
+
+Le bilan biologique a noté une hyperglycémie à 15.4g/l.
+
+Le diagnostic d'un infarctus du myocarde à type d'ischémie aortique a été retenu. La coronarographie a révélé la présence de lésions bi-tronculaires au niveau de la coronaire droite et de l'artère pulmonaire, avec un anévrysme du ventricule gauche.
+
+La fermeture chirurgicale de la CIV a été réalisée.
+
+L'évolution a été marquée par la survenue à J2 post opératoire d'une mort abrupte de la patiente avec des tracés ECG normaux, sans signe de récidive infarctus du myocarde.
+
+L'autopsie n'a pas été réalisée.
+
+Au cours de cette intervention, une cure de l'anévrysme ventriculaire gauche a été effectuée, complétée par un monopontage aortocoronaire sur la coronaire droite.
+
+Aucune conséquence n'a été notée, et la malade est décédée au bout de 2 jours.
+
+Cette observation confirme l'existence d'un lien étroit entre l'anévrysme du ventricule gauche et la coronarographie.
+
+Ainsi, la fermeture chirurgicale du circuit artériel coronarien est aussi à prendre en considération pour permettre une récidive et des complications dans la clinique chirurgicale moderne.
+
+### Response:
+Il s'agit d'une patiente âgée de 64 ans, hypertendue, tabagique et diabétique depuis plus de 20 ans. Elle a présenté en

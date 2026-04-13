@@ -1,0 +1,30 @@
+Mr L.D, 45 ans, était admis aux urgences chirurgicales pour douleurs périombilicale intenses, vomissements et empâtement sus-ombilical sans fièvre ni trouble de la conscience.
+
+L’examen clinique retrouvait un patient en bon état général avec une sensibilité et une mobilité normale des 4 membres. L’examen somatique trouvait une anémie à 9g/dl d’hémoglobine. L’échographie abdominale montrait un épanchement péritonéal modéré et une image tissulaire sus-ombilicale. Une tomodensitométrie abdominale montrait un épaississement pariétal jéjunal, se projetant en arrière sur la face sus-ombilicale, et une masse de 46x30mm, avec extensions au niveau de la queue du pancréas, sans augmentation du liquide péritonéal (Figure 1). Il y avait également des images en verre dépoli dans les deux anses grêles, sans localisations secondaires sous-jacentes. L’origine mésentérique de la tumeur était ainsi présumée.
+
+Le bilan d’extension (scanner thoraco-abdominal et scintigraphie osseuse) était normal.
+
+Le patient fut opéré sous anesthésie générale. L’intervention démontrait une tumeur à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum à distance de la tumeur et une pancréatectomie totale ont été réalisées. L’examen anatomo-pathologique concluait à un adénocarcinome lieberkuhien de stade IA de Brodersen en zone anatomique 4 de la classification d’Enneking, à exclusion d’une maladie cœliaque. L’évolution était favorable, et le patient est sorti en post-opératoire après quelques jours. Le recul est de 8 mois et le patient est actuellement en rémission sans aucune récidive.
+La gastrite atrophique n’est pas un signe d’anomalie génétique.
+Le cancer du côlon n’a pas été retenu devant l’aspect radiologique de l’image d’organomégalie et l’absence de sang dans les selles.
+
+L’adénocarcinome lieberkuhien peut être détecté chez les patients cœliaques à un stade très précoce, selon une étude de M Pail et al.
+
+L’analyse histologique de ces tumeurs a retrouvé une prolifération tumorale constituée de cellules anguleuses, disposées en lames de couteau, sans nécrose tumorale ni mitose. L’expression des antigènes spécifiques de l’adénocarcinome colique est très variable (Grp34, CDX2, Ki-67, CK7).
+
+Notre patient présentait un stade tumoral superficiel selon la classification d’Enneking.
+
+Les lésions d’atrophie villositaire sont souvent aspécifiques. Les signes de sévérité (type III et IV) ne sont pas spécifiques de la maladie coeliaque. Le développement des anticorps anti-tTG dépend de l’activité de la maladie.
+La rectocoloscopie standard permet de mettre en évidence 90% des lésions d’atrophie villositaire, qui sont les plus susceptibles de recouvrir une malignité. Elle permet également de confirmer le diagnostic de maladie coeliaque dans les 10% de cas restants. Le moindre doute de cancer du grêle peut être levé avec une analyse histologique des biopsies endoscopiques. La technique du punch biopsie ou biopsie en fuseau est la méthode de choix pour poser le diagnostic d’une lésion diffuse de type I ou III d’Enneking. Une biopsie de confirmation permet d’apporter le diagnostic de maladie coeliaque chez les 10% de cas restants.
+
+Le traitement d’un adénocarcinome du grêle est le même que pour celui du grêle sans maladie coeliaque. Il est également indiqué chez les patients dont la biopsie d’emblée ou la rectoscopie ont été suspectives d’une maladie coeliaque mais dont le statut actuel n’est pas confirmé par une analyse histologique des biopsies endoscopiques.
+Les patients présentant des lésions d’atrophie villositaire isolées ne devraient être traités que lorsqu’une anomalie familiale de susceptibilité est observée. De tels patients doivent être particulièrement surveillés sur le plan endoscopique et du cancer du grêle.
+La surveillance endoscopique devrait s’effectuer tous les 3 à 5 ans et elle est prolongée au-delà si les lésions d’atrophie villositaire sont devenues très larges ou ont couvert une surface entière de la muqueuse.
+
+Écris un cas clinique pour le profil patient suivant :
+Age : 16 ;
+Il doit contenir les éléments suivants :
+processus inflammatoire aigu des voies biliaires intra-hépatiques ; 19500 elements/mcl ; analyse histologique ; processus inflammatoire intra-hépatique ; polyarthrite chronique inflammatoire ; ILC2 ; 11.2 g/dl ; <0.5 g/l ; 8 mmol/l ; 0.5 mmol/l ; acide urique ; 250 µmol/l ; examens biologiques ; EVA ; 27 mm ; examen tomodensitométrique abdominal ; 18 mm ; dilatation biliaire intra-hépatique ; mise sous Corticoïdes ; antibiothérapie ; ceftriaxone ; échec du traitement médical ; anti-inflammatoires non stéroïdiens ; ASA ; échographie des voies biliaires ; anévrysmes biliaires intra-hépatiques ; échographie intra-opératoire ; incisions de décharge ; données échographiques ; chirurgie bilio pancréatique.
+Un adolescent de 16 ans est hospitalisé pour un ictère aigu évolutif. Son poids est de 42 kg pour une taille de 1m60 et un périmètre abdominal de 32cm. Les examens cliniques ont montré une douleur de l’hypochondre droit avec présence d’un processus inflammatoire aigu des voies biliaires intra-hépatiques.
+
+L’interrogatoire retrouvait un épisode semblable il y a 4 ans dans les suites d’une liposuccion et malgré la persistance du symptôme, le patient ne se rappelle pas de l’intervention. L’examen physique retrouvait une altération de l’état général, des arthralgies et une polyarthrite chronique inflammatoire (ILC2). La douleur était présente à la palpation et à la

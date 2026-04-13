@@ -1,0 +1,42 @@
+Nous présentons le cas d’un patient âgé de 30 ans, sans antécédents pathologiques notables, admis dans notre service en janvier 1997 pour lombalgie bilatérale, sans troubles mictionnels ni digestifs, évoluant dans un contexte de fièvre, asthénie physique et psychique.
+
+L’examen clinique retrouvait une légère cyphose lombaire avec une saillie des apophyses épineuses ( Figure 1 ). L’examen ostéoarticulaire était normal.
+
+Les radiographies du rachis lombaire ( Figure 2 ) étaient normales.
+
+Les radiographies des deux os coxaux ( Figure 3 ) montraient une lésion fracturée de la tête fémorale gauche, sans torsion.
+
+Le bilan biologique comprenait une vitesse de sédimentation à 42 mm à la première heure, une calcémie à 2,42 nmol/L et une phosphorémie à 1,01 nmol/L. La calciurie était de 2,15 nmol/L/24 h. Les dosages hormonaux étaient strictement normaux : gonadotrophines, cortisol, ACTH, parathormone et vitamine D.
+
+Une absorptiométrie biphotonique à rayons X a montré une baisse de la densité minérale osseuse ( Figure 4 ).
+
+Le diagnostic de lombalgie due à un syndrome inflammatoire chronique n’a pu être retenu, devant la récurrence des fractures. Le diagnostic d’ostéoporose fracturaire a été posé devant la cyphose, la radiographie de l’étage pelvien, la diminution de la densité minérale osseuse, l’absence d’autres antécédents pathologiques, ainsi que les dosages hormonaux et biologiques normaux.
+
+Le traitement initial était supportif, associant paracétamol (2 g/j) et amytriptiline (50 mg/j).
+
+Le patient a bénéficié de deux injections de vitamine D3 (500.000 UI) et de douze injections de calcitriol (1000 UI/dose) puis, vu le caractère chronique de son état, l’association calcium + vitamine D3 a été préconisée (3 g/j de calcium associé à 800 UI/j de vitamine D3). Le patient a été consulté deux fois par an pour la prise du diagnostic de déminéralisation osseuse et à cette occasion des radiographies pulmonaires et abdominales ont été réalisées.
+
+Le suivi a montré une amélioration clinique et radiologique. Le patient ne présentait plus de douleurs lombaires et de fractures, l’ostéocalcine était revenue dans les normales.
+
+L’arrêt des traitements vitaminés a été entamé au cinquième et au huitième mois de traitement.
+
+L’évolution était favorable.
+
+La surveillance a été arrêtée au neuvième mois de traitement, vu le recul important.
+
+Le patient est aujourd’hui âgé de 35 ans.
+
+### Response:
+Nous présentons le cas d’un patient âgé de 30 ans, sans antécédents pathologiques notables, admis dans notre service en janvier 1997 pour lombalgie bilatérale, sans troubles mictionnels ni digestifs, évoluant dans un contexte de fièvre, asthénie physique et psychique.
+
+L’examen clinique retrouvait une légère cyphose lombaire avec une saillie des apophyses épineuses ( Figure 1 ). L’examen ostéoarticulaire était normal.
+
+Les radiographies du rachis lombaire ( Figure 2 ) étaient normales.
+
+Les radiographies des deux os coxaux ( Figure 3 ) montraient une lésion fracturée de la tête fémorale gauche, sans torsion.
+
+Le bilan biologique comprenait une vitesse de sédimentation à 42 mm à la première heure, une calcémie à 2,42 nmol/L et une phosphorémie à 1,01 nmol/L. La calciurie était de 2,15 nmol/L/24 h. Les dosages hormonaux étaient strictement normaux : gonadotrophines, cortisol, ACTH, parathormone et vitamine D.
+
+Une absorptiométrie biphotonique à rayons X a montré une baisse de la densité minérale osseuse ( Figure 4 ).
+
+Le diagnostic de lombalgie due à un syndrome inflammatoire chronique n’a pu être retenu, devant la récurrence des fractures. Le diagnostic d’ostéoporose fracturaire a été posé devant la cyphose, la radiographie de l’étage pelvien, la diminution de la densité minérale osseuse, l’absence d’autres antécédents pathologiques, ainsi que les dosages hormonaux et biolog

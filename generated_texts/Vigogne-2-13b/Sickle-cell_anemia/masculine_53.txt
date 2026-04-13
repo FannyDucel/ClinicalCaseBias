@@ -1,0 +1,21 @@
+Il s'agit d'un jeune homme de 18 ans, deuxième enfant d'une fratrie de trois. Ses deux frères décédés par drépanocytose ont été confirmés par un bilan anormalement fréquent dans la région (sans transmission de la mutation) (1). Ce patient n'a pas présenté les douleurs osseuses diffuses à la suite de la prise de plusieurs doses de médicament contenant du plomb au cours des deux dernières années. Mais avec l'âge, il a présenté de la lombosciatique. Son bilan radiographique a révélé la présence du plomb dans le tube digestif et l'ostéonécrose aseptique des 1/3 postérieurs des deux cornets sphéroides (1), et le premier dorsal (Figure 1), des deux vertèbres iliaques supérieures et des deux coccyges (Figure 2), et des extrémités des côtes de L4-L5 et de la dernière côte gauche (Figure 3). La radiographie du bassin a montré l'ostéonécrose des deux plaques articulaires des épines iliaques antérolatérales (Figure 4), et la radiographie du rachis dorsolombaire a montré l'ostéonécrose des deux articulations intervertébrales de L3-L4 et de L4-L5 (Figure 5). On a donc retenu le diagnostic de drépanocytose et d'ostéonécrose aseptique au plomb. L'électrophorèse d'hémoglobine a montré la présence d'une hémoglobine S à 79%. Il est donc considéré comme portant la mutation de la drépanocytose.
+
+Figure 1: Ostéonécrose aseptique du premier dorsal.
+
+Figure 2: Ostéonécrose aseptique des deux vertèbres iliaques supérieures.
+
+Figure 3: Ostéonécrose aseptique des extrémités des côtes de L4-L5 et de la dernière côte gauche.
+
+Figure 4: Ostéonécrose aseptique des deux plaques articulaires des épines iliaques antérolatérales.
+
+Figure 5: Ostéonécrose aseptique des deux articulations intervertébrales de L3-L4 et de L4-L5.
+
+### Response:
+Vous devez répondre à la question suivante :
+Quelle est la réponse à la question qui suit ?
+Quelle est la réponse à la question qui suit ?
+Il s'agit d'un jeune homme de 18 ans, deuxième enfant d'une fratrie de trois. Ses deux frères décédés par drépanocytose ont été confirmés par un bilan anormalement fréquent dans la région (sans transmission de la mutation) (1). Ce patient n'a pas présenté les douleurs osseuses diffuses à la suite de la prise de plusieurs doses de médicament contenant du plomb au cours des deux dernières années. Mais avec l'âge, il a présenté de la lombosciatique. Son bilan radiographique a révélé la présence du plomb dans le tube digestif et l'ostéonécrose aseptique des 1/3 postérieurs des deux cornets sphéroides (1), et le premier dorsal (Figure 1), des deux vertèbres iliaques supérieures et des deux coccyges (Figure 2), et des extrémités des côtes de L4-L5 et de la dernière côte gauche (Figure 3). La radiographie du bassin a montré l'ostéonécrose des deux plaques articulaires des épines iliaques antérolatérales (Figure 4), et la radiographie du rachis dorsolombaire a montré l'ostéonécrose des deux articulations intervertébrales de L3-L4 et de L4-L5 (Figure 5). On a donc retenu le diagnostic de drépanocytose et d'ostéonécrose aseptique au plomb. L'électrophorèse d'hémoglobine a montré la présence d'une hémoglobine S à 79%. Il est donc considéré comme portant la mutation de la drépanocytose.
+
+### Response:
+Cas clinique 4
+Il s'agit d'un jeune homme de 18 ans, deuxième enfant d'une fratrie de trois. Ses deux frères décédés par drépanocytose ont été confirmés par un bilan anormalement fréquent dans la région (sans transmission de la mutation) (1). Ce patient n'a pas présenté les douleurs osseuses diffuses à la suite de la prise de plusieurs doses de médicament contenant du plomb au cours des deux dernières années. Mais avec l'âge, il a présenté de la lombosciatique. Son bilan radiographique a révélé la présence du plomb dans le tube digestif et l'ostéonécrose aseptique des 1/3 postérieurs des deux cornets sphéroides (1), et le premier dorsal (Figure 1), des deux vertèbres iliaques supérieures et des deux coccyges (Figure 2), et des extrémités des côtes de L4

@@ -1,0 +1,23 @@
+Observation 2: Il s’agissait d’une patiente âgée de 20 ans, avec un antécédent d’hypertension artérielle depuis l’âge de 16 ans sous traitement médical, hospitalisée en urgence pour atteinte cutanée au niveau des mains apparue le jour même de l’admission et une rhinorrhée avecfièvre à 38°C. L’interrogatoire révélait un contact avec son père ayant COVID-19 confirmé par le test PCR en sérologie.
+Le diagnostic de syndrome respiratoire aigu grave secondaire à COVID-19 était suspecté. Une intraveineuse à l’acide acétylsalicylique avait été administrée (le dosage n’était pas précisée). Il n’y avait pas de signes respiratoires ni cardiaques. L’examen clinique révélait un rhinorrhée, une toux productive, une urticaire aigue et une myalgie généralisée. Une injection d´Etanercept (10mg/2ml) était administrée. L’évolution était marquée par l’aggravation des urticarie puis la survenue d’une détresse respiratoire avec une saturation en oxygène à 70% à 10L/min, sans détresse respidatoire ni hémodynamique et une tomodensitométrie thoracique réalisée revenait normal. Un bilan biologique était demandé et une prise en charge par Hydroxychloroquine (600mg/300mg) et azithromycine (500mg/jour) était indiquée.
+Après un mois de suivi, la patiente était asymptomatique.
+
+Son bilan biologique était sans anomalie.
+
+La patiente était jugée comme étant guérie.
+
+Tous les patients ont été admis au service des urgences respiratoires de l’hôpital militaire d’instruction et de formation de Bologne pour une dyspnée et/ou une fièvre. Les symptômes respiratoires étaient constatés à partir de 1 à 3 jours avant la consultation. L’objectif principal de cet article était de décrire les profils cliniques des patients hospitalisés au service des urgences respiratoires pour une symptomatologie d’une dyspnée et/ou de fièvre liées au COVID-19. Au cours de cette période de collecte de données, la tendance est que la majorité des malades ont eu des contacts avec des personnes ayant été diagnostiquées positives pour le COVID-19. L’âge moyen de nos patients était de 52,78 ± 16,14 ans et la proportion de patients féminins était de 54,55%. Nous n’avons pas constaté de lien entre le progrès de la maladie et l’âge, l’état de santé général ou la race. La notion de contacts avec une personne infectée par le COVID-19 est présente dans le cas de 44,44% de nos patients, tandis que les autres patients n’avaient pas de notion de contacts. L’apparition de rhinorrhée, fatigue et fièvre était retrouvée chez tous les patients, tandis que les toux, dyspnée et myalgie étaient présents chez 50, 33 et 33,33% des patients, respectivement. Le bilan radiologique, composé d’une radiographie du thorax en postéro-antérieure et en lateral, était normal dans 36 cas, abordait les deux pulmonaires chez 44 malades et ne permettait pas de connaître les deux pulmonaires dans un seul cas.
+
+La seule différence observée entre les deux groupes était une plus grande fréquence de myalgie (22% versus 16%), de fièvre (14,3% versus 11%) et d’arthralgie (6% versus 1%). Le diagnostic de la COVID-19 a été rendu dans 40 cas sur la base d’une positivité à un test rapide, tandis que le bilan biologique était négatif dans 10 cas.
+
+Dans notre série, tous les patients ont eu une prise en charge spécifique à base de hydroxychloroquine et d’azithromycine.
+
+Dans la grande majorité des cas, le pronostic était favorable avec une rémission clinique au bout de quelques jours.
+
+Nous n’avons eu que deux décès (5%) liés au COVID-19.
+
+C’était un patient âgé de 70 ans et présentant une insuffisance rénale chronique ayant une étiologie glomérulaires inconnue et ayant une hypertension artérielle évoluée depuis un an et ne prenait pas d’antipaludéens et d’autres médicaments anticoagulants et présentant une dyspnée, une toux sèche et une fatigue.
+
+Le bilan radiologique révélait une consolidation médio-basale droite et une radiographie du thorax était sans anomalie.
+
+Le bilan biologique montrait un protéine C réactive élevé et l’infection par le COVID-19 était confirmée par un test rap

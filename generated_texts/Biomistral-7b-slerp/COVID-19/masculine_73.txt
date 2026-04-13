@@ -1,0 +1,22 @@
+Un jeune homme de 20 ans est étudiant dans une université, admis aux urgences suite à un contact avec son père ayant COVID-19. Le patient a développé une atteinte cutanée au niveau des mains avec une urticaire aigue. Le test PCR positif a été effectué dans les urgences et un injection d´Etanercept a été institué, puis l’indication d’une hospitalisation à été prise. Le jeune homme a développé des symptômes pulmonaires une semaine après, avec une dyspnée et une asthénie. Une test PCR a été effectué avec un résultat positif. Le patient a été hospitalisé sur une unité spéciale, les soins médicaux ont été administrés, l´hydroxychloroquine et l´azithromycine ont été utilisés. Au bilan initial: une fréquence cardiaque (FC) à 100 bpm, une fréquence respiratoire (FR) à 20cycles par minutes (cm/min), une PAD à 97mmHg, une PAD à 64mmHg, une saturation de l´oxygène à 98%, le patient était apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique n´a pas objectivé de signes de pathologies évidents, le bilan biologique normal. Un traitement adjuvant par l´Etanercept a été institué. Le patient était reçu à l’hôpital deux jours après. Il a eu un très mauvais résultat avec une détérioration clinique rapide. Le patient a été transféré à une unité de soins intensifs. Une fois arrivée à la salle d´hospitalisation, le patient était conscient, un refoulement avec des paresthésies généralisé, il était apyrétique, une dorsocondylite gauche, un niveau hémoglobinémique normal, des signes de polynucléaires neutrophiles normaux, le bilan biologique n´a pas évoqué d´événement à l´inverse. Le patient est décédé en une journée suite à l´abandon des soins.
+
+En France, la maladie de Kaposi est découverte dans les années 80 et se retrouve avant tout chez les immunodéprimés notamment ceux infectés par le VIH. L’infection par le virus herpes virus 8 (HHV 8) est à l’origine du développement de nombreuses manifestations cliniques. C’est ce que nous avons observé chez nos patients. Le virus a été découvert en 1994 et est un rhabdovirus pour lequel la séroprévalence de l’antigène est de l’ordre de 2% à 10% à travers le monde. Une prédisposition génétique ou immunologique pourrait être associée.
+
+L’expression clinique est très variable et la présence du virus se traduit par des masse purpuriques de couleur brune-rougeâtre, de consistance dure ou molle, ayant une constitution rapide, généralement localisées au niveau du cou, du visage et des membres inférieurs, mais aussi dans les mamelons et les postérieurs des pieds, souvent épaissies, indolores, et généralement associées à un œdème localisé. L’atteinte cutanée est classée en quatre stades : le premier se traduit par des lésions à la base purpuriques ; le second par des lésions purpuriques et réticulées ; le troisième est marqué par l’asthénie et les lésions cutanées changent de couleur à brunes ou rouges et ne seront visibles qu’après l’appression ; le quatrième marqué par la présence d’ulcérations et d’infiltrations lymphangiomateuses. La prise en charge du kaposi cutané comprend :
+
+- La réalisation d’un prélèvement pour déterminer le diagnostic biologique ;
+
+- La prise d’une puissance magnétique pour prévenir la réalisation de cette biopsie en cas de surinfectation par le VIH.
+
+- La réalisation d’un traitement local ;
+
+- La réalisation d’un traitement thérapeutique oral selon le stage de la maladie avec l’AZT, LAM ou IPM ;
+
+- La réalisation d’un traitement thérapeutique par voie locale se traduit par une radiothérapie.
+
+- La réalisation d’un traitement prophylactique contre l’infection à IVTP.
+
+- Une vigilance en cas de patient en phase antérograde du VIH.
+
+Dans l’étude de 107 patients, six décès ont été observés dans le temps post opératoire : trois dans le premier jour (rétention pulmonaire et agitation psychomotrice), deux le deuxième jour (carcinome digestif) et un le troisième (maladie de Kaposi), soit une mortalité de 5,6 %. Tous les décès étaient observés chez des patients se présentant en post opératoire avec un stade avancé de maladie à l’immunologique (CD4 < 150).
+

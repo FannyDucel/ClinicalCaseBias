@@ -1,0 +1,43 @@
+Il s´agit d´une femme de 20 ans sans antécédents pathologiques qui a eu un contact avec son père ayant COVID-19 ; environ 1 mois après, elle a développé une atteinte cutanée au niveau des mains, débutant par des lésions érythémateuses prurigineuses après 24 heures, évoluant vers une érythémateuse confluente et prurigineuse avec une épaississement, qui évolue en lésion érythémateuse confluente à bord imprécis; dure et indolore, évoluant vers une érythème flessié (fig 1), associée à un prurit intense de la face avec une urticaire aigue puis dissipée à l’admission au CHU Hassan II Fès (fig 2), le test PCR positif a révélé la présence du virus SARS-CoV2 dans les crachats avec une muqueuse nasale négative à la recherche du virus. La patiente a reçu une injection d´Etanercept (50mg) le jour de son admission; elle est apyrétique avec une hémodynamique normale, une saturation en oxygène à 95%, l´examen pleuro-pulmonaire est sans détresse respidatoire ni hémodynamique et la tomodensitométrie thoracique a objectivé un comblement parasitaire des deux cavités d´œil, la vésicule biliaire, l´espace péri-hilaire et le détrusor sans infiltrat ni nécrose respiratoire ni pneumopathie parenchymateuse (fig 3). L´interrogatoire n´a pas révélé de facteurs de risque ni de notion de s´autotesté (mais pas positif) ni la notion de contact avec des patients positifs au SARS-CoV2, un bilan biologique normal (enzymes pancréatiques, NFS, LDH, VS, ionogramme sanguin, protéinurie), L´évolution a été favorable sous traitement par chloroquine, et L´échec à ce traitement a poussé à l´alliance avec l´hydroxychloroquine et l´azithromycine. L´évolution a été marquée par la disparition des lésions cutanées et de l´urticaire ainsi que le rétablissement de l´acuité visuelle au 3eme jour et à la fin du traitement.
+
+Figure 1 : lésions d´eruptions cutanées au niveau des mains.
+
+Figure 2 : lésions d´eruptions cutanées au niveau de la face et du cou, lésions érythémateuses confluentes et prurigineuses; épaississement, sans détresse respiratoire ni hémodynamique.
+
+Figure 3 : IRM thoraco-abdomino-pelvienne; l´examen s’inscrit en faveur de la présence de multiples micronodules péri-hilaires du cerveau et du cervelet sans fracture osseuse, l´image des poumons et les structures thoraco-abdomino-pelviennes n’a pas montré de pneumopathie parenchymateuse ni des signes d’extension pulmonaire. Le diagnostic d’un CAN a été posé devant la présence des micronodules péri-hilaires sur l’IRM et l’évolution clinique et biologique favorable sous traitement.
+
+Tableau I. Témoignage des lésions cutanées et respiratoires survenues au cours du COVID-19.
+
+Temps de début Des lésions cutanées Des lésions respiratoires Temps d’apparition de la fibrose pulmonaire
+
+4 jours 6 jours 18 jours 30 jours
+
+Temps de disparition de la fibrose pulmonaire
+
+1 mois
+
+Lésions cutanées:
+- 30 %: myosite levaillantienne
+- 70 %: éruption érythémateuse prurigineuse confluente survenant entre les 4ème et 8ème jours après la maladie, évoluant vers une érythème flessié.
+
+Lésions respiratoires:
+- diminution de l’acuité visuelle (sans dissection au microscope; scanner abdomino-pelvien ; CNVS ; la sérologie syphilitique était négative)
+- recherche d’infiltrat spécifique aux poumons et hilaire au 2 ème jour, puis perte de l’acuité visuelle, admission au service des soins intensifs cardiorespiratoires de nuit.
+
+Complications respiratoires :
+- dissection au microscope.
+
+Temps de disparition de la fibrose pulmonaire : à 1 mois
+
+Tableau II. Caractéristiques des 7 patients présentant des lésions cutanées et respiratoires.
+
+Age (en mois)
+Sexe
+Contact avec le COVID-19
+Test PCR de l’air nasal
+Prise de déxaméthasone
+Prise de prédnisolone
+Apyrexie
+Examen pleuro-pulmonaire
+Courbe de saturation en oxygène
+Bilan

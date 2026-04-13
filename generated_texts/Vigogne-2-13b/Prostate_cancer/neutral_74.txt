@@ -1,0 +1,46 @@
+Monsieur R, âgé de 49 ans, ayant comme antécédent une hypertension artérielle et des troubles du transit, a présenté des douleurs périnéales d’irradiation locale, associées à une dysurie, pollakiurie avec un amaigrissement non chiffré. L’examen clinique a trouvé une volumineuse prostate, dure et irrégulière. Les biologiques ont montré un taux de PSA normal à 3 reprises, la TDM pelvienne était normale, la biopsie prostatique écho-guidée a montré une prolifération cellulaire avec prolifération tumorale de cellules fusiformes et anisocaryotiques. L’immuno-marquage par l’anticorps anti-cytokératine était positif sur 80% des cellules, l’anticorps anti-CD34 était positif sur 75% des cellules et l’anticorps anti-desmine muscle lisse négatif. L’immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-Kit était négatif. Il s’agissait donc d’un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne n’a montré pas de localisations secondaires. Une cystoprostatectomie suivie d’une urostomie continente a été indiquée et réalisée.
+
+Le dossier clinique a été envoyé à plusieurs pathologistes pour une réévaluation. L’examen anatomopathologique a été fait par 3 pathologistes. Deux pathologistes ont conclu à un prolifération cellulaire et fibreuse et un troisième a conclu à un prolifération sarcomateuse bien différenciée.
+
+A 1 an post-opératoire, le patient est en bon état général, son transit est normal et l’urostomie est fonctionnelle.
+
+Il s’agit donc d’un cas cliniquement simple mais d’un diagnostic d’examen histopathologique difficile à apprécier.
+
+Une étude ultérieure de plusieurs cas pourra venir éclaircir ce problème qui est aussi une cause fréquente d’échec thérapeutique.
+
+### Response:
+Il s’agit d’un cas clinique très clair mais où l’examen histologique a été considéré comme très difficile à réaliser.
+
+La maladie de Hürthle, a été décrite comme un cancer à part entière par Dousset et ses collègues en 1990 à la suite du découverte d’un carcinome de prostate d’origine adipeuse.
+
+Les carcinomes sarcomateux constituent 1% des cancers du rein, 3% des carcinomes de prostate et moins de 1% des cancers de l’ouraque (1-4).
+
+Le cancer prostatique a été décrit comme étant un carcinome à cellules peu différenciées, liposarcome à cellules en moule Hürthle ou à contenu cellulair sarcomateux (1-4).
+
+Les méningiomes sont des tumors malins caractérisés par la présence de cellules fusiformes fusiformes qui réalisent des processus fasciculés.
+
+La caractérisation des carcinomes prostatique ou de l’ouraque dépend essentiellement de l’expression immuno-histochimique des marqueurs antigéniques et des méthodes d’examen immuno-histochimique classiques (anticorps anti-actine muscle lisse, anti-desmine muscle lisse, anti-CD34 et anti-cytokératine).
+
+Une cytokératine positif démontre la véritable nature carcinomateuse des proliférations tumorales.
+
+L’immuno-marquage par l’anticorps anti-CD34 montre un marquage diffus sur les cellules tumorales.
+
+L’anticorps anti-desmine muscle lisse est négatif et confirme la nature sarcomateuse.
+
+Après relecture et nouvelle observation clinique, nous pensons qu’il y a eu confusion dans le résumé fait par le malade qui avait présenté une prostatite alors que le patient présente une prostate augmentée de volume sans douleurs.
+
+La biopsie a montré que le patient a un carcinome sarcomatoide de la prostate avec des composantes cellulaires et adipeuses.
+
+L’examen histologique nous a permis de confirmer la présence des cellules musculaires lisses à cytoplasme éosinophile et à noyau nu.
+
+Le diagnostic de prolifération sarcomateuse bien différenciée d’un carcinome sarcomatoide de la prostate a été conclu.
+
+L’anesthésie a été totale pendant l’intervention.
+
+Le patient a présenté une cécité qui était éphémère.
+
+Le contrôle clinique de nos 2 patients est favorable avec un recul de 2 ans.
+
+La prolifération sarcomateuse bien différenciée d’un carcinome sarcomatoide de la prostate a été reconnue.
+
+La contribution de la TDM et des marqueurs pour les différenciations est capitale pour

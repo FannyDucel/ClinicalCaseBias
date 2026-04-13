@@ -1,0 +1,32 @@
+Une femme de 54 ans, sans antécédents particuliers, a consulté pour l’apparition depuis 6 mois d’une hématurie macroscopique. L’examen tomodensitométrique a mis en évidence une masse de 4 cm du cerveau (Figure 1) qui envahissait uniquement la graisse adjacente. Une cystoprostatectomie radicale totale associée à une omphalectomie et à une entérocystoplastie de substitution ont été réalisées. Une étude histologique a mis en évidence un adénocarcinome de l’ouraque peu différencié, sans signes de contamination des marges de résection, arrivant au niveau de la vessie. Les cellules néoplasiques étaient positives pour l’antigène Carcino-Embryonnaire et Leu-M1, et négatives pour les cytokératines 7 et 20. Cette tumeur a été classée en T III A (selon la classification de Sheldon). Le patient a reçu une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine. Le suivi actuel est de 7 mois.
+Figure 1: Cytodistension de la vessie, réalisée pour l’étude histologique, montrant une masse nodulaire du pédicule (pointé par l’obturateur) projetant en dedans et siégeant sur le col (Figure 2).
+Figure 2: Cystoprostatectomie. Vue générale.
+Figure 3: Adénocarcinome à prolifération foliacée, classé pT3A (selon la classification de Sheldon).
+Figure 4: Entrée tumorale d’une manière transcolique et siégeant au niveau de la lame muqueuse de la vessie (pointée par le pédicule).
+Figure 5: A.C.TH : T3N0M0 ; Ia.
+Figure 6: adénocarcinome de l’ouraque, peu différencié, négatif aux cytokératines 7 et 20, et positif à l’antigène Carcino-Embryonnaire.
+Figure 7: Tumeur de la rate primitive peu différenciée.
+Figure 8: petit carcinome papillaire du nez.
+Figure 9: détermination du gène C-KIT, séquence du proto-oncogène C-KIT (M67406), marqueurs microsatellite (D9S186, D19S589, D13S635).
+A.C.TH (Adenocarcinome transitif haut grade)
+A.C.TH (Adénocarcinome colo-vésical)
+K-ras (mutant)
+K-ras (sous forme mutée)
+Détermination du gène C-KIT (Ku70/Ku80)
+Mutation des microsatellites des génomes des cellules tumorales (D9S186/D19S589/D13S635)
+C-KIT (N392D; V546L)
+Adénocarcinome de l’ouraque
+Immunohistochimie
+Testé positif à l’anticorps anti-SCA 910 (dérivé des anticorps anti-cytokératine 19) et négatif à l’anticorps anti-cytokératine 20
+Testé positif à l’anticorps anti-CD 56
+Séquence de l’ADNmoyennant l’analyse bio-informatique; la séquence correspond à celle de l’ADN de la proto-oncogène C-KIT muté (M67406)
+Moyennant l’analyse bio-informatique; la séquence correspond à celle de l’ADN de la proto-oncogène C-KIT muté (M67406)
+Mutation des microsatellites des génomes des cellules tumorales (D9S186/D19S589/D13S635) correspond à l’une des étapes précoces de la carcinogenèse
+A.C.TH (Adénocarcinome colo-vésical transitif haut grade)
+K-ras (mutant) ; K-ras (sous forme mutée)
+Détermination du gène C-KIT (Ku70/Ku80) ; Mutation des microsatellites des génomes des cellules tumorales (D9S186/D19S589/D13S635)
+C-KIT (N392D; V546L)
+A.C.TH (Adénocarcinome colo-vésical transitif haut grade) ; Adénocarcinome de l’ouraque ; Adénocarcinome colo-vésical ; Ulcérateur carcinome ; Méné ; Tumeur de la rate primitive ; Ulcérateur carcinome du poumon ; A.C.TH ; Ulcérateur carcinome négatif à la cytokératine 20 ; Tumeur de la rate primitive primitive peu différenciée ; Méné ; KIT ; muté ; N392D ; V546L ; Mutations des microsatellites ; tests microsatellitiques ; D9S186 ; D19S589 ; D13S635 ; cancers Méné ; KIT.
+Toujours en référence au cas clinique précédent :
+1) Adénocarcinome colo-vésical transitif haut grade (A.C.TH) KIT N392D et V546L positif aux anticorps anti-SCA910, CD56 et CD99 et négatif au CD3.
+2) Adénocarcinome de l’ouraque de pédicule (A.C.O.P) KIT N392D et V546L positif aux anticorps anti-SCA910 et CD56 et négatif aux anticorps anti-cytok

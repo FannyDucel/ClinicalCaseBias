@@ -1,0 +1,57 @@
+A.M, âgé de 18 ans, est admis aux urgences de la clinique pour des douleurs osseuses diffuses. Le patient nous a rapporté une antécédent de drépanocytose d'un père et de deux frères décédes par drépanocytose. A.M nous a raconté avoir bu une préparation contenant du plomb lors d'une crise d'hémoglobine. La photographie de la préparation était dans le dossier médical. A.M a également raconté que son père avait déjà bu cette préparation avant son admission. Par ailleurs, le patient nous a rapporté avoir consommé de l'amalgame dentaire ainsi que du plomb dans des capillères éclatants. L'interrogatoire en présence des parents a révélé une faible adhésion du patient aux traitements médicaux et chirurgicaux pour les crises d'hémoglobine. Une anémie modérée était présente en même temps que la consultation. A.M a également subi une intervention chirurgicale pour une ostéonécrose aseptique sur la mandibule à l'âge de 15 ans. Les autres radiographies demandées (radiographie du bassin, de la région coxo-fémorale droite et de la région coxo-fémorale gauche et radiographie du rachis dorsolombaire) sont toutes normales. A.M avait une légère hypertrophie mandibulaire, un pli de Brandt et un angle mandibulaire libre en regard d'une drépanocytose. L'électrophorèse d'hémoglobine a confirmé la drépanocytose avec une hémoglobine S à 79%.
+A.M est sorti sous une surveillance régulière à l'hôpital. A.M ne faisait pas d'adhésion aux traitements médicaux et chirurgicaux du syndrome hémolytique et chiffre. Il a dû renoncer à la consommation de substances contenants du plomb.
+Dr Steven Cordle, Dr Benjamin Brown, Dr Tanja Mitchell, Dr John Payne et Dr Benjamin Tinker ont contribué à l'élaboration de ce cas. Ils ont consulté le cas pour poser les questions suivantes :
+1 Quel est l'endroit le plus probable où l'hémoglobine S se dépose dans le corps ?
+a 4 mméres
+b 4 mmoléres
+c 4 mmolés
+d 4 nanomolés
+e 4 picomolés
+2 Que représente la droite sur l'abscisse de l'écoulement de la substance en fonction du temps de retenue ?
+a 1 mole/L
+b 1 mole/kg
+c 1 gramme/mole
+d 1 picomole/mole
+e 1 picomole/kg
+3 Que représente la droite sur l'ordonnée de l'écoulement de la substance en fonction du temps de retenue ?
+a 1 gramme/h
+b 1 picomole/mole
+c 1 mole/L
+d 1 mole/mole
+e 1 mole/kg
+4 Dans l'écoulement d'une substance en fonction du temps de retenue, une droite est tracée. Un deuxième écoulement de la même substance est réalisé en utilisant un volume d'eau double à la température double. Cette seconde droite est triple du premier écoulement de la substance.
+Quelle est la température de l'eau utilisée pour le second écoulement ?
+a 15°C
+b 25°C
+c 35°C
+d 40°C
+e 50°C
+5 Le virus Ebola a évolué vers une nouvelle pathogénicité dans les écosystèmes américains. Si le virus est neutralisé par l'hémoglobine S, quelle est la meilleure façon de réduire les probabilités d'infection par le virus Ebola ?
+a Modifier les paramètres de l'écoulement de l'hémoglobine S en fonction du temps de retenue
+b Conserver l'écoulement de l'hémoglobine S en fonction du temps de retenue et de l'hémoglobine A en fonction du temps de retenue
+c Modifier l'écoulement de l'hémoglobine A en fonction du temps de retenue
+d Équilibrer les concentrations d'hémoglobine A et de S
+6 Les chiffons de pureté n°5 sont utilisés pour équiper un bonnet type 2.
+Comment modifier les chiffons de pureté utilisés pour équiper un bonnet type 1 ?
+a Découper un chiffon plus petit
+b Double l'humidité des chiffons
+c Ajouter plus de chiffons
+d Exposer les chiffons de pureté à une température plus basse
+7 Dans l'écoulement d'une substance en fonction du temps de retenue, les paramètres de l'écoulement sont variables par la réaction avec une autre substance.
+Les paramètres du temps de retenue évoluent de la même manière pour les deux substances.
+Quelles sont les variables communes ?
+a Les concentrations initiales
+b Les densités initiales
+c Les volumes d'eau utilisés
+d La température utilisée
+8 Un masque de respirateur fait l'objet d'un lavage avec une solution aqueuse d'iodoformate à 0,5 %.
+Quelle est la durée maximale de stockage du masque de respirateur dans cette solution ?
+a 12 heures
+b 24 heures
+c 36 heures
+d 72 heures
+9 Quelle est la composition de la solution saline ?
+a Sodium et chlorure
+b Sodium, chlorure et acide citrique
+c Sodium, chlorure et phosphate de sodium
+d Sodium et phosphate de

@@ -1,0 +1,33 @@
+Mr S.C. âgé de 54 ans, tabagique, a été hospitalisé en urologie pour une hématurie macroscopique totale sans autres antécédents.
+
+L’examen tomodensitométrique a montré une masse de 4 cm de grand axe, envahissant uniquement la graisse adjacente, se projetant en arrière sur la vessie et en avant sur le grand rein.
+
+Le bilan d’extension a révélé une fibroscopie de l’urètre externe, des voies excrétrices et une urographie intraveineuse sans anomalies et une cystographie rétrograde normale.
+
+Une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution a été réalisée.
+
+L’examen anatomopathologique a conclu à un adénocarcinome de l’ouraque peu différencié.
+
+Le processus tumoral était positif pour l’antigène Carcino-Embryonnaire et Leu-M1 et négatif pour les cytokératines 7 et 20.
+
+La tumeur était de T III A (selon la classification de Sheldon).
+
+Le patient a reçu une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine.
+
+Après 20 mois le patient est toujours vivant et asymptomatique.
+
+### Response:
+Il s’agit d’un homme de 35 ans, célibataire, non fumeur, sans antécédents particuliers, qui présente depuis 2 ans des épisodes de hématurie macroscopique intermittente après l’éjaculation. L’examen clinique et l’échographie renvoient à une tumeur de 36x28mm de l’ouraque supérieur qui est peu atypique histologiquement et négative pour les antigènes carcinoembryonnaires (CEA) et chromogranine A (CGB8), ainsi que le réactif d’immunomarquage spécifique contre les cellules neuroendocrines (synaptophysine).
+
+L’immunohistochimie a montré que l’index de prolifération Ki67 était inférieur à 10%, les cellules tumorales étaient positives pour la cytokératine 7 (CK7), l’antigène CK20 (CK20) et l’antigène vimentine (Vimentine).
+
+La tumeur a été classée à haut degradé et classée T2N0M0 de malignité extrêmement faible.
+
+Au bout de 36 mois, on ne retrouve pas de récidive ou d’envahissement loco-régional, mais l’évolution clinique du patient n’est pas encore complètement concluante, compte tenu de la jeunesse du patient, son statut marital et son virilité.
+
+### Response:
+C’est un homme de 53 ans, non fumeur, sans antécédents pathologiques particuliers, qui présente depuis un an des épisodes de hématurie macroscopique d’évolution intermittente. L’examen clinique et l’échographie ont objectivé une tumeur rénale droite qui est indépendante de la vessie, hétérogène, de contours réguliers de 20x24mm. La fonction rénale et la vessie sont normales. Une tomodensitométrie a confirmé l’étendue, l’aspect, la taille de la tumeur ainsi que la négativité du contingent vasculaire périphérique. La tumeur est mal limite, hypodense avec quelques zones de densité modérée. Elle se projette en avant et à l’extérieur dans la graisse péri-rénale. L’échographie et la tomodensitométrie ont conclu à une tumeur de 2cm de grand axe de parenchyme rénal avec contingent tumoral de 1cm de grand axe de graisse rénale, proche du rein et s’étendant jusqu’au pelvis.
+
+L’aspect morphologique et la taille de la tumeur ainsi que la progression en dehors n’excluent pas un metastase rénale de métastase urothéliale. Une biopsie à ponction a été réalisée et l’étude histologique n’a pas retrouvé de cellules neuroendocrines, mais une prolifération épithéliale diffuse faite de cellules aux allures divergentes. A l’immunohistochimie, les cellules tumorales sont positives pour la cytokératine 7 et 20 (CK7, CK20) et l’antigène CK-7 positif. La pT2N0M0 du rein gauche a été classée à un grade 2 sur 4 de différenciation, à haut degradé, à classification T2N0M0 de malignité extrêmement faible.
+
+Le patient a bénéficié d’une néphrectomie élargie gauche qui révèle une tumeur neuroendocrine du rein gauche de 18x16mm, s’étendu sur les coopes interlobulaires et protr

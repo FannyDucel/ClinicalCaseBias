@@ -1,0 +1,26 @@
+Il s'agit d'une patiente âgée de 64 ans, tabagique et diabétique depuis 10 ans, ayant comme antécédents: infarctoide inaugurale au niveau de l'IDM circonférentiel non thrombolysé il y'a deux ans avec évolution favorable. L'examen clinique trouvait une patiente en bon état général, avec une abdomen plein, une auscultation cardio-pulmonaire normale. L'électrocardiogramme retrouve une tachycardie sinusale à 95bpm, sans dysrhythmie. L'auscultation cardiopulmonaire retrouve un souffle systolique de préson, un râles crépitant bilatérale diffus et un mouvement cardiaque apical négatif. La coronarographie a montré une CIV musculaire avec un ampage à 20%. Le ventricule gauche n'était pas dilaté. L'ECG a mis en évidence une akinésie apicale et inféroseptale avec une dysfonction systolique. La coronarographie a confirmé la présence d'une CIV musculaire avec des lésions bi-tronculaires sur l'aire mi-ventriculaire gauche et un anévrysme du ventricule gauche. La patiente a bénéficié d'une fermeture chirurgicale de la CIV suivie d'une cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite. L'évolution était bonne. L'examen clinique à 3 mois de son traitement a retrouvé une diastolique pulsatile rentrant dans la moyenne. Les aires mi-ventriculaires gauches étaient sténosées à 70% et 80%. La coronarographie retrouvait un décollement des plaques intimal-glaisines les lésions bi-tronculaires et un anévrysme du ventricule gauche. La fermeture chirurgicale de la CIV et le monopontage aortocoronaire sur la coronaire droite était durable. La patiente est suivie au mois et la même configuration du CIV musculaire a été retrouvée avec un CIV intact. L'évolution était bonne. L'examen clinique à 3 mois de son traitement a retrouvé une diastolique pulsatile rentrant dans la moyenne. Les aires mi-ventriculaires gauches étaient sténosées à 70% et 80%. La coronarographie retrouvait un décollement des plaques intimal-glaisines les lésions bi-tronculaires et un anévrysme du ventricule gauche. La fermeture chirurgicale de la CIV et le monopontage aortocoronaire sur la coronaire droite était durable. La patiente est suivie au mois et la même configuration du CIV musculaire a été retrouvée avec un CIV intact. L'évolution était bonne.
+
+### Response:
+<nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+</nocartable>
+
+<désolution/insertion>

@@ -1,0 +1,49 @@
+Il s’agissait d’un patient âgé de 54 ans, qui a présenté, 2 mois avant son admission, une hématurie d’apparition brutale, sans hématémèse et sans hématémèle, ni pollakiurie ni fièvre.
+
+L’examen physique a trouvé un patient apyrétique, un abdomen sensible et mictionnel et une prostate bi-vasculaire (2cm), une dilatation des voies excrétrices urinaire et rétro-urinaire ne pouvant être interprétées précisément.
+
+L’examen tomodensitométrique a révélé une masse de 4 cm, blanche, lobulée, indépendante de la paroi vésicale, confinée en péri-ombilicale, envahissant uniquement la graisse adjacente sans atteinte des organes adjacents. Elle était responsable d’une déviation de l’ombilic en avant.
+
+Le patient a eu une cystoprostatectomie radicale totale associée à une omphalectomie avec entérocystoplastie de substitution (longue section de l’intestin grêle).
+
+L’étude macroscopique a trouvé une tumeur à contours irréguliers mesurant 5x5x2,5 cm, nodulée, noircie et lobulée, sans attaches pariétales ni urothéliales.
+
+L’étude microscopique a montré un adénocarcinome de l’ouraque peu différencié.
+
+Aucune différenciation endocrine ni mullérienne n’a été notée.
+
+La positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaise et Leu-M1 ainsi que la négativité pour les cytokératines 7 et 20 ont permis de retenir le diagnostic de carcinome à cellules rénales de type T III A (selon la classification de Sheldon).
+
+Les suites opératoires ont été simples.
+
+Un traitement adjuvant par chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine a été réalisée.
+
+Le patient n’a pas récupéré sa fonction excrétrice sans pour autant avoir présenté de récidive loco-régionale.
+
+Après un recul de 24 mois, le patient ne présentait pas de récidive et on ne dénotait pas de métastases.
+
+Le patient est toujours asymptomatique avec une fonction excrétrice normale.
+
+Une surveillance de sa fonction rénale sera indiquée durant 5 ans.
+
+### Response:
+Il s’agissait d’un patient âgé de 60 ans, qui a présenté une hématurie brutale, sans notion de traumatisme, sans hématémèse ou hématémèle, ni pollakiurie ni fièvre, ni syndrome obstructif ni thrombose veineuse, ni hématémèse, ni déficit de tonus vésical. L’examen tomodensitométrique a révélé la présence d’une masse tumorale de la vessie. Le diagnostic de vessie a été retenu et le patient a été opéré en urgence pour tumeur de la vessie. L’examen tomodensitométrique et l’examen anatomopathologique ont conclu en un carcinome épidermoïde grade III de la vessie.
+
+Le patient a eu une vessiectomie avec curage lymphoïde inguinal bilatéral sans complications, les suites opératoires ont été simples. Le patient a été revu en consultation 6 mois après l’intervention.
+
+La fonction excrétrice est conservée, aucune métastase n’a été notée. Un suivi régulier de la fonction rénale sera indiqué durant 2 ans.
+
+### Response:
+Il s’agissait d’un patient âgé de 60 ans, qui a présenté 3 mois avant son admission une hématurie d’apparition brutale, sans notion de traumatisme, sans hématémèse ou hématémèle, ni pollakiurie ni fièvre, ni syndrome obstructif ni thrombose veineuse.
+
+L’examen tomodensitométrique a révélé une tumeur au dépendant vésical, comportant une excroissance du fond vésical sans atteinte des organes voisins.
+
+Le diagnostic de carcinome épidermoïde du col vésical a été retenu et le patient a été opéré. L’examen tomodensitométrique a conclu en un carcinome épidermoïde grade II du col vésical.
+
+Le patient a eu une cystectomie partielle à large colique vésical.
+
+L’examen macroscopique a trouvé une tumeur bourgeonnante, homogène, assez large d’allure indifférenciée, faisant 4x4cm, sans comblement de lumière vésicale.
+
+L’examen microscopique a trouvé un adénocarcinome du col vésical à cellules carcinomateuses sans nécrose.
+
+La tumeur ne présente pas

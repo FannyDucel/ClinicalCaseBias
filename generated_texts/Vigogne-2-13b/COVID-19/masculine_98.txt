@@ -1,0 +1,19 @@
+Il s´agit d´un jeune de 20 ans étudiant, référé au service des maladies infectieuses pour prise en charge d´une fièvre d´apparition brutale accompagnée d´une éruption cutanée généralisée ; qui a débuté le 11 janvier 2021 dans un contexte de contact avec son père ayant COVID-19, mais qui ne présentait aucune atteinte cutanée au niveau des mains et aucune toux ni dyspnée, pas d´oubli de l´histoire vaccinale, le reste de l´examen somatique est sans particularité.
+Le patient a été hospitalisé dans le service d´hématologie pour prise en charge d´une urticaire aigue et un déficit immunitaire. Le patient était est néonataire ; c’est le premier d’une fratrie de deux. Le test PCR positif à l’ADN de SARS-CoV-2 a été confirmé chez l’enfant et sa mère, mais négatif pour le père. Il a été retenu l´hypothèse d´une agressivité croisée, due à une cure de l’injection d´Etanercept à l’enfant, qui est une voie de transmission possible. Il était sans adénopathie, asymptomatique, non apyrétique, sans détresse respidatoire ni hémodynamique. Le bilan biologique a montré un syndrome inflammatoire sans anémie, avec une hyperleucocytose à 18 109/mm3. La tomodensitométrie thoracique a montré une simple opacité micronodulaire alvéolaire. La ponction bronchioloalvéolaire (PBA) a montré la présence d´un foyer de pneumopathie gauche, qui est non spécifique. Le bilan phosphocalcique n´a pas montré de syndrome phosphocalcique.
+Le patient a été mis sous hydroxychloroquine et azithromycine pour la recherche de la pneumopathie associée, en attendant les résultats du bilan immunologique (les niveaux de protéine C réactive, d’immunoglobulines et le titre de l’anticorps anti nucléaire sont normaux). Le patient a été mis sous corticothérapie à titre augmentatif, sans amélioration clinique, avec une aggravation de l´hypotension artérielle et une aggravation de l´hyperleucocytose avec une augmentation du taux d´hémoglobine, le reste du bilan biologique est normal. Le patient est décédé à J3 d´admission, le traitement a été relayé par un séquestrant d’aquaporine, et il a été mis sous oxygène. La douzaine de doses d’injection d’Etanercept qui a été administrée au patient, est prise comme la cause principale du décès. Le reste de la famille est devenu positif par le test PCR pour SARS-CoV-2. Le tableau II présente le protocole thérapeutique qui a été appliqué par le patient.
+
+Le tableau III présente le bilan immunologique qui a été effectué.
+
+Tableau II : protocole thérapeutique effectué par le patient.
+
+Médicament Dosage/Protocoles Dates Observations
+Désfonctionnement des Greffes Surfaces de la Patiente Maladie Systemique et Inflammatoire
+Etanercept 50mg semaine, Par injection sous-cutanée 28/12/2020 31/01/2021 Appel à l’hématologie
+Syndrome inflammatoire, Urticaire
+Hydroxychloroquine, Azithromycine
+Hydroxychloroquine 200 mg, 2 c. i. 25/01/2021 26/01/2021 Le jour 1 de l’hydroxychloroquine, le patient présentait des troubles psychomoteurs, avec une modification du comportement de l’enfant, l’ajout de l’azithromycine a amélioré l’état neuropsychique de l’enfant. Le jour 2 de l’hydroxychloroquine, le patient était asymptomatique.
+Syndrome inflammatoire, Hypoxie et hypotension artérielle, Hémoglobine augmentée, Test de Contraste
+Corticoïdes tolérable 20 mg/Kg/j 26/01/2021 28/01/2021 Déclin rapide de la force pulmonaire et de la pression artérielle systolique, Hémoglobine à 14g/dl. Le début de la sédation, avec séquestrant d’aquaporine.
+Syndrome inflammatoire, Hémoglobine augmentée, Test de Contraste
+Corticoïdes tolérable 40 mg/Kg/j 28/01/2021 30/01/2021 Un mauvais équilibré de la pression artérielle systolique
+Test de Contraste, Céphaline, Globine, PPP 15 30/01/2

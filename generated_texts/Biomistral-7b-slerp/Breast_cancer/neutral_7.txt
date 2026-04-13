@@ -1,0 +1,39 @@
+Il s’agissait d’une jeune patiente de 26 ans, nulligeste nullipare, mère de deux frères en bon état général. Aucune de ses parents ou sœur n’avait présenté de pathologie mammaire. Sa mère et sœur décédées d’un cancer du sein. Elle a été admise dans le service pour la prise en charge d’un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Une adénopathie de 1.5 cm au niveau du creux axillaire droit a été découverte au cours de l’examen clinique. Elle était opérée avec un taux d’ANS très élevé et une fièvre. Une induration de la masse a été notée au toucher. L’examen de la masse n’a pas montré d’adénopathie.
+
+L’échographie mammaire a montré un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, une masse de 2 cm au niveau du quadrant supéro externe du sein gauche, et une adénopathie de 1.5 cm au niveau du creux axillaire droit (Figure 1). Le scanner thoraco-abdomino-pelvien réalisé ne montrait pas de métastase sur l’ensemble de l’organisme. La mammographie était normale.
+
+Une microbiopsie des deux lésions cliniques des deux seins avait été réalisée montrant un carcinome canalaire infiltrant SBR III. Le bilan d’extension à distance était normal, notamment la radiographie pulmonaire et la tomodensitométrie abdominopelvienne. Les marqueurs tumoraux étaient normaux, le LDH et les récepteurs hormonaux négatifs et le test de l’HER 2 négatif. La patiente a été classée T3N1M0 selon la classification TNM AJC. Une chimiothérapie néoadjuvante a été réalisée à base de quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² selon le protocole FAC, puis deux cures de docétaxel, suivies d’une chirurgie radicale type Patey bilatéral (mastectomie élargie bilatérale et lombodécallation bilatérale) et d’une radiothérapie à doses totales de 50 Gy sur le lit tumoral et 40 Gy sur les adénopathies ganglionnaires en cassettes supra et infra claviculaire, avec un décollage du plancher du thorax et un omoplatectomie gauche sur la branche antérieure. Une chimiothérapie et radiothérapie post opératoires étaient administrées pendant six mois : quatre cures de docétaxel et de cisplatin, suivies d’une radiothérapie sur la cicatrice chirurgicale en cassettes sus et sous claviculaire, suivie d’une radiothérapie sur la branche antérieure et latérale de l’omoplate.
+
+Un recul de 42 mois s’était écoulé depuis la dernière mise en forme. L’étude clinique n’avait pas montré de récidive, le bilan radiologique a été normal et la CA 15-3 à 81 mui/ml.
+
+Les Lobules estiment l’expression théorique en biométrie : d = 2.399 mm ; A = 3.658.234 mm3.
+
+La valeur du moment de pendaison est : 2.521 mm3.
+
+Le décollement de la pince est estimé par la distance entre la pince et l’impression : 385 mm.
+
+La valeur du nombre de plaques est de 3.
+
+La valeur du coefficient de tension optimale de la pince à 1.7.
+
+Ainsi, la valeur de l’énergie totale est : 1.032 joules.
+
+La valeur de l’énergie réactionnelle lors du décollement de la pince est estimée à : 412 joules.
+
+L’équilibre dynamique de la pince est calculé par la valeur de la tension après décollement, 1.08 N, multiplié par le rayon de courbure et la distance entre le rayon et la pince : 1.899 N.
+
+L’équilibre dynamique de la pince est d’environ 10% supérieur à la valeur de la tension de la garde-main : 1.80 N.
+
+L’échelle de mesure est : mm.
+
+Le degré de calibration est : 0,001.
+
+L’interception de l’élixire de contrôle est : 138,3°.
+
+L’interception de l’élixire de la plaque de calibration est : 103,1°.
+
+La distance interceptée est de 35,2°.
+
+Le degré de calibration est de : 0,0066.
+
+Il existe une variation de l’angle d

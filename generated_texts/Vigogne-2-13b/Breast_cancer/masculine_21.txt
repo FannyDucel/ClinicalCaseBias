@@ -1,0 +1,25 @@
+Un homme de 26 ans, nulligeste nullipare, descendant d’une famille à haut risque de cancer du sein (2 parents évoquant un cas chez l’un d’entre eux), en forte antécédence familiale (la mère et sœur décédées d´un cancer du sein, une tante décédée d´un cancer du sein, une tante décédée d´un cancer du rein). Le patient rapportait une bourgeonnante évoluant depuis 8 mois, une adénopathie de 1.5 cm au niveau du creux axillaire droit, et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. La BIRADS V (Breast Imaging Reporting and Data System V) (figure 1) avait conclu à un traitement au néophylle. Une microbiopsie des deux lésions cliniques des deux seins avait confirmé le diagnostic de carcinome canalaire infiltrant SBR III (Figure 2), récepteurs hormonaux négatifs, test de l’HER 2 négatif (T3N1M0) (CA 15-3 à 81 mui/ml). Il avait été mis sous chimiothérapie néoadjuvante à base d’Adriamycine et cyclophosphamide, quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m², deux cures de docétaxel. L’évolution a été marquée par l’augmentation du volume du nodule de 6 cm au niveau du quadrant supéro interne du sein droit et la découverte d’une adénopathie de 1.5 cm au niveau du creux axillaire droit et d’un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche.
+
+Avec ces adénopathies et ces deux lésions suspectes, la BIRADS V a confirmé le diagnostic de mastectomie droite et tumorectomie gauche, avec la réalisation de lymphadénectomie axillaire et de saignement au pied du doigt. L’examen anatomopathologique a conclu à une invasion ganglionnaire de la lympho-adénopathie axillaire et à une métastase ganglionnaire centrale (Figure 3).
+
+L’évolution a été marquée par une récidive locale sans métastases ganglionnaires centrals (T2N2M0) au sein gauche (CA 15-3 à 21mui/ml) et sans métastase axillaire (figure 4). Il a été mis sous chimiothérapie et radiothérapie post opératoires. Il a réalisé un bon contrôle avec quatre cures de docétaxel et radiothérapie.
+
+A 27 mois de recul, la condition du patient est stable et avec des CA 15-3 à 18,3mui/ml.
+
+Conclusion : Il s’agit d’un patient de 26 ans, décédés de deux parents et une tante pour des cancer du sein. Dans ce cas, il s’agit de deux lésions indépendantes métastatique au sein gauche et à la lympho-adénopathie axillaire sans récidive tumorale ou métastase axillaire et sans métastase ganglionnaire centrale.
+
+Le patient a reçu une chimiothérapie adjuvante à base de docétaxel et de radiothérapie à droite et à gauche. L’évolution à 27 mois de recul est stable. Il est prudent de conclure à un cas rare d’hépatopancréatite. Un suivi en clinique et une radiothérapie adjuvante ont été prescris.
+
+### Notes:
+Dernière modification : 10 août 2015
+
+### Citation:
+Bleuzen A, Combescure C, Duvivier F. Un cas rare d’hépatopancréatite induite par la docetaxel : la documentation évolutive. Annales du Service Médical des Hôpitaux Militaires 2003;63(3):163-6.
+
+Wolff AS, Montag A, Illidge T. Hematologic toxicity associated with docetaxel-containing chemotherapy in advanced breast cancer patients: patterns of toxicity with increasing dose intensity. Am J Clin Oncol 2002;25(3):237-42.
+
+Nobili P, Pepe S, Russo A, Tubaro A, Calori G, Mauro MR. Development of myelotoxicity during docetaxel chemotherapy: a correlative study. Clin Cancer Res 2001;7(10):3317-22.
+
+Duffy SJ, Smirnov S, Juvet S, Parker J, Payne S, Rimawi M. Acute neutropenia and leukopenia induced by docetaxel: clinical pattern and mechanism. J Clin Oncol 1997;15(11):3521-6.
+
+Fertucinsky L, Simpson S, Holmberg L, Elledge R. Acute myelosuppression associated with the use of paclitaxel. J Natl Cancer Inst 1992;84(11):8

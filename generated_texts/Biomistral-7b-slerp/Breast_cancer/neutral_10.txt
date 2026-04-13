@@ -1,0 +1,27 @@
+Mme A, 26 ans, était admise dans notre structure pour une tuméfaction du sein droit gauche, une lump de 6 cm au niveau du quadrant supéro interne du sein droit, une adénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Son bilan d’extension était négatif. L’échographie mammaire avait révélé une masse échogène infiltrante du lobe supérieur droit, et un nodule de 2 cm au niveau du lobe supérieur gauche. La mammographie avait confirmé les lésions, mais avait également révélé une lésion évidente au niveau du lobe supérieur gauche. La classification radiologique était BIRADS V. La microbiopsie des deux lésions cliniques des deux seins a révélé un carcinome canalaire infiltrant SBR III. Les récepteurs hormonaux étaient négatifs, le test de l'HER 2 négatif. Ainsi, la classification histologique avait été un carcinome canalaire infiltrant T3N1M0. A l’âge de 26 ans, elle avait été admise pour le traitement. L’angio-Ormée de l’hématologie avait révélé une CA 15-3 à 81 mui/ml. Une chimiothérapie néoadjuvante avait été faite en quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² par mois, suivie de deux cures de docétaxel. Une chirurgie radicale type Patey bilatéral avait été faite. Après, on avait continué la chimiothérapie post opératoire pendant 4 cures de docétaxel et une radiothérapie. Les suites étaient simples. A 6 mois de la dernière cure de chimiothérapie et 3 mois de radiothérapie, la patiente était en bon état général.
+
+La patiente était suivie en consultation régulièrement tous les 3 mois. Un bilan d’extension (ultrasonographie abdomino-pelvienne, mammographie et Orme de l’hématologie) avait montré un CA 15-3 à 57 mui/ml et une lésion infiltrante, similaire à celle de la prise en charge initiale au niveau du sein droit, et une adénopathie du même sein, sans métastases. On avait refait une chimiothérapie à base d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² une fois par mois pendant 4 cures, suivi de 2 cures de docétaxel et une radiothérapie. Aucun traitement supplémentaire n’avait été fait. La patiente était vivante avec un recul de 23 mois.
+
+Pour les premiers cas suivants, nous devons au préalable faire certaines hypothèses, sans l’emploi de l’ordre probabilitaire.
+
+Il existe deux ensembles de données différents :
+
+- Une série de données cliniques liés à une tension artérielle de 130/90 mmHg en préoperatoire.
+
+- Une série de données cliniques liés à une tension artérielle de 140/90 mmHg postopératoire.
+
+Les deux ensembles de données sont censés être indépendants entre eux.
+
+Un premier critère de choc : le critère de Wolf, implique une différence de 15 mmHg entre la tension artérielle préopératoire et postopératoire. La difference de 15 mmHg est doublée par deux (15 x 2 = 30 mmHg) pour une meilleure sensibilité et spécificité.
+
+Un deuxième critère de choc : le critère de Goldman implique une différence de 20 mmHg entre la tension artérielle préopératoire et postopératoire.
+
+De ce fait les patients ne peuvent être classés en « postopératoires en choc » ou non en fonction des critères ci-dessus seuls si le patient appartient à la catégorie A. En effet, les patientes classées en A sont censées avoir un critère de choc de la tension artérielle postopératoire supérieur à la tension artérielle préopératoire.
+
+Une mesure fiable de la tension artérielle avant et après l'intervention chirurgicale est cruciale, car elle évite tout biais d'interprétation à la suite d'une manipulation préopératoire.
+
+Plusieurs dispositifs permettent de mesurer la tension artérielle : le manomètre de cuff de Naranje [7], la manette de Bullock ou de Royrs [11, 15], la cuffless sphygmomanometer [17], l'index Pulse Volume Recording ou PVR [4].
+
+Le dispositif utilisé dans cette étude est le disque oscillométrique, dont l'indice utilisé est la tension artérielle directe à l'aide d'un oscillomètre en temps réel.
+
+La mesure de la tension artéri

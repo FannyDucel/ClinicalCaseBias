@@ -1,0 +1,40 @@
+Monsieur M, 49 ans, a été adressé en consultation urologique pour des douleurs périnéales, des épisodes de douleur au cul-de-sac de Douglas, une dysurie, une pollakiurie, une uréthrocystographie montre une volumineuse prostate, dure et irrégulière, ainsi que deux microsphères urétéraux gauche (Fig 1). Le dosage PSA à 3 reprises a montré un taux normal. Un biopsie prostatique écho-guidée a été réalisée et le résultat est revenu en faveur d’une tumeur maligne, la biopsie prostatique écho-guidée a été positive pour un carcinome de type sarcomateux. Par ailleurs, les biopsies des voies urinaires supérieures n’ont montré aucun niveau carcinomateux. L’immuno-marquage par l'anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales, la staining par l’anticorps antiactine muscle lisse, l’anticorps anti-desmine muscle lisse a été négatif.
+
+L’image typique de ce type de tumeur est montré sur la figure 2.
+
+La patiente a été programmée à l’opération, avec une tomodensitométrie abdomino-pelvienne, qui est revenue normale et n’a pas mis en évidence de localisations secondaires.
+
+La cystoprostatectomie a été réalisée en première intention (Figure 3) avec un résultat anatomopathologique en faveur d’un carcinome sarcomatoïde de la prostate.
+
+Le patient est en bon état général, ne présente pas de lésion cutanée, ni de lésions osseuses à l’étude tomodensitométrique abdomino-pelvienne.
+
+Le plan d’action adopté était une urostomie continent dans l’espérance d’une survie élevée.
+
+L’évolution a été marquée par une récidive localisée de la tumeur, sans écartement dans les structures veineuses. Un traitement par radiothérapie sur le plan pelvien a été réalisé avec une intense sensibilité au niveau local. Le résultat est acceptable pour le moment avec une régression visuelle du planin malin.
+
+La survie à 1 an est estimée à 50%, le nombre de cas est encore insuffisant pour des analyses statistiques sérieuses.
+
+La survival est modélisée par la fonction de Barenghi qui suit la formule :
+
+H(t)=H0exp(-λt)
+
+avec :
+- H(t) la fonction d’apparence d’âge : elle représente la probabilité d’observation d’un temps de survie supérieur à t, dans un groupe d’individus ayant un âge de H0 ;
+- H0 l’âge de l’individu au moment où le temps de survie est de 0 ;
+- λ le taux de décroissance, tel que défini par le temps de doublage.
+
+Sur la figure 4 nous pouvons noter l’intensité du taux de décroissance ; le temps de doublage est estimé à 0,54 ans.
+
+Ces résultats peuvent être considérés comme une première approximation. La bonne conservation de la functionnnelité urinaire est toujours la principale indication du choix d’une cure prostatique, l’attitude de traitement par radiothérapie pelvienne sera justifiée dans ce cas.
+
+Le diagnostic de carcinome sarcomatoïde peut être porté sur la partie écho-guidée, ce qui permettrait d’espérer une meilleure survie à long terme.
+
+Les effets de l’âge de la patiente, la localisation postérieur, l’absence de microsphères sur l’écho-guide, l’absence de métastases secondaires, le risque de lésions cutanées ont limité la potentialité d’un traitement par HIFU.
+
+L’observation rapportée évoque une formule clinique rare, mal documentée sur la littérature, dans laquelle les différenciations sarcomateuses sont simultanées avec des différenciations épithéliales, alors que dans les carcinomes mixtes, le stroma sarcomateux ou chondroïde est secondaire à une différenciation épithéliale. Cette formule clinique présente un taux très bas d’incidence avec une prédominance masculine [1, 3].
+
+Des différenciations sarcomateuses ont été décrites dans les carcinomes coliques [2], urinaires [4], bronchiques [5, 6], gastriques, anale et du foie [3].
+
+L’utilisation du terme « carcinome à composante sarcomateuse » n’est pas recommandée. En effet, un mélange de cellules carcinomateuses et sarcomateuses présente une origine monoclonale et doit être classé comme carcinome à différenciation sarcomateuse.
+
+Une différenciation purement sarcomateuse est considérée comme un carcinome sarcomate

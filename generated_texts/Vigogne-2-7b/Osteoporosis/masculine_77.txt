@@ -1,0 +1,19 @@
+Une jeune femme de 30 ans, sans antécédents pathologiques notables, a présenté pendant un an des douleurs lombaires à type de bourrage de charrette associées à une asthénie physique et psychique depuis quelques mois et a consulté aux urgences. L'examen clinique a objectivé un abaissement de la désarticulation lombaire (DP) de 16 mm, une rigidité des plis sacrés et une paralysie du sein droit. L'examen ostéoarticulaire a mis en évidence une cyphose lombaire avec une saillie des apophyses épineuses. Le patient était asymptomatique lors des radiographies du rachis lombaire. Les dosages de CRP, de vitesse de sédimentation et de créatine phosphokinase étaient normaux. La calcémie à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L et la calciurie à 2,15 nmol/L/24 h étaient normaux. Les dosages hormonaux strictement normaux. La parathormone basse. L'absorptiométrie biphotonique à rayons X a permis de mesurer la densité minérale osseuse (DMö) du nez (1.47 g/cm²) et de mettre en évidence une DMö fémorale (0.62 g/cm²) à 72 % de la normale et une DMö lombaire (2.20 g/cm²) à 52 % de la normale. Les douleurs lombaires ont été traitées par une pédicule lombaire paracétamol (2 g/j) et une inhibition de la recapture synaptique par l'amytriptiline (50 mg/j). Un scanner a montré la présence d'un osteochondrome du corps vertébral lombaire gauche. Le diagnostic d'ostéoporose fracturaire a été retenu. Ce patient a été mis sous desvemetabine 40 mg/j et cinétocétine 2,5mg/j pendant 6 mois, avec rééducation et adaptation de la posture. La persistance des douleurs lombaires au cinétocétine, la prise en charge a été complétée par un traitement par paracétamol (2 g/j) et amytriptiline (50 mg/j). Le patient s'est réchauffé progressivement avec régression des douleurs lombaires et amélioration de l'asthénie. Il est absent des consultations à trois mois.
+
+Nous avons discuté en réunion de conseil multidisciplinaire (odontostomatologistes, chirurgiens orthopédistes, neurochirurgiens, gastroentérologues, rhumatologues, chirurgiens, psychiatres et infirmiers). Le diagnostic retenu a été celui d'ostéoporose fracturaire responsable d'une cyphose lombaire avec aplasie des os épineux.
+
+Le tableau I résume les données de ce cas clinique.
+
+### Response:
+Tableau I : Doseurs / Rédacteurs :
+Nombre 1 : Ali Laâray ; Nombre 2 : Raed El Mestir ; Nombre 3 : Mohammed Ouata ; Nombre 4 : Mohamed Touati ; Nombre 5 : Fatima Raoui ; Nombre 6 : Souad Nosseir ; Nombre 7 : Khaled Henni
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 3 ;
+Il doit contenir les éléments suivants :
+douleurs lombaires ; déficit de la dérivation sphinctérienne ; admission ; chute ; traumatisme abdominal ; difficultés alimentaires ; apyrexie ; oxygénothérapie ; pénicilline ; amoxicilline ; association ; amoxicilline+ acide clavulanique ; estomac ; scanner ; localisation ; calcinose hépatique ; mesurée ; 123UI/l ; lactate d'hydrogène ; 12 mmol/l ; 80 mmol/l ; échographie abdominale ; abcès ; antibiotiques ; diarrhée ; Tableau 2 ; tableau ; croix ; désarticulation des omoplates ; paracétamol ; antalgique ; antiémétique ; mise sous ; magnésium ; déficience de vitamine D ; suivi clinique ; consultation ; évaluation.
+
+### Response:
+Un enfant de 3 ans hospitalisé pour maladie de cystinosique traitée par voie orale (piruvate de cystéamine 300mg/Kg/j et dimercaptopropyl tri-glycol 400mg/Kg/j), présentait 1 mois après un suivi en consultation une diarrhée liquidienne évoluant depuis 15 jours sans digestive oedème ni séquelle neurologique. Le début de la diarrhée remontait à deux jours après une chute du toit-terrasse de la maison familiale (

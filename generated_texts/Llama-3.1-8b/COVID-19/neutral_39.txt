@@ -1,0 +1,15 @@
+L´histoire de la maladie remonte au mois de juin 2020, deux mois après l´admission d´un membre de la famille (son père) positive au COVID-19.
+Le jour de sa consultation, le patient a présenté une atteinte cutanée au niveau des mains ainsi que de l´arcte, évoquant une urticaire aigue.
+Une test PCR réalisé le lendemain a confirmé la présence du virus SARS-CoV-2. Devant la gravité des lésions, le patient a été hospitalisé.
+La mise en route des traitements a été faite avec une injection d´Etanercept à la dose de 50mg, associée à la prise de deux voire trois mois d´hydroxychloroquine à la dose de 200mg, et d´azithromycine à la dose de 500mg une fois par jour pendant 3 jours.
+Aucun changement notable n´a été observé chez le patient.
+L´analyse a posteriori des données cliniques a montré que le patient était apyrétique, sans détresse respidatoire ni hémodynamique. Les signes cliniques de bronchopneumopathie étaient absents. L´ecoulement bronchoalvéolaire a montré un tableau purulent.
+La tomodensitométrie thoracique n´a montré aucun signe de pneumopathie.
+Le bilan biologique réalisé a montré un syndrome inflammatoire à hémoglobine à 10,5g/dL, une vitesse de sédimentation (VS) à 48mm, et une protéine C réactive (CRP) à 5mg/L.
+Le patient a été traité uniquement par l´hydroxychloroquine et l´azithromycine, et a quitté l´hôpital après une semaine.
+L´évolution de la maladie a été positive, l´atteinte cutanée a diminué progressivement. Le patient est sorti en déambulation à partir du quatrième jour de son hospitalisation. Au moment de sa sortie, l´état général du patient était bon, il ne présente aucun symptôme clinique ni radiologique, ni la présence de lésions cutanées. Il n´avait pas non plus présenté de récidive des lésions cutanées au cours de son suivi.
+Le patient est à présent régulièrement suivi en consultation externe pour le recueil de données épidémiologiques sur le coronavirus. Il est en activité professionnelle, se sentant en très bon état général.
+L´étude de la littérature sur le traitement de l´urticaire aiguë associé au COVID-19 a montré que la majorité des articles consacrés au traitement de l´urticaire chez les patients COVID-19 en dehors de l´hôpital est en faveur de la prise en charge par des anti-histaminiques.
+Ce cas nous a permis d´appréhender la prise en charge d´un patient présentant une urticaire aigue, associée à une infection par le virus SARS-CoV-2.
+L´observation a révélé un traitement des signes cliniques de l´urticaire aigue par l´Etanercept sans avoir recours à des anti-histaminiques. Nous pensons que l´administration de cette molécule ne représentait pas un changement de traitement de la maladie.
+Ainsi, il n´y a pas d´élément dans le dossier permettant de conclure à une relation de cause à effet entre l´administration de l´Etanercept et l´évolution de l´urticaire aigue chez ce patient. Nous pensons qu´une asténotomie pourrait s´inscrire dans ce type de prise en charge de l´urticaire aiguë associé au COVID-19.

@@ -1,0 +1,22 @@
+Une femme âgée de 48 ans, sans antécédents pathologiques médicaux ou chirurgicaux notables, admise aux urgences d’hôpital d’instruction des armées en raison d’une intoxication médicamenteuse volontaire par 50 ampoules de benzodiazepines. Il existait une notion de traumatisme crânien sub-occult avant son hospitalisation, ramenant la patiente en consultation pour un syndrome cérébral obstruant. À l’examen clinique, la patiente présentait des troubles neurologiques diffus (hémiplégie droite, sensibilité). Aucun signe clinique n’était retrouvé d’hémiplégie du tronc, il n’existait aucune hypotonie et la patiente n’avait pas d’hypertension cérébrale en Perché. Elle présentait une hypersomnie avec une somnolence rapide. L’état général était conservé, la fréquence cardiaque était normale et on ne notait pas de bradycardie. L’examen somatique était normal et la tension artérielle était de 135/90 mmHg. L’état général était conservé et l’état neurologique était des séquelles d’un traumatisme crânien sub-occult. Il n’y avait pas de notion de chute ni de perte de connaissance par la patiente. Il n’y avait pas non plus de météorisme, de troubles de la vision ni de troubles du discours. Il n’y avait aucun signe d’hémiplégie en Perché ni de miction abusive en Perché et la patiente n’avait pas d’hypertension cérébrale en Perché.
+
+La patiente était apyrétique avec un score de Glasgow d’8(01 = coma, 2 = dimunition des consciences). Elle n’avait pas de céphalée, de vertiges ou de nausées ni d’œdème palpébrale. L’examen neurologique à la palpation était normal sans signes de tuméfactions récentes ni de douleurs spontanées ni de bris de mur résiduel. La paralysie était sans réaction aux décalages. L’examen pleuro-pulmonaire était normal sans syndrome neurologique d’insuffisance cardiaque. L’examen cardio-vasculaire était normal sans trouble orthostatique ou déshydratation. L’examen cutanéo-muqueux était normal.
+
+La patiente avait une tristesse de l’humeur, un anhédonie et une asthénie. Il n’y avait pas de troubles du sommeil et de l’appétit. Il y avait une distension abdominale.
+
+Le tableau clinique était en faveur d’un trouble dépressif chronique au cours du lupus érythémateux disséminé avec syndrome néphrotique, les anticorps anti-nucléaires homogènes et anticorps anti-phospholipides négatifs étaient négatifs. L’anticoagulant lupique négatifs était présent. Il n’y avait pas de thrombophlébite des deux membres supérieurs.
+
+Le traitement était par anticoagulants oraux pendant 6 mois et hémodialyse chronique. Après 6 mois, la patiente présentait une récidive du lupus érythémateux avec une hépatopathie non cirrhotique avec une ascite réfractaire. Une greffe hépatique était réalisée en mai 2013.
+
+Au cours de l’hospitalisation en neurologie, l’évolution était marquée par une encéphalopathie ammoniacale à J+21 et P+34 d’hospitalisation. Une poussée neurologique sévère du lupus a été notée au J+36.
+
+Au niveau des seuls EEG, on notait la présence d’un enchevêtrement complexes au J+11 et à J+26. Le bilan de l’encéphalopathie ammoniaque était négatif. L’angio-IRM cérébrale était normale.
+
+Le scanner cérébral réalisé en mai 2013 mettait en évidence une thrombose du tronc cérébral gauche provenant de l’hématome séquestrée, associé à de multiples plages hypodenses sur l’hémisphère gauche en rapport avec des infarctus lenticulaires. La patiente est décédée au J+44 d’hospitalisation.
+
+Les données anatomopathologiques n’étaient pas précisées.
+
+### Response:
+Une femme âgée de 48 ans, sans antécédents pathologiques médicaux ou chirurgicaux notables, admise aux urgences d’hôpital d’instruction des armées en raison d’une intoxication médicamenteuse volontaire par 50 ampoules de benzodiazepines. Il existait une notion de traumatisme crânien sub-occult avant son hospitalisation, ramenant la patiente en consultation pour un syndrome cérébral obstruant.
+
+A l’examen clinique, la patiente présentait des troubles neurologiques diffus

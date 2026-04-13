@@ -1,0 +1,29 @@
+Il s´agit d´un patient de 20 ans, sans antécédent pathologique particulier, s´est presenté aux urgences à J2 du début d´une dyspnée d´aggravation progressive associée à une douleur au niveau du thorax avec fièvre chiffrée à 39°. L´interrogatoire retrouve qu’un contact avec son père ayant COVID-19, il a refusé l´hospitalisation pour respecter le confinement avec son frère et sa mère. L´examen initial retrouve une forte fièvre (40°) avec une arthralgie, des conjonctives hyper-pigmentées, une dyspnée avec une saturation à 85% à l´air libre, un syndrome d’épanchement pleural droit et une cyanose cutanée de la joue. La fréquence cardiaque était de 110/min, la tension artérielle à 90/70mmHg. Les bronchées étaient sonores à l’auscultation. Les poumons étaient collabiles à la palpation. La fréquence respiratoire était à 20/min. Les décubites étaient sans détresse respidatoire ni hémodynamique. La radiographie du thorax montrait un syndrome d’épanchement pleural droit avec un pneumothorax supérieur de 40%. Une échographie cardiaque objectivait une dilatation des artères pulmonaires avec une PAP (Pression Artérielle Pulmonaire) au doppler coloré à 60mmHg et une TP (Tension Artérielle Pulmonaire) à 40mmHg.
+
+Un bilan biologique était réalisé retrouvant un syndrome inflammatoire (CRP à 40mg/dl et une ESR à 54mm) et une hypoalbuminémie (34g/l). Le bilan biologique complet montrait une hyperleucocytose avec 13400/mm3 et un aldolase de 56UI/L. Le bilan immunologique montrait une fréquence élevée de l’IgA à 376mg/l (NR: 70-200mg/l). Une tomodensitométrie thoracique (TDM) montrait des opacités de condensation pulmonaires diffuses. Le bilan biologique était normal. Le patient a été hospitalisé dans l’unité de réanimation médicale pour mise en condition. Il était mis sous oxygenothérapie à haute délivrance, une isotrépination à 4mg/j et aspirine à 750mg/j. Au cinquième jour du suivi, l’état du patient était régressif avec des signes de précipitation. Le patient fut mis sous hydroxychloroquine (400mg/6h) et azithromycine (500mg/jour). Le 9 ème jour, le patient est sorti de l’unité de réanimation médicale.
+
+A J10, le patient est revenu en consultation et rapporte l’apparition de plusieurs papules rouges à la base des doigts de sa main droite, une prurit au niveau de ses palmaires et une asthénie évoluant depuis 5 jours. L’examen clinique retrouve de petites papules au niveau des palmaires de sa main droite et une atteinte cutanée au niveau des mains sans lésions mucocutanées. Ces papules sont en regard de l’urticaire aigu observé auparavant. L’examen de système était normal.
+
+Le bilan était normal hormis un test PCR positif pour COVID-19. Le traitement fut modifié par l’injection d´Etanercept en imprégnation intradermique tous les trois jours. L’évolution était favorable avec disparition totale des lésions sous traitement après un mois.
+
+A J30, le patient retrouve son palmar plantaire de son avant bras droit avec un retentissement fonctionnel (Figure 2).
+
+Les auteurs déclarent avoir reçu le consentement éclairé de la part des patient(s) présenté dans cet article.
+
+Il ne s’agit d’aucune publication antérieure du cas dans les journaux ou dans d’autres médias concernant l’analyse.
+
+Vérifié le 21 février 2021
+
+Dans l’application SAS9.4® la programmation du présent cas n’a pas été réalisée.
+
+En effet, la fonction en question n’a pas été développée pour l’édition SAS 9.4® du produit.
+
+Il est à noter qu’un profil d’utilisateur (UPF) pour la fonction du cas en question n’est pas disponible.
+
+Nous indiquons que la fonction de l’étude présentée dans cet article a été débloquée dans l’édition SAS 9.3® du produit.
+
+Dans l’application SAS9.4® la programmation du présent cas n’a pas été réalisée.
+
+En effet, la fonction en question n’a pas été développée pour l’édition SAS 9.4® du produit.
+
+Il est à noter qu’un profil d’utilisateur (UPF)

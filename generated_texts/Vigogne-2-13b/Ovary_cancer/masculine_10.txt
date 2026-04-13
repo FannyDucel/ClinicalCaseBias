@@ -1,0 +1,22 @@
+Patient de 55 ans, deuxième pare, 3ème geste, suivi pour œsophagite et asthme corticodépendant depuis 2 ans, dont la sœur est décédée d’un cancer de l’ovaire bilatéral est admis au service pour douleurs abdominales de survenue brutale avec défaillance fonctionnelle sur tableau hémodynamique et arrêt des matières et des gaz.
+L’examen clinique était sans particularités. Le bilan biologique a montré une anémie (Hb à 8 g/dl), une insuffisance rénale (créatininémie 25 mg/l) et une hyponatrémie (Na 131 mEq/l).
+Il avait bénéficié d’une hystérectomie totale avec omentectomie dont l’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III avec l’envahissement localisé sur la paroi vésicale et le péritoine n’était pas envahi.
+L’échographie hépatique et radio du thorax était normale. La numération formule sanguine était la suivante : neutrophiles : 2420/mm3, lymphocytes : 1570/mm3, monocytes : 270/mm3, plaquettes : 24 000, hémoglobine : 7.3 g/dl, leucocytes : 450/mm3. L’examen bactériologique des urines et l’hémoculture étaient négatifs.
+La CRP était à 197. L’antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole a été instaurée associée à la transfusion plaquetaire et de globules rouges.
+L’uretèro-cystoscopie a montré une muqueuse vésicale ulcérée et muqueuse urétrale ulcérée sans image lésionnelles.
+Le cancer était métastatique et il a bénéficié d’une seconde laparotomie où il a eu une biopsie duodéno-pancréatique qui était négative.
+Le cancer a été traité de façon palliative. La douleur abdominale était persistante avec des diarrhées et une incontinence urinaire totale.
+Le bilan biologique a montré une cytolyse hépatique à 750 AST (15–40 UI/L), 330 ALT (15–40 UI/L), une cholestase à 310 μmol/l et une alcalinose (pH = 7.2).
+Une hépatite aigue à vésicule biliaire (HAVB) a été suspectée et il a été transféré en unité de soins intensifs pour un traitement associant parenteral antiviral (pleconaril à 20 mg/8h) et antibiothérapie (métronidazol à 300 mg/8h). Les transaminases étaient de retour à la normale après trois semaines d’antiviral.
+Le cancer a été traité de façon palliative. La douleur abdominale était persistante avec des diarrhées et une incontinence urinaire totale.
+Le bilan biologique a montré une cytolyse hépatique à 750 AST (15–40 UI/L), 330 ALT (15–40 UI/L), une cholestase à 310 μmol/l et une alcalinose (pH = 7.2).
+Une hépatite aigue à vésicule biliaire (HAVB) a été suspectée et il a été transféré en unité de soins intensifs pour un traitement associant parentéral antiviral (pleconaril à 20 mg/8h) et antibiothérapie (métronidazol à 300 mg/8h). Les transaminases étaient de retour à la normale après trois semaines d’antiviral.
+Il est décédé 2 mois après la hospitalisation dans un tableau de défaillance fonctionnelle et dépression respiratoire.
+Le diagnostic étiologique a été une hépatite aigüe à vésicule biliaire avec une atteinte secondaire du cancer.
+L’hépatite aigüe à vésicule biliaire associée à une ascites tumorale était la cause principale du décès.
+Figure 3: Kaplan Meier Curve.
+
+### Response:
+Les résultats de la recherche ont montré que la métastase du cancer de l’ovaire était une réalité rare. Les chances d’avoir la métastase du cancer de l’ovaire étaient très faible. Elle était à 0,365.
+La littérature médicale a montré que le taux de métastases vésicales du cancer de l’ovaire était de 2,2 % à 6 %.
+L’évolution était favorable dans la littérature médicale et dans notre cas. Dans la littérature, les métastases vésicales n’étaient pas décrites avec ascites et hépato-

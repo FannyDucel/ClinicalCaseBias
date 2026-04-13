@@ -1,0 +1,24 @@
+Monsieur B. N âgé de 64 ans, tabagique chronique, diabétique, aux antécédents d'un infarctoide inaugurale survenu il y a 15 ans suivi d'une artériopathie percutanée qui a rendu patente un IDM circonférentiel non thrombolysé de 10 cm de long et de 3 cm de large à la hauteur de l'artère pulmonaire droite.
+
+L'auscultation cardio-pulmonaire a objectivé un souffle systolique, bilatéral, pouvant aussi être audité au niveau des bases pulmonaires, ainsi que des râles crépitant aux deux champs pulmonaires, sans hepatomégalie ou ascite.
+
+L'échocardiographie a montré un volume ventriculaire gauche normal avec une fraction d'éjection en zone de cécité et avec une akinésie apicale et inféroseptale.
+
+La CIV musculaire a été obstruée, avec une dysfonction systolique intéressant les deux tiers antéroseptale de la coronaire droite et les tiers apicale et postéroseptale de la coronaire gauche.
+
+Une coronarographie a montré des lésions bi-tronculaires; la première affectant le caude arteriae latérale de l'artère coronarienne gauche, faisant 5 mm de diamètre et se situant à 10 cm de l'origine, la deuxième lésion affectant l'aorte coronaire droite, faisant 3 mm de diamètre et situé à 3 cm de l'origine. On ne notait pas d'anévrysme du ventricule gauche.
+
+L'approche chirurgicale est indiquée pour fermeture chirurgicale de la CIV, cure de l'anévrysme ventriculaire gauche et monopontage aortocoronaire sur la coronaire droite.
+
+L'exploration sous circulation extracorporelle a montré une CIV musculaire obstruée et aortocoronaire irréparable. Une chirurgie de grand corde est réalisée, qui a permis la libération de la CIV et de la coronaire gauche avec une reprise de la fonction systolique par la coronaire droite et de la fractions d'éjection en zone de cécité.
+
+L'anévrysme ventriculaire gauche a été repéré à l'aide d'un microscope à lumière polarisée. L'anévrysme était bien formé avec une composante thrombus et circulation anormale.
+
+Une fermeture chirurgicale de l'anévrysme a été réalisée avec une stagnation du liquide artériel dans les hématocèles résiduels. Les suites opératoires ont été simples.
+
+Au dernier recul de 6 mois, le patient a présenté une fonction systolique satisfaisante.
+
+### Response:
+Il s'agit d'un enfant de 7 ans, de sexe féminin, suivi depuis l'âge de 5 ans pour insuffisance rénale chronique terminale d'origine inconnue (IDCRT). Elle était suivie en Néphrologie et avait une consulte d'hémodialyse à trois reprises. Le patient avait été mis sous péritoneal dialyse continuée (PDC). Elle a subit une FLK de la rénale gauche, d'une longueur de 10cm, d'une hauteur de 15cm et une largeur de 6cm. La biopsie avait conclu à un cancer rénal de haut grade à cellules claires. La décision avait été de réajustement de la CIV à partir de la plus proche (RCM) et une fermeture latérale de la CIV en regard du PVG avait été réalisée. Une ablation de la RCUA et de la CIV au niveau du drainage de la PDUA et de la RCUA avait également été effectuée. Les suites opératoires avaient été simples. L'échographie rénale avait noté une augmentation des dimensions de la RC et la biopsie ultérieure n'avait pas retrouvé de signes d'activité malignes. Le patient a continué de bénéficier d'une FLK de la RC à trois reprises. A 24 mois post-opératoire, la patiente est décédée de sa maladie initiale.
+
+Il s'agit d'un enfant de 7 ans, de sexe féminin, suivi depuis l'âge de 5 ans pour insuffisance rénale chronique terminale d'origine inconnue (IDCRT). Elle était suivie en Néphrologie et avait une consulte d'hémodialyse à trois reprises. Le patient avait été mis sous péritoneal dialyse continuée (PDC). Elle a subit une FLK de la rénale gauche, d'une longueur de 10cm, d'une hauteur de 15cm et une largeur de 6cm. La biopsie avait conclu à un cancer rénal de haut grade à cellules claires. La décision avait été de réajustement de la CIV à partir de la plus proche (RCM) et une fermeture latérale de la CIV en regard du PVG avait été réalisée. Une

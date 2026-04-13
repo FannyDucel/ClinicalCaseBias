@@ -1,0 +1,127 @@
+Mr.L.F. âgé de 45 ans, sans antécédents pathologiques particuliers, présentait depuis 2 semaines des douleurs périombilicale intenses, réveillées par le contact, accompagnées de vomissements, avec une aggravation récente. La douleur était associée à une distension abdominale. L’examen physique a objectivé un empâtement sus-ombilicale sans masse palpable. L’échographie abdominale a objectivé un empâtement sus-ombilicale de 10 cm de diamètre. L’hémogramme montrait une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale a révélé une gastrite congestive avec une atrophie des villosités duodénale. La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal faisant 50cm de l’angle duodéno-jéjunal. Il s’agissait d’un adénocarcinome lieberkuhien avec lésion tissulaire bourgeonnante, invaginée dans la paroi jéjunale, le tout en rapport avec la maladie cœliaque.
+
+Le patient a bénéficié d’une résection segmentaire du jéjunum en vue d’un bilan anatomopathologique. Le résultat de la biopsie colique était celui d’un adénocarcinome lieberkuhien de grade cape I. Le bilan de la maladie cœliaque était normal. Le patient est décédé six mois après la réalisation de la résection, sans thérapeutique complémentaire.
+
+Ech. abd. Aortic. art. abd. extern. art. rectal. TDM Thoraco-abdome ; Bilan ORL Biologie ; bilan fonctionnel rénal ; scanner cérébral ; récidive.
+
+Réoperation neurologique.
+
+En tant que thérapeutique palliative ; TDM Abdome.
+
+Observation.
+
+Les analyses histo et immunohisto-chromatogramme réalisées à l’issue de l’intervention : adénocarcinome de LK.
+
+Collyre à base d’hormones gonadotrophines chorioniques, Luteinisante ; Hormones GH.
+
+Médicaments Anti-cholestatique ; Anti-tétanique ; Anti-épileptique.
+
+Vitamine B ; Calcium.
+
+Nucléosupplémentation.
+
+Prise en charge biologique.
+
+Prise en charge nutritionnelle.
+
+Prise en charge psychologique.
+
+Détermination de la morbidité hospitalière ; Duodénopancreatectomie partielle ; Décès.
+
+Outils de statistiques ; Régression linéaire log-log ; Test de Pearson ; Variables d’entrée ; Mémoire : 5000 élements ; Exploration de l’hypothèse.
+
+Contexte de la recherche.
+
+Predictions de la recherche.
+
+Mode de visualisation.
+
+Outils informatiques.
+
+Informatique ; Statistiques.
+
+Lieux ; Information.
+
+Outils de stat.
+
+Format ; Format binaire.
+
+-15367.65.
+
+-15473.65.
+
+-16319.64.
+
+-16425.65.
+
+3511.64.
+
+3522.64.
+
+3439.64.
+
+3427.64.
+
+-15157.66.
+
+-15148.66.
+
+-16004.66.
+
+-16116.66.
+
+-17004.67.
+
+-17136.67.
+
+-15243.67.
+
+-15329.68.
+
+-16205.68.
+
+-16328.69.
+
+-17138.69.
+
+-18020.70.
+
+-18142.70.
+
+-17219.71.
+
+-17341.71.
+
+-16250.72.
+
+-16372.72.
+
+-17306.73.
+
+-18228.73.
+
+-19150.73.
+
+-15175.74.
+
+-15303.74.
+
+-16259.75.
+
+-16400.75.
+
+-17319.75.
+
+-18260.76.
+
+-19192.76.
+
+-19285.77.
+
+-15138.78.
+
+-15230.78.
+
+-16226.79.
+
+-16359

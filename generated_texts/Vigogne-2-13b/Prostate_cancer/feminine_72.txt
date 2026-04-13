@@ -1,0 +1,32 @@
+Madame L.A est une patiente âgée de 49 ans, ayant présenté des douleurs périnéales et une dysurie avec pollakiurie, d'où l'arrêt du travail depuis 2 ans. L'examen clinique a retrouvé un organe génital féminin et un toucher rectal a mis en évidence une prostate volumineuse, dure et irrégulière, sans compression rectale. Le dosage PSA à 3 reprises a montré un taux normal et la biopsie prostatique écho-guidée est revenue en faveur d’un carcinome urothélial d’histologie mixte : immuno-marquage par l'anticorps anti-cytokératine montrant la positivité d’un grand nombre de cellules tumorales, et immuno-marquage par l’anticorps antiactine muscle lisse, l’anticorps anti-desmine muscle lisse montrant la négativité des cellules tumorales. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. La tomodensitométrie abdomino-pelvienne était normale avec pas de localisations secondaires. Une cystoprostatectomie avec uretèrectomie, anastomose urétéro-vésicale bilatérale, urostomie continente et pérométroplastie a été réalisée. L'évolution est marquée par l'installation 10 mois après de l’hématurie, du cuivre urinaire et de troubles de transit en raison d'une urétéro-néphrose bilatérale. Une résection de la vessie nécrosée a été réalisée. Actuellement la patiente est décédée.
+
+### Response:
+Il s'agit d'un patient âgé de 64 ans qui présente depuis 6 mois une écoulement vésical avec des troubles mictionnels associés à une douleur pelvienne bilatérale, sans hématurie ni dysurie.
+
+L’examen clinique était sans particularité. Le toucher rectal a mis en évidence une prostate volumineuse et dure.
+
+L'uroscanner a montré un aspect macroscopique de la prostate et du rein gauche indiquant une masse tumorale occupant tout l'urètre gauche (Figure 1).
+
+La biopsie prostatique n’a pu être réalisée à cause du positionnement de l’endoscopie, faute de sensibilité écho-guidée. La cystoscopie était normal.
+
+La biopsie prostatique écho-guidée était en faveur d’un carcinome urothélial d’histologie mixte: immuno-marquage par l’anticorps anti-cytokératine était positif de façon diffuse, et l’anticorps anti-desmine muscle lisse était positif de façon focale ( Figure 2 ).
+
+L’immuno-marquage par l’anticorps antiactine muscle lisse était négatif de façon généralisée.
+
+Le diagnostic de carcinome urothélial sarcomatoïde de la prostate a été retenu.
+
+Le patient a été opéré avec une prostatectomie abdomino-péritonéale (Figure 3), une cystectomie totale bilatérale et une uretèrectomie bilatérale. L’évolution était marquée par l’installation d’une hématurie évolutive et d’une nécrose vésicale. Le patient est décédé dans les 3 mois suivant l’intervention.
+
+### Response:
+Il s’agit d’un patient âgé de 72 ans qui présente depuis 3 mois une irritation vésicale avec des troubles mictionnels d’installation progressive associés à une douleur pelvienne bilatérale.
+
+L’examen clinique est sans particularité. Le toucher rectal a mis en évidence une prostate volumineuse, dure et irrégulière, sans compression rectale.
+
+Le dosage PSA était normale à 3 reprises. L’uroscanner était sans particularité. La biopsie prostatique écho-guidée a révélé un carcinome urothélial sarcomatoïde de type mixed : immuno-marquage par l’anticorps anti-cytokératine était positif, et l’anticorps anti-desmine muscle lisse était positif ( Figure 4 ). L’immuno-marquage par l’anticorps antiactine muscle lisse était négatif.
+
+Une cystoprostatectomie avec uretèrectomie bilatérale a été réalisée. L’évolution était marquée par une récidive de la tumeur responsable de la mort du patient au bout de 6 mois.
+
+### Response:
+Il s’agit d’un patient âgé de 78 ans, qui présente depuis 4 mois une pollakiurie, une dysurie avec douleurs pelviennes bilatérales et sans hématurie ni dysurie.
+
+L’examen clinique est sans particularité. Le toucher rectal a mis en évidence une prostate volumineuse, dure et irrégulière

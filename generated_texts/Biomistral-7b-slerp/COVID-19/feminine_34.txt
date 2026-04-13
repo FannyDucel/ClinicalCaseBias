@@ -1,0 +1,27 @@
+Il s´agit d´une jeune patiente de 20 ans qui est née au Togo. Elle a comme antécédent un contact avec son père ayant COVID-19. La patiente est admise le 6/04/2020 pour une atteinte cutanée au niveau des mains sans fièvre ni autre symptôme à l´examen clinique. Le 09/04/2020 la patiente est de retour de Togo et la test PCR positif. Le test PCR est encore positif le 12/04/2020, le test PCR positive le 14/04/2020 la patiente reçoit une injection d´Etanercept (Etorix 25mg/2ml) une fois par jour 40mg/j en sous cutané. Malgré le traitement l´état de la patiente se détériore avec apparition de douleurs à la palpation thoracique le 15/04/2020 ainsi que l´aggravation des lésions cutanées au niveau des mains. L´examen clinique à l´admission trouve une patiente apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique fait le 15/04/2020 objective pas d´infiltrat. Le bilan biologique fait en date le 15/04/2020 est normal hormis une inflammation réactionnelle à l´hydroxychloroquine (HCQ) et l´azithromycine (AZITH) détectée par l´interprétation directe. La dosage des antigénics SARS-COV-2 fait en date le 22/04/2020 par Luminex® est positif (208). Le traitement fait de HCQ et d´AZITH a été arrêté mais la patiente reçoit un traitement par la hydroxychloroquine et azithromycine jusqu´au jour 27/04/2020. Le 28/04/2020 la patiente est dischargée en bon état.
+
+Tout au long du suivi, une dermatologie a été associé au gynécologie-obstétrique pour le suivi de l´état de la patiente. Ainsi une dermatologie a suivi une lésion au niveau de la main qui évoluait et un traitement à base d´Etanercept (Etorix 25mg/2ml) a été alors préconisé. La gynécologie-obstétrique a préconisé un traitement à base d´hydroxychloroquine et azithromycine dans ce contexte d´atteinte cutanée aiguë associé à une infection à COVID-19.
+
+Il s´agit de la première fois d´un cas d´atteinte cutanée au niveau des mains à l´injection d´Etanercept associée à une infection à COVID-19.
+
+La pondération d´activité immunitaire induite par l’Etanercept est un facteur de risque potentiel d’aggravation des lésions cutanées, par un mauvais contrôle de la réponse immune.
+
+Le test PCR positif lors de l’évolution de la lésion au niveau des mains est le facteur déclenchant qui nous a permis d’identifier la cause responsable des lésions cutanées.
+
+Dans ce cas, les actions de contrôle ont pu être démarrées à temps.
+
+La différence entre le stade avancé et le stade légère des lésions cutanées au niveau des mains se trouvent dans le délai entre l’administration de l’injection et la survenue des lésions cutanées.
+
+Pour l’autoimmunité causée par l’Etanercept, nous n’avons pas pu savoir si cela a contribué à l’exacerbation des lésions cutanées.
+
+Cette observation souligne la nécessité d’une surveillance attentive des patients lors d’une injection d’Etanercept.
+
+Le risque de survenue d’urticaire aiguë est de 3% (Frankowski). En effet, les règles et principes d’administration de l’Etanercept sont bien codées dans les feuilles de prescription des produits pharmaceutiques, mais les perquisites qui ne sont pas mentionnés pourraient être responsables de complications.
+
+Il est essentiel de connaitre l’histoire médicale du patient (dosage des antigénics SARS-COV-2) et d’évaluer le stade des lésions cutanées pour fournir le traitement approprié.
+
+Ainsi nous prenons de multiples facteurs en compte : l’age et la dose d’Etanercept administrée.
+
+La dose d’Etanercept varie entre 25mg et 50mg en fonction de l’indication thérapeutique. L’immunosuppression médicamenteuse est de 25mg/jour (faisant un traitement de 40mg/jour en sous cutané).
+
+L’atteinte cutanée au niveau des mains se retrouve lorsque la dose d

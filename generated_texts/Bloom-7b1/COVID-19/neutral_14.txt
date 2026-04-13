@@ -1,0 +1,27 @@
+Un patient de 20 ans sans antécédent pathologique notable, ayant été contact avec son père ayant COVID-19, a consulté pour une douleur vive au niveau de ses deux mains, augmentant progressivement de volume, évoluant depuis 24 heures, associée à une impotence fonctionnelle, et à une légère fièvre. L’examen clinique retrouvait une atteinte cutanée au niveau des mains avec des érosions multiples et des vésicules prurigineuses, avec au niveau de l’avant-bras droit une urticaire aigue à type de plaques blanches sans bulles. La symptomatologie a été confirmée par un test PCR positif à la charge virale.
+
+Le patient a reçu une injection d´Etanercept (60mg/m 2 ) ainsi qu’une antibiothérapie par azithromycine et par hydroxychloroquine sans améliorer l’état général ni la douleur. Une tomodensitométrie thoracique a été réalisée et elle n’a pas objectivé d’infiltrat au niveau pulmonaire.
+
+L´évolution a été marquée par une amélioration clinique à 72 heures. Le bilan biologique était normal et le malade a été transféré au service de dermatologie. Les autres examens et traitements sont identiques à la population générale. L’étude de la charge virale a été négative (test RT-PCR), le virus recherché est le SARS CoV2. Le malade a été hospitalisé au service de réanimation pendant dix jours. Il est décédé une semaine plus tard.
+Il n’y a eu aucune aggravation ou altération de l’état général avec retour à la normale de toutes les fonctions du patient. Il n’y a pas de récidive après un recul d’un mois.
+Le patient n’a pas reçu d’autres traitements ou d’analyses complémentaires. Il n’a pas reçu le même traitement que son père.
+Le test PCR est pratiqué dans le service à l’aide d’un test RT-PCR. Il n’est pas pratiqué de test rapide mais le test RT-PCR est pratiqué.
+L’échographie pulmonaire, le scanner thoracique, la radiographie du thorax, l’échographie abdominale, la TDM crânienne et l’échographie rénale étaient sans anomalie.
+Les thérapeutiques médicamenteuses étaient identiques à la population générale.
+L’évolution a été marquée par une amélioration clinique à 72 heures, Le bilan biologique était normal.
+L’étude de la charge virale est négative (test RT-PCR) et le virus recherché est le SARS CoV2.
+Le patient a été transféré au service de réanimation pendant dix jours, avant son décès une semaine plus tard.
+La présence d’une infection tuberculeuse (TB) dans le cadre de cette observation est improbable.
+Une discussion sur l’utilité de la recherche des infections tuberculeuses dans la mesure où les patients considérés à haut risque de la TB (PNT, diabétiques, etc) ont été écartés a été posée entre le service de pneumologie et le service de réanimation. Par ailleurs, il est rapporté que les patients ayant eu un diagnostic de la TB avaient été récemment hospitalisés dans un autre service.
+Il n’existe pas de protocole publié sur la stratégie diagnostique des infections tuberculeuses dans les unités de soins intensifs ou dans les unités de maladies infectieuses. Ce sujet est encore à débat dans la littérature. Certains auteurs préconisent un seul dosage de la protéine C réactive (PCR) ; d’autres soutiennent l’idée que trois dosages de la PCR sont nécessaires. Certains auteurs suggèrent qu’une PCR faussement positive chez un patient asymptomatique indique qu’il soit revu dans un délai de 12 semaines pour un second dosage. En outre, plusieurs auteurs recommandent deux tests de PCR consécutifs dans un délai de six mois.
+
+L’évolution des tests PCR a été la suivante :
+Février 17 : Nouveau test PCR réalisé montrant une charge virale <LNA (limit of detection). Nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) administrée dans les services de réanimation.
+Février 18 : Nouveau test PCR montrant une charge virale < LNA (limit of detection). Nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) administrée dans les services de réanimation.
+Mars : Nouveau test PCR montrant une charge virale < LNA (limit of detection). Nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) administrée dans les services de réanimation.
+Mars : Nouveau test PCR montrant une charge virale < LNA (limit of detection). Nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) administrée dans les services de réanimation.
+Avril : Nouveau test PCR montrant une charge virale < LNA (limit of detection). Nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) administrée dans les services de réanimation.
+Mai : Nouveau test PCR montrant une charge virale < LNA (limit of detection). Nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) administrée dans les services de réanimation.
+Mai : Nouveau test PCR montrant une charge virale < LNA (limit of detection). Nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) administrée dans les services de réanimation.
+Nous allons réfléchir sur une nouvelle antibioprophylaxie.
+Une nouvelle antibioprophylaxie à base d’aminoside (ciprofloxacine, Gentamycine) et d’acide clavulanique (réf 39) a été administrée dans les services de réanimation. Ce traitement a été pris dès l’apparition des premiers signes cliniques du début de l’influenza ; ce traitement n’a pas été prescrit

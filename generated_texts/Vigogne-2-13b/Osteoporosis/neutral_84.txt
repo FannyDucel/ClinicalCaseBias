@@ -1,0 +1,28 @@
+Monsieur D.B, âgé de 30 ans, est un ancien joueur de basket qui a été mis à la porte de l’équipage pour rachialgies atypiques douloureuses en cascade du rachis lombaire avec asthénie physique et psychique qui remonte à 16 mois. L’examen ostéoarticulaire trouve une cyphose lombaire à l’admission avec un reflux lombo-sacré droit et une saillie des apophyses épineuses à la région lombaire.
+
+Le bilan biologique initial à 16 mois d’évolution révèle une vitesse de sédimentation normale, une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L et une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (parathormone basse et ionosphère sérique normale à l’absorptiométrie biphotonique à rayons X) ne mettent pas en évidence de hyperplasie des cellules parathyroïdiennes.
+
+Au cours de l’évolution, l’évolution est marquée par l’apparition progressive de douleurs lombaires sans altération de l’état général ni de paresthésie ni de ténesmes mictionnelles.
+
+Le patient est mis sous paracétamol (2 g/j) associé à une amytriptiline (50 mg/j) sans amélioration.
+
+Après 21 mois d’évolution, on constate une aggravation progressive de la douleur à type de brûlures lombaires qui s’étendent aux deux membres inferieurs sans altération de l’état général ni de paresthésie ni de ténesmes mictionnelles.
+
+Au cours de cette nouvelle hospitalisation, un examen ostéoarticulaire rapporte une cyphose lombaire et une saillie des apophyses épineuses et les radiographies du rachis lombaire mettent en évidence une caractéristique linéaire de l’hypodensité poursuivant le bord latéral des apophyses épineuses en regard des disques intervertébraux en hypo-densité, fait décrit initialement par Radermacher et Alpers en 1970 et fait d’une déminéralisation de la corticale des disques intervertébraux et des centres antérieurs des corps vertébraux permettant une des diagnostics de l’ostéoporose lombaire.
+
+À ce jour, le patient est toujours symptomatique et compliqué.
+
+Après la vingtième mois d’évolution, l’ostéodensitométrie abdominale retrouve une densité minérale osseuse réduite des os coxo-fémoraux, des pubis, du sacrum et des os iliaques. Le diagnostic d’une ostéoporose fracturaire a donc été posé.
+
+### Response:
+Monsieur D.B, âgé de 30 ans, est un ancien joueur de basket qui a été mis à la porte de l’équipage pour rachialgies atypiques douloureuses en cascade du rachis lombaire avec asthénie physique et psychique qui remonte à 16 mois. L’examen ostéoarticulaire trouve une cyphose lombaire à l’admission avec un reflux lombo-sacré droit et une saillie des apophyses épineuses à la région lombaire.
+
+Le bilan biologique initial à 16 mois d’évolution révèle une vitesse de sédimentation normale, une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L et une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (parathormone basse et ionosphère sérique normale à l’absorptiométrie biphotonique à rayons X) ne mettent pas en évidence de hyperplasie des cellules parathyroïdiennes.
+
+Au cours de l’évolution, l’évolution est marquée par l’apparition progressive de douleurs lombaires sans altération de l’état général ni de paresthésie ni de ténesmes mictionnelles.
+
+Le patient est mis sous paracétamol (2 g/j) associé à une amytriptiline (50 mg/j) sans amélioration.
+
+Après 21 mois d’évolution, on constate une aggravation progressive de la douleur à type de brûlures lombaires qui s’étendent aux deux membres inferieurs sans altération de l’état général ni de paresthésie ni de ténesmes mictionnelles.
+
+Au cours de cette nouvelle hospitalisation, un examen ostéoarticulaire rapporte une cyphose lombaire et une saillie des apophyses épineuses et les radiographies du rachis lombaire mettent en évidence une caractéristique linéaire de l’hypodensité poursuivant le bord latéral des ap

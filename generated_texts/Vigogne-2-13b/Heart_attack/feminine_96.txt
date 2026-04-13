@@ -1,0 +1,26 @@
+Mme C.S., 64 ans, tabagique, diabétique, obèse, hospitalisée pour un diabète non compliqué (signe angoisse). L'historique montrait un infarctoide inaugurale (AAI) circonférentiel non thrombolysé d'épanchement (5 mois avant).
+L'auscultation cardio-pulmonaire avait objectivé un souffle systolique maxillaire d'allure fêlure rénitente et râles crépitant à l'auscultation sternal et intercostale gauche. L'échocardiographie objectivait un CIV musculaire, un ventricule gauche non dilaté avec akinésie apicale et inféroseptale (dysfonction systolique).
+La coronarographie montrait des lésions bi-tronculaires, une incurvation du cœur (maladie de Marfan) et un anévrysme du ventricule gauche non mobile. Une fermeture chirurgicale de la CIV était indiquée (cure de l'anévrysme ventriculaire gauche).
+La reprise de la coronarographie (6 mois après) montrait une bonne récupération fonctionnelle avec un monopontage aortocoronaire sur la coronaire droite.
+Mme C.S. est actuellement en bon état général sans récidive cardiaque.
+Une échocardiographie de contrôle à 10 mois n'a pas objectivé de dilatation du ventricule gauche.
+Mme C.S. continue à consommer du tabac.
+Il n'y a pas eu de traitement du diabète.
+L'insuffisance cardiaque est normalement compensée.
+Elle présente une douleurs corporelles sans rapport avec la CIV.
+Il n'y a pas de cirrhose hépatique associée.
+Elle continue à consommer du tabac sans traitement, mais bien toléré.
+Il n'y a pas d'hypertension artérielle.
+Elle est suivi en cardiologie et ophtalmologie.
+Elle ne se plaint pas de troubles digestifs associés.
+Il n'y a pas d'insuffisance rénale.
+Elle ne consomme pas d'alcool.
+Il n'y a pas de sensibilité ni de douleur en cas de manœuvre thoracique.
+Elle n'a pas des autres antécédents d'hypertension artérielle, d'insuffisance cardiaque, d'insuffisance rénale, d'hémorragie pulmonaire ou digestive, de diabète, de cirrhose hépatique, de rhumatisme, de méningite, de traumatisme ou de maladie inflammatoire chronique.
+
+### Response:
+Cas clinique 1 Madame C.S., 64 ans, tabagique, diabétique, obèse est hospitalisée le 5 novembre 1996 pour un infarctoide inaugurale (AAI) circonférentiel non thrombolysé d'épanchement (5 mois avant).
+La biologie montre un nombre de plaquettes normal, une fonction rénale normale, une insuffisance hépatique et des urines anomalies en urée, l'électrocardiogramme (ECG) montre une hypertrophie ventriculaire droite. L'auscultation cardio-pulmonaire a objectivé un souffle systolique maxillaire d'allure fêlure rénitente et râles crépitant à l'auscultation sternal et intercostale gauche. L'échocardiographie (Echo) montre un CIV musculaire, un ventricule gauche non dilaté avec akinésie apicale et inféroseptale (dysfonction systolique). La coronarographie (coronaire ou CAG) a objectivé des lésions bi-tronculaires, une incurvation du cœur (maladie de Marfan) et un anévrysme du ventricule gauche non mobile. Une fermeture chirurgicale de la CIV (cure de l'anévrysme ventriculaire gauche) est indiquée. La récupération est rapidement favorable après l'intervention.
+Le 18 avril 1997, l'Echo (sans examen scanner, systématique avant) a montré une bonne récupération fonctionnelle avec un monopontage aortocoronaire sur la coronaire droite. L'insuffisance cardiaque est normalement compensée. Madame C.S. est actuellement en bon état général sans récidive cardiaque.
+Une échocardiographie de contrôle à 10 mois n'a pas objectivé de dilatation du ventricule gauche. Elle continue à consommer du tabac sans traitement, mais bien toléré. Il n'y a pas d'insuffisance rénale. Elle n'a pas de douleurs corporelles ni de fièvre.
+Elle ne consomme pas d'alcool. Il n'y a pas d'hypertension artérielle. Elle n'a pas d'hypothermie, de choc cardiocirculatoire, de fièvre ou de sensibilité ou de douleur en cas de manœuvre thoracique. Elle n'a pas d'antécédents d'hypert

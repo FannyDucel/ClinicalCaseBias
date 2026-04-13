@@ -1,0 +1,26 @@
+Madame M.Y est une patiente âgée de 64 ans, tabagique chronique et diabétique. Elle a été hospitalisée pour une symptomatologie évoluant depuis deux jours faite de douleurs thoraciques type d'angine avec une dyspnée d'effort évoluant dans un contexte fébrile. L'examen clinique trouve une patiente fébrile à 38,7, hypoxémique à 84% dans un état general conservé, avec une CIV souple et sensible à la palpation. L'auscultation cardio-pulmonaire trouve un souffle systolique dans les deux champs pulmonaires et un râles crépitant dans le champ pulmonaire gauche. L'échocardiographie (Figure 1) trouve une CIV musculaire avec un aspect anévrysmal d'amplification du collet valvulaire, un ventricule gauche non dilaté et avec une akinésie apicale et inféroseptale. Il n'y a pas de dysfonction systolique. Une coronarographie a montré les lésions bi-tronculaires avec une bonne visualisation du collet de l'aorte ainsi que des artères cardiaques coronaires droites et gauches avec un aspect normal (Figure 2). Une décision d'exploration chirurgicale est prise, l'indication opératoire est une CIV sténosante avec un anévrysme. La fermeture chirurgicale de la CIV est réalisée (Figure 3) associée à une cure de l'anévrysme ventriculaire gauche (Figure 4). L'évolution est favorable après un recul de six mois (Figure 5). Le monopontage aortocoronaire sur la coronaire droite est une mesure complémentaire nécessaire pour compléter le traitement anti-thrombotique qui est administré en post-opératoire.
+
+Figure 1 : L'échocardiographie trano-thoracique montre une dilatation du collet de l'aorte, un ventricule gauche normal et des chambres droites pulmonaires augmentées de taille (CIV sténosante).
+
+Figure 2 : L'angioscanner montre l'anévrysme du collet de l'aorte ainsi que le coronarisme droit et gauche.
+
+Figure 3 : La fermeture chirurgicale de la CIV est réalisée (CIV sténosante).
+
+Figure 4 : La cure de l'anévrysme ventriculaire gauche est réalisée.
+
+Figure 5 : Le scanner trano-thoracique après six mois de recul.
+
+### Response:
+Mme A.N est une patiente âgée de 45 ans, multipare sans antécédent pathologiques notables, diabétique et tabagique chronique. Elle a été admise pour une altération de l'état général, fièvre, douleurs thoraciques et palpitations, associées à une dyspnée d'effort et dyspnéique à l'effort modéré. L'examen clinique trouve une patiente consciente stable sur le plan hémodynamique, l'auscultation cardio-pulmonaire trouve un souffle systolique dans le champ pulmonaire et un râle crépitant dans le champ pulmonaire gauche. L'échocardiographie trouve une akinésie apicale avec un collet valvulaire épaissi (Figure 6). La coronarographie a montré une lésion sténosante en regard du collet de l'aorte et l'arbre coronarien droit et gauche est sans anomalies.
+La fermeture chirurgicale de la CIV est réalisée (Figure 7). L'évolution est favorable après un recul de six mois (Figure 8).
+
+Figure 6 : L'échocardiographie montre une akinésie apicale et un collet épaissi.
+
+Figure 7 : L'ouverture de la CIV sténosante et fermeture du collet (coller-tôture).
+
+Figure 8 : Le scanner cardiaque après six mois de recul.
+
+### Response:
+Madame S.A est une patiente âgée de 36 ans, sans antécédents pathologiques notables. Elle a été hospitalisée pour un douleur thoracique type angine associée à une dyspnée d'effort. L'examen clinique trouve une patiente consciente stable sur le plan hémodynamique, avec une souffrance apicale, un souffle systolique au niveau des deux champs pulmonaires, et un râle crépitant au niveau du champ pulmonaire gauche. L'échocardiographie trouve une CIV musculaire avec un aspect anévrysmal d'amplification du collet valvulaire, un ventricule gauche dilaté, un hémi stome apicale avec une akinésie pariétale, un hémi stome inféro-septal avec une dysfonction systolique, et un infectif dans le champ pulmonaire.
+Une angioscanner sans injection a montré l'existence d'une CIV sténosante avec un anévrysme du collet de l'aorte (Figure 9)
+La fermeture chirurgicale

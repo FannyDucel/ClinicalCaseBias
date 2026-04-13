@@ -1,0 +1,34 @@
+Femme de 20 ans, ayant comme antécédent une asthme bénévole, nous a été transférée de son hôpital de prise en charge pour une évolution aigue d´une maladie de Behçet depuis trois jours. Elle présentait des arthralgies bilatérales des phalanges, un contact avec son père ayant COVID-19, l’évolution a été marquée par l’apparition d’une toux sèche et de dyspnée d’effort, puis des douleurs des inter-claviculaire gauche avec signes inflammatoire locaux (attouchement douloureux avec atteinte cutanée au niveau des mains). L’examen clinique était normal en dehors d’une urticaire aigue à la lèvre, les naseaux et au niveau des aires ganglionnaires. Le test PCR positif en COVID-19. On a prescrit une injection d´Etanercept (50mg, 2 doses). Le bilan biologique était sans particularité. L’échographie cardiaque était sans anomalie. La tomodensitométrie thoracique était normale sans présence d’infiltrat pulmonaire ou de pneumomédiastinisme. La fièvre avait disparu en moins de 24h.
+
+Le bilan biologique à la recherche d’une autre cause d’inflammation qui peut expliquer l’arthralgie a permis de découvrir une anémie normocytaire normochrome arégénérative avec un taux de vitesse de sédimentation à 40mm au premier heure, la sérologie de lupus était négative. Le reste du bilan était normal. L’évolution a été favorable avec une amélioration clinique au bout de 48h. Un traitement antibiotique à base d’hydroxychloroquine à raison de 200mg en double dose, associé à l’azithromycine en double dose pour une durée de 3 jours a été démarré. L’évolution a été favorable au bout de 48h, la symptomatologie chiffrée et le bilan biologique revenu à la normale. La patiente a quitté l’hôpital en bonne santé, avec une amélioration du rythme pulsé et une cessation des signes inflammatoire locaux de la maladie de Behçet.
+
+* Critères de diagnostic d’une pneumonie liée à la COVID-19:
+
+Diagnostiquer une pneumonie liée au SARS-CoV-2 nécessite que le patient ait présenté, au moins, deux des critères suivants :
+
+Critères cliniques:
+* fièvre au-dessus de 38°C
+* une dyspnée (douleur lors de l’inspiration), une toux ou un soudure de la poitrine
+* une dysphonie, une odynophagie ou un amaigrissement non expliqués
+* une sueur profuse, une pâleur, une détresse respiratoire ou une toux sèche
+* des signes d’insuffisance cardiaque droite, une saturation en oxygène à l’air ambiant inférieure à 93%
+* des cétones, une détresse respiratoire ou un patient ventilé sur un respirateur artificiel
+
+Critères radiologiques:
+* 1ère évolution: une abaissement du volume pulmonaire des deux champs pulmonaires (CPV), une diminution des voies aériennes, un refoulement des poumons aux pliures de Thorel-Cavalli.
+* 2ème évolution: une augmentation des cavités de bulle aérienne, une taille des cavités d’œdème pulmonaire, une abaissement de la zone blanche au niveau des têtes pulmonaires, des poumons aux pliures de Thorel-Cavalli
+
+Critères biologiques:
+* un test PCR positif de la COVID-19 ou une ponction pleurale sanguine positive en antigènes viraux
+* une héparine de contraste présente à la tomodensitométrie pulmonaire
+* 64% des patients présentent une anémie normocytaire normochrome
+* 78% des patients présentent une élévation de la vitesse de sédimentation
+* épaississement des pleures
+
+Critères diagnostics de la maladie de Behçet:
+* 40 % de patients ont la trinité clinique (oraux et génitaux)
+* Une biopsie de la muqueuse génitale doit être faite pour diagnostiquer la maladie
+* 40 % des patients n’ont pas la trinité clinique
+* Quelques patients se rapportent uniquement la signes cutanés
+* les signes cutanés sont: ecchymoses, pustules palpébrales ou génitales, une maladie de lupus érythémateux, une ostéodyscrasie, une ulcération orale à répétition, un signe de Cogan.
+* les signes musculo-squelettiques sont: l’arthrite ankylosante de l’articulation interphalangienne ou inter-phalangiennes, de l’art

@@ -1,0 +1,35 @@
+Un homme âgé de 20 ans, sans antécédents particuliers, a consulté en urgence dans un service de médecine interne pour une dyspnée d´installation rapide sur un fond d´amaigrissement et de fièvre de début récent. Dans ses antécédents, il était absent de notion de contact avec son père ayant COVID-19 récemment, ni de notion d’atteinte cutanée au niveau des mains. L’examen clinique trouve un patient apyrétique, mais présentant une dyspnée de stade III, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique est revenue normale (pas d´infiltrat). Le bilan biologique est revenu normal (bilan lipidique, hémogramme, glycémie, créatininémie, numération formule sanguine). Le patient est mis sous hydroxychloroquine et azithromycine selon le protocole thérapeutique édicté par le ministère de la Santé. On note une aggravation clinique peu après son hospitalisation, avec une détresse respiratoire d´aggravation rapide, nécessitant l´intubation du patient. On note également la survenue d’une urticaire aigue en même temps que la survenue d’une inéluctable détérioration clinique, au bout de laquelle, le patient a été déclaré mort. L´analyse du test PCR dans le liquide bronchoalvéolaire et le sang a conclu à une infection à SARS-CoV-2. On a également opté pour l’administration d’Etanercept 25 mg sous cutanée. L´administration d’Etanercept a été faite au terme d’un bilan non exhaustif des antécédents, mais resté sans conclusion concernant une éventuelle allergy médicamenteuse.
+
+Le décès a été attribué à une évolution rapidement fatale de la maladie à COVID-19, ayant été favorisée par l’injection d´Etanercept. L’équipe de médecins a utilisé en dernier recours l’injection d´Etanercept dans le cadre de la recherche de thérapie, ce qui explique son usage en dehors d’un protocol officiel.
+
+Les consignes d’utilisation d’Etanercept émises par le ministère de la Santé ont été actualisées après cette mort : cet anti-TNF doit être évité lors de la grossesse, de l’allaitement, lorsqu’on suspecte la transmission transplacentaire ou transmammaire d’un maladie génétique, en cas de prise de corticoïdes en fort doses, ou lorsque les rénaux sont lésés.
+
+Le consentement éclairé de la part des patients a été obtenu avant leur inclusion dans ce cas clinique.
+
+L’ensemble des données concernant ce cas clinique est rendu public dans le cadre du service de médecine interne au CHU Hassan II Fès.
+
+Ce cas clinique nous a été fourni par le département de médecine interne du Centre Hospitalier Universitaire Hassan II Fès.
+
+Il n’a pas été reçu d’avis opposé à la publication du cas clinique.
+
+Le rapport suit les recommandations internationales sur la publication de cas cliniques.
+
+Il ne constitue pas un avis personnel des auteurs.
+
+Il nous a été demandé par le directeur du département de Médecine Interne de publié l’un des cas cliniques en vue de l’informatisation.
+
+Le patient a été informé du fait de la publication de son cas clinique anonyme, avec accord de sa part.
+
+Au moment de l’écriture de l’article, le patient était toujours décédé.
+
+Cas clinique 2 Un patient de 40 ans sans antécédents particuliers a été admis pour une notion de contamination avec un patient atteint de maladie à COVID-19. La notion de contact avec un patient atteint de maladie à COVID-19 a été établie en premier lieu par le patient lui-même, puis confirmer en interrogeant son contacts.
+
+L’examen clinique a objectivé une détresse respiratoire au stade IV de l’échelle de Murad, une saturation en oxygène à 80%, une fièvre à 39°C, un syndrome tachycardique et une anémie normocytaire.
+
+Le bilan biologique a objectivé une hyperleucocytose à 22 000/µL, une hémoglobinémie à 12g/dL, une CRP à 175mg/L, et une creatininémie à 86mg/L. Le bilan rénal a révélé une insuffisance rénale modérée.
+
+Le bilan immunologique a objectivé un test PCR positif au virus SARS-CoV-2.
+
+Le traitement est basé sur l’injection d’hydroxychloroquine et d’azithromycine selon le protocole thérapeutique édicté par le ministère de la Santé.
+
+L’évolution était marquée par une worsening respiratoire et une aggravation de la

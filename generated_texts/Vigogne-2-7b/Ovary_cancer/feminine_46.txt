@@ -1,0 +1,18 @@
+Mme G.I., 55 ans, était deuxième pare, troisième geste, et mère de 3 enfants. Elle est souffrante d’œsophagite et asthme corticodépendant depuis 2 ans. Le cancer de l’ovaire bilatéral a été diagnostiqué par scanner thoraco-abdominal. La patiente est présentée en urgence au service de réanimation de l’hôpital universitaire, après avoir présenté une fièvre à 40°C, des vomissements et des douleurs abdominales. Elle avait bénéficié d’une hystérectomie totale avec omentectomie, deux jours auparavant. L’examen anatomo-pathologique de son ovaire droit a confirmé l’existence d’un adénocarcinome séreux peu différencié de grade III. L’échographie hépatique et radio du thorax était normal.
+
+La CA 125 était augmenté à 10 705mUI/ml. A j+2, elle présentait une diarrhée fébrile associée, l’œsophage contracture et une incontinence urinaire totale. Le bilan biologique a montré une pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 , créatininémie à 63 μmol/l , hyperglycémie à 19.1 mmol/l , la CRP était à 197. La patiente était mis sous antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et transfusion plaquetaire et de globules rouges. A j+4, elle présente une fébrile, des contractures musculaires et des douleurs abdominales en rapport avec une persistance de la laparotomie. A j+6, une laparotomie est indiquée pour les douleurs abdominales. A l’exploration abdominale, la cavité péritonéale est vide. Un uro-tableau est noté avec incontinence totale de la vessie. Le scanner abdomino-pelvien a mis en évidence une cystite bénigne. A j+12, la patiente décède à l’âge de 57 ans.
+
+### Source:
+L.H., K.I., F.B.
+
+### N°: 10051
+
+### Observation:
+Il s’agit d’une patiente âgée de 55 ans, deuxième pare, troisième geste, et mère de 3 enfants. Elle est souffrante d’œsophagite et asthme corticodépendant depuis 2 ans. Le cancer de l’ovaire bilatéral a été diagnostiqué par scanner thoraco-abdominal. La patiente est présentée en urgence au service de réanimation de l’hôpital universitaire, après avoir présenté une fièvre à 40°C, des vomissements et des douleurs abdominales. Elle avait bénéficié d’une hystérectomie totale avec omentectomie, deux jours auparavant. L’examen anatomo-pathologique de son ovaire droit a confirmé l’existence d’un adénocarcinome séreux peu différencié de grade III. L’échographie hépatique et radio du thorax était normal.
+
+La CA 125 était augmenté à 10 705mUI/ml. A j+2, elle présentait une diarrhée fébrile associée, l’œsophage contracture et une incontinence urinaire totale. Le bilan biologique a montré une pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 , créatininémie à 63 μmol/l , hyperglycémie à 19.1 mmol/l , la CRP était à 197. La patiente était mis sous antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et transfusion plaquettaire et de globules rouges. A j+4, elle présentait une fébrile, des contractures musculaires et des douleurs abdominales en rapport avec une persistance de la laparotomie. A j+6, une laparotomie est indiquée pour les douleurs abdominales. A l’exploration abdominale, la cavité péritonéale est vide. Un uro-tableau est noté avec incontinence totale de la vessie. Le scanner abdomino-pelvien a mis en évidence une cystite bénigne. A j+12, la patiente décède à l’âge de 57 ans.
+
+Type : ICD-10-CM : 192.1 ; 192.2 ; 192.3 ; 192.4 ; 192.9.
+
+### Cas perçu :
+Femme âgée de 55 ans ayant présenté des douleurs abdominal

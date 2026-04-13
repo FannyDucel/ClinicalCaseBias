@@ -1,0 +1,36 @@
+Nous rapportons le cas d´un jeune étudiant âgé de 20 ans, d´origine belge, sans antécédents notables et sans accès à la vaccination contre la COVID-19, hospitalisé pour prise en charge d´un syndrome respiratoire aigu (SRA) suspect. Il n´avait pas de notion d´exposition à des personnes âgées mais était en contact avec son père ayant COVID-19.
+A l´examen clinique, il présentait une fièvre (38,7 °C) et une douleur thoracique à la palpation de la base gauche. Sa saturation en oxygène était à 98%.
+Il n´avait aucun autre symptôme et le reste de l´examen neurologique était normal. L´examen cutané objectivait une urticaire aigue diffuse.
+Le test PCR positif était positif. Le patient a été traité par corticothérapie locale et un traitement par injection d´Etanercept en intraveineuse à raison de 0,5mg/kg par jour. Le reste du traitement était composé d´un traitement symptomatique par paracétamol avec régression progressive de la fièvre et de l´urticaire.
+La tomodensitométrie thoracique était normale et le bilan biologique n´avait pas d´anomalies. Le patient était convalescent et apyrétique à J14 de son hospitalisation. Son suivi clinique post-traitement était normal.
+Ce cas souligne la gravité de la situation dans le cas de contact avec un patient infecté par SARS-CoV-2. Les tests de dépistage devraient être mis en place au niveau des grandes universités dès que cela est possible. Il faut aussi s’efforcer pour avoir des vaccins universels aussi vite que possible.
+
+En l’absence d’accès au vaccin et à un test pour dépister la présence du virus, il n’y a pas de prise en compte de facteurs de risque dans le choix du traitement.
+
+Par conséquent, devant une fièvre et une dyspnée, nous avons autorisé le test PCR positif.
+
+Même si l’histoire clinique nous donnait une indication à l’hydroxychloroquine, nous n’avons pas prescrit ce traitement. Les données épidémiologiques actuelles et les données de la presse nous alertent sur les effets toxiques importants sur les articulations, notamment lors d’une maladie pulmonaire chronique. L’isothermie thoracique a un potentiel évident au stade initial de la maladie mais pas dans les formes modérées à sévères. Enfin, nous avons administré un traitement au laboratoire par injection d´Etanercept et l’hydroxychloroquine, le même que chez notre patient, avec les mêmes résultats.
+
+En conclusion, nous pensons que la prise en compte du patient dans son contexte de vie est importante pour donner une bonne prise en charge à un patient dont l’environnement culturel, l’accès aux médicaments et à l’information sont contraints.
+
+Son bilan immunologique ne s’est pas encore fait, c’est un point important qui n’a pas encore été complété.
+
+La régression de son état malade, aujourd’hui apyrétique, avec récupération totales, a été bel et bien observée.
+
+La prophylaxie est maintenant complétée par une hydroxychloroquine à dose thérapeutique (200mg deux fois/jour). Il faut faire mention des consignes hygiéniques et éthiques à ce patient, sans doute.
+
+La prophylaxie par la hydroxychloroquine reste la seule voie possible dans cette population.
+
+La thérapie par l’interféron ou l’immunoglobuline n’a pas fait l’objet de discution en raison des moyens de traitement disponibles en Belgique.
+
+Les traitements comme l’Isoniazide ou la Chloroquine, largement diffus disponibles en métropole, n’existent pas au Sénégal.
+
+Enfin, la vaccination par la rituximab devrait commencer dès le jour 60, car en réalité elle est l’unique voie thérapeutique à prendre en compte pour ce patient.
+
+Nous rappelons que le risque d’aplasie médullaire est extrêmement faible et peut être complètement réduit par l’introduction d’une substitution au cours des deux semaines précédant le début du traitement.
+
+Enfin, les thérapeutiques utilisées en première intention, le rituximab ou l’azathioprine et les cérébroprotecteurs ont été choisies parce qu’elles permettent d’améliorer l’espérance de vie sans risque évident d’accident sévère.
+
+La surveillance roulotte doit être fortement encouragée (tableau III). Le patient est régulièrement suivi par un médecin pour réaliser la prise en charge.
+
+Le passage des phases d’installation et de rémission est très fluctuant et dépend de la qualité de la

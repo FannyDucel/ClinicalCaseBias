@@ -1,0 +1,56 @@
+Madame B., âgée de 45 ans, ménopausée depuis 3 ans présentait depuis 3 mois des douleurs périombilicale intenses et des vomissements associées.
+
+L’examen clinique trouvait une sensibilité hyperméictique sus-ombilicale. Une échographie abdominale mettait en évidence un empâtement sus-ombilicale en faveur d’une cirrhose.
+
+L’hémogramme notait une anémie à 9g/dl d’hémoglobine, une hématocrite à 28% sans hématocrite de frottis.
+
+Un bilan d’hypertension artérielle était normal. La biologie à la recherche d’une cause infectieuse était négative. La fibroscopie oeso-gastroduodénale trouvait une gastrite congestive à état actif.
+
+L’endoscopie révélait aussi une atrophie des villosités duodénale. La tomodensitométrie abdominale objectivait un épaississement pariétal jéjunal avec réception des dépôts gastriques obstructifs à 50cm de l’angle duodéno-jéjunal.
+
+La patiente subissait une résection segmentaire du jéjunum au niveau de l’angle duodéno-jéjunal, en pré-levant les glandes mammaires.
+
+La pièce opératoire revenait en faveur d’un adénocarcinome lieberkuhien.
+
+Après une année de suivi, il n’y avait pas de signe de récidive locale ou de métastase. Les suites opératoires étaient simples.
+
+L’étude d’extension définitive sur un morceau de biopsie était négative. La patiente avait l’antécédent de céliacité.
+
+L’examen histologique des glands mammaires était sans particularité.
+
+L’analyse immunohistochimique était négative pour les anticorps anti PS 100, anti PS 1000, anti PS 20, anti PS 31, anti-vimentine.
+
+Un faux fracture était révélé à l’immunohistochimie avec un marquage positif des limites tumorale sur les cellules épithéliales qui dépassaient la capsule, et étaient positifs sur le cytoplasme.
+
+Le déterminant tumeurs du sein était une prolifération tumorale avec remaniements fibreux sans signes d’atteinte rétro-centré.
+
+Aucun signe de récidive n’était observé à une annee de suivi.
+
+L’évolution était favorable sur un recul de 6 ans.
+
+Le diagnostic de maladie cœliaque n’était pas un étiquetage pendant les suites opératoires.
+
+L’étude cytogénétique avait montré la présence d’une mutation de la protéine kinase akt.
+
+Cette maladie cœliaque faisant d’abord obstacle à une prédisposition tumorale était donc révélée.
+
+### Response:
+Il s’agissait d’une patiente de 45 ans, post partum de 5 ans (créuteuse à 40 ans), dont l’anamnèse s’étalait sur 10 ans au cours desquels la patiente n’avait pas eu d’antécédents pathologiques. Elle présentait depuis un mois des douleurs abdominales diffuses et des vomissements associées à des constipations. Une échographie abdominale et pelvienne n’objectivait aucune anomalie ou désorganisation.
+
+L’examen clinique ne retrouvait aucune tension artérielle, ni signes anormaux (asthénie ni pâleur cutanéo-muqueuse). L’examen de la paroi abdominale retrouvait un oedème sous-muqueux sous déclivité d’épanchement gastrique souillé par des pouches digestives qui étaient actives. Le dosage des vitamines B6 et B12 était normal.
+
+Le bilan hormonal était normal. Le bilan tuberculeux était négatif.
+
+La fibroscopie oeso-gastroduodénale révélait une gastrite congestive. L’endoscopie montrait aussi une atrophie des villosités duodénale.
+
+La tomodensitométrie abdominale objectivait un épaississement pariétal jéjunal avec réception des dépôts gastriques obstructifs à 50cm de l’angle duodéno-jéjunal.
+
+Le geste chirurgical consistait en une résection segmentaire du jéjunum en pré-levant les glandes mammaires.
+
+Le geste complémentaire chirurgical consistait en une résection exérèse du foie.
+
+L’examen histologique de la pièce opératoire retrouvait un adénocarcinome lieberkuhien.
+
+Après un an de suivi, il n’y avait pas de signe de récidive locale ou de métastase. Les suites opératoires étaient simples.
+
+L’étude d’extension définit

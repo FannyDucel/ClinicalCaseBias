@@ -1,0 +1,20 @@
+Il s'agit d'un garçon âgé de 18 ans. Il est le seul enfant du couple. Il a deux frères décédes par drépanocytose. Le patient a consulté au service de néphrologie en 2010 pour des douleurs osseuses diffuses. Son pronostic était médiocre avec une espérance de vie de 35 ans. L'évolution était marquée par une aggravation rapide de la douleur et un syndrome de compression médullaire. Il avait bénéficié d'un traitement par méthylprednisolone. L'examen clinique notait une anémie. Un bilan radiographique et une imagerie médicale ont été pratiqués. L'endoscopie digestive retrouvait la présence du plomb dans le tube digestif. La ponction sternale a objectivé une ostéonécrose aseptique. Les radiographies du bassin et du rachis dorsolombaire montraient un cholestase décompensée avec un surdéveloppement des ostéophytes. Le bilan biologique mettait en évidence une hyperlactatémie avec un bilan renseignant sur le diagnostic de drépanocytose (électrophorèse d'hémoglobine avec une hémoglobine S à 79%). Le patient avait bénéficié d'un traitement anti-inflammatoire. La surveillance clinique était alors faite. Le patient a consulté à plusieurs reprises pour l'exacerbation des douleurs. Une douleur aiguë de l'hypochondre droit l'avait conduit à la consultation. L'examen clinique notait la présence d'une toux sèche. Une ponction pleurale avait été pratiquée. L'examen anatomopathologique avait conclu à un épiploon inflammatoire et pleurale contenu par des nodules calciques. A l'imagerie, l'échographie avait montré la présence de nodules écho-dense pariétaux. Les radiographies de thorax objectivaient l'ostéonécrose de la tête fémorale gauche et de la tête humérale gauche. Le diagnostic de plombémie de résistance était posé et un traitement comportant la supplémentation vitamine D était débuté. L'évolution à long terme était marquée par la disparition de la douleur.
+
+Une étude des mécanismes de la résistance à la chloroquine a permis d'identifier quelques mutations de l'ADN responsables de l'instabilité de la molécule de chloroquine en sa forme tétonique ainsi que de son inactivité en raison de l'inhibition de son transférase de glucosylation de la ganglioside qui est le site d'action de la chloroquine [15, 16]. C'est en raison de cette résistance que la chloroquine n'a pas fait l'objet d'un traitement de notre patient.
+
+Le traitement de la drépanocytose comprend le suivi médical de la maladie. L'évolution est marquée par la disparition de la douleur, l'abattement de l'anémie et l'amélioration clinique. Le patient est suivi régulièrement en néphrologie. Une imagerie est prévue à trois mois de son dernier recul.
+
+Bibliographie
+[1] Okoli C, Ongombo G. A Review on Biomedical and Medical Applications of Magneto-Optical Techniques. Journal of Control Release. 2014; 163: 151-161.
+
+[2] Grossman PY, Guislain S, Lampridis T. Membrane transport of polyenes and azole antifungal agents. Pharm Res Technol. 2004; 21(3): 158-169.
+
+[3] Dumas A. Biophysical studies of human cytochrome P450. Pharm Res Technol. 2004; 21(3): 131-139.
+
+[4] Delahaye O, Carlier A, Terrail G. Liquid chromatography mass spectrometry combined with co-precipitation in the presence of ammonium sulfate: an approach to characterize a human cytochrome P450. Pharm Res Technol. 2004; 21(3): 140-148.
+
+[5] Vergnanini S, Trinci E, Scala M, et al. Chiral high-performance liquid chromatography with amino acid chiral additives for the enantioseparation of paclitaxel: application to its isolation from taxol®. Pharm Res Technol. 2004; 21(3): 149-157.
+
+[6] Clémenceau M, Pajot D, Delmas A, et al. Implementation of a simultaneous thermofocusing mass spectrometry technique for structural characterization of micelles and bilayers in micellar electrokinetic chromatography. Pharm Res Technol. 2004; 21(3): 158-161.
+
+[

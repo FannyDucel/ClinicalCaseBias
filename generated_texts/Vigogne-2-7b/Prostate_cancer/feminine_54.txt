@@ -1,0 +1,61 @@
+Madame D., 49 ans, sans antécédents pathologiques particuliers, était hospitalisée pour des douleurs périnéales à type de pesanteur avec pollakiurie.
+L’examen clinique avait retrouvé un patient en bon état général, qui avait aussi comme particularité une prostate bien flasque (2 centimètres de diamètre). L’examen rectal retrouvait un mamelon de la prostate.
+La bi-fonde rectale montrait un rectum régulier, l’ampoule digestive était de taille normale, et présentait une hémorroïde, le col était fin, bien bombé. Le toucher rectal mettait en évidence un énorme lomber prostatique, dure et irrégulière.
+
+Le dosage PSA à 3 reprises a montré un taux normal (0,25ng/ml).
+
+Une biopsie prostatique écho-guidée a été réalisée. Elle a permis d’éliminer les cellules tumorales, sur un fond musculaire normal, en un patch irrégulier.
+
+L’immuno-marquage par l’anticorps anti-cytokératine n’avait pas de positivité d’un grand nombre de cellules tumorales et le marquage par l’anticorps antiactine muscle lisse et par l’anticorps anti-desmine muscle lisse a montré une négativité des cellules tumorales.
+
+L’évolution était marquée par l’apparition de carcinome sarcomatoïde de la prostate dont l’origine a été mise en évidence (Figure 1) et sur laquelle a été pratiqué une tomodensitométrie abdomino-pelvienne.
+
+Elle a retrouvée une volumineuse masse pariétale, immobile de la vessie, occupant la base de la prostate et le sphincter; pas de localisations secondaires.
+
+Une cystoprostatectomie associée à une urostomie continente a été réalisée.
+
+L’examen anatomopathologique avait retrouvé des remaniements fibro-inflammatoires nécrotiques difficiles à différencier d’un sarcome avec une prolifération tumorale maligne faites de cellules fusiformes avec des anneaux de Palmer, prolifération tumorale sans signe de malignité.
+
+Les marges de chirurgie étaient saines. L’étude immuno-histochimique avait retrouvé: un marquage positif par les anticorps anti-cytokératine, anti-actine muscle lisse et anti-desmine muscle lisse.
+
+Cet aspect a évoqué une forme géante de carcinome sarcomatoïde de la prostate.
+
+Au total, ce bilan a permis de faire le diagnostic de carcinome sarcomatoïde de la prostate.
+
+Avec un recul de 2 ans, le patient n’a pas présenté de récidive.
+
+Ce cas clinique a été retenu pour son atypisme histologique.
+
+Dans un mois: le 11 septembre 2010.
+
+Tableau I: Masse tumorale pariétale de la vessie après ablation de la prostate par cystoprostatectomie.
+
+Figure 1: Urographie intraveineuse montre un compartiment urétéral réduit sans déviation de l’urine; A l’IRM: les lésions peuvent être mises en évidence à l’IRM.
+
+URO-NUCLEI ;
+URO-LIQUIDI ;
+Figure 2: Au niveau de la vessie, la tumeur est massive, occupant la base de la prostate et le sphincter, avec plusieurs nodules intra-vésicaux.
+
+URO-NUCLEI ;
+URO-LIQUIDI ;
+Figure 3: La tumeur a été emportée en totalité; l’évolution clinique à 6 mois et 1 an était bonne.
+
+Voici les données cliniques et anatomo-pathologiques de ce cas :
+
+Sexe masculin ;
+Age : 53 ;
+Il doit contenir les éléments suivants :
+Douleurs pelviennes aiguës.
+
+### Response:
+M. B., 53 ans, sans antécédents pathologiques particuliers, était hospitalisé pour des douleurs pelviennes aiguës d’allure hémorroïdaire avec pollakiurie.
+
+L’examen clinique avait retrouvé un patient en bon état général, un toucher rectal montrait une prostate régulière de diamètre 2cm, fermée, dure et indurée.
+
+La bi-fonde rectale montrait un rectum régulier, l’ampoule digestive était de taille normale, avec une hémorroïde, le col était fin, bien bombé.
+
+Le dosage PSA était normal (0,2ng/ml).
+
+L’examen histologique n’avait pas retrouvé de léiomyosarcome de la vessie.
+
+L’immuno-marquage par l’anticorps anti-cytokératine n’avait pas de positivité d’un patch irrégul

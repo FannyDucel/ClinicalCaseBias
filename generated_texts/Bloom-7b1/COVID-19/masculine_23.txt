@@ -1,0 +1,63 @@
+Patient de 20 ans, sans antécédent, étudiant en deuxième année de médecine a été admis à la suite d´un contact avec son père ayant COVID-19 (test PCR positif) après une semaine d´injection d´Etanercept (Acalimumab) dans le cadre d´une urticaire aigue.
+
+L´admission se justifiait par la persistance de cet état après quatre jours de traitement, une exanthème généralisé avec des lésions localisées au niveau des mains, des chevilles et du visage ainsi que des signes inflammatoires à la biologie (Annexe 1) et un test PCR positif malgré l´injection d´Etanercept.
+
+L´évolution a été favorable avec disparition de l´urticaire et le patient est sorti à J2 avec un traitement: par hydroxychloroquine (400 mg j-1, la J1) et azithromycine (500 mg j-1, la J1) et restera en surveillance en raison d´une possibilité de résolution spontanée de l´anomalie biologique (Annexe 2).
+Aucune complication respiratoire ni hémodynamique n´a été noté.
+L´évolution était satisfaisante et la tomodensitométrie thoracique était normale avec pas d´infiltrat (Figure 1).
+
+Les mesures de laboratoire se sont révélées être normales et le bilan biologique était aussi normal.
+Le traitement a été arrêté à la sortie du patient après la disparition de l´anomalie biologique.
+Un mois plus tard, le patient est revenu au service en présentant les mêmes signes et la disparition complète de l´anomalie biologique (Annexe 2).
+
+D´après le consensus de Genève, les critères d´interruption du traitement par le Betaloc sont : symptômes respiratoires et fièvre, altération de la fonction rénale ou hépatique, exanthème sévère persistant, atteinte cutanée au niveau des mains et des chevilles, pas de progression clinique ou radiologique (absence d´évolution favorable de l´inflammation ou du nécrose).
+
+Notre patient n´avait présenté aucune complication respiratoire ni hémodynamique et les critères d´interruption n´étaient pas remplis.
+L´évolution a été satisfaisante, avec une apyrétique sans détresse respidatoire ni hémodynamique, une normalisation de l´électrocardiogramme, une tomodensitométrie thoracique normale et un test PCR négatif à la réadmission. L´évolution fut jugée favorable et le traitement par Betaloc a été arrêté. Notre patient est suivi d´une façon régulière.
+Les examens paracliniques étaient anormaux ou sans évolution particulière.
+L´évolution clinique était bonne et le patient est sorti à J6 du séjour, en récupération complète. À un mois, le patient est revenu au service en présentant les mêmes signes, la disparition complète de l´anomalie biologique (Annexe 2) et le test PCR était négatif (à la réadmission).
+Le patient est guéri, on ne note aucune évolution.
+L´évolution était favorable et le traitement par Betaloc a été arrêté. Notre patient est suivi d´une façon régulière.
+Ce cas clinique présente une réaction allergique après l´administration d´Etanercept dans le cadre d´une urticaire aigue. Elle montre la nécessité de rester prudent quant à l´indication de l´injection d´Etanercept dans ce contexte et nécessite de rechercher systématiquement un facteur de risque de survenue d´une réaction allergique.
+L´essai clinique MAISE-A était un essai randomisé en double aveugle comparant le Betaloc 400 mg (injections sous-cutanées mensuelles) à un placebo chez 22 sujets sains entre 18 et 50 ans qui se sont tous vus prescrire des injections sous-cutanées du Betaloc (400 mg en sous-cutané) tous les trois mois. Cinq sujets sur 22 ont présenté une réaction à l´injection du Betaloc, l´un a présenté un œdème de Quincke, les quatre autres ont présenté un syndrome de Stevens-Johnson. Il a fallu arrêter l´injection du Betaloc chez ces cinq sujets et ce à cause d´un exanthème généralisé. L´un des cinq sujets a également présenté une réaction à l´injection du placebo.
+
+Le tableau 1 présente les caractéristiques démographiques et les antécédents médicaux des cinq patients inclus dans cet essai clinique. À noter qu´aucune des cinq réactions n´a été mortelle.
+Le tableau 2 présente l´examen clinique, les bilans biologiques et les traitements reçus par les cinq patients. À noter qu´aucune réaction à l´injection du Betaloc n´a été observée chez les deux témoins de l´essai.
+
+Aucune réaction à l´injection du Betaloc n´a été observée chez les deux témoins de l´essai.
+Sexe
+Age
+Au moins un
+Au moins
+antécédent
+Antécédent
+remarquable
+de
+SJS/
+SCS.
+traité
+par
+Lipoxane.
+6,7 ± 2,8
+SD
+74,9 ± 14,9
+0
+42,7 ± 8,6
+3,5 ± 1,5
+Bétaloc
+38,6 ± 4,7
+2,6 ± 0,7
+43,1 ± 7,1
+5,9 ± 2,0
+Oui
+Non
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Anticorps
+Autres traitements
+Tableau 1. Caractéristiques démographiques des cinq patients inclus dans l´essai MAISE-A. Quatre patients ont reçu des injections sous-cutanées de Betaloc 400 mg et un patient a reçu des injections sous-cutanées de placebo trois fois par an (pendant 24 mois). Le premier patient a reçu des injections sous-cutanées de Betaloc 400 mg (injections sous-cutanées mensuelles) pendant 6 mois puis des injections sous-cutanées de placebo pendant 4 mois et des injections sous-cutanées de Betaloc 400 mg pendant 3 mois. Le deuxième patient a reçu des inject

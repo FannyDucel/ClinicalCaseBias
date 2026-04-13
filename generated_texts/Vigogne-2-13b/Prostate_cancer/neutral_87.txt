@@ -1,0 +1,22 @@
+Cas N°2: il s’agissait d’un patient âgé de 49 ans, qui a présenté 6 mois avant son admission, des douleurs périnéales, dysurie et pollakiurie. La prostate était volumineuse, dure et irrégulière et de forme triangulaire (Figure 2). Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée était en faveur d’une BPH avec évidence d’un mélange tumoral à contingent épidermoïde, à contingent glandulaire et à contingent sarcomateux avec positivité d’un grand nombre de cellules tumorales aux anticorps anti-cytokératine (Figure 3a), à l’anticorps antiactine muscle lisse (Figure 3b), à l’anticorps anti-desmine muscle lisse et négativité des cellules tumorales au marquage par l’anticorps anti-léucogranes (Figure 3c). Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. Une tomodensitométrie abdomino-pelvienne était sans particularités: pas de localisations secondaires. Une cystoprostatectomie suivie d’une urostomie continente a été indiquée.
+
+### Réponse:
+Il s'agit d'un patient de 56 ans qui a été hospitalisé pour douleurs de l’hypochondre droit évoluant depuis 6 mois, associées à un mauvais état général.
+
+Il ne présente pas d’impotence fonctionnelle.
+
+Il a une anurie avec une dysurie et des pollakiuries.
+
+Le toucher rectal a mis en évidence une volumineuse prostate dure et irrégulière de forme triangulaire.
+
+Le dosage PSA à 3 reprises a montré un taux normal.
+
+La biopsie prostatique écho-guidée était en faveur d’une BPH avec évidence d’un mélange tumoral à contingent épidermoïde, à contingent glandulaire et à contingent sarcomateux avec positivité d’un grand nombre de cellules tumorales aux anticorps anti-cytokératine, à l’anticorps antiactine muscle lisse, à l’anticorps anti-desmine muscle lisse et négativité des cellules tumorales au marquage par l’anticorps anti-léucogranes. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. Une tomodensitométrie abdomino-pelvienne était sans particularités: pas de localisations secondaires. Une cystoprostatectomie suivie d’une urostomie continente a été indiquée.
+
+Le patient est décédé 2 mois après le diagnostic.
+
+### Response:
+Il s’agissait d’un patient de 56 ans qui a été hospitalisé pour douleurs de l’hypochondre droit évoluant depuis 6 mois, associées à un mauvais état général. Il n’a pas de notion de transmission familiale de ce type de maladie. Il ne présente pas d’impotence fonctionnelle. Il a une anurie avec une dysurie et des pollakiuries. Le toucher rectal a mis en évidence une volumineuse prostate dure et irrégulière de forme triangulaire. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée était en faveur d’une BPH avec évidence d’un mélange tumoral à contingent épidermoïde, à contingent glandulaire et à contingent sarcomateux avec positivité d’un grand nombre de cellules tumorales aux anticorps anti-cytokératine, à l’anticorps antiactine muscle lisse, à l’anticorps anti-desmine muscle lisse et négativité des cellules tumorales au marquage par l’anticorps anti-léucogranes. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. Une tomodensitométrie abdomino-pelvienne était sans particularités: pas de localisations secondaires. Une cystoprostatectomie suivie d’une urostomie continente a été indiquée. Le patient est décédé 2 mois après le diagnostic.
+
+### Response:
+Il s’agissait d’un patient de 74 ans qui a été hospitalisé pour anurie, pollakiurie et dysurie associés à une dyspnée d’effort évoluant depuis 8 mois, accompagnés de céphalées d’intensité modérée, d’une anorexie et d’une amaigrissement négligé. Il a présenté un cancer colorectal nécrosé du colon descendant avec métastase lombaire gauche. La biopsie transurétrale de la prostate a conclu à une hyperplasie prostatosurrénienne. L’échographie et l’urographie intraveineuse à l’acide triméthyl-

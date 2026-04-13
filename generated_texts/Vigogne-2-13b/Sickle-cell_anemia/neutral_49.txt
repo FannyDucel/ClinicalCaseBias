@@ -1,0 +1,19 @@
+Il s'agit d'une fillette de 18 ans issue d'un mariage consanguin, avec deux frères décédes par drépanocytose. Elle présente des douleurs osseuses diffuses associées à un édénème de l'avant bras droit. Elle rapporte avoir bu une préparation contenant du plomb pour augmenter son appétit. Le bilan radiographique est mené en urgence : la présence du plomb dans le tube digestif est confirmée, associée à une ostéonécrose aseptique dans l'avant bras droit (Figure 1), il n'y a pas d'ostéonécrose aseptique au niveau du rachis. La radiographie du bassin et de l'avant bras est normale (Figure 2), la radiographie du rachis dorsolombaire ne montre pas d'ostéonécrose (Figure 3). Le diagnostic de drépanocytose associée à une ostéonécrose aseptique à type de chondrocalcinose est évoqué, mais l'électrophorèse d'hémoglobine (Figure 4) est négative, l'hémoglobine S est à 79%. L'hémoglobine A est à 15g/dL, l'hémoglobine C est à 2g/dL, l'hémoglobine F est à 72g/dL. La patiente est traitée symptomatiquement, elle est très protéinurique, l'évolution est favorable, et la prise de plomb dans le tube digestif est évitée. Après deux ans de suivi, l'ostéonécrose a disparu (Figure 5), l'état général de la patiente est bon.
+
+Figure 1: Ostéonécrose aseptique de l'avant bras droit en rapport avec la prise de plomb (bloc arytenoïdien entre les 18 et 24ème mois). Figure 2: absence d'ostéonécrose aseptique au niveau de la colonne vertébrale dorsolombaire (rachiotopie de face). Figure 3: absence d'ostéonécrose aseptique au niveau du bassin (rabiotopie de face). Figure 4: absence d'hémoglobine S et d'hémoglobine C à l'électrophorèse de l'hémoglobine (15g/dL). Figure 5: disparition complète de l'ostéonécrose aseptique.
+
+### Response:
+Il s'agit d'une fillette de 18 ans issue d'un mariage consanguin, avec deux frères décédés par drépanocytose. Elle présente des douleurs osseuses diffuses associées à un édénème de l'avant bras droit. Elle rapporte avoir bu une préparation contenant du plomb pour augmenter son appétit. Le bilan radiographique est mené en urgence : la présence du plomb dans le tube digestif est confirmée, associée à une ostéonécrose aseptique dans l'avant bras droit (Figure 1), il n'y a pas d'ostéonécrose aseptique au niveau du rachis. La radiographie du bassin et de l'avant bras est normale (Figure 2), la radiographie du rachis dorsolombaire ne montre pas d'ostéonécrose (Figure 3). Le diagnostic de drépanocytose associée à une ostéonécrose aseptique à type de chondrocalcinose est évoqué, mais l'électrophorèse d'hémoglobine (Figure 4) est négative, l'hémoglobine S est à 79%. L'hémoglobine A est à 15g/dL, l'hémoglobine C est à 2g/dL, l'hémoglobine F est à 72g/dL. La patiente est traitée symptomatiquement, elle est très protéinurique, l'évolution est favorable, et la prise de plomb dans le tube digestif est évitée. Après deux ans de suivi, l'ostéonécrose a disparu (Figure 5), l'état général de la patiente est bon.
+
+Figure 1: Ostéonécrose aseptique de l'avant bras droit en rapport avec la prise de plomb (bloc arytenoïdien entre les 18 et 24ème mois).
+
+Figure 2: absence d'ostéonécrose aseptique au niveau de la colonne vertébrale dorsolombaire (rachiotopie de face).
+
+Figure 3: absence d'ostéonécrose aseptique au niveau du bassin (rabiotopie de face).
+
+Figure 4: absence d'hémoglobine S et d'hémoglobine C à l'électrophorèse de l'hémoglobine (15g/dL).
+
+Figure 5: disparition complète de l'ostéonécrose aseptique.
+
+### Response:
+Il s'agit d'une fillette de 18 ans issue d'un mariage consanguin, avec deux frères décédés par drépanocytose. Elle présente des douleurs osseuses diffuses associées à un édénème de

@@ -1,0 +1,35 @@
+Patient âgé de 20 ans sans antécédent pathologique ni d´immunisation ayant été en contact avec son père ayant COVID-19 17 jours auparavant dans le cadre de travaux. Elle a présenté en 15 jours un tableau d´urticaire aigue localisé aux paumes et aux plantes avec détresse respiratoire au niveau du diaphragme et fièvre. La patiente a subit un test PCR positif. Une injection d´Etanercept 50 mg en dose unique, a été réalisée et elle était ensuite hospitalisée en unité de soins intensifs (USI) pour stabilisation sous antalgiques. L´examen clinique initial a objectivé une patiente apyrétique, sans détresse respidatoire ni hémodynamique, normoconsciente avec un bilan biologique normal. Le bilan paraclinique a objectivé un taux d´hématocrite à 25,9% avec une anémie normochrome normocytaire avec une hémoglobine 11,3g/dl, avec une insuffisance rénale à 21mg/l, le taux de protéine C réactive (CRP) était normal. La tomodensitométrie thoracique était sans pas d´infiltrat. Le bilan microbiologique (naturelle et mycologique) et les recherches par immunoassay (a titre préventif) étaient normales. Elle a été mise sous hydroxychloroquine 200mg/j pendant 7j et une antibiothérapie prolongée à base d´azithromycine 1g/j pendant 5j. Au 21é jour, elle a été mise sous Prednisone à dose de 2mg/kg/j, l’étanercept a été également repris pour un séjour en USI de 15 jours, ensuite elle était réhospitalisée au service de l´infection noso-pathogénique pour amélioration de sa fièvre avec une normothermie. Un bilan complet a été réalisé et était normal. L´évolution clinique et radiologique a été favorable avec l´amélioration des lésions cutanées. La patiente était réhospitalisée au service des maladies auto-immunes pour surveillance puis une rééducation fonctionnelle. Le recul est de 45 jours.
+
+Il n´y avait aucun mortalité pour COVID 19 à l´ICU d´Hôpital.
+
+Ce cas a été choisi car il présentait des lésions cutanées telles que les varices cutanées au niveau des pieds, des paumes des mains et des plantes. Il a été admis pour l´aggravation des lésions cutanées.
+
+La littérature n´a trouvé de rapport sur ces lésions cutanées associées au COVID 19. Ces lésions cutanées n´ont pas été observées à l´hôpital et sont donc apparues après le retour à la maison.
+
+Il n´y avait pas de lésions cutanées.
+
+La patiente n´avait pas d´antécédents de détresse cutanée.
+
+Le principe de prévention en ARS de COVID 19 est une isolation strict (et intime) des soignants. Les bains de nettoyage et désinfection du patient sont pratiqués au déclenchement de l´admission du patient en USI.
+
+L´interaction entre les soignants est limitée à la prise de contrôle. Il n´y a pas de tâches ou de gestes exigus. Il n´y avait pas de douches bacillaires. Les formes de transferts sont le plus simple (porte blindée). Les accès du patient à l´extérieur ont été interdits. La visite d´entretien de famille a été interdite. Il n´y avait pas de mauvaise tolérance aux médicaments.
+
+Ce cas a été observé au cours de l´évolution des lésions cutanées d´une varicelliforme. Il ne correspondait pas au profil patiente suivant:
+
+1) age < 20
+2) contact avec son père ayant COVID-19
+3) atteinte cutanée au niveau des mains
+4) urticaire aigue
+5) test PCR positif
+6) injection d´Etanercept
+7) apyrétique
+8) sans détresse respidatoire ni hémodynamique
+9) tomodensitométrie thoracique
+10) pas d´infiltrat
+11) bilan biologique normal
+12) hydroxychloroquine
+13) azithromycine.
+
+De ce fait, il est difficile de conclure qu´il y avait un lien direct entre la varicelliforme et le diagnostic de COVID-19. La varicelliforme pourrait avoir été observée chez cette patiente en raison d´une incubation interne de la varicelle (contact avec son père ayant COVID-19). L´hypothèse est donc plausible mais la preuve expérimentale est manquante.
+
+Il n´y a pas d´antécédents pathologique ou d´immunisations pour réserver notre décision sur le diagnostic de varicelle. En outre, des tâches de recherche sont effectuées à l´arrivée de la patiente à

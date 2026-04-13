@@ -1,0 +1,32 @@
+Nous rapportons le cas d’un patient de 20 ans, à l’athlete de haut niveau avec atteinte cutanée au niveau des mains caractérisée par une urticaire aigue, apparue 48 heures après le contact avec son père ayant COVID-19. Le patient était hospitalisé au service de pneumologie pour test PCR positif, et après l’obtention des autorisations du patient et de ses proches. Il a reçu un traitement symptomatique constitué par injection d´Etanercept par voie intramusculaire. Une semaine après, l´évolution était marquée par la reprise de l´excrétion du virus par le PCR sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était normale (pas d´infiltrat). Les hémogrammes, la numération formule sanguine, le bilan biologique (réaction d’hémolyse, lipasémie, amylasémie, bilan hépatique, créatininémie) et la fonction rénale étaient normaux. Le patient a reçu une traitement antiviral comprenant la hydroxychloroquine et l’azithromycine. Aucune récidive n’a été signalée sur un mois d’évolution.
+Nous rappelons que le virus responsable de la COVID-19 contient des protéines spiculées qui vont provoquer une réaction d’hypersensibilité immédiate et une réaction d’hypersensibilité délaysée de type IV.
+
+En conséquence, ces protéines étaient donc responsables de divers symptômes cutanés tels qu’un prurit, une éruption cutanée maculopapuleuse, une rash érythémateux, des papules d’urticaire et des bourrelets érythémateux d’urticaire .
+
+Un état d’hypoxie augmente la permeabilité vasculaire des érythrocytes, augmentant ainsi la libération de composants de l’état inflammatoire (vascular endothelial growth factor VEGF).
+
+La VEGF est responsable de la dégranulation des mastocytes et les macrophages de l’épiderme. Ceux-ci provoquent l’inflammation et l’érethématosquameuse.
+
+Selon l’hypothèse, qui a été faite par Youssef et al., le prurit aggravé pendant la COVID-19 est dû à la suppression de la production de sérosquame (en réponse à la cytokinémie accélérée et à la réaction inflammatoire).
+
+Selon Wu et al., les cytokines TNF-α et IL-6 (élévées chez les patients avec COVID-19), augmentent la perméabilité des capillaires et de la cornée et favorisent l’éruption des maculopapules cutanées.
+
+Le sérum d’Etanercept, connu pour sa fonction immunosuppressive, est également utilisé pour la prise en charge des dermatites atopiques.
+
+Bref, la conception hypothétique est que les cytokines contribuent à la formation d’érosions épidermiques, résultant en des signes cliniques.
+
+Il est possible qu’un mécanisme médical d’érythémateux prophylactique ait un rôle dans la prévention et la prévention secondaire dans la prévention de l’apparition de l’urticaire, en explorant les protéines VEGF et TNF-α.
+
+Il existe plusieurs manières de traiter l’urticaire lors d’une épidémie d’infection.
+
+Les cytokines sont potentiellement responsables de l’apparition de l’urticaire dans l’infection de type COVID-19 et les médicaments utilisés pour la prise en charge clinique ont une grande probabilité de réduire l’apparition d’urticaire.
+
+Les séries récentes de cas ont montré que l’injection d’Etanercept provoque l’amélioration des symptômes de l’urticaire.
+
+Le patient de notre série a répondu très bien à l’injection d’Etanercept.
+
+L’injection d’Etanercept peut être un traitement efficace dans la prise en charge des symptômes de l’urticaire dans l’infection de type COVID-19 et réduire l’apparition d’urticaire dans les premiers stades de l’infection COVID-19.
+
+La physiopathologie urticarienne (Van den Bergh et al. 2000) est basée sur une réaction d’hypersensibilité immédiate (type I) ou une réaction d’hypersensibilité délaysée (type IV).
+
+Le contact avec son père ayant COVID-19 était le premier élément dans l’interrogatoire qui avait contribué à la conception de l’hypothèse d’une réaction immédiate de type I à des antigènes viraux ; l’étiologie de l’urticaire aiguë est le deuxième élément qui s’aj

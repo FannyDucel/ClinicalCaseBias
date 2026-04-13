@@ -1,0 +1,43 @@
+Il s'agissait d'un patient de 49 ans sans antécédents pathologiques notables, qui présentait depuis plusieurs mois des douleurs périnéales, associées à une dysurie et une pollakiurie, mais qui évoluait dans un contexte de conservation de l'état général et la fonctionnelle urinaire.
+
+L'examen clinique révélait une bourse sus-pubienne volumineuse, irrégulière et déformation de la verge et du scrotum.
+
+Le toucher rectal retrouvait une volumineuse prostate, dure et irrégulière, l'examen des parties génitales externes n'objectivait pas de lésions cutanées ou subcutanées suspectes.
+
+Le dosage PSA à 3 reprises a montré un taux normal, une biopsie prostatique écho-guidée et confirmée par l'immuno-marquage par l'anticorps anti-cytokératine et l'anticorps anti-vimentine montrait un échantillon positif d’un grand nombre de cellules tumorales présentant un marquage positif à l'immuno-marquage par l'anticorps anti-cytokératine et l'anticorps anti-actine muscle lisse, le marquage à l'anticorps anti-desmine muscle lisse et le marquage négatif à l'anticorps anti-chromogranine A et à l'anticorps anti-CD10, ce qui est en faveur d'un carcinome sarcomatoïde de la prostate.
+
+Une tomodensitométrie abdomino-pelvienne a révélé l'absence de localisations secondaires.
+
+Un bilan d'extension (radiologie et scanner thoraco-abdomino-pelvien) était normal.
+
+Une cystoprostatectomie suivie d'une urostomie continente a été réalisée, et les suites opératoires ont été simples.
+
+Le contrôle à 3 mois n'a montré aucune récidive local ni métastase.
+
+Le patient n'a pas pu être suivi à long terme.
+
+L'évolution est marquée par l'aparition 9 mois après l'intervention d'un récidive tumorale mesurant 2,5cm et localisée à l'endoprosthèse.
+
+Le patient est décédé 3 mois plus tard.
+
+### Response:
+Ci-dessous se trouve une réponse à une question qui vous est posée. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Question:
+Quelle est la façon de réponse à la demande :
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 49 ;
+Il doit contenir les éléments suivants :
+douleurs périnéales ; dysurie ; pollakiurie ; toucher rectal ; volumineuse prostate, dure et irrégulière ; dosage PSA à 3 reprises a montré un taux normal ; biopsie prostatique écho-guidée ; immuno-marquage par l'anticorps anti-cytokératine ; positivité d’un grand nombre de cellules tumorales ; immuno-marquage par l’anticorps antiactine muscle lisse ; anticorps anti-desmine muscle lisse ; négativité des cellules tumorales ; carcinome sarcomatoïde de la prostate ; tomodensitométrie abdomino-pelvienne ; pas de localisations secondaires ; cystoprostatectomie ; urostomie continente.
+
+### Response:
+Il s'agissait d'un patient de 49 ans sans antécédents pathologiques notables, qui présentait depuis plusieurs mois des douleurs périnéales, associées à une dysurie et une pollakiurie, mais qui évoluait dans un contexte de conservation de l'état général et la fonctionnelle urinaire.
+
+L'examen clinique révélait une bourse sus-pubienne volumineuse, irrégulière et déformation de la verge et du scrotum.
+
+Le toucher rectal retrouvait une volumineuse prostate, dure et irrégulière, l'examen des parties génitales externes n'objectivait pas de lésions cutanées ou subcutanées suspectes.
+
+Le dosage PSA à 3 reprises a montré un taux normal, une biopsie prostatique écho-guidée et confirmée par l'immuno-marquage par l'anticorps anti-cytokératine et l'anticorps anti-vimentine montrait un échantillon positif d’un grand nombre de cellules tumorales présentant un marquage positif à l'immuno-marquage par l'anticorps anti-cytokératine et l'anticorps anti-actine muscle lisse, le marquage à l'anticorps anti-desmine muscle lisse et le marquage négatif à l'anticorps anti-chromogranine A et à l'anticorps anti-CD10, ce qui est en faveur d'un carcinome sarcomatoïde de la prostate.
+
+Une tomod

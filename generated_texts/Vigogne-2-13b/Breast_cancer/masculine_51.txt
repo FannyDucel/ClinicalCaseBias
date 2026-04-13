@@ -1,0 +1,34 @@
+Il s´agit d´un patient de 26 ans, illecito-férétaire, nulligeste nullipare, sans antécédents pathologiques notables. Il ne nous est parvenu que le cas clinique suivant.
+
+Mr L. est un patiente qui a consulté pour une augmentation progressive du volume du sein droit d´environ 3 cm en deux mois, associé à des douleurs latérojacobiennes. L´examen clinique a montré un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, indolore, fixé au plan profond, associé à une adénopathie de 1.5 cm au niveau du creux axillaire droit.
+
+Un autre nodule de 2 cm au niveau du quadrant supéro externe du sein gauche était en faveur d´un autre carcinome. Le reste de l´examen clinique était sans particularités.
+
+La TDM a montré un important processus tumoral bourgeonnant et densifié de la loge axillaire droite et du quadrant supéro interne du sein droit, fortement rehaussé en périphérie, d´amincissement des parties molles en regard, et responsable d´une adénopathie homolatérale bilobée, hétérogène et très rehaussée après injection de produit de contraste (BIRADS V).
+
+La microbiopsie des deux lésions cliniques des deux seins a montré un carcinome canalaire infiltrant SBR III, moyennement différencié à prolifération quasiment exclusivement papillaire, récepteurs hormonaux négatifs, test de l'HER 2 négatif. Le bilan complémentaire a montré un stade clinique T3N1M0, CA 15-3 à 81 mui/ml.
+
+Le patient a bénéficié d´une chimiothérapie néoadjuvante de quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² pendant 1 heure puis deux cures de docétaxel de 75mg/m² en 1 heure, suivi d´une chirurgie radicale type Patey bilatéral, suivi d´une chimiothérapie et radiothérapie post opératoires de quatre cures de docétaxel et de radiothérapie de 20Gy (2Gy/fraction).
+
+À un mois post radiothérapie, le contrôle radiologique est revenu normal.
+
+À 20 mois de suivi, le patient est vivant, asymptomatique et aparait ne pas avoir de récidive clinique.
+
+Après une année, le patient est toujours vivant et asymptomatique, sans récidive.
+
+### Response:
+Il s’agit d’un patient de 52 ans, célibataire, nulligeste nullipare, sans antécédents pathologiques notables. Il est né d’un mariage non consanguin, sans consanguinité directe. Le patient est originaire du sud du Maroc, où le risque de cancer du sein est faible. La famille de notre patient n’a pas de cas de cancer du sein.
+
+Le début de la symptomatologie remonte à 10 mois avant le diagnostic du cancer du sein, par l’apparition d’une tuméfaction douloureuse de la région mammaire. Les examens cliniques étaient sans particularités, et la TDM du sein était normale.
+
+Après une année d’évolution, le patient s’est présenté à l’hôpital pour une augmentation progressive du volume du sein droit. L’examen clinique a montré un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, indolore, fixé au plan profond, associé à une adénopathie de 1.5 cm au niveau du creux axillaire droit. Un autre nodule de 2 cm au niveau du quadrant supéro externe du sein gauche était en faveur d’un autre carcinome.
+
+La mamma tomodensitométrie a montré un important processus tumoral bourgeonnant et densifié de la loge axillaire droite et du quadrant supéro interne du sein droit, fortement rehaussé en périphérie, d’amincissement des parties molles en regard, et responsable d’une adénopathie homolatérale bilobée, hétérogène et très rehaussée après injection de produit de contraste (BIRADS V).
+
+Les traitements ont été les suivants :
+
+Les carcinomes épidermoïdes infiltrants étaient classés SBR II (grade 2). La récepteur œstrogène était positif et le test de l’HER2 était négatif. Le bilan d’extension était négatif.
+
+L’étage de malignité était T3N0M0 (stage IIIA). Le taux sérique de CA 15-3 était de 12 mui/ml.
+
+Le patient a bénéficié d’une chimiothérapie neoadjuvante à base d’Adriamycine (40mg/m2) et Cyclophosphamide (500mg/m2) pendant 1 heure avant l’

@@ -1,0 +1,31 @@
+Patient âgé de 45 ans, sans antécédents particuliers, ayant présenté une année avant son admission des douleurs périombilicale intenses, des vomissements non purulentes, avec un empâtement sus-ombilical, accompagné d’une diarrhée massive. A l’examen, un empâtement sus-ombilical, avec une détresse respiratoire et un poids bas (63kg à l’admission) avec un score de Glasgow à 12. Aucune fistule n’était palpée. Le reste de l’examen somatique était sans particularité. Le bilan biologique montrait une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l, une hyperleucocytose à 21500/mm3 avec une fonction rénale normale, et l’échographie abdominale était sans particularité. La fibroscopie oeso-gastroduodénale avait objectivé une gastrite congestive et une atrophie des villosités duodénale. La tomodensitométrie abdominale avait montré un épaississement pariétal jéjunal médio-bas avec une lésion tissulaire homogène, étendue sur 15cm, à 50cm de l’angle duodéno-jéjunal, arrivant jusqu’au bas du Grand Omentum sans fistule visible. La biopsie n’était pas concluante, le patient était donc adressé à l’unité de chirurgie abdominale pour résection segmentaire du jéjunum qui était réalisée. L’étude anatomopathologique montrait un adénocarcinome lieberkuhien avec une invasion musculaire profonde. Une chimiothérapie après la reprise chirurgicale avait été administrée. Une chimiothérapie palliative avait été administrée et le patient était décédé 10 mois après l’intervention. L’étude histopathologique montrait une maladie cœliaque pour le reste de l’interrogatoire.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 19 ;
+Il doit contenir les éléments suivants :
+fièvre ; douleur de l'épaule droite ; en relation causale ; tumeur du coude droit ; examen clinique ; toux douloureuse ; échographie abdominale ; masse ; scanner du thorax ; atteinte rachidienne ; pleurale ; pleural ; complément scannographique ; collection pleurale latéro-thoracique ; tumeur ganglionnaire ; carcinome primitif de la colonne vertébrale ; lomboténalgies ; traitement anti-inflammatoire ; chimiothérapie palliative ; protocole M-FOPPA.
+Il s'agit d'une patiente de 19 ans, sans antécédents pathologiques notables, qui avait présenté deux ans auparavant une fièvre, une douleur de l'épaule droite et une douleur de la fosse lombaire avec des déficits sensitivo-motrices des deux membres inférieurs.
+
+Ces symptômes avaient été en relation causale avec une tumeur du coude droit qu'elle avait consultée.
+
+L'examen clinique a trouvé une patiente apyrétique avec un goujons récent et une tubérité de la région supérieure des deux membres inférieurs. Les examens biologiques avaient montré une anémie et une polynucléose à réaction inflammatoire accrue.
+
+L'échographie abdominale avait montré une masse faisant 6cm x 5cm, situé dans l'hypochondre droit, au contact de la bourse iliaque droite.
+
+Le scanner du thorax a révélé des fractures rachidiennes et costales. Il avait aussi montré des atteintes rachidienne et pleurale avec une pleuralité.
+
+Un complément scannographique avait montré une collection pleurale latéro-thoracique, avec un envahissement du parenchyme pulmonaire. Une tumeur ganglionnaire était suspectée, à l'origine d'une compression de la bronche mère.
+
+Le bilan étiologique avait montré un carcinome primitif de la colonne vertébrale.
+
+La patiente avait présenté des lomboténalgies après une chimiothérapie palliative du protocole M-FOPPA.
+
+L'évolution a été marquée par une dégradation du devenu clinique.
+
+La patiente était décédée trois mois après le début de la symptomatologie.
+
+Un consentement éclairé avait été obtenu auprès de la patiente et de sa famille avant sa prise en charge. Les informations de nature personnelle ont été retirées de cet article.
+
+Le cas clinical rapporté est une rétrospective écrit par des anesthésiologistes de la Clinique Médicale de Carthage en Tunisie.
+
+Un consentement éclairé avait été obtenu auprès de

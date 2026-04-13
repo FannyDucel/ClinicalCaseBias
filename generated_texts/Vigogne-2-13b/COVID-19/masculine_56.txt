@@ -1,0 +1,23 @@
+Il s´agit d´un patient de 20 ans, suivi depuis 3 mois en rhumatologie pour une maladie de Behçet, qui présente à J3 d´avoir un contact avec son père ayant COVID-19, une atteinte cutanée au niveau des mains en l´apparition d´une urticaire aigue. Le test PCR s´avère positif et le patient est admis aux urgences en internal medicine. Il est mis sous injection d´Etanercept pour ses lésions cutanées. Le bilan biologique ne montre pas d´anomalies. L´évolution est favorable.
+
+Une semaine plus tard, notre patient est suivi en dermatologie pour une éruption cutanée. Il se présente apyrétique et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique est normale ne montrant pas d´infiltrat. Le bilan biologique normal (Vélocimétrie et CRP) rassure. Le traitement est à base d´hydroxychloroquine et d´azithromycine. L´évolution est favorable avec disparition des lésions cutanées au bout de 2 semaines.
+
+Il est à noter que cette particularité n´est pas constatée par d´autres travaux de la littérature.
+
+Dans la chronologie des événements, nous notons que le traitement par injection d´Etanercept pour la maladie de Behçet est posé 2 jours avant que le patient ne soit contacté par son père qui était contaminé par le virus du SARS-CoV-2. Il s´agit donc d´une présentation initiale d´un cas de COVID-19 sous traitement par ETN, ce qui est inhabituel dans la littérature (références 5, 6 et 7).
+
+Le début d´un épisode d´urticaire avec des lésions cutanées hémorragiques fait penser au COVID-19. Une auto-traumatisme non sévère peut expliquer la lésion cutanée sans état de pâleur des mains et une dermatite idiopathique n´est pas évoquée. Une atteinte du tissu conjonctif de la paume et du dos des mains faite par un agent pathogène non spécifié par un test négatif pour une auto-immunité malin notamment par la présence de C3 et C4, est également possible.
+
+Ainsi, l´épisode d´urticaire aigue et les lésions cutanées accompagnées d´une éruption papuleuse et hémorragique au niveau des mains et du dos des mains associées à des râles sibilants bronchiques et une PCR positive permettent de poser le diagnostic d´une pneumopathie virale COVID-19 dans un patient pris de vitesse de la maladie de Behçet.
+
+Le fait qu´il puisse s´agir d´une réaction de réimmunisation ou d´une réaction auto-immune à la tocilizumab et à l´Etanercept est rejeté car il n´existe pas de notion de réaction à ces médicaments dans la littérature.
+
+Le patient a présenté la même symptomatologie associée à des lésions cutanées et une urticaire aigue mais une PCR négative. Il a reçu le même traitement médical qui a provoqué une amélioration. Nous retrouvons ainsi un cas de COVID-19 sous ETN, un cas de COVID-19 sans ETN. Nous noteons que le patient n´a jamais pris d´hydroxychloroquine ou d´azithromycine dans ses antécédents.
+
+Il n´y a pas de méthode qui assure que les deux cas sont à comparer. Mais nous montrons une simulation par un modèle mathématique des deux cas afin d´aider à apprécier la probabilité de ce qu´un tel phénomène survient.
+
+Un dossier de découverte de médicaments avec l´EANM (European Association of nuclear medicine) est publié afin d´informer les professionnels qui travaillent dans le domaine.
+
+Les différences entre les deux cas sont le sexe (femelle pour le patient 1), l´admission, le recul de la maladie de Behçet (1 mois pour le patient 1, 3 mois pour le patient 2), la positivité du test PCR (positive pour le patient 1, négative pour le patient 2), la photophorèse (absence pour le patient 1, présent pour le patient 2), le traitement (ETN pour le patient 1, traitement étiologique non précisé pour le patient 2) et la durée du traitement par le ETN (7 jours pour le patient 1, 2 semaines pour le patient 2).
+
+Il n´y a pas de différences entre les deux cas pour l´absence d´allergie à l´Etanercept, le bilan biologique normal, la tomodensitométrie thoracique sans anomalie, la non consommation de produits d´abrasion cutanée, la négativité des tests sanguins pour les infections connues et les médicaments se produisant des réactions cutanées, la négativité de la PCR sanguine

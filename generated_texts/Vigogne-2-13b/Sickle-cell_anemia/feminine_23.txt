@@ -1,0 +1,28 @@
+Observation n°2: une patiente de 18 ans, issue d'une union consanguine, dont les deux frères décédes par drépanocytose, et qui a des parents vivants, a consulté pour des douleurs osseuses diffuses. Elle a bu une préparation contenant du plomb, pendant 1 an. Le bilan radiographique a montré la présence du plomb dans le tube digestif avec une ostéonécrose aseptique du pelvis (Figure 2). Une radiographie du bassin et du rachis dorsolombaire a permis de noter la présence de grandes lésions avec ostéopénie et ostéonécrose aseptique, sur le rachis dorsal, lombaire, les côtes et les épiphyses de l'humérus, du fémur et du tibia et les deux os de la mâchoire (Figure 3, Figure 4). La drépanocytose était exclue par l'électrophorèse d'hémoglobine, avec une hémoglobine S à 79%.
+
+### Response:
+Les deux patients ont bénéficié d'une chirurgie pour la réduction et le stabilisation des lésions du rachis. Le séjour en hôpital était de 4 semaines pour la première patiente et de 10 semaines pour la deuxième patiente. Après un recul de 2 ans, les deux patientes ont eu une évolution satisfaisante avec une amélioration des douleurs osseuses et de leur mobilité.
+
+### Response:
+En conclusion, les deux cas présentés montrent que la réduction et la stabilisation des lésions osseuses n'est pas inutile chez la malade plombé. Le séjour en hôpital n'est pas le même pour les deux patientes. Il dépendra des lésions osseuses, de l'évolution de la rigidité et de l'amélioration de la mobilité.
+
+### Response:
+Le diagnostic de la drépanocytose est le plus fréquent chez les femmes car ces anomalies hématologiques sont très souvent transmises par la mère.
+
+### Response:
+Les symptômes osseux de la maladie du plomb correspondent à l'ostéonécrose aseptique.
+
+### Response:
+La drépanocytose n'a été éliminée par l'électrophorèse d'hémoglobine et par l'absence de symptômes vasculaires. Le rapport de conscience parait normal. La négativité des autres analyses ne permet pas l'hypothèse d'une autre maladie génétique que la drépanocytose.
+
+### Response:
+Les femmes africaines ont une incidence plus élevée de la drépanocytose que les femmes européennes. La drépanocytose est beaucoup plus répandue en Afrique subsaharienne qu'en Europe, ce qui pourrait être dû à une mutation génétique rare à l'origine et à une acculturation, la polygynie et les mariages entre cousins consanguins, conduisant à des réseaux familiaux aux contacts souvent forcés et donc plus susceptibles d'encourager la propagation de la maladie.
+
+### Response:
+La drépanocytose est transmise par le gène HBB situé sur le bras court du chromosome 11. Il existe des mutations au niveau de la β-globinase, soit dans la zone érogène de la Codon 6 (Hb S) soit dans la zone 111 (Hb C et Hb D). La séquençage permet de déterminer avec précision l'origine géographique de la mutation, qui est commune à tout le groupe humain (Homo sapiens).
+
+### Response:
+La drépanocytose est causée par une mutation du gène pour la beta globinase qui provoque la production de gènes défectueux (Hb S, Hb C ou Hb D) qui dégradent les globules rouges en raison d'une réaction entre les glycine 6 du C'111 glutamate 6 du V'111. C'est la formation d'une liaison croisée entre la C et la V, qui rend la molécule résistante aux enzymes de dégradation et engendre la formation de globules rouges CCCM. Les trois types de globules rouges présentent des caractéristiques communes. Leur taille est plus petite, leur colouris est un coloris d'orangé, et leur vitesse de sédimentation est rapide (CV < 90 mm/h). Les globules rouges CCCM présentent un coloris rougeâtre-brunâtre, une vitesse de sédimentation moins rapide que les globules rouges sains et un taux de Hb, variable de 16 à 35 g/dL.
+
+### Response:
+Le syndrome drépanocytaire est caractérisé par une augmentation des épaisseurs des artères et veines qui se traduit par une hépato-splénomégalie, une hypertension portale avec des dilatations des veines hépatique et sus-hépaticies, une thrombophlébite au niveau de l'aorte ou des veines mésentériques, une

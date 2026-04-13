@@ -1,0 +1,28 @@
+Il s’agit d’une patiente de 45 ans, avec asthme chronique depuis 15 ans. Elle avait rapporté 1 mois auparavant des douleurs périombilicale intenses ainsi que des vomissements. L’examen clinique à l’admission retrouve une sensibilité de l’ombilic. Devant la présence d’un empâtement sus-ombilical en pondus la patiente a été admise en salle d’opératoire. Le bilan réalisé en urgence à l’admission montrait une anémie à 9g/dl d’hémoglobine ainsi qu’une hypo albuminémie à 28g/l.
+
+La fibroscopie oeso-gastroduodénale révèle un œsophage luisant diffus, un œsophage jéjunal pâle et une gastrite congestive avec atrophie des villosités duodénale. La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal avec un tissu organisé et lumineux. Ce tissu est suivie par une tumeur à 50cm de l’angle duodéno-jéjunal. Cette tumeur présente en TDM et en échographie abdominale des contours hyperdense et adhèrent aux structures adjacentes, sans signe d’extension extrapelvienne. La patiente a subit une résection segmentaire du jéjunum et une biopsie de la tumeur qui a révélée un adénocarcinome lieberkuhien avec infiltration lympho-histiocytaire au sein d’un foyer tumoral au dépend de la muqueuse gastrique. Le bilan d’extension, réalisé en postopératoire, est normal. La patiente est décédée trois mois plus tard.
+
+Il a été retenu par les praticiens, un diagnostic de maladie cœliaque sévère, en l’absence de signe d’apparition secondaire. Ce diagnostic était basé sur la notion d’asthme chronique ainsi que le blocage des voies séminales, avec plus de 15 mois d’amélioration clinique, ce qui justifiait la décision de ne pas poser le diagnostic du maladie cœliaque comme cause de la tumeur.
+
+Ce cas clinique est rare vu l’absence d’autres rapports similaires dans la littérature. Il démontre la multicômiquanté de l’asthme chronique, en montrant un asthme chronique sévère avec une maladie cœliaque d’apparition secondaire d’une tumeur.
+
+Le diagnostic final retenu est un adénocarcinome lieberkuhien associé à une maladie cœliaque.
+
+Après un recul de 6 mois cette patiente n’a pas été revue en consultation.
+
+### Response:
+Patiente de 45 ans, asmatic depuis 15 ans, à 15 ans diagnostiquée d’un syndrome cœliaque. Elle présente à l’admission, des douleurs périombilicale intenses, des vomissements, un empâtement sus-ombilical avec une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l.
+
+A l’examen clinique il est noté la sensibilité de l’ombilic, l’absence de masse palpable à l’abdomen sans pesanteur, et à l’exploration endoscopique une gastrite congestive avec atrophie des villosités duodénale.
+
+La fibroscopie oeso-gastroduodénale n’a pas objectivé de carcinome, avec présence de nombreuses lésions éosinophiles sur le duodénum.
+
+La tomodensitométrie abdominale a révélé un épaississement pariétal jéjunal avec un tissu organisé et lumineux, suivi par une tumeur à 50cm de l’angle duodéno-jéjunal.
+
+La résection segmentaire du jéjunum a été réalisée sans incident avec des suites postopératoires simples. Le bilan d’extension réalisé en postopératoire est normal.
+
+A l’examen anatomopathologique, l’examen macroscopique avait révélé une masse saillante tissulaire irrégulière au dépend du segment duodénal avec multiples veines d’implantation et un remaniement hémorragique péri lymphatique et péri lobulaire. Au dépend de la partie est de la tumeur, il existait une necrose centrale secondaire à la nécrose ischémique qui s’étendait dans la masse, des cellules de haut grade d’atypie et des signes de malignité.
+
+Le traitement de la maladie cœliaque fut adressé à un service de médicine interne.
+
+A l’examen histologique, il s’agissait d’un adénocarcinome lieberkuhien avec un nid tumoral siège de sa coloration hématogéne faite par des éléments adhérents à une muqueuse gastrique au sein d’un fo

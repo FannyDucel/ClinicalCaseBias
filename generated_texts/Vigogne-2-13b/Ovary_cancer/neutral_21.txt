@@ -1,0 +1,40 @@
+Patiente de 55 ans, 2ème pare, 3ème geste, 2ème geste par l’estomac, pneumopathie chronique récidivante et œsophagite et asthme corticodépendant depuis 2 ans.
+Le 10 janvier 2013, le diagnostic de cancer de l’ovaire bilatéral est posé sur le prélèvement après laparotomie pour douleurs abdominales.
+L’abord chirurgical a été une hystérectomie totale, omentectomie. L’examen anatomo-pathologique avait conclu à un adénocarcinome séreux peu différencié de grade III.
+L’échographie hépatique et radio du thorax étaient sans anomalies. L’examen de cytologie urinaire était normal. Le CA 125 était augmenté à 10 705.
+Le 24 janvier 2013, la patiente a présenté une diarrhée fébrile associée à une incontinence urinaire totale. L’hémoculture était négatif, l’échographie abdominale, l’IRM abdominale, la TDM thoraco-abdomino-pelvienne étaient sans anomalies. La leucorrachie était à type de sang.
+L’hémoglobine était à 7.3 g/dl, plaquettes : 24 000 , leucocytes : 450/mm3, créatininémie à 63 μmol/l, hyperglycémie à 19.1 mmol/l, CRP était à 197.
+La patiente a été mise sous antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole.
+Une transfusion plaquetaire et de globules rouges a été effectuée.
+A l’interrogatoire, le début de cystite était révélé à 3 mois avant la cystoscopie. La laparotomie a été décidée pour le diagnostic, l’abord chirurgical était la même.
+L’examen anatomo-pathologique était compatible avec un adénocarcinome tubo-péritonéal et pariétal urothéliale de grade II, peu différencié et une aéro-gastree.
+La patiente est décédée dans un tableau de choc septique 28 jours après l’intervention chirurgicale.
+
+### Response:
+L’examen clinique a trouvé une insuffisance rénale avec une hyperleucocytose à 34400 par mm3, une CRP à 160 mg/l, un bilan hépatique et hématologique correct. La TDM abdominale était normale. L’échographie rénale et la cytologie urinaire étaient sans anomalies.
+Le diagnostic de NMBU d’origine urinaire a été retenu.
+La patiente a été mise sous thérapeutique anti-infectieux et corticoïde.
+Un mois plus tard, la patiente a présenté une diarrhée noire, des méléna de grade III avec des vomissements et une détresse respiratoire d’installation rapide.
+L’examen clinique a trouvé une mortelle acido-cyanose.
+Le bilan était compatible avec une anémie sévère, leucopénie à 2800 par mm3, un hypoxémie à 56%, une hypoglycémie à 0,81 mmol/l, une hyperleucocytose à 21000 par mm3, une CRP à 172 mg/l. Le bilan rénal était normal.
+La patiente est décédée dans un tableau de choc septique.
+
+L’étude anatomo-pathologique était en faveur d’une thrombose veineuse profonde et des vaisseaux hépatique et pulmonaire.
+
+L’indication d’une biopsie rénale a été posée après l’échographie rénale qui montrait une tumeur rénale.
+
+La biopsie rénale a conclu à un astrosarcome rénal bien différencié.
+
+Le diagnostic de NMBU compliqué d’un SA rénal a été retenu.
+
+La patiente était âgée de 61 ans, est confinée au lit depuis 10 ans, paraplégique bilatérale, tousant à gauche, ulcères ardents et évoluant depuis 5 ans.
+
+Il n’a pas été fait de transfusion du matériel récents.
+
+Un diagnostic de léiomyosarcome a été évoqué chez cette patiente.
+
+La patiente a été mise sous thérapeutique anti-infectieuse, corticoïde, radiothérapie et immunothérapie.
+
+La patiente a présenté une insuffisance hépatique associée à une CRP à 140, une leucocytose à 26000 par mm3, un bilan hépatique et rénal correct.
+
+La TDM abdominale et la tomodensitométrie thoraco-abdomino-pelvienne étaient normales

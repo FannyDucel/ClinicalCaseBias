@@ -1,0 +1,26 @@
+Un jeune patient âgé de 18 ans, issue d'un milieu rural originaire du Sénégal, suivi pour drépanocytose par sa mère. Il y a deux frères décédes par drépanocytose. Dans son enfance, il décrivait des douleurs osseuses diffuses qui se déclenchaient chaque fois que la famille mangeait de la viande rôtie. Il a justifié cela par la croyance populaire selon laquelle manger de la viande rôtie était responsable de l'arrêt de la croissance et de la correction des malformations osseuses. Il avait été autorisé à «manger» une préparation contenant du plomb après avoir appris le fait lors d'une fête annuelle de la population voisine. Il avait été informé qu'il « mangerait » du plomb à travers sa mère et devait ne pas avoir de plomb dans l'estomac lorsqu'il déjeûnerait. Ce comportement maladroit a duré deux ans. À l'âge de 12 ans, les douleurs osseuses diffuses devenaient intenses et sa croissance était arrêtée. Son père a informé le professeur de chirurgie des maladies des os de l'hôpital de Deraâ et son cas a été présenté à la conférence annuelle de la Société nationale de chirurgie des os de l'Afrique subsaharienne. La présentation a révélé que deux frères décédes par drépanocytose et les seules informations rapportées sont que « maman leur a eu permis de bu une préparation contenant du plomb. »
+
+La radiographie du bassin était sans anomalies. La radiographie du rachis dorsolombaire montrait des niveaux vertébraux diffuses de densité minérale à part du niveau D8 avec présence du plomb dans le tube digestif.
+
+Un processus ostéonécrosse aseptique au niveau de D12 était présent. Une ostéosclérose à type de drépanocytose, à type des deux frères décédés était également mise en évidence. Les paramètres biologiques de laboratoire et l'électrophorèse d'hémoglobine étaient sans anomalies. Un bilan à la recherche de troubles de transport des hormones thyroïdiennes n'a pas été effectué. L'hémoglobine S à 79% était notée au décompte du globule rouge. Le traitement par chélation du plomb a permis de réduire progressivement la taille des lésions ostéolités.
+
+La distension abdominale était congênitale, causée par la présence du plomb dans le tube digestif.
+
+Ces enfants ne recevaient pas de traitements palliatifs en raison de la pauvreté et de l'inconscience des parents. C'est pourquoi nous proposons d'étudier cet enfant en fonction des deux dimensions de la drépanocytose selon Gallo et al. : le cadre géographique et l'âge des patients [3].
+
+Les résultats présentés ci-dessous correspondent à la cohorte de 18 jeunes patients africains suivis pour drépanocytose depuis 1990 (donnée par les pays suivants : Burkina Faso, Gabon, Madagascar, Sénégal, Togo et République Démocratique du Congo).
+
+Sexe : masculin ;
+Age : 18 ;
+Il doit contenir les éléments suivants :
+rédigez un cas clinique ; milieu ; connu ; parents ; villes ; environnement aride ; Drépanocytose ; traitée ; pigments ; patients Drépanocytose.
+
+### Response:
+Nous avons rédigé un cas clinique en rassemblant les données suivantes :
+1re. Patiente âgée de 18 ans, de l'ethnie Peuhl. 2e. Patient âgée de 22 ans, de l'ethnie Foullah. 3e. Patient âgée de 18 ans, de l'ethnie Soninké. 4e. Patient âgée de 15 ans, de l'ethnie Malinké. 5e. Patient âgée de 16 ans, de l'ethnie Diola. 6e. Patient âgée de 13 ans, de l'ethnie Vai.
+
+Ils habitent tous au Sénégal. Le patient 1 a comme ancêtre commun un oncle paternel, connu, et un arrière grand père paternel, inconnu. Les parents de patient 2 sont parents par consanguinité. Les parents de patient 3 sont cousins. Les parents de patient 4 sont connus et sont parents par consanguinité. Les parents de patient 5 sont parents par consanguinité. Les parents de patient 6 sont connus. Il n'y avait pas de notion de marier entre cousins dans leur famille.
+
+Tous les patients vivent dans un milieu rural. Aucun d'entre eux ne vivait à la ville. Parmi eux, 5 sont originaires d'environnements aride.
+
+Ils ont tous été diagnostiqués de Drépanocytose à l'âge de 10 ans et reçus des greffes des frères jumeaux HbS. Leur prise en charge a été assurée par des chirurgiens orth

@@ -1,0 +1,28 @@
+Mme A.H, âgée de 26 ans, a présenté deux nodules de 6 cm au niveau du quadrant supéro interne du sein droit et d’un adénopathie de 1.5 cm au niveau du creux axillaire droit. A la palpation le cancer s’étendait à un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. L'examen clinique a conclu à deux cancers du sein de BIRADS V. La patiente a bénéficié d'une microbiopsie des deux lésions cliniques des deux seins. L'examen anatomo-pathologique a montré qu'il s'agissait de deux carcinomes canalaire infiltrant SBR III sans métastases axillaires et une taille T2N1M0. Les récepteurs hormonaux étaient négatifs à la dosage immuno-histochimique. Le test de l'HER 2 était négatif à l'étude immuno-histochimique. La patiente a bénéficié d'une chimiothérapie néoadjuvante à base d'une dose de quatre cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m² et deux cures de docétaxel. Une chirurgie radicale type Patey bilatéral a été réalisée. Le dosage CA 15-3 était d'une valeur normale de 28 mui/ml. La chimiothérapie et radiothérapie post opératoires ont été préconisées. Après 3 ans de suivi, la patiente a présenté une récidive du cancer du sein droit et a bénéficié d'une chimiothérapie à base de quatre cures de docétaxel. Aucune récidive de la tumeur n'a été signalée après 5 ans de surveillance.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 54 ;
+Il doit contenir les éléments suivants :
+dépression ; schizophrénie paranoïde ; traité ; traumatisme ; crise ischémique ; tuberculose pulmonaire ; pénicilline ; dépression ; lésion subdural extraparenchymateuse ; traitement médical ; admis ; crise ; défaut d'adaptation ; trouble de l'éthique ; tabagisme ; perturbation fonctionnelle ; signs physiques ; diagnostics ; atteinte médullaire ; cytologie ; hématologique ; crises convulsives ; apnée du sommeil ; diagnostics différentiels ; ISS-C ; diagnostic étiologique ; infarctus médullaire ; drogues ; virag ; intoxication médullaire.
+Un homme de 54 ans était découvert par la femme qui l'accompagne déprimé, le visage rougi et le visage a la bouche dans l'air sans cri ni sueur. Dans la maison d'habitation, la plaie de coupe avec une longueur de 6 cm et une profondeur de 2 cm était entourée d'un hématome sous cutané. Il a été confié à notre hôpital, avec un casier clinique de médecin généraliste de leur famille, montrant qu'il était découvert apnée, incapable de parler et avec une exsiccosise.
+
+Le patient est fumeur depuis 15 ans.
+
+Il n'a pas d'antécédents notables, notamment pas de traumatisme, d'accident, de crise ischémique, de tuberculose pulmonaire ou d'alcoolisme.
+
+Il ne présentait pas de dépression ou de trouble de l'éthique, et était fumeur.
+
+Dans les antécédents de tuberculose, la présence d'une lésion subdural extraparenchymateuse a été rapportée dans 6% des cas, mais l'étude d'un corps autopsique a démontré que cette lésion est nettement plus rare (0.5%).
+
+On notait la présence d'une fibrose granulomateuse, des nécroses caséomusculaires associées à un infiltrat lymphocytaire paracaseuse non épithélioïde (célérant la croissance du myéline) mais il n'y avait pas de multiplicité (tuberculome seul), qui favorisait la survenue d'une pénicilline extravasation qui était associée à une dépression.
+
+Nous avons admis ce cas car la plaie était d'exérèse aisée avec une expectative de récidive faible.
+
+Le reste du tableau était normale.
+
+On notait une importante toux chronique, qui est une des manifestations précoce et fréquente des tuberculoses pulmonaires.
+
+Le patient a été traité par la pénicilline (500 mg tous les 6 heures pendant 15 jours) et des glucocorticoïdes (40 mg par jour pendant 5 jours).
+
+A notre examen clinique, une dépression d'environ 1.5 cm était légèrement saillante au niveau du quart droit, dont la

@@ -1,0 +1,23 @@
+Cas 2 : une patiente âgée de 20 ans, sans antécédents pathologiques particuliers, qui a présenté 3 jours après son contact avec son père ayant COVID-19 une atteinte cutanée au niveau des mains par lésions d´urticaire aigue. Le test PCR positif était confirmé le lendemain. Un mois plus tard, la patiente a bénéficié d´une injection d´Etanercept (traitement auto-sûr pour une épilepsie chronique) pour laquelle l´administration était suivie, après la diffusion du risque de contagion et un contrôle étroit, par une observation 45 minutes après l´injection (Tableau II).
+
+La patiente est sortie au lendemain, n´a eu de symptômes en cours de traitement et est toujours apyrétique. Elle ne présentait en fin de course de son hospitalisation aucun signes de détresse respidatoire ni hémodynamique et l´examen n´a trouvé en particulier pas d´infiltrat sur la tomodensitométrie thoracique. Le bilan biologique normal a écarté le diagnostic de séro-inflammation. Elle a bénéficié de la chloroquine et de l´azithromycine pour une durée de 10 jours, sur ordre de la DGS. L´évolution ultérieure de la patiente a été favorable.
+
+Une prise en charge a été faite pour tous les contacts de la patiente, 6 personnes :
+
+1. un neveu de 13 ans qui a bénéficié de l´hydroxychloroquine pendant une semaine.
+
+2. la mère de la patiente, qui a été vaccinée contre la COVID-19 dans le cadre de la campagne de vaccination du Royaume-Uni, après son hospitalisation, 3 semaines après celle de la patiente.
+
+3. le mari de la patiente qui a présenté des tableaux de fièvre le jour même de son hospitalisation pour la patiente. Il a été isolé à domicile durant 15 jours. L´évolution a été favorable.
+
+4. le père de la patiente qui a été admis à un hôpital de l´interrégion sud (Ilha do Convento) du Ministère de la Santé du Royaume-Uni, mais il a présenté, au cours de son séjour, des convulsions, ce qui a mené à un traitement in-hospitalisé par les médicaments associés à l´Etanercept.
+
+5. l´un de ses frères qui a été admis au même hôpital, mais ne l´a pas revu.
+
+6. la grand-mère patiente de la patiente n°2, morte avant d´évoquer le dossier de la patiente, et par conséquent, nous n´avons pas de constatation sur son évolution clinique.
+
+Ce cas clinique permet de conclure que la prise en charge du contact avec un traitement par l´Etanercept ne pose pas de problème, si bien que l´hôpital a décidé de permettre au personnel sanitaire d´administrer cette formule 45 minutes après l´injection, en précisant les mesures à prendre. La prise en charge de ce contact s´est faite par la mise en place de barrages respiratoires pendant 15 jours, une surveillance des niveaux de bilans biologiques, avec des examens d´imagerie au besoin, ainsi qu´une surveillance de l´évolution de la patiente. Un bilan sériquement n´a été fait dans ce cas et il n´y a eu d´autre signes cliniques de complications. Nous signalons cependant, qu´il n´a pas été posé de vaccin contre la COVID-19 à ce moment de la maladie, bien que l´accès au vaccin soit rapidement obtenu (c´est-à-dire, il n´a pas été prévu et ne pouvait pas être prévu pendant son hospitalisation), comme nous pouvons l´expliquer de la manière suivante : la prescription d´un vaccin par un médecin, bien qu´il soit souvent légale en Angleterre, est entachée d´un coût et des formations suffisantes ne seront généralement fournies qu´à titre universel et formel après l´hospitalisation.
+
+Les règles sanitaires en vigueur à cette époque-là ont apparemment rassuré notre personnel hospitalier de la patiente n°2, ce qui a permis une visite de 4 frères au plus tôt au 5ème jour d´hospitalisation de la patiente. Nous ne savons, à présent, d´où nous procédons, mais bien que nous ne sachions pas si les règles sanitaires nous protègent encore de nos propres faux mouvements, le retentissement ne pouvait être autrement que négatif.
+
+Notre prise en charge a été définie en plus de l´orientation à des mesures préventives sur le site web du gouvernement britannique (Fit for Work), en plus de l´utilisation de référence d´autres pays anglais et australiens qui ont une forme de traitement et de surveillance très similaires (par exemple en Australie : Mater National Hospital COVID-19 National Protocol: Medications, March 2020). Dans notre perspective, la prise

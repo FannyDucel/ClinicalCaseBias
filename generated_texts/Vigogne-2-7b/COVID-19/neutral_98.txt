@@ -1,0 +1,13 @@
+Nous rapportons le cas d´un patient âgé de 20 ans sans antécédent pathologique notables, qui présentait depuis 13 jours des éruptions au niveau des deux paumes des mains. Dans ses antécédents, elle a eu un contact avec son père ayant COVID-19 2 semaines auparavant. A l´admission, l´état général était conservé, et les éruptions étaient au niveau des deux paumes et étaient en chute lente. Le patient n´a pas d´urticaire aigue et n´a pas de céphalées. Le test PCR positif était resté inconnu.
+Le patient était sous traitement par injection d´Etanercept à la dose de 50 mg tous les 4 semaines et une dose de 75 mg.
+À l´admission, le patient était apyrétique et sans détresse respidatoire ni hémodynamique.
+La tomodensitométrie thoracique était normale, avec un liseré pariétal minime.
+Le bilan biologique était normal, notamment la CRP qui était négative.
+Nous avons initialement prescrit de la hydroxychloroquine (400mg pendant 5 jours, puis 200mg pendant 5 jours) en association avec la lithium-acide (600mg en 2 prises à 12h) et l´azithromycine (500mg en une prise quotidienne pendant 5 jours).
+Devant l´absence de régression des éruptions, nous avons ajouté un traitement per os d´Etanercept (25 mg en injection 1 fois par semaine pendant 4 semaines)
+Lorsque l´évolution était favorable après un mois de traitement, nous avons arrêté l´azithromycine, et mis fin à l´association des hydroxychloroquine et du lithium-acide, qui était bien toléré par le patient. L´évolution était bonne, avec régression complète des éruptions.
+Notre observation confirme que la réaction cutanée grave chez le patient avec étanercept est rarissime, en effet une littérature de l´ANRS, du Réseau des rhumatismes inflammatoires auto-immuns a identifié, jusqu´à présent, 4 cas avec injection d´Etanercept. Cependant, une autre cause potentielle de cette réaction est le contact avec le virus.
+
+Cependant, nous n´avons pas identifié d´autres antécédents pour corrélation, en l´absence de données d´un antécédent infection virale ou infectieuse.
+Par ailleurs, les éruptions rashes remontant jusqu´à 15 jours d´infection sont compatibles avec une toxicité des antiviraux.
+La prise en charge de ce cas de réaction cutanée difficile était caractérisée par une discrétion de soins, d´apres l´évolution favorable, ce qui montre la nécessité de surveiller les réactions cutanées.

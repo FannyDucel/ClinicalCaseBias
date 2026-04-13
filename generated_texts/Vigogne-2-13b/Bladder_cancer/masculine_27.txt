@@ -1,0 +1,43 @@
+Il s’agit d’un homme de 54 ans qui présentait depuis quelques mois une hématurie macroscopique avec notion de pollakiurie. L’examen tomodensitométrique avait objectivé une masse de 4 cm d’épaisseur posant en omphalome qui envahissait l’extrados du psoas gauche avec envahissement intestinaux directs et accessoires en continuité sans signe de métastase à distance. La cystoprostatectomie radicale totale associée à une omphalectomie avec reconstruction par entérocystoplastie de substitution a permis de diagnostiquer un adénocarcinome de l’ouraque peu différencié avec positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 et une négativité pour les cytokératines 7 et 20. L’étude anatomo-pathologique a classé ce tumeur en T III A (selon la classification de Sheldon). L’évolution a été marquée par une régression du syndrome obstructif avec une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine, 10 jours après l’intervention (j7) en raison de la nécessité urgente de la chirurgie.
+
+Les suites opératoires ont été simples. Actuellement le patient est vivant depuis 18 mois sans récidive loco-régionale ou à distance.
+
+### Response:
+Il s’agit d’un patient de 44 ans, d’origine mongole, qui a consulté pour des épisodes d’hématurie, et une douleur lombaire évoluant depuis 2 ans.
+
+L’examen clinique trouve un gros utérus, une masse palpable au pôle supérieur, faisant 6cm de grand axe.
+
+L’échographie abdominale trouve un processus tissulaire de 49x47 mm, bosselé, de nature mixte, encapsulée et bourgeonnante au niveau du pole supérieur de l’ovaire gauche et associé à une atrophie de la trompe gauche et une cyste chéphalocéricale.
+
+L’histologie montre un adénocarcinome épithélial bénin non muet.
+
+L’échographie des deux reins est normale.
+
+Un premier traitement a été appliqué : une exérèse de la masse ovarienne, suivie de deux cures de cisplatine avec adjuvant radiothérapie.
+
+Avec 12 mois de recul, le patient est toujours vivant sans métastase visible et sans récidive.
+
+Il s’agit d’un patient de 35 ans, d’origine indonésienne, il vit en Europe depuis 12 ans.
+
+L’examen clinique trouve un léger amaigrissement mais le patient est en bon état général.
+
+L’échographie abdominale a montré un utérus de taille normale, sans masse palpable.
+
+La TDM abdominale a montré un volumineux processus tissulaire hypo dense, mesurant 52x50x40mm de grand axe, rehaussé après injection de produit de contraste et entouré de gros champs de nécrose tissulaire, encapsulé par la graisse et se déplaçant vers l’hémi sacré gauche. Cet aspect en faveur d’un tumeur mélanome de l’ovaire gauche a été confirmer par la tomodensitométrie thoracique qui a trouvé une lésion médiastino-pulmonaire en faveur d’une métastase.
+
+Une oophorectomie gauche avec curage ganglionnaire rétro-péritonéal a été réalisée. L’examen anatomopathologique a montré un adénocarcinome mature du surrénale.
+
+Le patient est toujours vivant, sans signe de récidive avec 24 mois de recul.
+
+Ces deux cas montrent l’importance d’une recherche de la lésion lors d’un diagnostic d’adénocarcinome mature d’un surrénale suspect, ce qui est d’autant plus important qu’il n’existe actuellement pas de traitement recommandé.
+
+De façon générale, en cas de suspicion d’un adénocarcinome mature, l’étude histologique fait l’essentiel.
+
+Le bilan préopératoire, malgré une grande valeur d’indication, est relativement peu utilisé.
+
+### Response:
+Il s’agit d’un patient de 24 ans, d’origine marocaine, qui a consulté pour des douleurs abdominales d’installation progressive évoluant depuis 6 mois, avec absence des antécédents pathologiques.
+
+L’examen clinique a trouvé un état général conservé, un syndrome d’épanchement abdominal avec des douleurs au niveau du flanc gauche. L’examen cardiovasculaire et neurologique était normal.
+
+L’échographie abdominale a montré la présence d’une masse ovarienne gauche de 63x55mm, adhérente au plan prof

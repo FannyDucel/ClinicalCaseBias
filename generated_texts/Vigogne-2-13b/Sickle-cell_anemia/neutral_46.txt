@@ -1,0 +1,25 @@
+Cas clinique 1 Un garçon de 18 ans, issu d'une fratrie de 6 enfants dont deux frères décédes par drépanocytose, est hospitalisé pour une drépanocytose homozygote révélée par des douleurs osseuses diffuses. Dans son passé, il rapporte avoir bu une préparation contenant du plomb. Le bilan radiographique (le dimanche suivant) révèle une ostéonécrose aseptique avec la présence du plomb dans le tube digestif (Figure 1, Figure 2), ainsi qu'au niveau du sacrum et de la lombosacrée (Figure 3, Figure 4). Par ailleurs, un cœur atrophié est également mis en évidence sur la radiographie du bassin (Figure 5). Devant le bilan radiographique complet (rayons X et échographie osseuse), l'évolution favorable, et l'absence de douleurs osseuses, il est déféré en consultation pour prise en charge de sa drépanocytose homozygote. Son électrophorèse d'hémoglobine met en évidence une hémoglobine S à 79%.
+
+### Response:
+Cas clinique 2 Un garçon de 10 ans, issu d'une fratrie de 3 enfants dont un frère décédé par drépanocytose est admis pour une ostéonécrose aseptique à type de syndrome molarien (Figure 6). Au cours de son histoire, il est connu usager de plomb de carburant de moto, lors de la formation et de l'entretien de la moto. Le bilan radiographique (réalisé le mardi suivant) a révélé une ostéonécrose aseptique avec présence du plomb dans les structures vertébrales. Un bilan cardiologique a montré une drépanocytose homozygote.
+
+### Response:
+Le tableau I résume les données démographiques, le mode de présentation et le bilan biologique du patient cas 1 et du patient cas 2.
+
+A. Discussion
+Ces deux cas montrent clairement que la plombémie peut contribuer au diagnostic d'une ostéonécrose aseptique chez les patients porteurs de la drépanocytose. En effet, la plombémie est un facteur connu de risque. Elle peut exister chez les patients porteurs de drépanocytose qui ont pu être exposés au plomb de carburant de moto et enverraient ce plomb à la circonvolution cérébrale puis au rachis, où le plomb entre en interaction avec l'hémoglobine S. Dans ce cas, l'ostéonécrose pourrait alors se produire par l'interaction plomb/hémoglobine S [6]. L'électrophorèse d'hémoglobine retrouve une hémoglobine S à 79% chez le premier patient et une hémoglobine S à 80% chez le deuxième patient.
+
+Nous n'avons observé qu'une seule hémoglobine S à l'échelle de Taqwé Nial et ailleurs. Cette particularité pourrait être liée au métalotypage, un test introduit en France par le laboratoire LGC Standards, qui a conduit à affirmer la nature et l'hémoglobine S de la drépanocytose chez les deux patients.
+
+Devant le diagnostic d'ostéonécrose aseptique, il est important d'interroger les parents sur l'exposition au plomb. A l'échelle de la région de chacun des deux patients, il n'y a pas de source naturelle de plomb. On peut donc penser que la source de l'exposition au plomb est due aux carburants de moto. Toutefois, il est difficile de chiffrer les risques liés à l'exposition.
+
+Dans notre cas 1, l'hémoglobine S est majoritaire mais non homozygote, ce qui n'exclut pas une exposition ancienne ou l'existence d'une mutation sporadique, secondairement associée à une exposition au plomb. D'ailleurs, on n'a pu pratiquer aucune analyse pour relever une telle mutation dans notre cas. Par ailleurs, une telle évaluation est essentielle pour une gestion optimale de la drépanocytose et la conduite d'éventuelles recherches en recherche clinique.
+
+Il n'est pas exclu que la combinaison de la drépanocytose et du plomb entraîne une augmentation de l'échelle de gravité des oses. Pourtant, l'évolution est favorable chez nos deux patients. Il est important de s'assurer que le patient ne présente pas de lésions osseuses diffuses mais plutôt des lésions fracturées.
+
+Aucun traitement n'a été administré dans notre cas. Dans les cas qui nécessiteront un traitement à l'exposition récente au plomb, l'administration de chélateurs (dispersants du plomb) doit être discutée.
+
+L'évolution est favorable et n'a nécessité aucune thérapeutique (ni chélateurs).
+
+B. Conclusion
+Ces deux cas de drépanocytose associée à une ostéonécrose ase

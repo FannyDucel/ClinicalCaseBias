@@ -1,0 +1,24 @@
+Mme M.B, âgée de 45 ans, célibataire sans antécédents pathologiques notables, est admise pour des douleurs périombilicale intenses survenant depuis 48 heures, accompagnées de vomissements minces et d’empâtement sus-ombilical. L’examen physique retrouve une patiente en bon état général, tachycarde à 90bpm, une âgée de 45 ans, anémique à 9g/dl d’hémoglobine avec des glycémie et une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale retrouve une gastrite congestive avec atrophie des villosités duodénale.
+La tomodensitométrie abdominale objectivant un épaississement pariétal jéjunal. Une tumeur à 50cm de’s angle duodéno-jéjunal avec une infiltration nécrotique de la graisse sous cutanée pariétale.
+La résection segmentaire du jéjunum est réalisée. A l’examen macroscopique, le foie était indemne. Microscopiquement, l’examen de l’exérèse du tissu tumoral, montre une prolifération tumorale faite de cellules fusiformes ou de cellules klippel formé avec une importante vascularisation tumorale fait d’arteerovenous.
+Le diagnostic d’adénocarcinome lieberkuhien de maladie cœliaque est retenu.
+Les suites opératoires sont simples avec un bon recouvrement cutanée au 3 ème post opératoire. Les études complémentaires sont sans anomalies.
+Ce patient est perdu de vue.
+
+### Case 2:
+Mme N.F âgée de 45 ans, obèse, n’ayant pas d’antécédents pathologiques notables, est admise pour des douleurs périombilicale intenses survenant depuis 15 jours, accompagnées d’un cycle épigastrique inflammatoire d’aggravation. L’examen physique retrouve une patiente en bon état général, tachycarde à 110bpm, un abdomen sans défense et de souplesse normale.
+La fibroscopie oeso-gastroduodénale montre une gastrite congestive et l’examen biopsique n’a pas retrouvé d’anomalie.
+L’échographie abdominale montre une anse jéjunale 3cm/1cm.
+La tomodensitométrie abdominale montre un épaississement pariétal jéjunal d’allure tissulaire en regard de l’anse jéjunale, avec infiltration nécrotique de la graisse sous cutanée.
+Le scanner cérébral montre une collection aérique pariétale sous cutanée de l’hémi-pariétale droit.
+La résection segmentaire jéjunale est réalisée. A l’examen macroscopique, le foie était indemne, le péritoine n’a pas été incisé.
+Microscopiquement, l’examen de l’exérèse du tissu tumoral, montre une prolifération tumorale faite de cellules fusiformes ou de cellules klippel formé avec une importante vascularisation tumorale fait d’arteervenous.
+Le diagnostic d’adénocarcinome klippel formé est retenu.
+Les suites opératoires sont simples.
+Les études complémentaires ne montre pas d’anomalie particulière.
+Ce patient est perdu de vue.
+
+### Response:
+Patients 2 et 3 sont des cas similaires à Patient 1 et le diagnostic d’adénocarcinome lieberkuhien de maladie cœliaque est retenu pour les trois cas.
+Les suites opératoires sont simples avec un bon recouvrement cutanée au 3 ème post opératoire. Les études complémentaires ne montrent pas d’anomalie particulière.
+Ces patients sont perdus de vue.

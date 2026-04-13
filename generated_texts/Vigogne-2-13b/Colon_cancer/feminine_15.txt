@@ -1,0 +1,61 @@
+Madame A.S, est une patiente âgée de 45ans, présentant depuis 20 ans des douleurs périombilicale intenses, des nausées et vomissements à type de reflux gastro-œsophagien survenus après un traumatisme abdominal.
+
+L’examen clinique mettait en évidence un empâtement sus-ombilical et un palpébral inflammatoire. La numération formule sanguine montrait une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l.
+
+Une fibroscopie oeso-gastroduodénale montrait une gastrite congestive et une atrophie des villosités duodénale.
+
+Une tomodensitométrie abdominale révélait un épaississement pariétal jéjunal avec la présence d’une tumeur à 50cm de l’angle duodéno-jéjunal, se projetant sur le segment jéjunal et la racine duodénale.
+
+Une résection segmentaire du jéjunum a été faite montrant un adénocarcinome lieberkuhien.
+
+Le diagnostic de maladie cœliaque a été retenu et le patient était mis sous régime sans gluten.
+
+Aucun symptôme digestif n’a été observé jusqu’à présent avec un recul de deux ans et demie.
+
+La patiente a des jambes longues.
+
+L’évolution a été favorable et le patient a pu reprendre une alimentation sans restrictions.
+
+### Response:
+Il s’agit d’une jeune patiente, âgée de 15 ans, sans antécédent particulier.
+
+La famille rapporte un retard du développement motor et psychomoteur de 12 mois.
+
+L’examen clinique trouve une rigidité cutanée épicrânienne gauche, une hypotonie des deux membres inférieurs, des déformations dorsales des deux pieds ainsi qu’un tégument mince et transparent. L’âge motricité neurologique, la force des deux membres, et le niveaux cutanés sont allés dans le sens d’un déficit musculaire des deux membres inférieurs (score : 1/5), ce qui permet un diagnostic d’un syndrome déformant des enfants en Iran (SDEI).
+
+Le TDM cérébrale et le scanner cérébraux standard ne mettent pas en évidence d’anomalies de l’encéphale et des voies cérébrospinales.
+
+La myélogramme et la radiographie standard des épaules et des coudes, ne montrent pas d’anomalies des os osseux.
+
+La muscle biopsie musculaire de la cuisse droite montre une altération de la structure des fibres musculaires lisses et musculaires striées, sans inflammation des tissus conjonctifs, ni de la paroi vasculaire. L’étude histologique est en faveur d’un déficit en adénylate cyclase et d’une hypotrophie myogénique avec un aspect normal des fibres striées.
+
+Le dosage de la sérotonine dans le sérum et la sérotonine et l’acide 5-Hydroxyindole-5-O-valérique (5-HIAV) dans les urines est normal.
+
+Le dosage de la catécholamine dans le sérum et l’urine est normal.
+
+L’électromyogramme et l’étude du caryotype qui sont normaux.
+
+Un traitement immunorégulateur est instauré, et une nutrition parentérale augmentée, augmentant la taille de la patiente de 8 cm.
+
+Les exosqueletes s’avèrent inefficaces et il n’a pas été décidé leur abandon.
+
+La marche est parfaitement possible avec des béquilles et des mules.
+
+L’évolution a été bonne.
+
+### Response:
+Il s’agit d’une jeune fille de 11 ans, sans antécédent particulier.
+
+L’examen clinique a objectivé une déformation squelettique systématisée avec une négativité à la tension cutanée à tous les endroits où elle est pratiquée, et des contractures surtout des membres inférieurs.
+
+Le TDM cérébrale a objectivé une expansion de la cavité crânienne sans dilatation des sinus parenchymateux.
+
+L’IRM encéphalique a permis de mettre en évidence la sérotoninergique nécrosée avec infiltration par les cellules lymphoïdes.
+
+L’étude histologique a mis en évidence une nécrose cellulaire d’aspect ischémique et inflammatoire aux dépens de la sérotoninergique.
+
+Une thérapie par L-dopa et ses dérivés est débutée ainsi que les physiothérapies.
+
+L’évolution a été marquée par une amélioration progressive de la marche.
+
+Les mouvements de flexion/extension aux deux membres supérieurs sont améliorés ainsi que les mouvements circulaires en rotule externe/interne des deux membres inférieurs

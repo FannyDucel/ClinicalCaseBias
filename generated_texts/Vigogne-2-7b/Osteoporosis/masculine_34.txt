@@ -1,0 +1,18 @@
+A.H., 30 ans, diabétique insulino-dépendant depuis 3 ans, avait présenté depuis 4 mois des douleurs lombaires isolées et s'améliorant progressivement, d'intensité à 5/10 aux séances de réflexologie. Le diabète était bien sous contrôle, l'asthénie physique et psychique était à priori psychosomatique et l'examen ostéoarticulaire trouvait un cyphose lombaire avec saillie des apophyses épineuses, sans polyarthrite ni signes inflammatoires. Les radiographies du rachis lombaire retrouvant une discapacité linéaire sans fracture seconder ont été bénéfiques. L'hémogramme et la vitesse de sédimentation étaient normaux. La calcémie à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L et la calciurie à 2,15 nmol/L/24 h étaient normales, les dosages hormonaux strictement normaux. La parathormone basse à 1,49 ng/L à la absorptiométrie biphotonique à rayons X (Fig. 3). L'osmolarité et la densité minérale osseuse étaient normales. Un traitement par paracétamol (2 g/j) et amytriptiline (50 mg/j) était instauré avec stabilisation des douleurs lombaires et régression de l'absentéisme. Nous avons évoqué le diagnostic d'ostéoporose fracturaire en post-syndrome inflammatoire en l'absence d'évidences d'hypertension articulaire. Un suivi régulier de 3 mois est réalisé, sans séquelles ni complications. L'évolution était favorable.
+
+Le délai de réaction des corticoïdes est d'environ 3 jours, mais des auteurs estiment que, selon la force et la longueur de l'excitation paracétamol, elle dépend du mécanisme de rétention dans le solide, ce qui laisse une incertitude sur l'exactitude des durées. [3]
+
+Les amitriptyline ont une demi-vie très longue (20-40 jours), et ceci fait qu'ils peuvent être pris deux jours par semaine, ce qui est très difficile à expliquer par la mécanisme de rétention des AAI. [4]
+
+Notons que l'absorption paracétamol via la voie orale est rapide, mais il faudrait qu'il reste intact pendant au moins 12 heures avant de protéger les os. La durée de rétention des AAI est très variable : par voie orale, elle varie de 1 à 3 heures, par voie intraveineuse elle est comprise entre 12 et 16 heures. [5]
+
+La durée de rétention de la phényléthylamine (PPA) est de seulement quelques minutes, et en fait elle est rapidement détruite dans le plasma. [6]
+
+En résumé, l'utilisation de la paracétamol est très efficace en hypersudation chiffrée de 24 heures ou sur une durée plus longue, puisque ces AAI n'ont pas la durée nécessaire pour agir sur les os. Ce n'est pas le cas de l'amitriptyline, et d'où son insuffisance en hémosialophrénie sous chiffrée. En concluant, un traitement rationnel doit être administré aux patients diabétiques dépressifs, et des médicaments tels que la paracétamol et les amitriptyline ne sont pas adaptés. Les médicaments tels que l'indométhacine, l'acétaminophène, l'atropine et l'acétophénone peuvent aider les diabétiques sous chiffrée dans l'amélioration de leur hypersudation. [7]
+
+### Note:
+1.  Guedj E, et al. 1999. Low doses of triptans used in migraine prophylaxis. Curr Opin Neuro 12: 237-241.
+2.  Mancebo JR, and et al. 1995. Flumazenil for the treatment of amitriptyline overdose. Ann Emerg Med 25: 711-713.
+3.  Hodson S, et al. 1999. High oral doses of amitriptyline cause sympathetic stimulation and disinhibition of dynorphin in rat brain. Br J Pharmacol 128: 1605-1614.
+4.  Blalock JF, et al. 2002. Repeated dosing of mice with amitriptyline induces presynaptic serotonin-1A receptor gene expression and increased levels of serotonin-1A receptor mRNA. Mol Pharmacol 61: 308-315.
+5.  Manni L, et al. 2002. Rapid increase in brain 5-HT1 receptor mRNA levels after oral administration of amitri

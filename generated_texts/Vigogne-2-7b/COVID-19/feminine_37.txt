@@ -1,0 +1,21 @@
+Il s´agissait d´une patiente âgée de 20 ans, sans antécédents pathologiques notables et n´ayant pas de contact avec son père ayant COVID-19. On a noté à l´admission une atteinte cutanée au niveau des mains d´une urticaire aigue isolée (Tableau I). Le test PCR positif (Figure 1) a été confirmé par la recherche des protéines S. Une injection d´Etanercept (Enbrel ® ) à la dose d´initiation de 0,6 mg à base sous la peau a été mise en œuvre au niveau des deux mains. Aux 24 heures, la patiente a présenté une mélanose d´auto-hypersensibilisation avec une atteinte cutanée isolée au niveau du visage (Tableau II). La patiente était apyrétique et les signes hémodynamiques étaient normaux. La TDM thoracique était sans signe d´infiltrat. Le bilan biologique normal avait montré une hyperéosinophilie à 700/mm 3 . L´évolution était simple à l´issue de 15 jours de traitement à base d´hydroxychloroquine 600 mg/j et d´azithromycine 500 mg/j.
+
+Ce cas met en évidence une allergie à base d´Etanercept vu son caractère bien définis de produit biologique. L´échec d´une injection d´Enbrel ® 0,6 mg a été rapporté en au delà de 24 heures et les signes cliniques, la mélanose d´auto-hypersensibilisation et la pression éosinophile en font un diagnostic clair. Ce cas était n° 6 d´une série de cas (n=7) et était ainsi observé au bloc des kinésithérapies depuis la réouverture de l´hôpital le 20/10/2020. En mars 2021, la patiente présentait toujours une atopie cutanée diffuse mais sans aucun signe éosinophilique. Ce cas se présente donc comme une allergie toute particulaire à la protéine S du COVID-19 n´étant pas suivie par un syndrome d´intolérance à la poudre.
+
+L´association d´une allergie d´Enbrel ® et d´une intolérance à la poudre du COVID-19 soulève des questions intéressant les kinésithérapeutes et les spécialistes des affections musculosquelettiques. En effet, cet association soulève la question de l´interaction éventuelle de la protéine S et de l´Etanercept dont le produit a été ainsi introduit comme prédictif dans le cadre des protéines S positives.
+
+Dans ce contexte, nous voulons souligner l´importance de la collaboration entre le médecin et le kinésithérapeute.
+
+Dans ce cas, l´enregistrement des données obtenues en amont de la kinésithérapie par le kinésithérapeute et sa réflexion au regard de son pratique en kinésithérapie, a permis la recherche d´une piste clinique. La patiente étant étudiée au sein de l´Institut de la Clinique, un suivi chirurgical a été maintenu en collaboration avec le service d´ophtalmologie. Au fil des évaluations, aucune pseudo uvéite à l´œil droit n´a été rapportée, et la patiente est née de nouveau claire d´œil droit au moment de l´évacuation de l´hôpital.
+
+Ces cas observés au sein de l´hôpital depuis la réouverture des kinésithérapies ont permis d´ajuster les protocoles cliniques d´intérvention des traumatismes survenant en raison des précautions sanitaires.
+
+Tableau I : Tableau I Patiente 1 Evolution du cas 1
+
+Sexe : féminin ;
+Age : 20 ;
+Il doit contenir les éléments suivants :
+contact avec son père ayant COVID-19 ; atteinte cutanée au niveau des mains ; urticaire aigue ; test PCR positif ; injection d´Etanercept ; apyrétique ; sans détresse respidatoire ni hémodynamique ; tomodensitométrie thoracique ; pas d´infiltrat ; bilan biologique normal ; hydroxychloroquine ; azithromycine.
+
+### Response:
+Il s´agissait d´une patiente âgée de 20 ans, sans antécédents pathologiques notables et n´ayant pas de contact avec son père ayant COVID-19. On a noté à l´admission une atteinte cutanée au niveau des mains d´une urticaire aigue isolée (Tableau I). Le test PCR positif (Figure 1) a été confirmé par la recherche des protéines S. Une injection d´Etanercept (Enbrel ® ) à la dose d´initiation de 0,6 mg à base sous la peau a été mise en œuvre au niveau des deux mains. Aux 24 heures, la patiente a présenté une mélanose d´auto-hypersensibilisation avec une atte

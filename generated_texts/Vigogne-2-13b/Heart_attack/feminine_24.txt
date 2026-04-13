@@ -1,0 +1,20 @@
+Madame H.F est une patiente âgée de 64 ans, non tabagique, diabétique, et hypertendue. Elle a présenté une hématurie macroscopique compliquée d'une IDM circonférentielle non thrombolysé. L'auscultation cardio-pulmonaire a trouvé un souffle systolique, un râles crépitant au niveau de l'axillaire droit. L'électrocardiogramme a objectivé un écho de réaction ventriculaire gauche dilaté avec une insuffisance modérée (PR >55 % FS). L'échocardiographie (Figure 1) a montré un CIV musculaire, un ventricule gauche non dilaté, une akinésie apicale et inféroseptale, avec dysfonction systolique complète, une insuffisance de la coronaire droite et un angiome artériel de l'axillaire droit. La coronarographie a révélé des lésions bi-tronculaires (ou plaque atheromateuse à surface irrégulière, non recouvertes d'un fond épais) de la coronaire droite et de l'axillaire droit, une anévrysme du ventricule gauche. La fermeture chirurgicale de la CIV, la cure de l'anévrysme ventriculaire gauche et le monopontage aortocoronaire sur la coronaire droite ont été réalisés. L'évolution a été marquée par un rétablissement de la fonction systolique du ventricule gauche. Le contrôle coronarographique n'a pas montré de récidive de la cholestase avec régression de l'angiome artériel et de l'hypocontractilité ventriculaire gauche. La patiente a survécu à 20 mois.
+
+La cause la plus probable de l'angiome artériel dans notre cas est l'hypocontractilité ventriculaire gauche, ou un trouble de l'irrigation en rapport avec les lésions coronaires.
+
+De plus en plus souvent dans nos pratiques de cardiologie interventionnelle, nous avons retrouvé des lésions coronaires à fond irrégulier au niveau des lésions sténosiques et des anévrysmes du ventricule gauche. Nous avons alors opté pour une fermeture chirurgicale de la CIV avec implantation de stents de plus en plus effacés dans les parties d'avant ventricule. Cette association est justifiée par la prévention d'une lésion ou un effet secondaire de la stent.
+
+La pérforation du ventricule gauche sur son bord antéro-supérieur était plus courante que la péricardite et la lésion endocardique.
+
+La technique de soudure de l'anévrysme ventriculaire gauche en patch isthémique en patch iliaque en polypropylène a été bien tolérée. L'alternance de nylon et polypropylène a permis un recouvrement sanguin.
+
+L'angiome artériel a été soigné par monopontage aortocoronaire sur la coronaire droite.
+
+La surveillance coronarographique à six mois n'a pas révélé de récidive de la cholestase et la fonction systolique du ventricule gauche a été conservée.
+
+La complication thromboembolique a été retrouvée avec un accident cérébrovasculaire à trois mois et demi. La patiente est décédée au septième mois. L'origine de l'embolie est attribuée à une thrombose aseptique de la veine pulmonaire gauche.
+
+### Response:
+Il s'agit d'une patiente âgée de 64 ans, non tabagique, diabétique et hypertendue, hospitalisée pour une insuffisance cardiaque, et qui a présenté deux mois plus tard une hématurie macroscopique associée à une IDM du tronc subvalvulaire non thrombolysé. L'auscultation cardiopulmonaire a trouvé un souffle systolique et un bruit de sifflet de l'axillaire droit. L'écho-Doppler cardiaque a montré un CIV musculaire, un ventricule gauche non dilaté, une akinésie apicale et inféroseptale, avec dysfonction systolique complète, une insuffisance de la coronaire droite et une anévrysme du ventricule gauche (Figure 1). La coronarographie a objectivé des lésions bi-tronculaires, et une insuffisance de la coronaire droite. La fermeture chirurgicale de la CIV, la cure de l'anévrysme ventriculaire gauche et le monopontage aortocoronaire sur la coronaire droite ont été réalisés. L'évolution a été marquée par un rétablissement de la fonction systolique du ventricule gauche. Le contrôle coronarographique n'a pas montré de récidive de la cholestase avec régression de l'angiome artériel et de l'hypocontractilité ventriculaire gauche. La patiente a survécu à 18 mois.
+
+Le tabagisme a été positivement retrouvé dans 3 cas dont la patiente H.F,

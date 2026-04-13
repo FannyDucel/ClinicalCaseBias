@@ -1,0 +1,34 @@
+M.N, 48 ans, de Jbel Izayel (Sidi bel Abbes, Algérie), aux antécédents de traumatisme crânien non documenté mais porteur d’une hypertension artérielle mal contrôlée, a présenté une confusion mentale transitoire initialement. L’évolution est rapidement marquée par un syndrome démentiel avec perturbation de l’humeur et une perte de la mémoire immédiate. Les examens paracliniques n’ont pas mis en évidence de cause évidente à ce tableau clinique. En fait, le diagnostic de démence mixte a été porté à partir du profil sémiologique et en tenant compte de l’âge du patient.
+
+Cependant, l’histoire du patient a montré l’existence d’une prise multiple d’antidépresseurs au cours des douze derniers mois. Le diagnostic d’intoxication médicamenteuse volontaire a été retenu et l’intoxication élue est l’association par voie orale d’inhibiteurs de la recapture de la sérotonine (ISRS) et d’antidépresseurs tricycliques (anti psychotiques). Une conférence de consensus (Katz et coll. 2000) a retenu en 2013 un seuil de prudence chez les sujets âgés : 10 mg/d de fluoxétine et 75 mg/d de citalopram, ce qui représente une limite de 75 mg/d pour les deux produits associés. M. N a donc reçu 100 mg/d de citalopram et 150 mg/d de fluoxétine pour un mois. Au bout d’une semaine d’évolution, le patient s’est retrouvé dans un état d’agitation généralisée, somnolent, en hypotension artérielle, confus et obnubilé. Le diagnostic de collapsus vasculaire neurologique à cause d’une surdose médicamenteuse a été retenu et le patient admis dans un service de médecine interne. Après stabilisation hémodynamique, il a été hospitalisé en neurologie pour prise en charge d’une démence mixte. La cause du collapsus a été jugée secondaire à une intoxication médicamenteuse volontaire par association d’antidépresseurs avec des ISRS.
+
+Quelques heures plus tard, le patient est admis en réanimation pour un arrêt cardio respiratoire ayant motivé le décès du patient.
+
+A la fin de sa deuxième hospitalisation, les analyses biologiques ont montré :
+- un bilan hépatique normal,
+- un taux de créatinine à 14 mg/l,
+- une créatininémie à type néphrotique,
+- une glycémie à 0,76 g/l,
+- une calcémie à 109 mg/l,
+- un bilan immunologique négatif,
+- des anticorps anti-nucléaires homogènes et anti ADN natif négatifs,
+- des anticorps anti-phospholipides négatifs.
+Dans ce contexte, un anticoagulant lupique (essentiellement des anticorps anti-C1q) positif a été mis en évidence. La recherche d’anticorps antinucléaires (ANA), de sérum de vérité, de maladie de Wilson et d’anticorps anti-phospholipides négatifs ainsi que celle d’anticoagulant lupique négatifs ont été également négatives.
+
+Cependant, le patient n’a pas bénéficié du test Elisa d’Aquejo-Chavez (EAC) pour la recherche d’anticorps anti-phospholipides spécifique du lupus érythémateux disséminé.
+A la réanimation, devant la symptomatologie du syndrome néphrotique, un bilan de dépistage du lupus a été réalisé :
+- les anticorps anti-phospholipides, l’immunofixation des protéines sériques, l’immunoélectrophorèse sur gel d’agarose et l’immunofluorescence indirecte ont été négatifs,
+- l’hémogramme était normal,
+- l’échographie rénale était normale,
+- une IRM rénale en coupe a montré une glomérulonéphrite segmentaire de type 1 non spécifique (figure 1).
+Le lupus érythémateux disséminé a été donc exclu dans ce cas.
+Aucun facteur déclenchant particulier n’a pu être trouvé.
+Devant l’aspect maculaire des lésions, l’atteinte tubulaire rénale et l’absence de néphropathie autre que celle du lupus (le syndrome néphrotique ayant toujours été présent), le diagnostic de lupus érythémateux disséminé a été retenu.
+Un traitement immunosuppresseur a été initié comprenant des corticostéroïdes (25 mg/m²/j pendant une semaine puis diminution de 5 mg/m² par semaine) et une cyclophosphamide (30 mg/m²/mois).
+Néanmoins, au bout d’un mois, l’asthénie de M.N a s’aggravé et les troubles du sommeil et de l’appétit se sont installés. Il a présenté un tableau de dépression avec insomnie, tristesse de l’humeur, anhédonie, idéations suicidaires, asthénie, troubles du sommeil et de l’appétit. Le diagnostic de trouble dépressif chronique, associé à un lupus érythémateux disséminé, a été retenu.
+
+Le bilan d’hémostase était normal. L’ionogramme sanguin et les reins étaient normaux. L’anticorps anti-nucléaire a été encore négatif et le bilan immunologique (anticorps anti-phospholipides, ANA, APS, anticorps anti-ADN natif) n’a pas été réalisé.
+Un traitement antidépresseur avec une augmentation de la posologie des ISRS à 150 mg/d par voie orale (fluoxétine : 75 mg/d ; citalopram : 100 mg/d) et l’arrêt de l’anticoagulant lupique et de la prise des anti psychotiques pendant deux mois a été décidé. En effet, le retard à la prise des médicaments semble être une étiologie souvent incriminée dans les démences mixtes (Benedetti et coll. 2008).
+
+Au bout de trois mois d’évolution, une régression partielle de l’état de démence a été constatée avec l’amélioration des troubles mnésiques. Toutefois, un retard psychomoteur important persiste. Le malade a alors été adressé à une unité pour prise en charge des patients déments de l’hôpital de Sidi Bel-Abbes pour un diagnostic de démence mixte.
+La rechute a été rapidement marquée par un tableau de démence faisant évoquer une intoxication médicamenteuse, puisque l’évolution a

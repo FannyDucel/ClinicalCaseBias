@@ -1,0 +1,70 @@
+Cas 2 : patiente de 20 ans sans antécédents pathologiques notables, ayant comme antécédents familiaux un parent ayant contracté le COVID-19 en novembre 2020.
+
+La patiente était asymptomatique pendant 20 jours, avant de présenter les signes et symptômes suivants en 05 jours. Dans un contexte de contact avec son père ayant COVID-19, elle présente les suivants :
+
+• signes cliniques de démangeaisse (urticaire aigue) qui nécessitent le recours aux médicaments habituels.
+• Teste PCR positif.
+
+La patiente reçoit ainsi une injection d´Etanercept (50 mg une fois par mois), en vue de restaurer la fonction des molécules CD4.
+
+La patiente est apyrétique, sans détresse respidatoire ni hémodynamique durant le hospitalisation.
+
+A J+3 du test positif à la PCR, la tomodensitométrie thoracique n´a pas d´infiltrat notable.
+
+Le bilan biologique est normal.
+
+A J+4, on termine le traitement par hydroxychloroquine (400 mg/j) et par azithromycine (1g/j).
+
+A J+15, la patiente est décrite comme asymptomatique et apyrétique.
+
+A J+18, la patiente reprend son traitement injectionnel d´Etanercept (50 mg une fois par mois).
+
+A J+19, la patiente est asymptomatique et apyrétique.
+
+Il s´agit d´une suite d´hospitalisations dont les tâches étaient :
+- faire l´admission de la patiente ;
+- protéger la patiente contre les risques de morbidité et de séjour prolongée à l´hôpital ;
+- rationaliser les traitements utilisés ;
+- assurer la progression thérapeutique vers l´hospitalisation à domicile.
+
+Le patient n´a présenté aucune récidive de la démangeaisse et n´a pas contracté une infection au cours de sa convalescence.
+
+A J+23, le taux de CD4 de la patiente est à 740 cellules/µl.
+
+Il n´y a pas de recidive de l´urticaire aigue.
+
+Dans ce cas, la CD4 est mise à plat à J+0, J+23 et J+30.
+
+En cas de dégradation de l´état, la molécule d´Etanercept est renouvelée à J+0, J+30 et J+36.
+
+A J+39, la patiente a pu déménager et rentrer chez elle.
+
+En dehors des signes et symptômes transitoires, cette patiente n´a pas présenté d´autres complications, ni de recidive du virus ni d´évolution vers une maladie plus sévère.
+
+La patiente est toujours asymptomatique à J+91, avec un taux de CD4 à 782 cellules/µl.
+
+Nous ne retenons pas d´autres situations cliniques en dehors de ces signes et symptômes transitoires.
+
+Par exemple, la patiente n´a pas présenté d´autres signes cliniques du syndrome de Guillain-Barré (GBS).
+
+Nous sommes confrontés dans ce cas à une symptomatologie très fréquente, transitoire, sans risque pour la patiente d´un transfert du virus SARS-CoV-2, sans d´évolution vers une maladie plus sévère.
+
+Le contexte de l´activation par le contact avec son père ayant contracté le COVID-19 est une situation idéale pour évoquer et prémunir contre l´éventualité d´une complication sérieuse.
+
+La symptomatologie initiale était que de l´urticaire aigue avec injection de l´Etanercept à 05 jours.
+
+La d´évolution du tableau clinique était de l´apthéose et du décrochage lymphoïde avec restriction de la glycémie en cours d´hospitalisation.
+
+Ainsi, en interrogeant la patiente à J+30, nous n´avons pas noté de suspicion de recrudescence du virus, ni de contexte épidémique en cours.
+
+Dans ce cas, la prescription de hydroxychloroquine était rétrograde (72h après le test positif).
+
+Par contre, la prise en charge du syndrome GBS (21 jours après le test positif) était par antibiothérapie par 2 semaines de vancomycine (1g/j).
+
+Nous sommes convaincus que la rémission complète de l´urticaire aquare aurait conduit à une normalisation progressive du taux de CD4, avec des prélèvements pour des bilans biologiques réguliers.
+
+En ce qui concerne la réactivité du test de PCR, un arrêt des séances d´injection d´Etanercept à J+49 est d´actualité.
+
+Aucune autre molécule ne sera prescrite si aucun recul n´est disponible (J+91).
+
+La patiente n´a pas

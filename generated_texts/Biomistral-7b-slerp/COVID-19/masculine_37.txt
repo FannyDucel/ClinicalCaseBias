@@ -1,0 +1,20 @@
+Un jeune patient de 20 ans, sans antécédents pathologiques particuliers, est hospitalisé à l´UHC pour bilan d’une atteinte cutanée au niveau des mains survenue deux jours après le contact avec son père ayant COVID-19. Le début était marqué par une fièvre à 38,6°C associée à un prurit intense aux mains avec des œdèmes et une urticaire aigue.
+Le bilan biologique était normal (réaction d’activation du complément négatif (C4) : 37mg/dl, taux des immunoglobulines M (IgM) = 0,25g/l, taux des IgG = 2,35g/l) et le test PCR positif à SARS-CoV-2. L’association d’un épotaxine + acide acétylsalicylique n’a pas apporté de réponse.
+L’administration d’Etanercept (25mg par semaine) a permis une disparition de la fièvre en trois jours et un bon contrôle de la douleur et du prurit. L’évolution était également apyrétique sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était normale et le bilan biologique était sans anomalies. Le patient a bénéficié d’un traitement par hydroxychloroquine + azithromycine pendant deux semaines en association avec la suite des prises du prélèvement. Il est à noter que le consentement éclairé du patient à l’utilisation de son cas a été obtenu.
+Il n’y a pas d’autres cas d’urticaire aigue similaire décrits dans la littérature sur ce patient qui est resté asymptomatique 28 jours après le début des manifestations cutanées.
+
+L’origine immuno-médiée de l’urticaire aiguë est exclue en l’absence de signes immunologiques et une biopsie cutanée n’a pas été réalisée. Aucun traitement de fond n’a été proposé en raison de la durée asymptomatique et de l’exclusion d’une origine immunologique. Un suivi d’un mois, puis trimestriel est prévu.
+
+La persistance de l’urticaire aiguë sur plus de quatre semaines dans un contexte favorable (févropénie, contage, ...) et l’absence de signes immunologiques permettent d’évoquer l’origine immuno-médiée. Par ailleurs, un diagnostic de dermatomyosite n’a pas été retenu, bien que deux facteurs faveur soient présents: l’âge et l’association avec une infection.
+
+Ainsi, la présence de l’urticaire aiguë à moins de 4 semaines de contage, ainsi que son caractère inexpliqué par un autre diagnostic, devant la discrétion du bilan biologique, justifie la persistance d’une surveillance régulière.
+
+L’idée d’un traitement à base de corticostéroïdes a été abandonnée en raison de la similitude avec une dermatomyosite et du risque d’avoir recours à une corticothérapie à dose importante et prolongée, accompagnée d’effets secondaires éventuels. L’association de deux anti-inflammatoires non stéroïdiens avec hydroxychloroquine a permis le contrôle de la symptomatologie cutanée.
+
+L’immunité adaptative constitue une protection immunitaire importante contre les pathogènes. Elle joue un rôle majeur dans le développement de la résistance aux bactéries, viruses et parasites. En général, l’immunité adaptative peut être classée en deux types : l’immunité humoral (IgM et IgG) et l’immunité cellulaire (cellules T CD4+, cellules T CD8+ et macrophages) (1, 2).
+
+Cependant, l’activation immunitaire cellulaire peut aussi se traduire par une réponse pro-inflammatoire avec libération de facteurs pro-inflammatoires tels que l’interleukine 6 (IL-6) qui est pro-inflammatoire (3-5). L’augmentation du niveau de l’IL-6 est devenue un marqueur délirant (6) dans le cadre de la covid-19.
+
+En outre, les biomarqueurs inflammatoires sont associés à l’incidence et à la gravité de la maladie (6). Par exemple, dans une étude prospective sur la population des patients en aiguë hospitalisée pour COVID-19, cytokines sériques tels que l’IL-1, l’IL-6, l’IL-8 et le TNF-alpha étaient associés à la gravité de la maladie (7).
+
+A l’inverse, les antibodies anti-cytokines qui neutralisent les cytokines ont été utilisées pour traiter les syndromes cytokiniques hyper-inflammatoires. Cet effet immunitaire poussé a conduit au développement du syndrome de Reye qui est une pathologie inflamm

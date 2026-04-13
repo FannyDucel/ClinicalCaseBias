@@ -1,0 +1,30 @@
+Un patient de 55 ans, 2ème pare, 3ème geste, accouchant par la voie basse. Auparavant, il s’agit d’un patient rhinotype, œsophagite et asthme corticodépendant depuis 2 ans. Admise en service de gynécologie pour perdu le contrôle urinaire associée à des douleurs abdominales. Aucune notion de tuméfaction ou masse de l’abdomen, ni de fièvre, ni d’œdème des membres inférieurs.
+
+L’examen clinique a trouvé une miction impérieuse avec un globe vésical qui ne peut pas être palpé et le globe rectal est comble de selles et de matières d’où les diarrhées. Le globe abdominal est souple avec une défense. L’examen de la voie urinaire supérieure et des organes génitaux externes était normal.
+
+Une exploration chirurgicale avec hystérectomie totale et bilatérale, omentectomie a été indiquée. L’examen anatomo-pathologique est revenu en faveur d’un adénocarcinome séreux peu différencié de grade III. Une échographie hépatique et radio du thorax n’ont pas révélé d’anomalies. Le CA 125 était augmenté à 10 705.
+
+Le patient a été adressé à la chirurgie viscérale à un mois et demi de l’intervention. L’examen clinique a retrouvé une douleur abdominale diffusément répartie. L’examen des fosses iliaques n’a pas retrouvé la tumeur. L’examen gynécologique n’a pas montré de masse vaginale ou péri-vaginale, ni un épanchement péritonéal.
+
+Le patient était hospitalisé en unité de soins intensifs avec une diarrhée fébrile associée à une incontinence urinaire totale. Les examens complémentaires ont révélé une pancytopénie: plaquettes : 24 000, hémoglobine: 7.3 g/dl, leucocytes: 450/mm3, neutrophiles: 300/mm3, globules blancs : 350/mm3, plaquettes: 24000/mm3, créatininémie à 63 μmol/l, et hyperglycémie à 19.1 mmol/l. L’hémogramme, la vitesse de sédimentation et la CRP étaient à 197. L’antibiothérapie à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) et la transfusion plaquetaire et de globules rouges n’ont pas arrêté la diarrhée.
+
+La cystoscopie et le lavage vésical étaient en faveur d’une pancréatite aiguë. La laparotomie est revenue en faveur d’une exérèse entière du rein gauche adhérent avec le segment colique gauche. L’examen anatomopathologique était en faveur d’une tumeur de la vésicule séreuse. L’état du patient a été modifié rapidement vers l’aggravation. Le décès s’est produit au 5 ème jour post-opératoire.
+
+Les morts dans le premier mois sont mesurées en années de vie perdues (ALVP) par la formule suivante:
+
+ALVP = [0.911 x √Age in Years]
+
+• Si Age est inférieur à 20: 0,911 x√Age
+• Si Age est supérieur ou égal à 20: 0,911 x√Age - 20
+
+Le calcul de l’ALVP pour le patient est de 14,8.
+
+Le patient était une jeune patiente et c’était la première grossesse. Son historique de la maladie est spécifique: un cancer œsophagien. Le diagnostic d’un méningococci en infection secondaire d’un néphrectomie n’est pas exclu. L’utilité de l’immunisation contre le méningococci (les B-meningococci) a été discutée.
+
+Le patient avait des antécédents de cancer de l’ovaire bilatéral et l’adénocarcinome du rein était post-néphrectomie. On ne retrouve pas dans notre cas les facteurs de risque génétiques ni les anomalies du WT1 gene.
+
+L’échographie hépatique et la tomodensitométrie abdominale étaient normales. Les sérologies des hépatites A, B, C et D étaient négatives. L’index MALS (Multivariate Analysis of Survival and Event) était de 0,25.
+
+Le rattachement du rein à la vessie au cours de la grossesse et la conservation du rein dans le cas du néphrectomie ne sont pas rares. L’évolution favorable du rein dans le contexte d’une mauvaise fonction rénale est un phénomène clinique rare.
+
+L’arrêt du traitement d’imm

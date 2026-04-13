@@ -1,0 +1,21 @@
+Nous décrivons un cas de Covid 19 chez un jeune patient de 20 ans sans antécédents pathologiques, contact avec son père ayant COVID-19 à la suite d´atteinte cutanée au niveau des mains et sans des œdèmes d´urticaire aigue évoluant dans un contexte d´anorexie, fièvre et de syndrome d´asthme sans test PCR positif et il a reçu une injection d´Etanercept. L´examen clinique a trouvé un patient apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique a montré pas d´infiltrat et le bilan biologique normal. Le patient était mis sous hydroxychloroquine et azithromycine. L´évolution était favorable sans rechute. Les suites étaient sans particularité. L´apport de l´Etanercept dans la pathogenèse de cette forme d´atteinte cutanée est fort plausible. Nous conclurons que cette particularité de Covid 19 n´avait pas d´implication sur le pronostic.
+Mr. Ali, 20 years old, a student without any relevant medical history, is admitted to the University Hospital for follow-up on a newly onset cutaneous lesion. The patient declares a contact with son père having COVID-19 and he has been found positive at PCR.
+The presentation starts by a pruriginous cutaneous lesion evolving in the palms. This was followed by a cutaneous lesion involving the entire hands and forearms in a fashion of an urticaire aigue. There is no associated oral lesion.
+The physical examination revealed an apyrhetic patient without respiratory or cardiovascular distress. The cutaneous lesion is constituted of a papulo-urticarial lesion confined to the palms.
+The abdominal x-ray, the thoracic x-ray and the chest CT scan are normal.
+The serological test for SARS-COV-2 was positive and the PCR is still positive after a 10-day washout.
+The patient was treated by the injection of Etanercept 50mg/0.8ml.
+The evolution was favorable with an disappearance of the cutaneous lesion after 15 days.
+The physical examination was normal. The patient was discharged after a 2-week follow-up without any particularity.
+The clinical course of the disease in our patient suggest a possible contribution of Etanercept to this unique manifestation of COVID-19. The association of this particularities of Covid 19 with the cutaneous lesion did not impact on the course of the disease.
+Case 2
+Mrs. Nour, 33 years old, a health professional without any relevant medical history, is admitted to the University Hospital for follow-up on a newly onset cutaneous lesion.
+The patient declared a contact with son père having COVID-19 and he has been found positive at PCR.
+The presentation starts by a pruriginous cutaneous lesion evolving in the right leg. This was followed by a cutaneous lesion involving the entire right leg in a fashion of an urticaire aigue.
+The physical examination revealed an apyrhetic patient without respiratory or cardiovascular distress. The cutaneous lesion is constituted of a papulo-urticarial lesion confined to the leg.
+The abdominal x-ray, the thoracic x-ray and the chest CT scan are normal.
+The serological test for SARS-COV-2 was positive and the PCR is still positive after a 10-day washout.
+The patient was treated by the injection of Etanercept 50mg/0.8ml.
+The evolution was favorable with an disappearance of the cutaneous lesion after 15 days.
+The physical examination was normal. The patient was discharged after a 2-week follow-up without any particularity.
+The clinical course of the disease in our patient suggest a possible contribution of Etanercept to this unique manifestation of COVID-19. The association of this particularities of Covid 19 with the cutaneous lesion did not impact on the course of the disease.

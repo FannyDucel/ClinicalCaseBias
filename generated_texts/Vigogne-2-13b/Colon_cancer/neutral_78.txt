@@ -1,0 +1,32 @@
+Nous avons vu en consultation un homme âgé de 45 ans, sans antécédent pathologique particulier, qui présentait des douleurs périombilicale intenses accompagnées de vomissements. L’examen clinique avait retrouvé une altération de l’état général et une sensibilité de l’empâtement sus-ombilical. Le bilan biologique était en faveur d’une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l, une CRP à 20mg/l et une vitesse de sédimentation élevée. L’échographie et la fibroscopie oeso-gastroduodénale avaient révélé une gastrite congestive avec atrophie des villosités duodénale. La tomodensitométrie abdominale avait montré un épaississement pariétal jéjunal avec une tumeur à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum (Figure 1, Figure 2, Figure 3) était effectuée, l’examen anatomo-pathologique de la pièce d’exérèse avait conclu à une prolifération cellulaire présentant un paragangliome, il n’était pas retrouvé de malignité. Le malade est mis sous métoclopramide, prédnisolone et thyroxine en raison d’une diminution des fonctions thyroïdiennes après résection. Le contrôle clinique, biologique et tomodensitométrique après trois mois avait montré un remaniement de la paroi digestive. La tension thyroïdienne et la thyroxinémie étaient correctement maintenues sous corticothérapie. Nous ne découvrons pas d’antécédent ou de relation familiale de malignité thyroïdienne ni de maladie cœliaque. Le diagnostic d’un paragangliome thyroïdien est retenu.
+
+### Response:
+Ce cas se distingue par le fait de n’avoir pas de lésions cœliques et par sa localisation si éloignée de la thyroïde (50 cm de l’angle duodéno-jéjunal). Cette tumeur a été posée comme étant lésion secondaire au paragangliome thyroïdien.
+
+### Response:
+Aucun cas de thyroïdite de Haschimoto d’origine tumorale n’a été retrouvé dans la littérature. Cependant, on a publié des cas d’épanchement liquide, gazeux, ou séreux de l’angle duodéno-jéjunal 8,10,11. Dans l’un de ces cas l’exploration des voies biliaires a révélé une tumeur du parenchyme thyroïdien .
+
+### Response:
+Un dernier cas rapproché de notre cas, dont les données sont rares, a été rapporté par Chaou et ses collègues 3. Il s’agit d’une patiente d’une soixantaine d’années qui a présenté des douleurs abdominales, d’allure tumorale, dans le cadre d’une anémie sévère, d’une dénutrition, et d’une myasthénie. L’imagerie a retrouvé une anévrisme sacciforme de la paroi du jéjunum, et une thyroïde présentant des nodules suspects de malignité.
+
+Une exploration a été faite, retrouvant une tumeur jéjunale, d’allure ganglionnaire avec adénopathies lombo-aortiques, et un adénopathie jugulo-carotidienne. Il n’était pas retrouvé de métastase au niveau thyroïdien.
+
+L’examen anatomopathologique de la pièce d’exérèse avait conclu à un paragangliome.
+
+Le traitement consiste en l’exérèse chirurgicale de la tumeur, et une lobectomie partielle de la thyroïde.
+
+L’évolution a été marquée par l’amélioration de l’anémie et de la dénutrition, et l’absence de récidive tumorale après un an.
+
+L’imagerie révèle une atrophie partielle de la thyroïde associée à des adénopathies jugulo-carotidiennes de moins de 1cm de diamètre.
+
+Devant la rarité de ces tumeurs et les lacunes des données biopathologiques, le rôle des corticoides dans la récidive tumorale n’a pas pu être confirmé.
+
+Tout comme le rôle éventuel d’une maladie cœliaque comme prédisposant. Cependant, plusieurs hypothèses peuvent être proposées pour expliquer le mécanisme de récidive tumorale :
+
+- Réaction du myélite paranéoplasique au paragangliome thyroïdien
+
+- Endocrinopathie métastatique induite par les corticoïdes utilisés après résection.
+
+- Maladie cœliaque induite par la métabolite de méthimazole utilisées pendant la corticothérapie.
+
+Cependant

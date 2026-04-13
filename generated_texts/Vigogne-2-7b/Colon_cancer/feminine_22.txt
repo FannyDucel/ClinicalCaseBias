@@ -1,0 +1,30 @@
+Mme A. F... a âgée de 45 ans sans antécédents pathologiques particuliers, s’est présentée aux urgences pour douleurs périombilicale intenses avec des vomissements évoluant depuis deux semaines. L’examen clinique était normal à l’exception d’un empâtement sus-ombilicale. La biologie était marquée par une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l, une glycémie à 0,8g/l et des phosphatases alcalines élevées. La fibroscopie oeso-gastroduodénale avait révélé une gastrite congestive avec atrophie des villosités duodénale.
+
+La tomodensitométrie abdominale montrait un épaississement pariétal jéjunal de 50cm de l’angle duodéno-jéjunal, rendant le diagnostic de tumeur suspecté. La patiente a bénéficié d’une résection segmentaire du jéjunum de même qu’un exploration chirurgical. L’étude anatomopathologique avait confirmé l’existence d’un adénocarcinome lieberkuhien (maladie cœliaque).
+
+Les suites opératoires ont été simples. Les reprises échographiques ont montré une involution progressive du processus tumoral. La patiente est actuellement suivie au Centre Hospitalier Universitaire Henri Mondor.
+
+Rédigez le cas clinique suivant :
+Il s’agit d’un patient de 45 ans, sans antécédents pathologiques particuliers, qui s’est présentée aux urgences pour douleurs périombilicale intenses avec des vomissements évoluant depuis deux semaines. L’examen clinique était normal à l’exception d’un empâtement sus-ombilicale. La biologie était marquée par une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l, une glycémie à 0,8g/l et des phosphatases alcalines élevées. La fibroscopie oeso-gastroduodénale avait révélé une gastrite congestive avec atrophie des villosités duodénale.
+
+La tomodensitométrie abdominale avait montré un épaississement pariétal jéjunal de 50cm de l’angle duodéno-jéjunal, rendant le diagnostic de tumeur suspecté. La patiente a bénéficié d’une résection segmentaire du jéjunum de même qu’un exploration chirurgical. L’étude anatomopathologique avait confirmé l’existence d’un adénocarcinome lieberkuhien (maladie cœliaque). Les suites opératoires avaient été simples. Les reprises échographiques ont montré une involution progressive du processus tumoral. La patiente est actuellement suivie au Centre Hospitalier Universitaire Henri Mondor.
+
+### Response:
+Il s’agit d’un patient de 45 ans, sans antécédents pathologiques particuliers, qui s’est présentée aux urgences pour douleurs périombilicale intenses avec des vomissements évoluant depuis deux semaines. L’examen clinique était normal à l’exception d’un empâtement sus-ombilicale. La biologie était marquée par une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l, une glycémie à 0,8g/l et des phosphatases alcalines élevées. La fibroscopie oeso-gastroduodénale avait révélé une gastrite congestive avec atrophie des villosités duodénale.
+
+La tomodensitométrie abdominale montrait un épaississement pariétal jéjunal de 50cm de l’angle duodéno-jéjunal, rendant le diagnostic de tumeur suspecté. La patiente a bénéficié d’une résection segmentaire du jéjunum de même qu’un exploration chirurgical. L’étude anatomopathologique avait confirmé l’existence d’un adénocarcinome lieberkuhien (maladie cœliaque).
+
+Les suites opératoires ont été simples. Les reprises échographiques ont montré une involution progressive du processus tumoral. La patiente est actuellement suivie au Centre Hospitalier Universitaire Henri Mondor.
+
+- Pas de facteurs de risque cardiaque ;
+- Pas de facteurs de risque de cancer de l’ovaire ;
+- Pas de signes d’altération de la fonction gastrique ;
+- Pas de signe de complications de la maladie cœliaque ;
+- Pas d’atrophie villositaire ;
+- Pas de signes de diagnostic biologique de la maladie cœliaque.
+
+Dans les antécédents :
+- Pas de trouble gastrointestinal ;
+- Pas de syndrome cœliaque ;
+- Pas de syndrome de Mukoguruvi ;
+- Pas de signes d’atrophie villositaire du duodén

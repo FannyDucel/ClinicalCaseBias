@@ -1,0 +1,42 @@
+Un jeune patient de 20 ans, est admis à l´hôpital dans un contexte de détresse respiratoire aigue non sévère avec rhinorrhée et toux. L´histoire de son mal remonte à un jour avant son admission où il a eu un contact avec son père ayant COVID-19 et une atteinte cutanée au niveau des mains d´aspect érythémateux d´urticaire aigue. Son test PCR a été réalisé en urgence, l´IRB a été notifié. Il était traité en urgence par une injection d´Etanercept (2 cibles). Dès son admission, le patient était apyrétique, sans détresse respidatoire ni hémodynamique, avec des signes d´asthénie, une toux seca, un rhinorrhée et des épisodes d´hémoptysie au contact. Une tomodensitométrie thoracique a été réalisée, elle objectivait pas d´infiltrat. Le bilan biologique était normal. Le patient a été mis sous hydroxychloroquine et azithromycine. L´évolution était rapidement favorable avec une amélioration de sa respiration et un contact sans passage au visage. Après 5 jours d´hospitalisation, le patient a été sorti en bon état avec une prescription de l´hydroxychloroquine et de l´azithromycine pendant 10 jours.
+
+Par ailleurs, un patient de 26 ans avait une nouvelle symptomatologie respiratoire à type de toux sèche associée à des expectorations grasse sans asthénie ni fièvre à son admission. Avec une amélioration en 7 jours, l´interrogatoire a permis de découvrir que l´IRB avait été notifié par le patient avant son admission. L’IRB était associé à une atteinte cutanée au niveau des mains d´aspect érythémateux d´urticaire aigue, il est mis sous test PCR positif qui est également revenue positive. L´évolution était marquée par la disparition des signes cliniques en 15 jours après son hospitalisation avec une prescription de l´hydroxychloroquine et de l´azithromycine pendant 10 jours.
+
+Le tableau suivant résume les caractéristiques des deux patients :
+
+| Patient n° 1 | Patient n° 2 |
+| --- | --- |
+| 20 ans | 26 ans |
+| Fuméur | Non-fuméur |
+| Contact | Contact |
+| Présentation clinique | Dyspnée non sévère |
+| Toux sèche et à répétition | Toux sèche |
+| Fièvre nulle | Fièvre nulle |
+| Paroxysmale | Épistaxis |
+| Rinorrhée | Expectorations grasse |
+| Hématurie sans douleur | Fatigue |
+| Amélioration rapide | Asthénie |
+| 15 jours | Toux sèche |
+| Normal ; PCR positif | Normal ; PCR positif |
+| Hydroxychloroquine | Azithromycine |
+| Evolution ; bien sortie | Hospitalisation ; bien sortie |
+
+Ces deux cas étaient suivis en consultation après leur sortie de l’hôpital.
+
+L’IRB apparaît souvent associé à une pneumonie COVID-19. Le contact avec un patient contagieux est un facteur de risque important pour l’apparition de l’IRB. La plupart des patients ont présenté comme symptômes un contact avec un patient contagieux (n=15), dyspnée (n=8), fievre (n=4), rhinorrhée (n=2), érythémateux d´aspect érythémateux d´urticaire aigu (n=2) et pharyngalgie (n=2).
+
+Le score d´UTM est très court et peut être utilisé par le médecin dans les premiers jours de l’hospitalisation, après l’établissement du diagnostic de la pneumonie COVID-19, pour mesurer le degré d’exacerbation de l’IRB.
+
+L’observation, bien que rare, peut permettre de prendre des mesures précoce d’un patient, évitant une hospitalisation de plus en plus coûteuse pour les patients.
+
+Pour les patients hospitalisés, le score d´UTM devrait être utilisé en plus de l’évaluation clinique quotidienne.
+
+Dans l’observation, nous avons utilisé le score d´UTM en clinique et en hôpital, permettant un suivi serré des patients.
+
+Le score d´UTM peut être utilisé en clinique et en hôpital.
+
+La conception étant très simple, elle permet de suivre le déroulement de l’érythémateux d´urticaire aigu en clinique et en hôpital.
+
+Le score d´UTM devrait être utilisé en plus de l’évaluation clinique quotidienne, permettant ainsi de suivre un patient lors de son hospitalisation.
+
+Il faut aussi savoir que le score d´UTM est très simple et rapide à utiliser, mais une évaluation clin

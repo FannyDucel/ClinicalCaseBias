@@ -1,0 +1,38 @@
+Il s'agit d'un patient âgé de 49 ans sans antécédents pathologiques particuliers.
+Il présentait des douleurs périnéales et dysurie d'aggravation progressive évoluant dans un contexte fébrile, associées à une pollakiurie et à une diurèse nocturnes.
+L'examen clinique était normal (en dehors des douleurs périnéales).
+La cystoscopie a montré une section des deux lobes du rein droit qui n'a pas permis de réaliser une biopsie. L'examen toto-rectal a objectivé une volumineuse prostate, dure et irrégulière.
+Le toucher rectal et le test de fonction urinaire n'ont pas révélé d'anomalies.
+Le dosage PSA à 3 reprises a montré un taux normal (< 4ng/ml).
+La biopsie prostatique écho-guidée a révélé une prolifération tumorale faite de nombreux rosettes épithéliales, à cellules fusiformes et à cytoplasme eosinophile, à limite distincte avec le stroma.
+L'immuno-marquage par l'anticorps anti-cytokératine (anti-KL-1) a montré une positivité d’un grand nombre de cellules tumorales. L'immuno-marquage par l’anticorps antiactine muscle lisse, l'anticorps anti-desmine muscle lisse et la HHF35 a montré une négativité des cellules tumorales. La base histologique de cette prolifération tumorale était de caractère sarcomateux.
+Le diagnostic d'un carcinome sarcomatoïde de la prostate était retenu.
+La tomodensitométrie abdomino-pelvienne n'a pas révélé de lésion tissulaire parenchymateuse pulmonaire, osseuse ou digestive et n'a pas montré de localisations secondaires.
+Le patient a bénéficié d'une cystoprostatectomie et d'une urostomie continente.
+L'examen anatomopathologique a confirmé le diagnostic de carcinome sarcomateux de la prostate.
+Le patient a été perdu de vue après le bilan d'extension réalisé.
+Aucun recul n'a été acquis au-delà de deux ans.
+Le cas est une première observation dans la littérature médicale.
+
+### Response:
+Il s'agit d'un patient âgé de 49 ans sans antécédents pathologiques particuliers.
+Il présentait des douleurs périnéales et dysurie d'aggravation progressive évoluant dans un contexte fébrile, associées à une pollakiurie et à une diurèse nocturnes.
+L'examen clinique était normal (en dehors des douleurs périnéales).
+La cystoscopie a montré une section des deux lobes du rein droit qui n'a pas permis de réaliser une biopsie.
+L'examen toto-rectal a objectivé une volumineuse prostate, dure et irrégulière.
+Le toucher rectal et le test de fonction urinaire n'ont pas révélé d'anomalies.
+Le dosage PSA à 3 reprises a montré un taux normal (< 4ng/ml).
+La biopsie prostatique écho-guidée a révélé une prolifération tumorale faite de nombreux rosettes épithéliales, à cellules fusiformes et à cytoplasme eosinophile, à limite distincte avec le stroma.
+L'immuno-marquage par l'anticorps anti-cytokératine (anti-KL-1) a montré une positivité d’un grand nombre de cellules tumorales.
+L'immuno-marquage par l’anticorps antiactine muscle lisse, l'anticorps anti-desmine muscle lisse et la HHF35 a montré une négativité des cellules tumorales. La base histologique de cette prolifération tumorale était de caractère sarcomateux.
+Le diagnostic d'un carcinome sarcomatoïde de la prostate était retenu.
+La tomodensitométrie abdomino-pelvienne n'a pas révélé de lésion tissulaire parenchymateuse pulmonaire, osseuse ou digestive et n'a pas montré de localisations secondaires.
+Le patient a bénéficié d'une cystoprostatectomie et d'une urostomie continente.
+L'examen anatomopathologique a confirmé le diagnostic de carcinome sarcomateux de la prostate.
+Le patient a été perdu de vue après le bilan d'extension réalisé.
+Aucun recul n'a été acquis au-delà de deux ans.
+Le cas est une première observation dans la littérature médicale.
+
+### Response:
+Il s'agit d'un patient âgé de 49 ans sans antécédents pathologiques particuliers.
+Il présentait des douleurs périnéales et dysurie

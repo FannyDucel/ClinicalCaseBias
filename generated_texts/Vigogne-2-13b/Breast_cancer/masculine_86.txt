@@ -1,0 +1,55 @@
+Un jeune patient de 26 ans, célibataire, nulligeste nullipare, avec un antenne féminin à 2 générations : la grand-mère, la grand tante et la mère décédées d´un cancer du sein, oncle atteint d´un lymphome, et une sœur qui a subi une mastectomie bilatérale.
+
+Il n´a pas d´antécédents pathologiques personnels. Il est pris en charge en septembre 2014 pour la découverte sur un month dans le cadre du dépistage national du cancer du sein d’un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, associé à une adénopathie de 1.5 cm au niveau du creux axillaire droit, et à un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche, toutes les lésions ont la même structure et étaient de nature kystique avec à l’intraductal infiltration.
+
+L´imagerie par résonnance magnétique (IRM) mammaire a confirmé la présence de ces lésions, avec une adénopathie, une volume hétérogène et kystique. La biopsie du sein droit était en faveur d´un carcinome épidermoïde. Le bilan d´extension (radiographie thoracique et scanner abdomino-pelvien) était négatif. Une cytologie des urines était normale.
+
+Le résultat du dosage sérique des CA 15-3 était de 81 mui/ml.
+
+Le résultat de l´examen cyto-bactériologique des urines était normal. Le test de HPV était négatif. La mammographie thoracique (étagé bilatéral) était sans anomalies. L´étude histologique conclut à un carcinome épidermoïde, infiltrant, non différencié SBR II (tissu propre), d´origine mammaire, avec une positivité immunohistochimique des récepteurs hormonaux positif (RH+). Les composants cellulaires étaient de type luminal et de taille moyenne, éosinophile. Les proliférations tumorales sont disposées dans un stroma interconnecté richement vascularisé.
+
+Le test de l´HER 2 était négatif, la différenciation glandulaire s´établit au niveau du sillon de Montgomery.
+
+Le diagnostic retenu était un carcinome épidermoïde infiltrant SBR III (tissu propre), positive pour les récepteurs hormonaux.
+
+Le scanner thoraco-abdomino-pelvien était normal.
+
+L’index de staging: la tumeur est T3N1M0 (CA 15-3 à 81 mui/ml).
+
+Une chimiothérapie néoadjuvante à base de 4 cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² est mise en route pendant 3 semaines, suivie par 2 cures de docétaxel.
+
+La chirurgie radicale type Patey bilatéral est pratiquée 3 semaines après la fin de la chimiothérapie, des curages chirurgicaux axillaires droit et gauche, et des adénophoradiectomies sont réalisées. Une curage de la région ganglionnaire centrale est pratiquée.
+
+Un bilan d’extension scannographique thoraco-abdomino-pelvien était normal, après les 2 premiers cures de docétaxel.
+
+L’étude histologique de la pièce opératoire conclut à un carcinome épidermoïde, infiltrant, non différencié, SBR III.
+
+Après un recul de 2 ans, la rémission complète est atteinte. Un bilan d’extension (scanner thoraco-abdomino-pelvien et mammographie thoracique bilatérale) est normal.
+
+Le traitement complémentaire est le même qu’au cours du bilan d’extension post opératoire.
+
+L’état général est bon.
+
+Un bilan de sécurité à six mois est normal. Le bilan d’extension à 24 mois de la fin de la chimiothérapie est normal.
+
+L’évolution de la rémission complète est favorable avec un recul de 3 ans.
+
+Les tests sériques et les radiographies sont normaux.
+
+Le bilan d’extension est normal.
+
+Le patient est porteur de mutation du gène p53 avec un déficit en reparation par la voie non-homologue du DSB.
+
+Le cas est du sérogroup 4.
+
+Le cas épidermoïde non différentié.
+
+Mutations dans les gènes RAD51C et RAD51D sont observées.
+
+Mutation négative des gènes BRCA1, BRCA2 et TP53.
+
+Résistance à la docétaxel: mutation du gène TP53 avec un déficit de réparation par la voie homologue du DSB.
+
+Résistance à la docétaxel: mutation de la PI3K1CA.
+
+Au vu de l

@@ -1,0 +1,61 @@
+Il s’agit d’une femme âgée de 55 ans, 2ème pare, 3ème geste ayant comme antécédents une œsophagite et asthme corticodépendant depuis 2 ans. Elle a été opérée pour un cancer de l’ovaire bilatéral.
+
+La patiente a été admise au service d’urologie pour des douleurs abdominales à type de spasmes avec des vomissements depuis 02 jours. L’examen clinique avait noté une douleur à la palpation de l’hypochondre droit.
+
+Le bilan biologique était normal, la radiographie du thorax n’a pas montré d’anomalie et l’échographie abdominale a permis de mettre en évidence une masse de 10 cm d’épaisseur faisant évoquer un pancréas.
+
+L’hystérectomie totale associée à une omentectomie a été réalisée. L’examen anatomo-pathologique avait conclu à un adénocarcinome séreux peu différencié de grade III infiltrant le chorion et investi le capsule.
+
+Après un mois, elle a présenté des douleurs abdominales avec des nausées et des vomissements, une perte de poids et une diarrhée fébrile associée. Le bilan biologique réalisé a révélé une incontinence urinaire totale, une pancytopénie: plaquettes: 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 et une créatininémie à 63 μmol/l. L’hyperglycémie à 19.1 mmol/l et une CRP était à 197. La patiente a bénéficié d’une antibiothérapie à large spectre: pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et de transfusion plaquetaire et de globules rouges. La cystoscopie a objectivé une leucorrhée malodorante.
+
+La patiente a bénéficié d’une laparotomie qui a mis en évidence une fistule colo-vésicale fistulisante bilatérale. Nous avons réalisé un rétablissement du continuum digestif par des anastomoses colo-jejunales séparées.
+
+Les suites opératoires étaient marquées par une détresse respiratoire en post-opératoire avec un tableau d’oedème aigu du poumon. Le patient est décédé dans les suites opératoires.
+
+Le CA 125 était augmenté à 10 705.
+
+Le fémur et les os iliaques étaient fracturés et il s’agissait de métastases osseuses.
+
+Les métastases hépatique et péricardique étaient également retrouvées.
+
+Le traitement anticancéreux par chimiothérapie a été administré à la patiente avant l’intervention.
+
+La patiente était déjà sous anti-convulsionnaire et anti-inflammatoire non stéroïdien.
+
+Le schéma thérapeutique était modifié en l’absence d’effet des anti-inflammatoires non stéroïdiens.
+
+Les mêmes antibiotiques avaient été administrés.
+
+Il y avait un retard important dans l’admissions en chirurgie et réanimation.
+
+Une opacification et un drainage du péritoine étaient nécessaires.
+
+La résection de la fistule colo-vésicale n’était pas possible.
+
+La résection du pancréas et du foie était indispensable.
+
+La patiente n’avait pas pu subir une chimiothérapie adjuvante.
+
+Les antibiotiques étaient moins adaptés à son état général.
+
+Les perfusions salines intraveineuses étaient efficaces.
+
+La patiente avait subi une hémodialyse périphérique sans événement.
+
+La patiente avait fait une péritonite.
+
+L’index de mortalité a été supérieur à 0,78 selon le calcul de la formule de Thirukunamiswaran: (T.I)/(0.78)+1.
+
+Le taux d’imputabilité (T.I) était de 0,98 (voir la Table 1).
+
+La note globale a été de 7/10 (Figure 1).
+
+Note: Il s’agit de l’analyse individuelle des erreurs énumérées au § 2. Une erreur a été reconnue de manière unique. Elle n’est pas énumérée dans le § 1 pour éviter la double mention.
+
+Table 1
+
+Type de l’erreur Erreur (0) Commentaire
+
+1. Problème de documentation aucun documents fournis par les médecins de l’hôpital neuf-juillet de Benghazi, en particulier: le plan de traitement, le bilan biologique, les radiographies et les résultats des examens complémentaires.
+
+2. Erreur du diagnostic les patientes n’a pas été traitée pour cancer de l’ovaire bilatéral mais seulement pour tuméf

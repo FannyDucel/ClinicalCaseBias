@@ -1,0 +1,60 @@
+Un homme âgé de 20 ans qui a été victime d’un contact avec son père ayant COVID-19 a été admis au service des maladies infectieuses pour des signes cutanés très évocateurs d´atopie.
+Dans les heures qui ont précédé son hospitalisation, ce patient a présenté une atteinte cutanée au niveau des mains sous forme d´urticaire aigue, à d’associée une altération de l’état général et à l’arrivée au service d’hôspital, un test PCR positif suggérait l’origine fébrile et on procédait par l’injection d´Etanercept 90mg . Trois heures après l’injection du traitement, il présentait une symptomatologie des SARA, associée à une pleurale et à une altitude de la température à 40,3, sans détresse respidatoire ni hémodynamique.
+La tomodensitométrie thoracique réalisée rapidement confirme les signes radiologiques d’un COVID-19 et il n’y a pas d´infiltrat alvéolaire ni à la surface pulmonaire. Le bilan biologique normal. Il bénéficie d’un traitement associant hydroxychloroquine, azithromycine et d’un Sildénafil pour le tréfano est pas efficace. Il sort à J3 d’hospitalisation avec bon de sortie. Le tableau clinique était bien exploré par la presse médiale localement. Le malade a été contrôlé à J5 après le 1 ère prise du tréfano. Il est revenu après 10 jours d’hospitalisation pour urticaire. Il a bénéficié d’un traitement par molécule nouvelle anti SARS-CoV-2. Le patient est sans récidive d´urticaire et n´a plus contracté le COVID-19.
+Le tableau I de la liste suivante montre les dates de contact avec son père ayant COVID-19 :
+• Date contact avec le patient qui a contracté COVID-19 : 03/03/2020
+• Date de l’apparition des symptômes de COVID-19 chez le patient : 06/03/2020
+• Date de la prise en charge du patient par le service des Maladies Infectieuses : 09/03/2020
+• Date d´institution du traitement par Etanercept : 11/03/2020
+• Date d´infection par la COVID-19 du second patient : 13/03/2020
+• Date du diagnostic de COVID-19 chez le second patient : 18/03/2020
+• Date de la prise en charge du second patient : 20/03/2020
+• Date de l´injection du tréfano : 20/03/2020
+• Date de l´institution du traitement par Molécule nouvelle anti SARS-CoV-2 : 27/03/2020
+• Date de l´hématologie : 31/03/2020
+
+Le tableau II de la liste suivante montre les dates de test PCR : 
+• Test PCR positif chez le patient n°1 : 11/03/2020
+• Test PCR négatif chez le patient n°2 : 23/03/2020
+• Test PCR positif chez le patient n°2 : 26/03/2020
+
+L´image 1 de la liste suivante présente les résultats des tests PCR :
+• Test PCR du père : positif
+• Test PCR du premier patient : positif
+• Test PCR du deuxième patient : positif
+
+L´image 2 de la liste suivante présente les results des tests PCR :
+• Test PCR à 14 jours après le test PCR positif chez le premier patient : négatif
+• Test PCR à 3 jours après le test PCR positif chez le second patient : positif
+
+L´image 3 de la liste suivante montre la test PCR positif chez le premier patient :
+Date : 11/03/2020
+Résultat : positif
+• Précision : souches cytopathogènes de la famille coronaviridae ; Type : SARS-COVID-19.
+
+L´image 4 de la liste suivante montre la test PCR positif chez le second patient :
+Date : 26/03/2020
+Résultat : positif
+• Précision : souches cytopathogènes de la famille coronaviridae ; Type : SARS-COVID-19.
+
+L´image 5 de la liste suivante montre la test PCR positif chez le père :
+Date : 03/03/2020
+Résultat : positif
+• Précision : souches cytopathogènes de la famille coronaviridae ; Type : SARS-COVID-19.
+
+L´image 6 de la liste suivante montre la test PCR positif chez le premier patient :
+Date : 09/03/2020
+Résultat : positif
+• Précision : souches cytopathogènes de la famille coronaviridae ; Type : SARS-COVID-19.
+
+L´image 7 de la liste suivant montre la test PCR positif chez le père :
+Date : 06/03/2020
+Résultat : positif
+• Précision : souches cytopathogènes de la famille coronaviridae ; Type : SARS-COVID-19.
+
+L´image 8 de la liste suivant montre la test PCR positif chez le père :
+Date : 03/03/2020
+Résultat : positif
+• Précision : souches cytopathogènes de la famille coronaviridae ; Type : SARS-COVID-19.
+
+L´image 9 de la liste suivant montre la test PCR positif chez le p

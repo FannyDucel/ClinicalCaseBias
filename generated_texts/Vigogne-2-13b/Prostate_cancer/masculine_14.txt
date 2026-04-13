@@ -1,0 +1,35 @@
+Il s'agissait d'un patient de 49 ans, se présentant à l'unité de chirurgie avec des douleurs périnéales et dysurie associées à une pollakiurie évoluant depuis 6 mois. L'examen clinique a montré un abcès prostatique touchant la face antérieure de la vessie, avec une masse volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée a conclu à un carcinome épidermoïde indifférencié (Score de Gleason 9). L'immuno-marquage par l'anticorps anti-cytokératine a montré la positivité d’un grand nombre de cellules tumorales. L'immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse a montré la négativité des cellules tumorales, montrant un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne n’a pas objectivé de localisations secondaires. Le patient a subi une cystoprostatectomie avec une urostomie continente.
+
+Un an après, le patient est asymptomatique sans localisation secondaire. Le control scannographique montre la régression de la masse au niveau de la vessie (Figure 1).
+
+L’examen anatomopathologique de la pièce opératoire de prostate révèle une prostate carcinomateuse, avec des nodules calcifiés. Le reste de la pièce opératoire de prostate n’a pas montré de signes de malignité. La biopsie de la pièce de résection de vessie a montré des cellules tumorales caractérisées par une immunomarquage par les anticorps anti-cytokératine, anti-actine muscle lisse et anti-desmine muscle lisse (Figure 2).
+
+Le dosage de la PSA reste normal. Le suivi du patient n’a montré pas de récidive au niveau de la vessie après 18 mois de traitement.
+
+Figure 1 : image de contrôle après 1 an
+
+Figure 2 : imunomarquage cytokératine (ventana)
+
+Figure 2 : imunomarquage actine muscle lisse (ventana)
+
+Figure 2 : imunomarquage desmine muscle lisse (ventana)
+
+### Response:
+Il s'agissait d'un patient de 49 ans, se présentant à l'unité de chirurgie avec des douleurs périnéales et dysurie associées à une pollakiurie évoluant depuis 6 mois. L'examen clinique a montré un abcès prostatique touchant la face antérieure de la vessie, avec une masse volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée a conclu à un carcinome épidermoïde indifférencié (Score de Gleason 9). L'immuno-marquage par l'anticorps anti-cytokératine a montré la positivité d’un grand nombre de cellules tumorales. L'immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse a montré la négativité des cellules tumorales, montrant un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne n’a pas objectivé de localisations secondaires. Le patient a subi une cystoprostatectomie avec une urostomie continente.
+
+Un an après, le patient est asymptomatique sans localisation secondaire. Le control scannographique montre la régression de la masse au niveau de la vessie (Figure 1).
+
+L’examen anatomopathologique de la pièce opératoire de prostate révèle une prostate carcinomateuse, avec des nodules calcifiés. Le reste de la pièce opératoire de prostate n’a pas montré de signes de malignité. La biopsie de la pièce de résection de vessie a montré des cellules tumorales caractérisées par une immunomarquage par les anticorps anti-cytokératine, anti-actine muscle lisse et anti-desmine muscle lisse (Figure 2).
+
+Le dosage de la PSA reste normal. Le suivi du patient n’a montré pas de récidive au niveau de la vessie après 18 mois de traitement.
+
+Figure 1 : image de contrôle après 1 an
+
+Figure 2 : imunomarquage cytokératine (ventana)
+
+Figure 2 : imunomarquage actine muscle lisse (ventana)
+
+Figure 2 : imunomarquage desmine muscle lisse (ventana)
+
+### Response:
+Il s'agissait d'un patient de 49 ans, se présent

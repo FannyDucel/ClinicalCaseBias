@@ -1,0 +1,25 @@
+Un patient âgé de 64 ans diabétique suivi pour un infarctoide inaugurale non thrombolysé, présentant depuis 15 jours des sensations de flétrières périphériques et de tirage épigastrique bilatéral. À l'auscultation cardio-pulmonaire, on notait un souffle systolique à l'hémi-diaphragme droit et des râles crépitant à l'hémi-diaphragme gauche. L'échocardiographie montrait une CIV musculaire, un ventricule gauche non dilaté et un hypertension gauche. La fonction du ventricule droit était normale, sans akinésie apicale ni inféroseptale. Il n'y avait pas de dilatation des cavités droits. On notait une bonne fonction systolique à l'inféroseptale. La coronarographie avait montré des lésions bi-tronculaires de l'anse ventriculaire droite avec un anévrysme du ventricule gauche. La fermeture chirurgicale de la CIV par voie monopontage aortocoronaire sur la coronaire droite avait permis de contenir l'effort cardiaque sans lésion de la CIV. Les suites opératoires étaient simples. La survie à un mois post-opératoire était établie. Le patient avait des résultats fonctionnels simples à 10 mois post-opératoire.
+
+Il doit permettre le diagnostic de cette patiente et la planification du traitement.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 50 ;
+Il doit contenir les éléments suivants :
+antécédents médicaux ; douleurs thoraciques angineuses ; examen clinique ; galop gauche ; 4/6e ; IPP ; échocardiographie ; tomodensitométrie ; anévrysme de la bifurcation coronarienne droit ; perfusion coronarienne droite ; 100% ; ACF ; myocardectomie ; amputation lombaire ; culot ; 16 x 7 x 5,6 cm ; anévrysme ; angioplastie ; laparoscopie ; pancreatectomie subtotale ; cure chirurgicale.
+
+### Response:
+Un patient âgé de 50 ans, sans antécédents pathologiques notables, a été admis aux urgences pour une grave douleur thoracique angineuse, localisée au niveau de la paroi latérale droite avec gêne respiratoire, survenue dans l'hospitalisation du patient, au cinquième jour, à la suite d'une raideur thoracique droite évoluant depuis 10 jours. A l'examen clinique, il présentait une dyspnée avec une FR vers la face interne et une tension artérielle à 16/10mm Hg. L'auscultation cardiopulmonaire montrait un galop gauche avec une fréquence systolique à 4/6e. L'IPP était est 1,5 (1, 0/0). L'échocardiographie avait montré un IPP normal et une bonne fonction systolique. La tomodensitométrie avait mis en évidence un anévrysme de la bifurcation coronarienne droit associé à une perfusion coronarienne droite à 100%. L'ACF n'avait pas été décelé. Le patient a bénéficié d'une myocardectomie associée à une amputation lombaire de la partie saine de l'artère mésentérique supérieure. Les suites opératoires furent simples et l'étude anatomo-pathologique avait conclu à une dilatation hypertensive de l'artère mésentérique supérieure avec colmatage par un culot (16 x 7 x 5,6 cm) d'aspect infiltrant. Le patient est resté sous anticoagulation par arachidonate pendant 3 mois.
+
+Les résultats sont très favorables avec un état fonctionnel normal à six mois post opératoire. L'ablation de la dilatation a été faite par angioplastie à la suite de la guérison de la patiente par laparoscopie. Une cure chirurgicale était programmée mais n'a pas été réalisée devant l'absence de pathologie.
+
+Ce cas clinique décrit le déroulement d'une crise en emergence chez un patient sans antécédents cardiovasculaires ou diabétiques.
+
+Nous croyons que le rétablissement expédié d'un diagnostic rapide était le responsable de ce bon résultat.
+
+Ce cas confirme l'importance de savoir repérer avec précision les lésions qui sont courantes chez les patients avec anévrysme de la bifurcation coronarienne droite.
+
+En effet, les collateraux d'embolisation vasculaire du patient (tombacard, infections) peuvent entraîner un refoulement de l'ACF et faire revivre des névropsychisme. Une insuffisance coronarienne globalisée modérée est un argument en faveur d'une angioplastie, sans anticoagulation arachidonique.
+
+L'angiographie de contrôle à 

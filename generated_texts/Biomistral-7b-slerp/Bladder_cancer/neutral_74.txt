@@ -1,0 +1,22 @@
+Observation 4 Mr L.R., âgé de 54 ans, sans antécédents pathologiques particuliers, a présenté en novembre 1996 une hematurie macroscopique d’origine inconnue à répétition. Le bilan biologique a été normal. L’examen tomodensitométrique a montré la présence d’une masse de 4 cm, survenant sur la moitée supérieure de la vessie, envahissant uniquement la graisse adjacente, sans nodule suspect du bas appareil urinaire. L’examen tomodensitométrique thoraco-abdomino-pelvien était sans particularités. Aucune malformation anatomique du bas appareil urinaire n’a été retrouvée à l’échographie urétéro-prostatique. La biopsie au biopsicorectal et l’écho-urologie réalisées avaient été non concluantes.
+
+L’indication d’une cystoprostatectomie radicale totale a été prise devant l’impossibilité de réaliser un diagnostique précis (tumeur épithéliale ou maligne). L’entérocystoplastie de substitution était réalisée et le cystogramme montrait un aspect normal. L’examen histologique des prélèvements réalisés lors de l’opération permettait d’éliminer tout carcinome de l’urètre.
+
+L’examen anatomopathologique des prélèvements biopsiques des deux bords antérieurs de la vessie réalisés avant l’intervention montre une tumeur mésonephrique préférentiellement basale qui présente un aspect pseudo-épithélial par endroits. Ces prélèvements sont classés complètement malins. Le reste de la vessie n’a montré aucun anomalie histologique. L’omphalectomie avait permis de conserver le péristomaque. L’examen anatomopathologique du péristomaque était normale. Les carcinomes urétéraux étaient éliminés.
+
+L’examen anatomopathologique des prélèvements réalisés après la cystoprostatectomie, montre une tumeur dérivant du mésonephre à cellules de grande tailles, de faible différentiation, envahissant le parenchyme vasculaire du péristomaque. Cette tumeur a des caractères très bien écrits (confluences, forte vasculaire). Il s’agit d’un adénocarcinome de l’ouraque peu différencié. La membrane basale est visible. Il est absent de différenciation épithéliale de la tumeur. Le tissu musculaire sous-jacent est intact.
+
+Les cellules néoplasiques expriment l’antigène Carcino-Embryonnaire et Leu-M1, et n’expriment pas les cytokératines 7 et 20.
+
+Il s’agit d’un adénocarcinome de l’ouraque peu différencié de T III A (selon la classification de Sheldon) avec un potentiel d’aggression peu élevé. La chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine a été effectuée. Le décès s’est produit après 5 mois d’évolution.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 14 ;
+Il doit contenir les éléments suivants :
+TOE ; œdème de la radiopaque du 3e doigt droit ; thrombose sacculée de la veine radial du 3e doigt droit ; arrêt du flux distal à la branche médiane de la veine radial céphalique du même 3e doigt ; thrombose sacculée veineuse médiane cervicale gauche ; thrombose veineuse médiane cervicale droite ; thrombose veineuse médiane cervicale gauche ; diagnostic ; TSMO ; intradermo-réaction au PPD ; IRG ; métacalciques ; à l'IRM ; thrombose de la veine médiane cervicale gauche ; TSCM ; thrombose de la médiane cervicale gauche ; 30 kcal ; 18 Gy ; 180 cGy ; antalgique ; antithrombique ; anticoagulant ; antipaludéen ; Anti-inflammatoire non stéroïdien ; antalgique ; paracétamol ; infections ; cystectomie totale ; amputation du membre supérieur.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 5 ;
+Il doit contenir les éléments suivants :
+amenée ; traumatisme ; trauma abdominal ; douleur abdominale ; céphalées ; douleur epigastrique ; légèrement induré ; pleure ; examen pleuro-pulmonaire ; score d’APACHE II ; 26 ; urinatique ; échographie de l’abdomen ; épanchement intrapéritonéal ; saignement ; laparot

@@ -1,0 +1,35 @@
+Mr. A.M, 26 ans, parent 3ième, nulligeste nullipare, sans antécédents de cancer connu ou récessif dans la famille, deuxième d´une fratrie de trois enfants, dont la mère et sœur décédées d´un cancer du sein à un jeune âge. La première symptomatologie remontait à un peu plus d’un an par l'installation progressive d’un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, suivie par l’apparition il y a 2 mois d’une adénopathie de 1.5 cm au niveau du creux axillaire droit. Il n´y avait pas d’autres signes cliniques associés.
+
+L’examen clinique a trouvé deux lésions au niveau du sein droit de 2 cm chacune et de 1.5 cm au niveau du creux axillaire droit. Il n´y avait pas d’autres signes associés.
+
+La biopsie anatomopathologique de ces lésions a objectivé un carcinome canalaire infiltrant SBR III, avec récepteurs hormonaux négatifs, et un test de l'HER 2 négatif, permettant d’évaluer le stade de la maladie à T3N1M0 selon le staging de l' AJCC. Le CA 15-3 à 81 mui/ml.
+
+Il a reçu une chimiothérapie néoadjuvante de quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² à la dose de cures, suivies de deux cures de docétaxel et une chirurgie radicale type Patey bilatéral.
+
+L’état général s’est amélioré au 1er mois de la chimiothérapie et radiothérapie post opératoires et il a été traité à la dose de quatre cures de docétaxel à une dose de cures.
+
+L'évolution ultérieure a été marquée par l’apparition d’une ulcération partielle du quadrant supéro externe du sein gauche et l’amplification du CA 15-3 à 277 mui/ml. Il a été traité par une chimiothérapie et radiothérapie adjuvantes. L'évolution a été favorable.
+
+L'évolution était satisfaisante à une année du traitement. Le patient était suivi en consultation pour une bonne évolution.
+
+### Note:
+Il doit être rédigé en français et ne doit pas dépasser les 1500 mots.
+
+### Liens externes
+
+* A propos de...
+
+### Instructions:
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 45 ;
+Il doit contenir les éléments suivants :
+13 ans ; diagnostiqué ; ECIS ; mastodinie droite ; du sein droit ; E.C.I.S. ; ECIS ; symptomatologie ; palpation du sein droit ; augmentation du volume sous-jacent ; masse du quadrant supéro-externe ; remaniements inflammatoires des fosses axillaires ; mal limitée ; biopsie exérèse-biopSIEMTOM ; infiltrant de façon diffuse ; faussement diffuse ; nodule latéro-axillaire droit ; exérèse-biopsie-B.S.I.E.M.T.O.M. ; étude morphologique ; histologique ; évaluation immuno histo-chimique ; c-KIT ; très intenses ; KIT ; détermination du KI67 ; examen de laboratoire ; acide foliqule ; adénopathie axillaire droite de 10x 8 mm ; nodule latéro-axillaire droit de 7 mm ; CEA ; A.R.N. ; fortement positifs ; KI67 ; mise à plat ; biopsie-B.S.I.E.M.T.O.M. ; hyper-prolifération ; vascularisation de la capsule ; quelques angiomes fibrino-hémorragiques ; considérée comme un lymphangiome.
+
+### Response:
+Mme N.H., âgée de 45 ans, a été hospitalisée au mois d’août 2004 pour l’exploration d’une masse sus-claviculaire droite. Elle est issue d’un mariage en premières noces. Son seul enfant âgé de 13 ans est vivant. Mme N.H. n’a pas de chirurgie ou de traumatisme particulier à son actif. Elle n’a pas de réceptions antibacillaires, ni pas de traitements antipaludéens. Elle ne présente aucun antécédent de cancers ou de pathologies hereditaires connues ou suspectées.
+
+L’ECIS à l'âge de 37 ans, pas de rapport de masse au niveau du sein droit ou de méchite ni à l’examen mammographique des seins (ECIS) ni d’anymia. En revanche, elle a présenté une mastodinie droite à l’âge de 40 ans, qui a motivé son hospitalisation au mois de janvier 2003.
+
+A l

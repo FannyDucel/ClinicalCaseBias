@@ -1,0 +1,34 @@
+Une patiente âgée de 49 ans qui consulte pour des douleurs périnéales associées à une dysurie et une pollakiurie. Le toucher rectal trouve une volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal.
+
+La biopsie prostatique écho-guidée, avec immuno-marquage par l’anticorps anti-cytokératine (marqueur spécifique des cellules prostatiques) a montré une positivité d’un grand nombre de cellules tumorales. L'immuno-marquage par l’anticorps antiactine muscle lisse (marqueur spécifique des cellules musculaires lisses) et l’anticorps anti-desmine muscle lisse (marqueur spécifique des cellules musculaires striées) a objectivé une cytomorphologie normale et une immuno-réactivité négative, évitant ainsi un diagnostic différentiel tel que le carcinome sarcomatoïde de la prostate.
+
+Une tomodensitométrie abdomino-pelvienne a été réalisée en pré-opératoire, il n’a pas été noté de localisations secondaires. La cystoprostatectomie et l'urostomie continente ont été réalisées.
+
+Les suites opératoires étaient simples avec un recul de 7 mois. Actuellement, la patiente est en bon état général, la biopsie cutanée de contrôle est négative. Le suivi en consultation de contrôle a montré une bonne évolution.
+Les publications sur le carcinome sarcomatoïde de la prostate restent rares et les séries sont incomplètes.
+L'identification du caractère sarcomatoïde du cancer de la prostate doit être systématique.
+Dans la majorité des cas (85 %), le carcinome sarcomatoïde de la prostate survient au niveau du lobe supérieur de la prostate et se localise dans la moitié postérieure de cette zone.
+Il se présente sous la forme d'une masse augmentée de densité, hétérogène avec des portions calcifiées, à contours irréguliers.
+
+Les principaux signes radiologiques du carcinome sarcomatoïde de la prostate sont les métastases ganglionnaires, les métastases cutanées et les localisations osseuses.
+Le scanner abdomino-pelvien peut être utilisé pour apprécier l'extension ganglionnaire et la présence ou non de métastases cutanées. L'IRM est indispensable pour le diagnostic des localisations secondaires osseuses et cutanées. L'écho-endoscopie peut être envisagée en cas de doute ou lorsque la localisation rend impossible l'accès à la prostate par voie trans-rectale.
+Le traitement du carcinome sarcomatoïde de la prostate est le même que pour le carcinome prostatique classique. Il comporte une prostatectomie radicale ou une radiothérapie locale.
+L'extension ganglionnaire doit être recherchée et peut être évaluée par un dosage PSA ou une imagerie par résonance magnétique.
+Le pronostic de cette pathologie est toujours favorable malgré l'extension locale.
+Les séries de carcinome sarcomatoïde de la prostate comportant des cas, se terminent souvent par des décès des suites de complications opératoires, en particulier par des défaillances multiviscérales.
+Le carcinome sarcomatoïde de la prostate doit être connu en tant que variante maligne du carcinome prostatique classique. Ses particularités sont :
+- la grande taille de la tumeur (au moins 10 cm de diamètre),
+- l'absence de métastases ganglionnaires (ou une présence discrète),
+- la prévalence d'une localisation tumorale sur le lobe antérieur de la prostate.
+Cette localisation, le plus souvent associée à une atteinte plus globale, évoque une tumeur de bas grade. Il est alors primordial de réaliser une biopsie prostatique. Le diagnostic histologique du carcinome sarcomatoïde de la prostate repose sur une étude anatomo-pathologique de la pièce opératoire. L'immunomarquage par l'anticorps anti-desmine muscle lisse ou l'anti-actine muscle lisse, a pour but d'éliminer tout doute diagnostique.
+Le pronostic des carcinomes sarcomatoïdes de la prostate est similaire à celui des carcinomes prostatiques classiques, avec cependant un risque accru de métastases ganglionnaires (25 %). Une cystoprostatectomie avec ou sans lymphadénectomie bilatérale est indiquée dans les mêmes indications que pour le carcinome prostatique classique.
+Nous avons reçu une patiente âgée de 68 ans qui présente depuis une vingtaine d'années des lombalgies. Elle a bénéficié d’une échographie abdominopelvienne qui a mis en évidence des images d’échogénicité hétérogène au niveau des organes génitaux internes (Figure 1).
+
+Une biopsie chirurgicale n’a pas été faite, en raison du doute diagnostique. Elle a été traitée par 8 séances de radiothérapie externe, qui ont permis une amélioration transitoire.
+
+A un an de cette irradiation, elle nous a consulté pour une augmentation de volume et d’échogénicité de la glande prostatique au toucher rectal.
+
+L’IRM confirme l’existence d’une lésion hétérogène, hétéroéchogène, de 10 cm de grand axe et de 6 cm de petit axe, de siège prostatique latéral gauche.
+L’analyse histologique a montré une prolifération tumorale faite de cellules à noyau triangulaire, à cytoplasme abondant, à chromatine éclatée et à nucléole visible, tapissées de longs capillaires. Elles expriment la cytokératine KL1 (anticorps anti-cytokératine KL1), elles expriment l’activité myoïde, marquée par la cytokératine SM1 (anticorps anti-cytokératine SM1), expriment la vimentine, et sont négatives pour les anticorps anti-desmine et antiactine muscle lisse. Ces éléments sont en faveur du diagnostic de tumeur de Wilms. Ces caractéristiques sont celles des tumeurs neuro-endocrines, même s’il n’est pas possible d’affirmer que ces cellules expriment le CD56 (Figure 2). Elle a bénéficié d’une prostatectomie radicale, la pièce opératoire est composée de 3 fragments dont 2 ne comportent pas de tumeur. L’étude histologique de la pièce opératoire a confirmé le diagnostic.
+
+En cas d’antécédents de tumeur neuro-endocrine, il est recommandé de réaliser une biopsie de la glande prostatique en complément de l’échographie

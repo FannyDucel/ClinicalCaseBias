@@ -1,0 +1,29 @@
+Un jeune homme de 20 ans a été admis aux urgences en août 2020 pour prise en charge d´une réaction cutanée au niveau des deux mains, avec des éruptions bulliformes accompagnées de prurit, d´évolution rapide, évoluant depuis la veille de sa rencontre avec son père ayant COVID-19. La prise d´antécédents était sans particularité, ni notion de syndrome tuberculeux. L´examen physique objectivait une atteinte cutanée au niveau des mains, avec éruptions bulliformes, pruritiques et une hypodermie. Le bilan biologique était sans anomalies, sauf une hyperleucocytose à 16600/mm 3, avec une polynucléose neutrophile à 12000. L´examen direct des crachats était négatif, le test de détection rapide du COVID-19 était négatif. La culture du lavage bronchoalvéolaire était stérile. Le test PCR de COVID-19 était positif.
+
+Après discution de l´étiologie, il a été admis que le patient a pu prendre le contrôle de l´injection d´Etanercept, utilisées en raison de sa polyarthrite juvénile (en atrophie), de manière à s´en inoculer aux mains après un contact avec son père ayant COVID-19.
+
+A l´admission, le patient était apyrétique, avec une induration du lambeau de vaccin armé (PNU). La radiographie du thorax était sans anomalies.
+
+Aucune hospitalisation n´a été indiquée, car l´évolution clinique était favorable et les data de son bilan biologique normal, ainsi que le contexte (pas de détresse respidatoire ni hémodynamique, pas de notion d´infection respiratoire, pas d´alerte Covid-19 locale). Une tomodensitométrie thoracique fut réalisée pour écarter une éventuelle pneumopathie secondaire à l´infection, elle ne montrait pas d´infiltrat. Un traitement par hydroxychloroquine et azithromycine a été institué. L´évolution était favorable. Le patient était devenu asymptomatique au bout de 4 jours. Un week-end après l´arrêt de l´hydroxychloroquine, le patient a récidivé le même tableau cutané qui s´est amendé par l´introduction de l´hydroxychloroquine avec une amélioration clinique et une régression du syndrome cutané.
+
+La question d´une immunoglobuline anti-COVID-19 n´a été posée pour des raisons éthiques et financières.
+
+La réflexion étiologique reposait sur la contamination des mains par le vaccin injectable ; les arguments ont été, dans l´ordre chronologique:
+- les symptômes facilement expliqués par une réaction allergique par réponse immunitaire
+- une autoinoculation par injection orale avec signes d´ischémie digitale
+- une prise intentionnelle du vaccin par délibération consciente
+- une accidentelle prise de vaccin par auto-inoculation cutanée.
+
+Le critère décisif était un événement pathogénique: la contamination de la main.
+
+Le cas ne présentait pas de signes respiratoires respiratoires d´insuffisance respiratoire sur le tableau clinique. Un traitement antiviral n´a pas été retenu; il a été proposé de s´occuper d´autres problèmes courants concernant le COVID-19 avec une bonne indication scientifique (traitement symptomatique et bon partage des données.
+
+En fonction des données du patient: la prise de l´injection de son père, l´état de santé, le contact avec la personne qui teste positive, le contact avec une malade et un membre du personnel soignant, le patient a été mis en isolement à domicile par la Croix rouge.
+
+Le patient était traité par des corticothérapie orale, ce qui est un traitement de référence pour les urticaires aigues.
+
+Dans le cas présenté, les mots clé «reaction cutanée». «Etanercept» ; «injection»; «recherche sur Covid-19» ; ont été vérifiés dans les bases de données de référence de nombreux pays.
+
+Les autres cas rapportés concernent l’Etanercept en injection à l’apparition de symptômes neurologiques (délire, céphalées, paresthésies et lombalgies), psychiatriques (agitation et désorientation), oto-ophtalmologiques (douleur et descoration de l’ouïe et de l’œil) ou neurologiques (paresthésie et polyneuropathie). [2], [3], [4].
+
+En mars 2020, a été rapporté un cas d’exanthème cutané se survenant 12 heures après l’injection d’un bêta-interféron par voie sous cutanée, dans la prescription thérapeutique par un médecin pour une pneumonie virale dont le virus était non identifié. Le cas était présenté comme une ré

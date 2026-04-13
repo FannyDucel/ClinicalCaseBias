@@ -1,0 +1,31 @@
+Il s’agissait d’un patient de 45 ans, qui se présentait avec des douleurs périombilicale intenses et des vomissements, survenant depuis 2 mois, dans un contexte d’empâtement sus-ombilical avec amaigrissement de 10kg. Le bilan paraclinique était normal, mais une radiographie abdominale montrait une sténose colique. Le bilan biologique montrait une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l et une amylasémie élevée à 102U/L. La fibroscopie oeso-gastroduodénale mettait en évidence une gastrite congestive associée à une atrophie des villosités duodénale. La tomodensitométrie abdominale montrait un épaississement pariétal jéjunal avec une formation tumorale à 50cm de l’angle duodéno-jéjunal. L’évolution était favorable après la réalisation d’une résection segmentaire du jéjunum et d’une colostomie iléale. L’examen anatomo-pathologique était en faveur d’un adénocarcinome lieberkuhien infiltrant le granulome. La maladie cœliaque était évoquée comme cause étiologique.
+
+### Response:
+L’évolution était favorable sans récidive de la tumeur.
+
+### Response:
+La cause étiologique de cette tumeur était la maladie cœliaque qui n’a été détectée qu’à 4 mois de l’intervention.
+
+### Response:
+Le diagnostic de la maladie cœliaque est difficile à poser car il n’y a pas de marqueurs spécifiques. Les anticorps anti endomysium obtains à 85% d’espécibilité mais sont négatifs dans les cas touchant le duodénum. Le taux des anticorps anti-transglutaminases, l’étude du génome des acétylatrases peut être utilisés pour un diagnostic plus précise. La recherche d’anticorps anti-transglutaminases était négative dans ce cas. La recherche du gène défectueux a été faite chez le patient, la protéine du pêchoire 3 (DQ2) était négative chez le patient, les gènes de la HLA-DQ8 et DQ2 ayant des formes résistantes à l’ALG et à la célécoxib; ils étaient également rares dans la population marocaine. La recherche de l’anticorps anti-endomysium, l’étude du génome des acétylatrases, le diagnostic posé par l’histoire familiale et l’importance de la mortalité au troisième degré de malignité (Tableau II) fait envisager un diagnostic chez ce patient de maladie cœliaque responsable d’un adénocarcinome lieberkuhien.
+
+### Response:
+Les risques de survenue d’un adénocarcinome lieberkuhien sont rares dans le contexte de la maladie cœliaque, mais ils sont importants et nécessitent un suivi étroit. Dans le cadre de la maladie cœliaque, le traitement a consisté en une exclusion strict de l’gluten et une surveillance régulière de l’état nutritionnel, de la fonction rénale et hépatiques et l’évolution de la taille de la tumeur.
+
+### Response:
+Malgré la prise de gluten et les signes positifs de la maladie cœliaque, un diagnostic de la maladie cœliaque n’a été posé qu’à 4 mois de l’intervention.
+
+### Response:
+Les signes cliniques de la maladie cœliaque: le syndrome du treizième, le syndrome du dixième, la sténose colique et la proctitis.
+
+### Response:
+Les risques de survenue d’un adénocarcinome lieberkuhien sont rares dans le contexte de la maladie cœliaque.
+
+### Response:
+Les symptômes typiques des localisations cœliques de la maladie cœliaque sont la diarrhée, la distension abdominale, la constipation, l’amaigrissement et la distension colique. Le diagnostic positif est basé sur la biopsie colique. L’histologie colique fait ressortir une atrophie des villosités avec en place un infiltrat lymphoïde.
+
+### Response:
+Il n’y a pas de marqueurs spécifiques pour le diagnostic de la maladie cœliaque. Les anticorps anti endomysium obtains à 85% d’espécibilité mais sont négatifs dans les cas touchant le duodénum. Le taux des anticorps anti-transglutaminases, l’étude du génome des acétylatrases peut être utilisés pour un diagnostic plus précise.
+
+### Response:
+La recherche d’anticorps anti-transglutaminases était négative dans ce cas. La recherche du gène défectueux a été faite chez le patient,

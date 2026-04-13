@@ -1,0 +1,43 @@
+Cas clinique 1: Il s’agit d’une patiente de 20 ans, sans antécédents pathologiques notables, qui présente une atteinte cutanée au niveau des mains associée à une dyspnée effort-dépendante et une grippe. Elle rapporte un contact avec son père ayant COVID-19.
+
+L’examen clinique à l’admission trouve une patiente febrile à 38°c, tachycarde (140 bpm), un urticaire aigue au niveau des mains, une dyspnée à l’effort et sans détresse respidatoire ni hémodynamique.
+
+Le test PCR est revenu positif.
+
+Nous avons mis la patiente sous NP0 du premier jour de l’hospitalisation en hémodialyse prolongée, sans amélioration clinique, sur une durée de 7 jours, nous avons débuté l’Injection d´Etanercept pendant 10 jours, avec un bon bilan clinique, biologique et radiologique.
+
+Une tomodensitométrie thoracique ( Figure 3 ) réalisée après 4 jours du début de l’infiltration d´Etanercept, montrait des lésions alvéolo-interstitielles bilatérales sans infiltrat péricardique.
+
+La patiente a été mise sous une hydroxychloroquine en monothérapie pendant 15 jours et une azithromycine à la dose de 500mg/j pendant 5 jours avec un bon bilan biologique et radiologique à 3 et 10 jours de traitement.
+
+L’évolution a été marquée par l’amélioration de l’état respiratoire et cutané au bout de 10 jours.
+
+Le tableau 1 résume le déroulement de l’histoire naturelle de la Covid-19.
+
+Cas clinique 2: Il s’agit d’une patiente de 31 ans, sans antécédents pathologiques notables, qui présente une atteinte cutanée au niveau des mains associée à une grippe. Elle rapporte un contact avec un membre de sa famille ayant COVID-19.
+
+L’examen clinique à l’admission trouve une patiente febrile à 38,5°c, tachycarde (140 bpm), un urticaire aigue au niveau des mains, une dyspnée à l’effort et sans détresse respidatoire ni hémodynamique.
+
+Le test PCR est revenu positif.
+
+Nous avons mis la patiente sous NP0 du premier jour de l’hospitalisation en hémodialyse prolongée, sans amélioration clinique, sur une durée de 7 jours, nous avons débuté l’injection d´Etanercept pendant 10 jours, avec un bon bilan clinique, biologique et radiologique.
+
+Une tomodensitométrie thoracique ( Figure 4 ) réalisée après 4 jours du début de l’infiltration d´Etanercept, montrait des lésions alvéolo-interstitielles bilatérales sans infiltrat péricardique.
+
+La patiente a été mise sous une hydroxychloroquine en monothérapie pendant 15 jours et une azithromycine à la dose de 500mg/j pendant 5 jours avec un bon bilan biologique et radiologique à 3 et 10 jours de traitement.
+
+L’évolution a été marquée par l’amélioration de l’état respiratoire et cutané au bout de 10 jours.
+
+Le tableau 2 résume le déroulement de l’histoire naturelle de la Covid-19.
+
+Cas clinique 3: Il s’agit d’un homme âgé de 50 ans, avec un bon état général, ayant comme antécédent un repos après un infarctus du myocarde (ISC), qui a développé une atteinte cutanée au niveau des mains associée à une grippe. Il a eu une exposition à un membre de sa famille ayant COVID-19.
+
+L’examen clinique à l’admission trouve un patient febrile à 38,5°c, un urticaire aigu au niveau des mains et l’examen pulmonaire a retrouvé des râles crépitants aux deux bases.
+
+L’examen cardiovasculaire n’a pas mis en évidence de souffle péritonéal ou d’hypertension artérielle.
+
+La biologie retrouvait une vitesse de sédimentation élevée à 112 mm et un bilan biologique sans anomalie. Le bilan cardiaque montrait un échantillon sanguin pris lors du test PCR, qui n’a pas mis en évidence de délais QT prolongé ou de troubles électriques du cœur.
+
+Le test PCR est revenu positif.
+
+Nous avons mis le patient sous NP0 du premier jour de l’hospitalisation en hémodialyse prolongée, sans amélioration clinique, sur une durée de 7 jours, nous avons débuté l’Injection d´Etanercept pendant 10 jours, avec un

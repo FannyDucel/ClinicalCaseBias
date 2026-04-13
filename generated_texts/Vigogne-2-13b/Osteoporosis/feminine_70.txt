@@ -1,0 +1,48 @@
+Cas 2: Mme H.C, âgée de 30 ans, est suivie depuis 20 ans pour un syndrome mixte sans douleurs lombaires associé à une asthénie physique et psychique. L'examen ostéoarticulaire révèle une cyphose lombaire et une saillie des apophyses épineuses dans le dos.
+Les radiographies du rachis lombaire, réalisées en rapport avec cet examen, montrent une fréquence mesurale et discale augmentée. La vitesse de sédimentation est à 45 mm à la première heure, la calcémie à 2,42 nmol/L et la phosphorémie à 1,01 nmol/L. La calciurie est à 2,15 nmol/L/24 h, les dosages hormonaux strictement normaux: parathormone basse (11 pmol/L) et ouestérone libre (1,2 ng/L). L'absorptiométrie biphotonique à rayons X montre une densité minérale osseuse diminuée à 0,79 g/cm2 dans l'ensemble. Le patient est mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j) avec un bien amélioration de la symptomatologie après six mois de traitement.
+Le diagnostic d'ostéoporose fracturaire a été évoqué et confirmé avec des documents complets.
+
+### Reponse:
+Il n'est pas possible d'éliminer un processus malin associé à une ostéoporose fracturaire, notamment avec des dystrophies des parties molles qui pourraient être en rapport avec une tumeur de la colonne vertébrale associée à une ostéoporose fracturaire mais ce diagnostic ne peut être confirmé qu'après d'autres dosages et examens radiologiques.
+
+### Reponse:
+Le diagnostic d'un syndrome de Currarino associé à une ostéoporose fracturaire avec vascularite ostéo-articulaire est évoqué.
+
+### Reponse:
+Le diagnostic d'un syndrome de SAPHO associé à une ostéoporose fracturaire est évoqué et le traitement démarré de manière conservatrice.
+
+### Reponse:
+Le diagnostic d'ostéoporose fracturaire avec dystrophie des parties molles associée à une thyroïdite de Hashimoto est évoqué.
+
+### Response:
+Le diagnostic d'une hypothyroïdie principale avec ostéoporose fracturaire est évoqué.
+
+### Response:
+Le diagnostic d'ostéoporose fracturaire associée à une perte de contrôle de la composition minérale de l'os et à des dysfonctionnements des osseux, du tube digestif et du foie est évoqué et confirmé par les dosages et les examens radiologiques.
+
+### Response:
+Le diagnostic d'ostéoporose fracturaire est confirmé.
+
+### Response:
+Le diagnostic d'une hypothyroïdie centrale associée à une dysfonctionnement des osseux, du tube digestif et des reins est évoqué et confirmé.
+
+### Response:
+Les dosages de phosphocalcule et de phosphorémie permettent d'éliminer un syndrome mixte associé à une ostéoporose fracturaire.
+
+### Response:
+L'analyse complète avec une précision d'un diagnostic évocateur par des dosages et des examens radiologiques de l'ostéoporose fracturaire et de ses complications associe permettent de préciser le diagnostic.
+
+### Response:
+Le diagnostic d'un syndrome mixte avec une ostéoporose fracturaire est évoqué mais les dosages de phosphocalcule et de phosphorémie permettent d'éliminer un syndrome mixte associé à une ostéoporose fracturaire.
+
+### Response:
+L'analyse complète avec une précision d'un diagnostic évocateur par des dosages et des examens radiologiques de l'ostéoporose fracturaire et de ses complications associe permettent de préciser le diagnostic.
+
+### Response:
+Les dosages de calcium, de phosphore et de phosphocalcule et les examens radiologiques de la colonne vertébrale permettent d'éliminer un syndrome mixte associé à une ostéoporose fracturaire.
+
+### Response:
+Le diagnostic d'un syndrome mixte avec une ostéoporose fracturaire est évoqué mais les dosages de calcium, de phosphore et de phosphocalcule et les examens radiologiques de la colonne vertébrale permettent d'éliminer un syndrome mixte associé à une ostéoporose fracturaire.
+
+### Response:
+Le diagnostic d'un syndrome mixte associé à une ostéoporose fracturaire avec gastropathie et un syndrome de SAPHO associé à une ostéoporose fracturaire avec arthrites sont évoqués et

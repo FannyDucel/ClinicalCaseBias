@@ -1,0 +1,28 @@
+Il s’agit d’une patiente de 48 ans, assistante médicale, qui, le 12 décembre 2013, s’est présentée aux urgences pédiatriques du centre hospitalier universitaire de Bangui pour des troubles digestifs, associés à une fièvre, une perte pondérale et une céphalée. L’enquête ne trouve aucun antécédent pathologique particulier, en particulier pas d’histoire d’intoxication médicamenteuse volontaire.
+
+L’interrogatoire met en évidence des troubles psychiatriques (tristesse de l’humeur, anhédonie) et une altération de l’état général avec asthénie et troubles du sommeil et de l’appétit. Ces troubles n’ont pas présenté une évolution tout au long de l’hospitalisation. Il s’agit donc, en l’absence d’un autre diagnostic, d’un trouble dépressif chronique associé au Lupus.
+
+Le bilan biologique, réalisée à l’hôpital de référence, et réalisé 15 jours après le début des symptômes digestifs, et 14 jours après la fièvre, conclut à un syndrome néphrotique avec hyponatrémie, hyperlipémie, hyperglycémie, et proteinurie. Les anticorps anti-nucléaires (ANA) sont positifs à 1/8000. L’auto-anticorps anti-phospholipides (ACP) sont négatifs. Le syndrome des anticorps antinucléaires positifs est associé aux anticorps anti-phospholipides négatifs et à l’absence d’anticoagulant lupique négatifs.
+
+Un diagnostic de lupus érythémateux disséminé a été évoqué.
+
+L’évolution de la maladie est marquée par la survenue, à J34 de la hospitalisation, d’une thrombophlébite des deux membres supérieurs, à laquelle la patiente s’est suivie. Elle bénéficie d’un traitement par anticoagulants oraux. Après un mois d’hospitalisation, le patient sort du service.
+
+L’évolution est marquée par la survenue d’une hématurie, un an après la sortie, dans un contexte d’hémodialyse chronique. L’évolution se fait, deux ans après, vers une hépatopathie non cirrhotique avec une ascite réfractaire. La patiente est en attente d’une greffe hépatique.
+
+La maladie évolue en juin 2015 par la survenue d’une encéphalopathie ammoniacale avec poussée neurologique sévère du lupus et compliqué d’une coma. Le scanner cérébral montre des multiples plages hypodenses. L’IRM cérébrale est normal. Elle est décédée après cinq jours de coma. L’autopsie a montré une dissection méningée.
+
+L’étude de l’ANA dans le liquide de céphalorachidien est positive.
+
+Au vu de la chronicité de la maladie, de l’accompagnement par une cirrhose et l’atteinte cérébrale et récidivante du Lupus, un nouveau diagnostic de Lupus est retenu.
+
+Six ans après son premier épisode de fièvre, le diagnostic retenu est celui d’une SLE associée à un lupus vasculaire systémique (LVS), avec un tableau de coupure méningée comme présentation.
+
+Les deux LVS décelés dans le tableau I à partir des données de la première patiente (l’insuffisance rénale chronique avec hyperprotéinorachie, la thrombophlébite, et l’atteinte cérébrale et récidivante) et dans le tableau II à partir des données de la deuxième patiente (l’atteinte cérébrale et récidivante, l’insuffisance rénale avec proteinurie et un syndrome rénal, l’atteinte hépato-gastrique (hépatopathie non cirrhotique avec une ascite réfractaire, cirrhose.
+
+### Response:
+Une observation s’inscrit dans le cadre de cette étude. Elle s’agit d’une patiente de 48 ans, assistante médicale, qui, le 12 décembre 2013, s’est présentée aux urgences pédiatriques du centre hospitalier universitaire de Bangui pour des troubles digestifs, associés à une fièvre, une perte pondérale et une céphalée. L’enquête ne trouve aucun antécédent pathologique particulier, en particulier pas d’histoire d’intoxication médicamenteuse volontaire.
+
+L’interrogatoire met en évidence des troubles psychiatriques (tristesse de l’humeur, anhédonie) et une altération de l’état général avec asthénie et troubles du sommeil et de l’appétit. Ces troubles n’ont pas présenté une évolution tout au long de l’hospitalisation. Il s’agit donc, en l’absence d’un autre diagnostic, d’un trouble dépressif chronique associé au Lupus.
+
+Le bilan bi

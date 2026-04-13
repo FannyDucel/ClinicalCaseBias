@@ -1,0 +1,55 @@
+Un patient de 20 ans sans antécédent pathologique notable est admis aux urgences pour des œdèmes des deux membres inférieurs évoluant depuis 24h associés à une toux avec un contact avec son père ayant COVID-19. L´examen clinique a trouvé un bon état hémodynamique, apyrétique, un souffle hémodynamique aux deux sillons à pression artérielle aux deux membres inférieurs avec une atteinte cutanée au niveau des mains et une urticaire aigue. Le test PCR a été réalisé, et est revenu positif. Le patient a été mis en restitution hydrique et sous une injection d´Etanercept à la dose de 50mg/sem de façon préventive, mais qui n´a pas eu d´effet. Le patient a été admis au service de médecine interne, où l´hémicrome osseux a été confirmé par IRM, l´échographie et un scanner abdomino-pelvien et cérébral sans anomalie, et une tomodensitométrie thoracique sans infiltrat, une nFS avec un contenu alvéolaire normal et un bilan biologique normal (numération formule sanguine, fonction rénale, vitesse de sédimentation, hémogramme, bilan hépatique, calcul des aspartates aminomutases, troponine). Les biologistes ont évoqué la possibilité d´une pneumopathie interstitielle. Il a bénéficié d´une corticothérapie orale de rappel pendant 5 jours, un traitement à base d´hydroxychloroquine et azithromycine à 500mg par voie orale pendant 5 jours, ainsi qu´une injection intramusculaire de methylprednisolone à raison de 125mg/j pendant 3 jours. Un nouveau scanner thoraco-abdomino-pelvien a été réalisé et n´a pas montré de nouveaux signes de détresse respiratoire. Les symptômes ont commencé à améliorer dès le 6ème jour.
+
+Le diagnostic retenu était une pneumopathie interstitielle au niveau pulmonaire, révélatrice de COVID-19. L´évolution a été marquée par une amélioration clinique et biologique au bout d´une semaine. Le patient a été mis sous corticothérapie orale à la dose de 1mg/kg/j, associée à une biphosphonaté pour éliminer une notion d´hémicrome osseux. Au total, le patient a été hospitalisé 8 jours. Le patient a été autorisé à sortir en prévision de la fin de l´hydroxychloroquine à la 14eme journée. L´évolution après autorisation à sortir a été marquée par une disparition de l´osseuse et une évolution favorable clinique et biologique. La relache des corticothérapie orale a été indiquée dès la 18eme jour et il a quitté l´hôpital au 19eme jour.
+
+L´évolution à 3 mois est nette, un scanner thoracique était normal sans signe d´hémicrome osseux.
+
+La biodémographie a été réalisée au 12eme jour et semaine 2.
+
+Une tableau 1 présente les différents paramètres mesurés. Le paramètre Mesures
+
+Durée hospitalisation n´a pas été mesuré vu que le patient était autorisé à sortir.
+
+Tableau 1 : biodémographie présentant les différents paramètres mesurés
+
+Données Demande de données 5 Demandeur Mr. Abderrahim Hafiane
+
+Moyenne 1 1 10
+
+Nombre de demandes 1
+
+Observations
+
+Sexe masculin
+
+Age 20
+
+Date d’admission 5
+
+Date de collecte des données 5
+
+Date de publication 20
+
+Lieu de travail Centre Hospitalier Régional de Benguerir (CHRB)
+
+Auteur Mr. Abderrahim Hafiane
+
+Adressé au Centre Hospitalier Régional de Benguerir (CHRB)
+
+Adressé à l’Institut National de Santé Publique (INSP)
+
+Détails de la demande
+
+Résumé
+
+Ci-dessous se trouve une instruction qui décrit une tâche à accomplir. Rédigez une réponse qui répond de manière précise à la demande.
+
+Objectif
+
+Écris un cas clinique pour le profil patient suivant :
+
+Age : 20 ;
+
+Il doit contenir les éléments suivants :
+
+vaccin anti Covid ; vaccination ; contact avec son père ; 75 ans ; COVID-19 ; hospitalisé ; UE ; antitétanique ; traitement ; œdème laryngé ; œdème palpébral ; vertiges ; mise sous corticoïdes ; hydroxychloroquine ; radiographie pulmonaire ; UES ; signes radiologiques ; IRM cérébrale ; trou circulant en fer à cheval ; symptômes neurologiques ; IRM médullaire ; IRM thoracique ; œdème laryngé ; épaississement de la paroi ; épaississement de

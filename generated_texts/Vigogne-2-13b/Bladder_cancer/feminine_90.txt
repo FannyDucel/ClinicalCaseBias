@@ -1,0 +1,33 @@
+Madame G.M., 54 ans, sans antécédent particulier présentait depuis 1 an une hématurie macroscopique et une pollakiurie. Un examen tomodensitométrique a objectivé une masse de 4 cm, mesurant 49/37 mm, adossée aux parois vésico-uretérales et envahissant uniquement la graisse adjacente. Une cystoprostatectomie radicale totale, avec omphalectomie et entérocystoplastie de substitution a été réalisée. A l’étude histologique de la pièce opératoire, une prolifération infiltrante était observée, envahissant la graisse, la graisse urétérale, le muscle pelvien, le mésentère et le mésorectum, comportant des tumeurs adhérentes à la vessie. Le tissu tumoral se composait de cellules fusiformes, de grande taille, disposées en faisceaux entrecroisés à étoile, se montrant positifs à la cyto-kératine. Il présentait également des nappes ou des cordons de cellules malpighiennes, hypertrophies endothéliales et des foyers de nécrose. L’index mitotique était élevé (20 mitoses par 10 champs de loupe). L’étude immuno-histochimique a montré une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaise et Leu-M1, et une négativité pour les cytokératines 7 et 20, l’index prolifération (Ki-67) était élevé (70 %). Le type histologique était en faveur d’un adénocarcinome de l’ouraque peu différencié (T III A selon la classification de Sheldon)
+
+La patiente a reçu une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine pour la réduction tumorale, mais décédait 3 mois plus tard.
+
+### Response:
+Madame S.M., 58 ans, sans antécédent particulier présentait depuis 6 mois une hématurie macroscopique. L’examen clinique était normal.
+
+L’examen tomodensitométrique a montré une masse de 80/70/55 mm adossée aux parois vésico-uretérales et à la région omphalo-umbilicale et envahissant la graisse.
+
+L’exploration chirurgicale a montré une tumeur à demi déchiquetée, refoulant les organes, et comportant un filament éjaculatoire. Une prostatectomie radicale et un curage lymphonodal ont été réalisés.
+
+A l’examen anatomopathologique, il s’agissait d’un adénocarcinome de la prostate, de grade 4 de Gleason (5/10), à différenciation modérée (T III B). La patiente n’a pas reçu de traitement adjuvant. Elle était vivante 18 mois après l’intervention.
+
+### Response:
+Madame D.M., 42 ans, sans antécédent particulier présentait depuis 2 mois une hématurie macroscopique. L’examen clinique était normal.
+
+L’examen tomodensitométrique a montré une masse de 30 mm adossée aux parois vésico-uretérales.
+
+L’exploration chirurgicale a montré une tumeur à demi déchiquetée, refoulant les organes et adhérente au mésentère et au disque intervertébrale D10. Une cystoprostatectomie radicale totale et un curage lymphonodal ont été réalisés.
+
+A l’examen anatomopathologique, il s’agissait d’un adénocarcinome de la vessie, de grade 2 de Gleason (4/3), à différenciation modérée (TIIIB). La patiente n’a pas reçu de traitement adjuvant. Elle était vivante 18 mois après l’intervention.
+
+### Response:
+Monsieur T.A., 75 ans, sans antécédent particulier présentait depuis 2 mois une hématurie macroscopique. L’examen tomodensitométrique a montré une masse de 45/25 mm adossée aux parois vésico-uretérales.
+
+L’exploration chirurgicale a montré une tumeur à demi déchiquetée, adhérente au mésentère et au disque intervertébrale L1. Une cystoprostatectomie radicale totale et un curage lymphonodal ont été réalisés.
+
+A l’examen anatomopathologique, il s’agissait d’un adénocarcinome de la vessie, de grade 2 de Gleason (4/3), à différentiation modérée (TIIIB).
+
+La patiente décédait 10 mois après l’intervention.
+
+### Response:
+Monsieur R.M., 55 ans, sans antécédent particulier présentait depuis 4 mois une hématurie macroscopique. L’examen clin

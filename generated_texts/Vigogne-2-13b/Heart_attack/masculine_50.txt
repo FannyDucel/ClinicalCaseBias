@@ -1,0 +1,26 @@
+Nous rapportons l'observation d'un patient de 64 ans, tabagique, diabétique depuis 3 ans, qui a présenté une défaillance respiratoire survenue au repos, quelques heures après l'onset d'un infarctoide inaugurale en regard du ventricule gauche. L'IDM circonférentielle non thrombolysé ne présentait pas de discordance ventriculaire et le patient avait une bonne pression artérielle (10/5). L'auscultation cardio-pulmonaire retrouvait un souffle systolique difficile à isolement, s'effaçant avec l'inspiration et en rapport avec un retard en regard de la coronaire droite, d'où l'indication d'une échocardiographie.
+
+L'échocardiographie montrait un foyer infarctus du CIV musculaire, ventricule gauche non dilaté, akinésie apicale et inféroseptale, dysfonction systolique d'avant tension de 30% et coronaire droite compatible avec la thrombose, en rapport avec la détérioration de l'état hémodynamique.
+
+La coronarographie révélait des lésions bi-tronculaires, et une anévrysme du ventricule gauche de 2,5cm de diamètre à l'enduit en rapport avec la coronaire droite. Devant cet état clinique et cardiologique, une fermeture chirurgicale de la CIV a été réalisée (cure de l'anévrysme ventriculaire gauche et fermeture avec un patch de Dacron), associée à une monopontage aortocoronaire sur la coronaire droite. Les suites opératoires étaient simples, avec régression de la dysfonction ventriculaire et disparition des râles crépitant.
+
+A 2 ans, le patient est toujours en vie.
+
+Un traitement chirurgical à visée curative de l'anévrysme aortique ventriculaire doit être mis en oeuvre lorsqu'il est découvert, selon la taille et l'endroit de cette anévrysme et l'état hémodynamique du patient, et afin d'éviter la mort subite du patient, alors qu'une intervention chirurgicale peut être réalisée avec un bon pronostic de survie.
+
+D'autre part, la réalisation d'un complément angiographique est essentielle pour évaluer l'opportunité de la fermeture percutanée, vu l'endroit des lésions.
+
+Enfin, la prescription d'un bêtabloquant peut limiter la sévérité de l'infarctus du ventricule gauche et ainsi réduire l'indication chirurgicale, en attendant le réaménagement coronarien.
+
+### Response:
+Nous rapportons l'observation d'un patient de 64 ans, tabagique, diabétique depuis 3 ans, qui a présenté une défaillance respiratoire survenue au repos, quelques heures après l'onset d'un infarctoide inaugurale en regard du ventricule gauche. L'IDM circonférentielle non thrombolysé ne présentait pas de discordance ventriculaire et le patient avait une bonne pression artérielle (10/5). L'auscultation cardio-pulmonaire retrouvait un souffle systolique difficile à isolement, s'effaçant avec l'inspiration et en rapport avec un retard en regard de la coronaire droite, d'où l'indication d'une échocardiographie.
+
+L'échocardiographie montrait un foyer infarctus du CIV musculaire, ventricule gauche non dilaté, akinésie apicale et inféroseptale, dysfonction systolique d'avant tension de 30% et coronaire droite compatible avec la thrombose, en rapport avec la détérioration de l'état hémodynamique.
+
+La coronarographie révélait des lésions bi-tronculaires, et une anévrysme du ventricule gauche de 2,5cm de diamètre à l'enduit en rapport avec la coronaire droite. Devant cet état clinique et cardiologique, une fermeture chirurgicale de la CIV a été réalisée (cure de l'anévrysme ventriculaire gauche et fermeture avec un patch de Dacron), associée à une monopontage aortocoronaire sur la coronaire droite. Les suites opératoires étaient simples, avec régression de la dysfonction ventriculaire et disparition des râles crépitant.
+
+A 2 ans, le patient est toujours en vie.
+
+Un traitement chirurgical à visée curative de l'anévrysme aortique ventriculaire doit être mis en oeuvre lorsqu'il est découvert, selon la taille et l'endroit de cette anévrysme et l'état hémodynamique du patient, et afin d'éviter la mort subite du patient, alors qu'une intervention chirurgicale peut être réalisée avec un bon pronostic de survie.
+
+D'autre part, la réalisation d'un complément angiographique est essentielle pour évaluer l'opportunité de la fermeture percutanée, vu l'endroit des lés

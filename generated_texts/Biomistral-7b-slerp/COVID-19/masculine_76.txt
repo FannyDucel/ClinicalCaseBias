@@ -1,0 +1,23 @@
+Nous avons observé chez un homme de 20 ans, immunocomplexe, contact avec son père ayant COVID-19, une atteinte cutanée au niveau des mains évoluant vers une urticaire aigue, nous avons débuté par la consultation ; test PCR positif. Dans un premier temps, nous avons fait injecter d´Etanercept, par une voie sous cutanée, 4 mg, la première heure ; une fois le bilan biologique revenu en faveur d´un COVID-19, nous avons débuté la nafamostat, une fois au 4 ème jour, dans la vitesse maximale de 0,4 mg/Kg/heure et la sanguisée every 8 heures ; la dose était maximum par jour. Le déroulement était favorable avec une amélioration rapide de l´état général et la régression de l´exanthème cutanée. En 4 ème jour, l´état respiratoire, au niveau de la teneur en oxygène saturée, était un peu apyrétique et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était sans anomalies. Le bilan biologique était normal. Sur la demande de son père, nous avons continué à lui injecter l´hydroxychloroquine (200 mg toutes les 12 heures) et l´azithromycine (500mg) en association avec l´Etanercept (1,5mg/kg). Onze jours après, l´examen était normal sans récidive du prurit.
+
+Dans ce cas, on n´a pas constaté de modification du régime antiinflammatoire. Nous avons noté qu´un quart de cette personne (la première journée) ont eu une réaction adverse (hypertension artérielle et prurit des mains), et nous avons arrêté l´Etanercept. On a continué l´hydroxychloroquine et l´azithromycine. Onze jours après l’hospitalisation, nous avons cédé une amélioration clinique avec une bonne tolérance de la hydroxychloroquine. On n’a pas noté de résidu de récidive cutanée. Les conséquences sur la santé fiscale étaient des coûts de hébergement.
+
+Il existe très peu d’informations disponibles sur l’Etanercept (rRivRen; Pillsbury GH et al) chez les patients atteints du COVID-19. Cependant, il ne semble pas que l’Etanercept ait augmenté la gravité des effets secondaires lorsqu’il était utilisé avec d’autres médicaments tels que l’hydroxychloroquine et l’azithromycine (NICE).
+
+L’utilisation du produit homologue en Europe (Enbrel) a été envisagé par la NICE mais ne a pas été retenue. L’utilisation d’Etanercept a été approuvée en France (MediView, ) et par la FDA (UEMedicine) au Royaume Uni.
+
+Dans ce cas, nous devons suivre les recommendations du système de recherche de l’agence française pour l’évaluation des risques et des avantages du médicament.
+
+Les antalgiques tels que l’Ibuprofène, le Paracétamol et l’Acétaminophe, ont été recommandés comme traitements contre le COVID-19. Ces antalgiques ne semblent pas avoir de bénéfices ajoutifs à la prise d’acide acétylsalicylique (Ibuprofène et Paracétamol) ou d’antiviraux (Acétaminophe).
+
+Le régime antiinflammatoire n’a aucune indication spécifique dans le traitement du COVID-19 et est réservé aux troubles liés aux infections ou aux conditions inflammatoires associées.
+
+Il a été retrouvé dans la littérature, une augmentation du risque d’exacerbation de la pneumonie avec l’usage de l’Ibuprofène (NICE). Par contre, les risques et les bénéfices de la prise d’Acétaminophe et de Paracétamol ont été évalués et considérés comme minimes dans le traitement du COVID-19.
+
+Dans ce cas, nous avons conclu que l’Acétaminophe, le Paracétamol et l’Ibuprofène sont efficaces contre l’urticaire aigue et ont été administrés.
+
+Sans doute, d’autres traitements, comme les corticoïdes et les anti-histaminiques, ont été prescrits et administrés dans d’autres cas.
+
+En France, les médicaments à diffusion en ligne peuvent être commandés auprès des sites commerciaux spécialisés. Leurs prix sont en moyenne deux fois plus élevés que les prix au pharmacien. Les préparés sont livrés au domicile à des délais moyens de trois jours. Pour assurer une prise en charge thérapeutique par l’utilisateur, la politique d’exposition des médicaments a été aménagée.
+
+Le

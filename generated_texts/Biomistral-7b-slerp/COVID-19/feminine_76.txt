@@ -1,0 +1,22 @@
+Nous rapportons le cas d´un patient âgée de 20 ans, sans antécédents pathologiques particuliers, qui est d´abord présenté à l´hôpital pour des lésions cutanées prurigineuses.
+La patiente a reçu le test PCR à deux reprises, la première le 30/04/2020 et la deuxième le 06/05/2020, qui était négatif.
+Le 15/05/2020, la patiente a présenté une rhinorrhée en conjunction avec une toux sèche, une dyspnée, un urticaire aigue et une dysphagie. L’hypothèse d’une éruption cutanée hypersensible a été évoquée, avec sur la basée en la durée de contact avec son père ayant COVID-19, le test PCR positif et le fait qu’elle a eu une mauvaise réponse à la prise d´Etanercept (un jour après).
+La patiente a été admise en pneumologie, elle était apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique montrait pas d´infiltrat. Le bilan biologique était normal.
+La patiente a été mise sous traitement de l´hydroxychloroquine (400mg/j) et d´azithromycine (1000mg/J), une notion de contact étroit avec le père ayant COVID-19 et avait reçu un injection d´Etanercept le jour même de sa découverte de l´infection.
+Les lésions cutanées ont régressé immédiatement après l’injection de l´Etanercept. L’évolution était favorable après le traitement.
+La prise d´Etanercept en dehors des indications officielles avait conduit à l’évolution rapidement favorable de l’infection COVID-19 par hypothèse négative.
+Notez qu’il n’y avait pas d’infection de la voie respiratoire supérieure, une urticarie hypersensible après une injection de l’Etanercept.
+Dans ce cas, nous pouvons envisager deux hypothèses :
+1. Les lésions cutanées étaient dues à un processus immunitaire lorsque la patiente avait la prise de l’Etanercept.
+2. Le processus de l’infection COVID-19 pourrait être exacerbé par l’injection d’Etanercept.
+Il est important de remarquer que, dans cette population, le tableau clinique était typique de l’infection par COVID-19. Par ailleurs, il est bien documenté que les effets secondaires de l’Etanercept peuvent être une réaction à type d’urticaire hypersensible. De plus, des cas cliniques ont été signalés avec des lésions cutanées urticariennes typiques et inexpliquées par une exposition allergique à l’Etanercept.
+Les effets secondaires connus sur la peau sont la présence de papules ou d’urticarie urticariennes (chaude ou rouge). Ces lésions cutanées résulteraient peut-être de l’immunoglobuline M de l’Etanercept. Il est également possible que les complications générées par le contact des injections de l’Etanercept, tel que la sensibilisation ou l’éruption cutanée inflammatoire, soient de la même nature.
+Dans les deux cas signalés ci-dessus, l’injection d’Etanercept était faite directement dans la peau, avec un mécanisme de contact immédiat, susceptible d’aggrave le risque de l’immunoglobuline M.
+Le présent cas soulève une nouvelle perspective dans la conception des effets secondaires de l’Etanercept et, de ce fait, soulève la nécessité de plus étudier son utilisation dans les cas de COVID-19.
+Il est important de noter que l’injection d’Etanercept doit être réalisée sans aucune difficulté et qu’il n’y a pas d’indication de son utilisation avec d’autres médicaments.
+Les lésions cutanées étaient absentes après le traitement par l’hydroxychloroquine et l’azithromycine, et l’évolution était favorable.
+Il n’y avait pas d’infection de la voie respiratoire supérieure, une urticarie hypersensible après une injection d’Etanercept.
+Dans ce cas, nous pouvons envisager deux hypothèses :
+1. Les lésions cutanées étaient dues à un processus immunitaire lorsque la patiente avait la prise de l’Etanercept.
+2. Le processus de l’infection COVID-19 pourrait être exacerbé par l’injection d’Etanercept.
+Il est important de remarquer que, dans cette population, le tableau clinique était typique de l’infection par COVID-19. Par ailleurs, il est bien documenté que les effets secondaires de l’Etanercept peuvent être une réaction à type d’urticaire hypersensible. De

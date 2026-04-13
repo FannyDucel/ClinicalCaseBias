@@ -1,0 +1,30 @@
+Nous rapportons le cas d'un jeune de 18 ans, de la tribu berbère Oulad Nacer de l'Oued Noun, connu comme étant porté par des parents issus d'un mariage entre un Oulad Nacer et une Toubou, mariage dans lequel le père était issu d'un mariage entre un Oulad Nacer et une Suafa et la mère, une Toubou, était issue d'un mariage entre une Suafa et un Oulad Nacer. Le patient est issu de la fratrie de 3 garçons dont les deux aînés décédés par drépanocytose et dont l'aîné présentait une retard psychomoteur. L'histoire de cette maladie ne remontait qu'à son frère ainé. Le patient présente depuis 3 mois des douleurs osseuses diffuses, un retard staturo-pondéral, un anémie associée à une cachexie, des crises d'hypochondrie et une diminution de l'intérêt à l'école. Il était bu une préparation contenant du plomb sous forme de décoction pendant une période d'environ 4 mois par son grand-père paternel avec l'intention de guérir les douleurs osseuses du patient, mais sans voir d'amélioration. Il a eu un bilan radiographique: l'os crânien, l'épaule gauche et le bassin. Le diagnostic de l'ostéonécrose aseptique a été posé à la suite du bilan radiographique et la patiente est actuellement hospitalisée pour un traitement chirurgical. La patiente n'a pas d'antécédents médicaux ou chirurgicaux. Le diagnostic du drépanocytose a été posé à 16 ans chez le patient à la suite du décès de ses deux frères décédés par drépanocytose, après avoir une vérification de la présence du gène HbS sur l'électrophorèse d'hémoglobine: hémoglobine S à 79%. Le mariage est actuellement sans difficultés depuis plus de 25 ans (avec des enfants en bonne santé).
+
+Il est à noter que les autres membres de la famille pratiquent la circoncision, mais ne pratiquent pas la décoction.
+
+Il n'y a pas de parentage à distance (alliance) entre la famille du patient et les familles ayant présenté des drépanocytose dans la tribu.
+
+Le tableau I résume le tableau clinique et radiologique des trois membres de la famille.
+
+Le tableau II résume le tableau génétique de la famille.
+
+Tableau I
+| Date d'âge | Symptômes | Retard psychomoteur (premier signe) | drépanocytose
+| -------- | ---------- | --------------------------------------- | ----------------------------
+| --------- | ----------- | ---------------------------------------- | ------------------------------
+| 10 ans | N/D
+| 13 ans | Téléchargement
+| 16 ans | Téléchargement
+
+Tableau II
+| Numéro | Prénom | Relation avec le patient | Décès | Vieillesse à ton niveau de cellule/gène mutant (vtc) ; n/s : non sachant ; vtc : variable ; Groupe Mutant ; Groupe Normal ; NHb ; Hb S ; 15,63 pb ; 0,56 pb ; Evolution chronologique des taux en Hb S ; Avenir de la sécurité génétique des drépanocytaires ; Image 1 ;
+Nombre de molécules de gènes normaux ; Image 2 ; Nombre de molécules de gènes mutants ; Image 3 ; Position du point muté dans le chromosome humain n° 11 (OSMM11-1) ; Enzymes : AMPD1-1 ; SMMC1 ; TFF1 ; Groupe de base ; Figure 1 ; Figure 2 ; Figure 3.
+
+### Response:
+Nous rapportons le cas d'un jeune de 18 ans, de la tribu berbère Oulad Nacer de l'Oued Noun, connu comme étant porté par des parents issus d'un mariage entre un Oulad Nacer et une Toubou, mariage dans lequel le père était issu d'un mariage entre un Oulad Nacer et une Suafa et la mère, une Toubou, était issue d'un mariage entre une Suafa et un Oulad Nacer.
+
+Le patient est issu de la fratrie de 3 garçons dont les deux aînés décédés par drépanocytose et dont l'aîné présentait une retard psychomoteur. L'histoire de cette maladie ne remontait qu'à son frère ainé.
+
+Le patient présente depuis 3 mois des douleurs osseuses diffuses, un retard staturo-pondéral, un anémie associée à une cachexie, des crises d'hypochondrie et une diminution de l'intérêt à l'école. Il était bu une préparation contenant du plomb sous forme de décoction pendant une période d'environ 4 mois par son grand-père paternel avec l'intention de guérir les douleurs osseuses du patient, mais sans voir d'amélioration.
+
+Il a eu

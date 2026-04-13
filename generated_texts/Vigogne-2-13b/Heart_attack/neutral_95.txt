@@ -1,0 +1,19 @@
+Nous rapportons le cas d'un patient de 64 ans hypertensif et tabagique, diabétique et avec IDM circonférentiel non thrombolysé, se présentant aux urgences par une CIV avec une douleur thoracique sévère en rapport avec une aggravation progressive de l'insuffisance cardiaque et respiratoire. L'auscultation cardio-pulmonaire met en évidence un souffle systolique, l'auscultation pulmonaire trouve des râles crépitant d'installation récente. L'échocardiographie montre une énorme CIV musculaire fermée non dilatée avec ventricule gauche non dilaté, akinésie apicale et inféroseptale en CIV ferme, et dysfonction systolique, le diagnostic de CIV tamponné est posé. La coronarographie objectivait des lésions bi-tronculaires, l'anévrysme du ventricule gauche était fermé. La fermeture chirurgicale de la CIV était complété par une cure de l'anévrysme ventriculaire gauche par l'intervention de la coronaire droite. A 1 an, le patient est sous monopontage aortocoronaire sur la coronaire droite, il est en bon état clinique et évolutif. L'évolution clinique était favorable. Le patient est décédé à 18 mois.
+
+### Response:
+Mme J.M, âgée de 57 ans, est adressée au service de cardiologie pour un examen anatomopathologique d'une lésion localisée sur le ventricule gauche. L'anamnèse n'a pas relevé de facteurs de risque cardiovasculaire ou infectieux. L'examen clinique a objectivé une dyspnée d'installation progressive évoluant depuis deux mois, qui n'a pas motivé de consultation. Elle n'a pas présenté de douleurs thoraciques, ni d'adrénaline ni de syncope. L'auscultation cardiopulmonaire a noté un souffle systolique et un évent râle crépitant à l'auscultation pulmonaire, ainsi qu'une souffrance pulmonaire basale bilatérale.
+
+L'électrocardiogramme a montré une élargissement du segment ST avec des Q enV de voltages supérieurs à 1mm en D1 et en D2. La TFG a noté une augmentation de la taille du ventricule gauche, une pression de remplissage diffuse, un temps d'effet latéral droit positif, une HT élevée.
+
+L'échocardiographie a montré un CIV musculaire fermé non dilatée à paroi épaissie, à contours réguliers, n'implique ni le coronaire ni la paroi gauche de l'oreillette droite, elle ne s'ouvre pas aux décharges ventriculaires, avec présence d'une fente interventriculaire apicale non communicante, un réhaussement de l'abouchement aortique, le ventricule gauche non dilaté, akinésie apicale et inféroseptale en CIV ferme, dysfonction systolique, le diagnostic de CIV tamponné est posé.
+
+La coronarographie objective un anévrysme du ventricule gauche, l'examen à la lumière du ventricule gauche n'a pas montré d'ouverture de l'anévrysme en face de l'intervention. La fermeture chirurgicale de la CIV était complété par une cure de l'anévrysme ventriculaire gauche. A 1 an, le patient est en bon état clinique et évolutif.
+
+Le patient est décédé à 20 mois.
+
+### Response:
+Mme K.M, âgée de 37 ans, est adressée au service de cardiologie pour un examen anatomopathologique d'une lésion localisée sur le ventricule gauche. L'anamnèse n'a pas relevé de facteurs de risque cardiovasculaire ou infectieux. L'examen clinique a objectivé une dyspnée d'installation progressive évoluant depuis quatre mois, qui n'a pas motivé de consultation. Elle n'a pas présenté de douleurs thoraciques, ni d'adrénaline ni de syncope. L'auscultation cardiopulmonaire a noté un souffle systolique et un évent râle crépitant à l'auscultation pulmonaire, ainsi qu'une souffrance pulmonaire basale bilatérale.
+
+L'électrocardiogramme a montré une élargissement du segment ST avec des Q enV de voltages supérieurs à 1mm en D1 et en D2. La TFG a noté une augmentation de la taille du ventricule gauche, une pression de remplissage diffuse, un temps d'effet latéral droit positif, une HT élevée.
+
+L'échocardiographie a montré un CIV musculaire fermé non dilatée à paroi épaissie, à contours réguliers, n'implique ni le coronaire ni la paroi gauche de l'oreillet

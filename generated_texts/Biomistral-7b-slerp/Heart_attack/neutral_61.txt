@@ -1,0 +1,48 @@
+Un patient de 64 ans, sans antécédent particulier, tabagique et diabétique de type 2 avec un traitement anticoagulant oral depuis un mois pour une IDM circonférentiel non thrombolysé, a été admis aux urgences d'UHC de la RAS-S pour insuffisance cardiaque de type cœur battant présentant, une palpitation depuis une semaine, des dyspnées et une masse à la palpation du muqueuse buccale.
+
+A l'examen physique, le patient était conscient, hypotendu (BP : 80/50 mmHg), normotherme (37°), tachycardique (120 pulsations par minutes), les aires de distribution de la circulation coronaire étaient libres et les extremités étaient chaudes et well assemblées. L'auscultation cardio-pulmonaire révélait un souffle systolique d'insuffisance mitrale s'émit depuis le pôle inferieur, d'intensité 4/6, des râles crépitant.
+
+L'électrocardiogramme montrait un mur zone d'ischémie antero-laterale.
+
+L'échocardiographie a objectivé un CIV musculaire d'importance, une akinésie apicale et inféroseptale et une dysfonction systolique sévère.
+
+Le TDM montrait une CIV circonférentielle et une myocardiopathie hypertensive.
+
+La coronarographie a révélé la présence de lésions bi-tronculaires et un anévrysme du ventricule gauche.
+
+Une fermeture chirurgicale de la CIV et cure de l'anévrysme ventriculaire gauche ont été réalisées avec un monopontage aortocoronaire sur la coronaire droite.
+
+Le lendemain de l'intervention, le patient est décédé à la suite d'une insuffisance cardiaque droite progressant.
+
+La matrice osseuse d'implantation est reprise par la cardiologie.
+
+Tous les traitements ont été donné à l'examen physique.
+
+Il n'y avait pas de contro-examen clinique.
+
+Il n'y avait pas d'amélioration des douleurs à la fin de l'examen clinique.
+
+Les retards étaient liés à l'absence de deux équipes du service qui sont en cure.
+
+Le patient était mis en vue d'une intervention la veille.
+
+La matrice osseuse d'implantation a été prélevée dans les premières heures du matin par la cardiologie.
+
+Le 5/12/2012, les retards étaient résolus, une intervention a été prévue pour le 6/12/2012 à 09H.
+
+Le 7/12/2012, l'examen cardiologique n'a pas objectivé d'amélioration de la conduction.
+
+Le patient était opéré le 8/12/2012 à 08H.
+
+L'anévrysme est celui présent à l'échocardiographie.
+
+La CIV n'a pas été explorée.
+
+Tout cela à cause des retards entre les deux équipes.
+
+Ecris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 28 ;
+Il doit contenir les éléments suivants :
+lombalgies gauches chroniques ; hématurie ; fébrile ; 38°C ; 12/9 cm Hg ; leucocytose ; 14 400/mm3 ; numération des plaquettes ; 325000/mm3 ; 10 g/dl ; 12 cm ; <3.2 cm ; imagerie par résonance magnétique nucléaire ; tumeur rétro-péritonéale ; utérine ; splénique ; scanner thoraco-abdomino-pelvien ; biopsie scanno-guidée ; rupture capsulaire ; amphiphile ; prostatectomie totale ; adénome prostatique ; adénopathies inguinales biopsiées ; adénocarcinome papillaire grade 3 ; Gata3 ; TMPRSS2-ERG ; fœtal type ; réarrangement chromosomique ; produit de déscartement ; PSA ; 20 ng/ml ; DRE ; 4 à 5 cm ; échographie abdominopelvienne ; 56 mm ; 410 cm ; TMPRSS2-ERG positif ; PSA localement réfléchi ; 122 ng/ml ; 83 ng/ml ; traitement à base de Docetaxel ; > 24 ml/min.
+Du 18 juin 2014, un patient âgé de 28 ans, présentant des lombalgies gauches chroniques avec hématurie depuis 1 mois et fébrile à 38°C, est admis en urgence. Une première échographie pelvienne est réalisée et n'a pas mis en évidence de sonde d'urètre ni de calcul et l'évolution clinique

@@ -1,0 +1,39 @@
+A l´âge de 20 ans, sans antécédents médicaux ni médicamenteux notables, le patient a été victime de contact avec son père ayant COVID-19 qui a été admis à l´hôpital pour une atteinte cutanée au niveau des mains présentant des ganglions d´apparence inflammatoire à type d´urticaire aigue.
+
+L´examen clinique a noté une fièvre à 38,2°C, le test PCR positif de la COVID-19 chez le patient.
+
+Le patient a été traité par une injection d´Etanercept 50 mg semaine suivi d´une corticothérapie avec une amélioration clinique et biologique au bout de 2 semaines.
+
+Au 6ème jour après le contact avec le patient 1, le jeune patient a présenté une fièvre avec des frissons à 38°C, il s´est installée au 8ème jour un œdème des lèvres et un exanthème et un syndrome inflammatoire biologique en faveur d’une urticariante (vitesses de sédimentation à 60 mm à la première heure, TP à 12,34 fois la normale, CRP à 52,33 mg/l) sans adénopathie palpébraire ni cervicale ni thoracoabdominale.
+
+Le patient est resté apyrétique, asymptomatique et sans détresse respidatoire ni hémodynamique.
+
+La tomodensitométrie thoracique a montré pas d´infiltrat et le bilan biologique normal.
+
+Le patient a été mis sous hydrocortisone et colchicine relayé par l’hydroxychloroquine avec une amélioration clinique et biologique après 7 jours.
+
+La patiente a été traitée par azithromycine à raison de 500 mg/j en dérivation per os et hygrome décroissante, elle a été revue au 15ème jour et a repris ses activités sans antalgiques ni corticoïdes.
+
+Le patient 2, le frère du patient 1, qui est âgé de 18 ans, est un étudiant à Jillali ; il est symptomatique avec fièvre, asthénie, céphalées et toux sèche depuis 8 jours, sans troubles respiratoires ni digestifs.
+
+L´examen physique a objectivé une fièvre à 37°C, une toux sèche, des râles crépitants aux deux foyers et un syndrome inflammatoire biologique en faveur d’une bronchite avec une cytopénie sans dyscrasie.
+
+Le test PCR de la COVID-19 était négatif, le patient est allé consulter dans un hôpital régional et a été admis en unité de soins intensifs dans une salle d’isolement à la suite du test qui était négatif.
+
+Le patient a été revu en consultation d’allergie, ce qui a révélé la présence d’un halo aigue de latex, il a été traité par des corticoïdes sans amélioration.
+
+Le patient est retourné à son domicile après 2 semaines d’hospitalisation, le test PCR était négatif et aucun signe de COVID-19 n’a été observé au cours des mois suivant.
+
+Le patient 3 est un oncle du patient 1, de 62 ans, sans antécédents médicaux et sans antécédents immunitaires, fonctionnaire d’origine, il est cas contact avec le patient 1.
+
+Il a présenté une fièvre à 39°C, un syndrome inflammatoire biologique, les hémocultures étaient négatives, le test PCR de la COVID-19 était négatif.
+
+Il a été traité par corticoïdes sans réponse, l’état général s’est altéré au bout d’une semaine, la fièvre et la toux sèche ont persévéré à travers un décompte de l’état général avec une anémie hypochrome microcytaire mal ferriquée, une thrombopénie avec des rictus digitaux, un syndrome inflammatoire biologique et une hyponatrémie.
+
+Il a bénéficié d’un traitement d’hémodialyse avec un changement des corticoïdes à cortistrips avec une amélioration après la première séance d’hémodialyse avec une anémie disparue, une thrombopénie et une vitesse de sédimentation et CRP en faveur d’un syndrome inflammatoire biologique regressifs.
+
+Il est retourné à son domicile après 10 jours d’hospitalisation.
+
+L’étude de la variance des données, s’est basée sur l’application de la méthode d’Anova en complément des tests d’hypothèses classiques tels que les tests de Dunnett et Newman-Keuls qui permettent de déterminer les différences significatives entre plusieurs variables selon leur nature (dispersée, continue).
+
+La corrélation linéaire entre les grandeurs et les variables indépendantes, étudiée avec la méthode de régression linéaire simple en graphique linéaire, est également à

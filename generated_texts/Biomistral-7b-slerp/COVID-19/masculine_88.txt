@@ -1,0 +1,48 @@
+Un homme de 20 ans a eu des contacts en février 2020 avec son père confirmé positif au COVID-19. Une semaine après, il a présenté un éruption cutanée au niveau des mains et du tronc sans fièvre. Son test PCR était positif. Il a bénéficié d’une injection d´Etanercept par voie intraveineuse et a été rapidement apyrétique. Il n’avait pas de détresse respidatoire ni hémodynamique et l’électrocardiogramme et l’échographie cardiaque étaient normaux. La tomodensitométrie thoracique montrait un thorax sain sans infiltrat. Le bilan biologique était normal. En fin de traitement, le patient a reçu l’hydroxychloroquine et l’azithromycine. L’évolution était bonne après un suivi de 2 semaines. Le tableau de patient est résumé dans le Tableau 1.
+
+Tableau 1. Signes cliniques et tests de patient.
+Patient 21 (d)
+Signalement
+3 semaines
+Contact avec son père ayant COVID-19
+Urticaire aigue
+Première injection d´Etanercept
+Apreinte
+Aucune éruption cutanée n'évoluant en première ligne
+Test PCR positif
+Dernière injection d´Etanercept
+Aucune éruption cutanée
+1h 20mn
+1h 36mn
+1h 26mn
+Aucune éruption cutanée à prédominance au niveau des mains
+hématologie
+laboratoires de biologie clinique
+UCR
+24,6%
+25g/dl
+Taux d’EOS
+2,200/µl
+2,300/µl
+Taux de PNN ; 2095/µl
+Lymphocytes
+540/µl
+518/µl
+Échographie cardiaque
+Toxicité cutanée
+Thoracique
+échographie cérébrale
+MRT cérébrale
+Quelques heures
+Aucune éruption cutanée au niveau des mains
+Normalement tanné
+Normalement tanné
+Tableau 1: Signaux cliniques et de laboratoire des 2 patients au cours de leur hospitalisation.
+
+Les décisions en temps réel dans le patient 2 ont été basées sur l’histoire clinique, l’examen physique, les résultats des test PCR et le bilan biologique et radiologique à la recherche d’une toxicité cutanée à l’Etanercept. Le traitement consistait à faire rapidement cesser la prise de l’Etanercept et le traitement du COVID-19. Dans le patient 1, le manque d’une fourniture de la ligne de filtre contribuait à la décision de garder l’administration en tant qu’une mesure d’urgence malgré le contact avec le patient positif à l’Etanercept. Par ailleurs, le patient 1 était au bout de la phase extrêmement infectieuse de l’infection au COVID-19, en particulier dans les 15 premiers jours, qui survient après les symptômes de la phase extrêmement contagieuse, et aussi ce n’est pas l’époque de la période de l’apogée de la pandémie. Les 2 patients reçurent le même traitement pendant la deuxième semaine de l’infection.
+
+Lors de notre observation, le patient 2 était seul chez soi et a reçu le même traitement pendant la deuxième semaine de l’infection. Le manque d’une fourniture de la ligne de filtre ne jouait pas un rôle dans cette décision, contrairement au patient 1.
+
+Les facteurs évoqués au niveau de la pratique clinique sont que les deux patients aient reçu l’hydroxychloroquine et l’azithromycine, et la prise simultanée de cette combinaison est associée avec une hyperpyrexie et une réaction hivernale cutanée (Fig 2). Le patient 2 avait bénéficié d’une injection intraveineuse d´Etanercept 1h 20mn après son atteinte cutanée. Ce traitement est facilement reproductible et seule la réaction épisodique cutanée est prévue par le cliniciens. De plus, l’éruption cutanée du patient 2 n’était pas associée à une fièvre élevée, notamment une température > 39°C, mais à un niveau normalement tanné. Une croissance des lésions cutanées était observée, avec une intensité de 7/10 au niveau de l’épiderme.
+
+En conclusion, l’Etanercept peut s’avérer utile dans la pratique clinique pour traiter les poussées dans les maladies auto-immunes (RA, psoriasique, etc.), où il peut être utilisé d’une façon non-invasive, proche du traitement au domicile. Une réaction épisodique éruptive cutanée doit être mentionnée et une surveillance rapprochée de la ligne de filtre doit être assurée dans les cas où les lésions cutanées se font augmenter en taille.

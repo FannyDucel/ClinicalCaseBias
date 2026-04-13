@@ -1,0 +1,21 @@
+Il s´agit d´un patient âgé de 20 ans, sans antécédents particuliers, admis en urgence dans notre service pour un épanchement pleural gauche. L´origine infectieuse était discutée devant le contact avec son père ayant COVID-19. Le patient était asymptomatique au moment de la découverte de l´atteinte cutanée au niveau des mains. Devant l´aggravation de cette symptomatologie on procédait à la réalisation d’un test PCR positive pour le COVID-19. Le patient a été ensuite mis sous injection d´Etanercept pendant trois jours. Il a été ensuite admis au service de réanimation avec une symptomatologie respiratoire. Il était apyrétique et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était normale et le bilan biologique était normal. Il a bénéficié alors d’une hydroxychloroquine et d’azithromycine. L’évolution a été favorable au décours de 15 jours.
+
+Ceci est un cas isolé, et son discrétion et l’anonymat sont assurés.
+
+L’installation brutale d’une altération de l’état général, des douleurs de la poitrine et des diarrhées faisaient rapidement suspecter une COVID-19. Les examens vécus comme normaux ont cependant n’altéré le statut d’appartenance. Les difficultés logistiques associées à la situation financière difficile expliquaient pourquoi le bilan n’était pas complètement élucidé. On tente ainsi d’améliorer l’accessibilité des tests PCR dans les zones fragiles et frontalières. Il a été mis au point par le team de soins interdisciplinaires un algorithme d’évaluation et d’interprétation des données des PCR de type SARS-CoV-2, partiellement publié (), ainsi que deux protocoles d’introduction de l’hydroxychloroquine dans les zones de blocus.
+
+1. Commentaire d’un médecin ingénieur biomédicaliste
+
+Aux questionnements du docteur A. H. M. F. la réponse médicale générale est la même pour les deux patients: « La prophylaxie du patient a été négative, et l’évolution clinique défavorable en matière de symptomatologie respiratoire et pleurale l’a fait conclure à une contagiosité active ». Il faut à ce titre noter que, d’un point de vue clinique, l’antibiothérapie utilisée au pôle n°3 a sans aucun doute fait l’objet d’une prophylaxie contre la pneumonie par bactérie gram négative. Par ailleurs, les formes pneumoniques de la COVID-19 peuvent se manifester par des symptômes initialement similaires à une pneumonie par bactérie gram négative.
+
+Bien qu’elles ne reflètent pas l’état de l’air des pulmons, les images d’ectopies vasculaires et de brouillard en radiographie thoracique font évoquer une pneumonie, afin d’allonger le diagnostic. Les électrochocards, souvent caractérisés par un tachycardie, l’onde S présentant souvent un aspect désorganisé et les T inversés ou rapprochés, ne comportent pas de signes évocateurs, du moins à l’écran.
+
+A ce niveau, les résultats positifs à la PCR, fortement suspectés en rapport avec l’exposition à un patient positif et confirmés par les images en IRM du pôle n°2, reflètent l’état de la COVID-19. L’attribution de cette dernière comme étant à l’origine de la pneumonie est donc très probable.
+
+Ainsi, en réalité, l’absence de prophylaxie ne permet pas d’en conclure formellement au mécanisme d’installation de la symptomatologie clinique. Par ailleurs, la diminution du taux de FiO2 et de PaO2 à l’admission et la meilleure performance à la méthode de la six-minute walk test sont des facteurs favorables favorisant la survenue de la COVID-19. On parle alors d’une altération de la plaie de surcharge alvéolaire.
+
+L’évolution clinique positive après le retir des canules et l’arrêt des séances de chirurgie rend compte de l’introduction d’une hydroxychloroquine bénéfique (traitement améliorant les hypoxémies). Enfin, bien que la consommation du très fort alcool est suspecté dans la survenue des mécanismes en cause, elle ne peut être confirmée. Ainsi, si l’écoute d’une histoire personnelle caractérisée par l’alcoolisme est très probable, elle ne peut être confirmée faute de preuves biologiques.
+
+2. Commentaire d’un médecin spécialiste en pharmacie
+
+Nous avons tenu compte de la demande des médecins de notre équipe de commentaire d’une prescription d’antibioth

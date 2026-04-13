@@ -1,0 +1,28 @@
+Il s’agit d’un patient âgé de 30 ans ayant comme antécédent familial une ostéoporose atypique confirmée par un bilan biologique. Il présente depuis 1990 des douleurs lombaires d’aggravation difficile à isoler, d’où une consulte au service de rhumatologie. On notait à l’examen clinique une constitution fine, des douleurs lombaires avec une asthénie physique et psychique, une légère augmentation du poids et des antécédents de fractures évidemment secondaires à la gravité de l’ostéoporose. L’examen ostéoarticulaire a révélé une cyphose lombaire de 12 degrés, une saillie des apophyses épineuses et un marquage des côtes. Les radiographies du rachis lombaire et des deux poignets ont objectivé un score de Dundas estimé à 11 pour la lombaire, ainsi que la numération des images ostéoporotiques. Le taux de vitesse de sédimentation était normal, tout comme la calcémie à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L et la calcifornémie de 1.93 mg/L (Tableau 1). Il existait une perte de masse osseuse avec une surcharge pondérale avec un index de masse corporelle à 29 kg/m². Les dosages hormonaux strictement normaux avec une parathormone basse (14,8 pg/ml). L’absorptiométrie biphotonique à rayons X de la densité minérale osseuse, n’a pas été demandée. Le patient était traité à vie par la paracétamol (2 g/j) et l’amytriptiline (50 mg/j) pour l’ostéoporose fracturaire. Au recul de 1 an, l’évolution clinique a été favorable avec régression des douleurs lombaires, et une amélioration des douleurs musculaires. L’enquête génétique n’a pas été demandée.
+
+Dernière mise à jour 29/08/2016 A. Boudaouira, MD
+
+Troubles inflammatoires chroniques 3
+
+Il a bien été estimé que le dernier article a été cité une fois. Le citation de citation est inexacte.
+
+Dernière mise à jour 21/07/2011 A. Boudaouira, MD
+
+Il s’agit de l’étude prospective d’une population de 105 enfants de 1 à 15 ans opérés pour hernie inguinale entre janvier 2000 et octobre 2003. Les observations se sont déroulées au service de chirurgie pédiatrique de l’hôpital Paul Strauss de Marseille. A l’issue de cette opération les patients étaient suivis au service de réanimation pédiatrique pour 24 heures puis à domicile à J7.
+
+Les principaux résultats de l’étude ont été :
+- l’analyse statistique des deux populations et, en particulier, la comparaison de la proportion d’admissions aux hôpitaux en régions peu développées ;
+- l’analyse de l’impact des mesures prises dans le cadre de l’implémentation de cette politique d’éthique ;
+- l’identification des actions éthiques à entreprendre.
+
+Cette étude a été conduite sous l’autorisation de la commission d’éthique du CEREMAV en préopératoire.
+
+Pour l’analyse statistique des données, nous avons utilisé le logiciel Excel 2000 (Microsoft) et le logiciel SAS® (Version 9.1 TS Level 1M2).
+
+Les variables quantitatives sont représentées par la moyenne avec son intervalle de confiance à 95 %, la moyenne élargie (95 %) ou l’écart-type (ET). Pour les variables qualitatives, nous avons réalisé une analyse par la fréquence, la proportion ou le pourcentage.
+
+Pour comparer deux variables ordinales, nous avons utilisé le test de Mann–Whitney. Pour comparer deux variables nominales, nous avons utilisé le test de Chi 2. Pour comparer plusieurs variables quantitatives avec une seule variable qualitative, nous avons utilisé les tests de Mann–Whitney pour les variables continues et le test du Chi 2 pour les variables nominales. Les p-values obtenues ont été évaluées au niveau de 5 % pour le tests statistiques supérieurs ou égaux à 0,05.
+
+Dernière mise à jour 27/07/2006 A. Boudaouira, MD
+
+Le gastro-entérite aiguë chez l’enfant est très fréquente. Les dossiers des patients d’environ 22 000 hospitalisations sont collectés chaque année, ce qui représente environ 7 % du total des hospitalisations dans les services de chirurgie, de médecine, d’urologie, d’hématologie et de nutrition pédiatriques. En

@@ -1,0 +1,25 @@
+Mme J.L âgée de 55 ans, 2ème pare, 3ème geste et ayant eu 3 enfants. Elle a présenté un antécédent d’œsophagite et asthme corticodépendant depuis 2 ans, d’allergies alimentaires. L’histoire s’est compliquée d’un cancer de l’ovaire bilatéral de bas grade dans un tabagisme de 20 paquets/an. La patiente est décédée dans un tableau de défaillance multi organeelle, suite à une pancréatite aiguë. Son histoire clinique relève de la survenue de douleurs abdominales depuis 2 jours associées à une dyspnée.
+
+La patiente avait bénéficié d’une hystérectomie totale avec omentectomie pour adénocarcinome ovarien bilatéral de bas grade 3 diagnostiqué par examen anatomo-pathologique (adénocarcinome séreux peu différencié de grade III).
+
+La recherche de méthode d’exploration complémentaire s’est avérée négative : échographie hépatique et radio du thorax sans particularité. Le CA 125 était augmenté à 10 705 U/mL avec des constipation, diarrhée fébrile associée et une incontinence urinaire totale. L’interrogatoire révélait une notion de pollakiurie évolutive, bien qu’assez répétitive à vieillissement et sans particularité. La patiente était pancytopénique : plaquettes : 24 000, hémoglobine : 7.3 g/dl, leucocytes : 450/mm3. Le bilan de créatininémie était à 63 μmol/l, de protéine C réactive : 19.1 mmol/l et de bilan parathormonal : normal.
+
+Elle était mise sous antibiothérapie à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) et transfusion plaquetaire et de globules rouges. Une cystoscopie, une examen endoscopique du haut appareil et une ponction scrupicole étaient pratiquées et sont restées normales.
+
+La patiente était décédée au 8ème jour de son hospitalisation suite à une pancréatite aiguë.
+
+Les données anatomopathologiques de la patiente seront retardées.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 19 ;
+Il doit contenir les éléments suivants :
+antécédents pathologiques ; adénomectomie totale ; urostomy ; incontinence urinaire totale ; tuméfaction mésentérique ; hypotonie ; anomalies neurologiques ; 100 mmol/l ; 11,85 mmol/l ; 7,8 g/dl ; CRP ; 100 mg/l ; 6.86 mmol/l ; symptômes digestifs ; tableau d’anémie hémolytique ; protéine C réactive ; 5.66 mg/l ; hypercalcémie ; 2,68 mg/l ; bilan pré thérapeutique ; hémolytique ; glucose ; 6,14 mmol/l ; paracétamol ; méthylprednisolone ; prédnisolone ; colchicine ; vitamine K ; anti-tuberculeux ; anti-biothérapie ; biopsie de la tumeur mésentérique ; tumeur maligne mésentérique ; foyer malin ; allopurinol ; D&C ; ostéomalacie ; opérons pancréatique ; opérons mésentérique ; ablation de l’ostéomalacie ; nécrose ; ablation ; insuffisance rénale aiguë.
+
+### Response:
+Mlle A.A âgée de 19 ans, 2ème pare, 3ème geste et ayant eu deux enfants. Elle a présenté un antécédent d’adénomectomie totale par cystotomie iliaque supérieure (UIS) avec urostomy (colontomie partielle droite selon la Ries) suite à un télangiectasie vésicale à jeun au moment de l’accouchement. Elle a présenté en postpartum une incontinence urinaire totale devant laquelle elle n’a jamais consulté.
+
+Il y a un an, elle est présente à l’hôpital pour des douleurs abdominales intermittentes, évoluant dans un contexte de fièvre. L’examen clinique retrouve une tuméfaction mésentérique. Le bilan biologique révèle une hypotension orthostatique avec fibrillation tachycardique, sans anomalies des fonctions hépatique et rénale. La ponction du pôle supérieur du rein retrouve une poudre blanchâtre séreuse. Le scanner abdomino-pelvien a été réalisé et est revenu normalement. L’anatomopathologie du rein révèle un calc périductinel sans atteinte du parenchyme.
+
+L’exploration opératoire

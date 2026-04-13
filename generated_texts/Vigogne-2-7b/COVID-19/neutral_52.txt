@@ -1,0 +1,43 @@
+Il s´agit d´un patient de 20 ans ayant un contact avec son père ayant COVID-19 et étant suivi pour atteinte cutanée au niveau des mains dans un contexte d´urticaire aigue évoluant dans un état d´altération de l´état général. Le test PCR positif est revenu le 30 septembre 2020. Un injection d´Etanercept par voie intra-musculaire lors d´une visite neurologique 24 heures avant la détermination du test de dépistage a été évoqué et justifiée devant la fragilité clinique du patient. Trois heures après la réalisation de l´injection, le patient présente un état d´asthénie apyrétique sans détresse respidatoire ni hémodynamique, ce qui nous a conduit à demander un bilan complémentaire. La tomodensitométrie thoracique fait la même journée est revenue sans pas d´infiltrat pulmonaire. Le bilan biologique est resté normal. Le patient a été traité à base d´hydroxychloroquine et d´azithromycine. L´évolution a été similaire dans les deux cas, le patient est sorti de l´hôpital le 3 octobre 2020, sans masque.
+
+RELATES DE CAS :
+• NUMÉRO: 13367 • DATE D’ADAM: 03/10/2020 • MARCHÉ: Jour.
+
+ATTACHÉS :
+– ENFANT : 13 ANS ;
+– AGE : 20 ;
+– Sexe : MALE ;
+– CAS : 1 ;
+– MALADE : 2 ;
+• 03/10/2020 ;
+– 02/10/2020.
+
+Généralités: le patient a consulté pour malaise respiratoire à type d’ouraque, avec des sueurs palmaires. Le père a un contact avec son père ayant COVID-19 et étant suivi pour atteinte cutanée au niveau des mains dans un contexte d´urticaire aigue évoluant dans un état d´altération de l´état général. Le test PCR positif est revenu le 30 septembre 2020. Un injection d´Etanercept par voie intra-musculaire lors d´une visite neurologique 24 heures avant la détermination du test de dépistage a été évoqué et justifiée devant la fragilité clinique du patient. Trois heures après la réalisation de l´injection, le patient présente un état d´asthénie apyratique sans détresse respidatoire ni hémodynamique, ce qui nous a conduit à demander un bilan complémentaire. La tomodensitométrie thoracique fait la même journée est revenue sans pas d´infiltrat pulmonaire. Le bilan biologique est resté normal. Le patient a été traité à base d´hydroxychloroquine et d´azithromycine. L´évolution a été similaire dans les deux cas, le patient est sorti de l´hôpital le 3 octobre 2020, sans masque.
+
+Saisons (P1, P2) :
+Il n´y a pas d´antécédents particuliers à préciser.
+
+Relations (P1, P2) :
+Il n´y a pas d´antécédents de relations entre les deux patients.
+
+Risk factors (P1, P2):
+Il n´y a pas d´antécédents de contact avec une personne atteinte de COVID-19 (pas d´isolation).
+
+Acquisition de l´infection (P1, P2):
+Le 30 septembre 2020, le P1 a été testé par PCR pour le COVID-19 et le résultat est revenu positif. Le 01/10/2020 à 17h00, le P1 a été réveillé par son père ayant envoyé le 02/10/2020.
+
+Aquiesce 02/10/2020 à 18h00, le P1 décrit le contact avec son père ayant un état d´allergie aux fruits de mer.
+
+Diagnostic (P1, P2):
+Le 02/10/2020, à 18h00, le P1 a déclaré la première fièvre, en rapport avec un contact parental ayant un état d´allergie aux fruits de mer.
+
+Étiologie:
+Des urticaires aigres apparaissent dès 22h30 au niveau des mains du P1.
+
+Aquiesce 03/10/2020 à 05h00, le P1 présente une fièvre à 38,2°C.
+
+Aquiesce 03/10/2020, à 08h00, le P1 est venu faire une visite neurologique pour se plaindre de sueurs palmaires à répétition et de fièvre.
+
+Aquiesce 03/10/2020, à 09h00, un scanner cérébral est réalisé.
+
+Aquiesce 03/10/2020,

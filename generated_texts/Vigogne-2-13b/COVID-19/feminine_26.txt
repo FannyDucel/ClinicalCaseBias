@@ -1,0 +1,33 @@
+Nous rapportons le cas d’une patiente de 20 ans sans antécédent pathologique notoire qui est en contact avec son père ayant COVID-19 et qui présente depuis deux jours une éruption cutanée généralisée avec une atteinte cutanée au niveau des mains avec notion de prurit sans notion d´urticaire aigue ; le test PCR positif à COVID-19 est devenu connu postitivité aux anticorps ; avant l´injection d´Etanercept, elle était asymptomatique, apyrétique, sans détresse respidatoire ni hémodynamique et le bilan biologique normal (comprenant le bilan hépatique, une TDM abdominale et une tomodensitométrie thoracique). Elle a bénéficié d´un traitement d´urticaire par hydroxychloroquine et azithromycine, sous corticothérapie, le bétaméthasone aux jours 1 à 2 suivi d´un corticoïde de synthèse de 1 à 3 mg/kg par voie orale, ainsi que la cessation de la biothérapie (Etanercept) a eu comme résultat une régression rapide des lésions cutanées.
+
+Cette étude décrit une atteinte cutanée rapidement évolutive secondaire à l´injection de biothérapie, alors que la relation entre l’injection d’Etanercept et les lésions cutanées n´a jamais été rapporté auparavant. Ce phénomène a été lié à la libération d’anticorps anti-IL6 que l’on retrouve dans les suites immunologiques de la COVID-19 avec une mécanisme immunologique similaire.
+
+Le fait de consulter tardivement ne permet pas d´évoquer le diagnostic précoce et la mortalité de cette atteinte cutanée est élevée, voire quasiment inévitable. La dermatologie est ainsi une avancée clinique.
+
+Il est ainsi crucial de tenir compte de cette complication éventuelle de la COVID-19, et notamment la mention systématique d’une atteinte cutanée isolée et généralisée aux médecins traitants afin de contribuer à améliorer la rémission des lésions cutanées et à prévenir les conséquences indésirables de l’Etanercept chez la population d’âge.
+
+L’échec de la corticothérapie indique une rhabdomyolyse induite par le SARS-CoV-2 et la nécessité de surveiller les signes évolutifs tels que la dyspnée, la polyneuritique et l’effondrement musculaire généralisé.
+
+La tomodensitométrie thoracique ne montre aucun infiltrat pulmonaire et la fonction cardio-respiratoire est sans anomalies.
+
+Un bilan biologique a été fait pour le contrôle de la fonction rénale, une analyse de l’hémogramme et du bilan hépatique qui sont devenus normaux, ainsi qu’un élargissement des leucocytes éosinophiles sur le bilan biologique, le reste du bilan est normal.
+
+L’injection de dérivés du L’hydroxychloroquine est le plus souvent utilisé comme traitement pour les éruptions cutanées du COVID-19.
+
+La corticothérapie par la methylprednisolone est un traitement étiologique des complications cutanées des infections virales.
+
+La virologie respiratoire n’a pas été effectuée, soit par une rareté des moyens, soit parce que la complication cutanée a été un signe tardif, soit parce que la patiente est séquestrée en intubation ventilatoire et plongée en isolement en réanimation.
+
+La recherche d’autres co-infections n’a pas été fait, en effet la biologie est trop coûteuse et les auteurs de la revue de la littérature n’ont pas fait mention d’une recherche de co-infections.
+
+L’Etanercept a été maintenu pendant l’infection de COVID-19 parce qu’il y a eu une réponse d’atténuation des signes inflammatoires et l’échec de la corticothérapie a été corrélé au déficit immunitaire induit par SARS-CoV-2.
+
+Il n’y a pas eu d’alguérique ou de mycoses de telle la recherche des germes et des tests était impossibles par l’insuffisance d’équipements disponibles en zone infectionaire.
+
+Aucune phlébitis n’a été étudié, cela est dû au fait que les lésions cutanées sont courantes et que la patiente n’a pas d’autre signes cliniques suspects en rapport à des effets secondaires.
+
+La tomodensitométrie du tronc a été faite en raison de l’effondrement pulmonaire.
+
+La biothérapie n’a été arrêtée qu’après la remise en sommeil de la patiente qui ne présentait plus de séquelle cutanée. La reprise de la biothérapie a été envisagée après une décision des parents pour maintenir la prise en charge à domicile.
+
+Les troubles cutanés

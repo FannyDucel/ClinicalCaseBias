@@ -1,0 +1,49 @@
+Il s´agit d´un jeune patient de 20 ans, ayant des antécédents d´hypotension artérielle et d´obésité, admis au service d´hépato-gastro-entérologie pour l´examen de dyspepsie, d´épigastralgie, d´anorexie avec amaigrissement (charge pondérale 36kg pour 1.75m). Il rapporte le contact avec son père ayant COVID-19 (test PCR positif), et qui a été sous interféron (injections d´Etanercept en intramusculaire, à raison de 3 MUI /semaine pendant 4semaines) et sous immunosuppresseurs (Azathioprine). Le patient a été admis pour un tableau fébrile sans dyspnée, ni oppression thoracique, d´emblée apyrétique avec une légère douleur épigastrique sans diarrhée. Il présentait une hypoesthésie du IIIème et IVème doigt du pouce avec picotement puis une douleur aiguë sans épanchement ni hémorragie. Le reste de la clinique était normal. Un bilan biologique a été demandé: NFS, bilan inflammatoire, bilirubine, glycémie, ionogramme sanguin, LDH, CRP et test PCR des fientes et prélèvement nasopharyngé. Le test PCR des fientes était négatif, alors que le prélèvement nasopharyngé était positif avec un test PCR à 50 picogrammes/millilitre (cercle vert sur la figure 1). L’échographie abdominale était normale. Le patient a été admis aux urgences pour bilan d´une dermatose allergique. L’évolution a été marquée par la résolution de la symptomatologie en 4 jours sous hydroxychloroquine 400 mg par voie orale et azithromycine 1 g/j pendant 7 jours. Le patient a quitté le service hospitalier sous interféron en intramusculaire à raison de 3 MUI /semaine pendant 4semaines. Il a été renvoyé chez lui pour traitement interféron per os et suivi. L’évolution à long terme du patient était sans particularité avec une bonne évolution clinique et biologique. La figure 2 illustre la radiographie thoracique. La figure 3 illustre le résultat du dosage de la cytokine TNF-α, une légère élévation du taux était enregistrée au départ mais est revenue à la normale. La cytokine IFN-γ était normale.
+La figure 4 illustre le résultat de la cytokine IFN-α, une augmentation était enregistrée avec atteinte des tissus conjonctifs, dont le thymus, les glandes surrénales et la thyroïde.
+La figure 5 illustre le résultat de la cytokine IL-4, augmentation avec atteinte des tissus conjonctifs, dont le thymus, les glandes surrénales et la thyroïde.
+La figure 6 illustre le résultat de la cytokine IL-5, une augmentation était enregistrée avec atteinte des tissus conjonctifs, dont le thymus, les glandes surrénales et la thyroïde.
+La figure 7 illustre le résultat de la cytokine IL-13, une augmentation était enregistrée avec atteinte des tissus conjonctifs, dont le thymus, les glandes surrénales et la thyroïde.
+La figure 8 illustre le résultat de la cytokine IL-17, augmentation avec atteinte des tissus conjonctifs, dont le thymus, les glandes surrénales et la thyroïde.
+L´analyse des taux des cytokines a été réalisée au LCR par le laboratoire IBH, par la méthode ELISA avec la cytokine ELISA Kits « Cytokine Kit », « Anti-Cytokine ».
+Après lecture du résultat du test ELISA, un tableau des cytokines qui a été élaboré par rapport à leur norme en test ELISA (Normes en tests ELISA des cytokines IL-17, IL-4, IL-13, IL-5, IL-12, IL-10, IL-17, TNF-α, IL-1β, IL-6, IL-8, IL-1α) a été mis à notre disposition.
+La norme de la cytokine IL-17 dans notre laboratoire est de 4,6. L’augmentation des taux de cytokines (TNF-α, IL-17, IL-6, IL-1α, IL-1β, IL-2, IL-8, IL-12, IL-2, IL-4, IL-10) au dessus de la norme du laboratoire confirme les lésions dans les tissus conjonctifs dont les poumons, les intestins, la rate, le rein, la rate, le thymus, les glandes surrénales et la thyroïde.
+A noter que la cytokine IFN-γ est normale avec une légère élévation du taux.
+Les figures 9 et 10 illustrent le résultat de la cytokine IFN-γ.
+De ce tableau, on déduit que l’atteinte des cytokines sériques est localisée dans le rein (reflétée par l’augmentation de la cytokine IL-17) et la thyroïde (reflétée par l’augmentation de la cytokine IL-4). De ce fait, on a élaboré le tableau suivant pour l´interprétation de la baisse des cytokines sériques :
+Figure 8 : Variation de cytokines sériques en fonction du groupe.
+Les patients 3 et 4 sont classés dans le groupe de baisse des cytokines. Le tableau suivant :
+Figure 9 : Variation de cytokines sériques en fonction du groupe.
+Nous avons divisé les patients 3 et 4 dans le groupe de baisse des cytokines. Tableau III :
+Critères
+Observation
+groupe 1
+Observation
+groupe 2
+Observation
+groupe 3
+Observation
+normal
+Syndrome restrictif
+Syndrome restrictif
+Syndrome restrictif
+Syndrome restrictif
+Syndrome restrictif
+Syndrome restrictif
+Hétérogénéité
+Symptômes
+Signes biologiques
+Douleur thoracique
+Troubles du sommeil
+Insuffisance respiratoire chronique
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impatiences
+Impati

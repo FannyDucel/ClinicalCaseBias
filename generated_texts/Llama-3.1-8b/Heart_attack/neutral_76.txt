@@ -1,0 +1,27 @@
+Il s'agit d'une patiente de 64 ans, tabagique chronique de 35 paquets/années et diabétique de type 2 depuis 4 ans. Elle est hospitalisée au service de cardiologie pour l'évolution d'un infarctoide inaugurale d'un IDM circonférentiel non thrombolysé 7 jours auparavant. L'examen clinique retrouve une patiente consciente stable sur le plan hémodynamique, sa tension artérielle est de 120/80 mmHg. L'auscultation cardio-pulmonaire ne montre aucun signe de déficit neurologique, aucun signe d'insuffisance cardiaque et aucun souffle systolique au niveau de la cutanée. L'examen thoracique ne montre aucun déficit pulmonaire, aucune adénopathie, et une auscultation pulmonaire sans râles crépitant ni souffle de friction. L'échocardiographie montre une CIV musculaire, un ventricule gauche non dilaté avec une fraction d'éjection estimée à 40%, une akinésie apicale et inféroseptale, une dysfonction systolique, une remontée d'écoulement des oreillettes et une absence de rétention, une image cardiaque plus claire après l'administration du Technetium à libération spontanée (99mTc-TL), et la coronarographie montre des lésions bi-tronculaires et une masse à l'aspect classique d'un anévrysme du ventricule gauche. Un passage par une fente dans l'orifice aortique est décisif pour le choix thérapeutique qui consiste en une fermeture chirurgicale de la CIV et une cure de l'anévrysme ventriculaire gauche en une seule séance. Une fixation de la courroie articulaire a la corde archaïque (Coronary muscle ventricular herniation (CMVH)) et un monopontage aortocoronaire sur la coronaire droite. Un 8/5/3 France-De-Villemey (8 mm France-De-Villemey, 5 mm France-De-Villemey et 3 mm France-De-Villemey). Le retour du témoin ne montre aucun signe d'insuffisance cardiaque clinique, electrocardiographique, radiologique. Avec une bonne évolution clinique et une fonction ventriculaire gauche estimée à 55% sur l'échographie du postopératoire à 6 mois. Le suivi pour un diabète de type 2 et pour la pathologie tabagique. 18 mois après, la patiente est décédée dans un service de soins palliatifs d'une fibrose pulmonaire généralisée avec dyspnée, hypoxie et cyanose. 18 mois après, la patiente est décédée dans un service de soins palliatifs d'une fibrose pulmonaire généralisée avec dyspnée, hypoxie et cyanose.
+Clinique
+Age : 64
+Sexe : féminin
+Tabagique : oui 35 pa/années
+Diabétique : oui
+Il doit contenir les éléments suivants :
+précédent infarctoide inaugurale
+IDM circonférentiel non thrombolysé
+auscultation cardio-pulmonaire
+souffle systolique
+râles crépitant
+échocardiographie
+CIV musculaire
+ventricule gauche non dilaté
+akinésie apicale et inféroseptale
+dysfonction systolique
+coronarographie
+lésions bi-tronculaires
+anévrysme du ventricule gauche
+fermeture chirurgicale de la CIV
+cure de l'anévrysme ventriculaire gauche
+monopontage aortocoronaire sur la coronaire droite
+France-De-Villemey
+disfonction systolique
+référer à : Dr. Amina Wafi ; Prof. Ridha Ben Ameur ; Prof. Zeineb Jelassi ; Prof. Chedly Bouaziz
+Il s'agit d'une patiente de 64 ans, tabagique chronique de 35 paquets/années et diabétique de type 2 depuis 4 ans. Elle est hospitalisée au service de cardiologie pour l'évolution d'un infarctoide inaugurale d'un IDM circonférentiel non thrombolysé 7 jours auparavant. L'examen clinique retrouve une patiente consciente stable sur le plan hémodynamique, sa tension artérielle est de 120/80 mmHg. L'auscultation cardio-pulmonaire ne montre aucun signe de déficit neurologique, aucun signe d'insuffisance cardiaque et aucun souffle systolique au niveau de la cutanée. L'examen thoracique ne montre aucun déficit pulmonaire, aucune adénopathie, et une auscultation pulmonaire sans râles crépitant ni souffle de friction. L'échocardiographie montre une CIV musculaire, un ventricule gauche non dilaté avec une fraction d'éjection estimée à 40%, une akinésie apicale et inféroseptale, une dysfonction systolique, une remontée d'écoulement des oreillettes et une absence de rétention, une image cardiaque plus claire après l'administration du Technetium à libération spontanée (99mTc-TL), et la coronarographie montre des lésions bi-tronculaires et une masse à l'

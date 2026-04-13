@@ -1,0 +1,28 @@
+Il s’agit d’un patient âgé de 48 ans, admis aux urgences pour une crise d’épilepsie généralisée tonico-clonique généralisée avec perte de connaissance.
+L’interrogatoire révèle qu’un traitement à base d’escitalopram 10mg matin et soir, et de olanzapine 5mg matin et soir lui était prescrit depuis plusieurs mois dans un but de sevrage et de reprise du travail.
+La 1ère crise a eu lieu au troisième jour du traitement, le patient a depuis présenté 5 crises au cours desquelles le patient s’est évanoui et s’est remis rapidement en état de conscience sans séquelles.
+La surveillance initiale retrouve une température à 37°, une tension artérielle à 12/6, un pouls à 90/min, une fréquence respiratoire à 18/min, une fréquence cardiaque à 100/min, une hémoglobine à 13.5g/l, un taux de protides à 0.76g/l et des bicarbonates à 30mEq/l. Le scanner cérébral retrouve un aspect diffus légèrement hypo-dense du parenchyme cérébral sans autre particularité.
+Le patient est alors mis sous antiépileptiques (carbamazépine à 2mg/j par voie orale) et antivitamines K (énoxaparine à 40mg par voie sous-cutanée (SC) en perfusion lente. L’EEG de monitoring retrouve un tracé de décharge intracrânienne durant la phase d’état de mal épileptique.
+Le patient avait débuté une phase de diminution progressive de la dose d’enzymes hépatiques sans signes d’hépatite.
+Au 7 ème jour de son hospitalisation, le patient fait une hématurie macroscopique spontanément résolutive.
+Au 13ème jour, le patient présente un épanchement pleural ascitique suppuré sans rupture de kyste prépneumatique.
+L’échographie abdominale retrouve une ascite abondante.
+La fibroscopie digestive retrouve une gastrite avec dilatation anormale de la corne postérieure.
+Le bilan biologique montre :
+une concentration sérique en ammoniémie à 340µmol/l
+une clairance de la créatinine estimée à 23ml/min
+une concentration sérique en bilirubine à 49µmol/l
+une concentration sérique en urée à 0.33g/l
+Le patient est mis sous antibiothérapie (Céfotaxime 1g par voie intraveineuse (IV) à la dose de 1g / j) et drainage de l’ascite à trois reprises par poche intrapéritonéale. L’antibiothérapie est relayée par voie orale au bout d’une semaine.
+Au 18ème jour, le patient avait développé des douleurs thoraciques bilatérales irradiant à la face et de la dyspnée à l’effort. Le patient avait également développé une syncope à l’effort.
+L’échographie cardiaque a objectivé une fonction cardiaque conservée. L’ECG ne montre pas de signes de dysfonction ventriculaire gauche.
+La radiographie pulmonaire n’a pas montré d’atteinte de l’appareil respiratoire ni de signe de circulation extra-corporelle.
+Le patient est mis sous Dobutamine à raison de 5µg/kg/min par voie IV et héparinisation IV à la dose de 8000UI toutes les 12 heures.
+Au 23ème jour, le patient a présenté une fièvre à 39° et un tableau fébrile avec asthénie, confusion mentale, syncope et vomissement. Le scanner cérébral retrouve un aspect en double pic, thrombotique des troncs supra-aortiques et sténoses de l’artère cérébrale antérieure droite. La sérologie VIH est négative. Le bilan biologique retrouve une CRP à 124 mg/l, une ANCA à 1 :80 positive à la recherche de précipités, et une sérologie syphilitique négative.
+Le patient avait débuté une corticothérapie par voie intraveineuse à raison de 0.75 mg/kg/jour et avait été mis sous immunosuppresseurs : ciclosporine à 2 mg/kg/jour par voie SC, Acétate d’hydrocortisone à la dose de 1mg/kg/jour par voie SC, Ribavirine à la dose de 1g deux fois par jour par voie orale et cyclophosphamide à la dose de 750mg/m² par voie intraveineuse.
+Au 26ème jour, le patient a présenté une douleur épigastrique d’apparition brutale, s’aggravant rapidement en syndrome hémorragique avec hématurie macroscopique, hypotension artérielle et bradycardie (30/min), mais sans signes d’encéphalopathie. L’hémogramme retrouvait une hyperleucocytose à 13000/mm³ avec neutrophile prédominance. Les bio-chimies plasmatiques montrent une anémie à 9.5g/dl, des leucocytes à 24000/mm³, une CRP à 154mg/l, une GOT à 145UI/L et une GPT à 300UI/L.
+Les gaz du sang retrouvaient un pH à 7.35, PaO2 à 52mmHg, PaCO2 à 29mmHg et une lactatémie à 3.4mmol/l.
+Le scanner cérébral a montré des parenchymes cérébraux en hypodensité s’étendant de l’asymétrie de l’orbiculaire frontal à l’hyperdensité de la région sous-épendymaire (Figure 1).
+La fibroscopie œsogastroduodénale a objectivé une gastrite avec saignements spontanés de la corne postérieure (Figure 2), l’exploration endoscopique n’a pas montré de lésions caractéristiques de la GAVE.
+Au bout de 48h d’hospitalisation, le patient est transféré au service de réanimation. Il a présenté rapidement une insuffisance rénale aiguë. L’échographie abdominale retrouve une ascite avec des œdèmes des membres inférieurs, sans autre anomalies, une insuffisance rénale aiguë avec filtration glomérulaire à 22ml/min, mais le patient a rapidement développé une encéphalopathie ammoniacale.
+Le patient a été admis en unité de soins intensifs (USI) avec mise en place d’un ventilateur, une transfusion sanguine

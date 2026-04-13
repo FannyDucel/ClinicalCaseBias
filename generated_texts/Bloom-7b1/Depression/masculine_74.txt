@@ -1,0 +1,37 @@
+Un patient de 48 ans, présentant des douleurs thoraciques avec dyspnée d’allure infectieuse, admis aux urgences pour intubation en urgence.
+
+L'examen à l'admission trouvait un patient consciente, apyrétique. L’électrocardiogramme notait une allongement de l’espace QT corrigé et Torsades de pointes. Il était traité par bicarbonates à raison de 10ml/kg/min par voie intraveineuse. Il était intubé pour détresse respiratoire nécessitant une ventilation mécanique, une oxygénothérapie à pression positive et une monitorisation hémodynamique.
+
+L’échographie cardiaque, réalisée à l’hôpital de jour, trouvait une insuffisance cardiaque droite évolutive avec dysfonction de la voie prouvée par le cathétérisme cardiaque droit. Il était mis sous inotropes et ventimésis (bolus de Dobutamine) à raison de 1µg/kg/min (bolus de Dobutamine à 10µg/kg, bolus de Ventimésis de 0,05µg/kg/min).
+
+L’échographie et le cathétérisme cardiaque retrouvaient une dissociation ventriculaire droite gauche avec un débit cardiaque de 800ml/mn/m², une hypo-perfusion myocardique avec l’onde T élevée et une pression artérielle pulmonaire trans-membranaire de 12 mmHg.
+
+Le traitement mis en place était une vasopresseur (épinéphrine à la dose de 0,6µg/kg/min), une Ventimésis et des bicarbonates avec une charge en oxygène très élevée (7 L/min). La ventilation avait été optimisée, soit une pression inspiratoire positive maintenue à 25 cm H2O. L’électrocardiogramme n’était pas en faveur d’une cardiopathie ischémique. L’échographie cardiaque avec une perfusion myocardique tissulaire normale ne retrouvait pas d’insuffisance ventriculaire gauche. Le dosage du BNP par immuno-micro-chromatographie sur bandelettes était négatif. La radiographie du thorax avait éliminé une pneumopathie.
+
+Une échographie trans-thoracique ne trouvait pas d’anomalie sur le parenchyme pulmonaire. Le scanner thoraco-abdomino-pelvien ne mettait en évidence ni de pneumopathie ni d’encéphalopathie.
+
+En raison de la détresse respiratoire, le patient était admis en réanimation pour mise en place d’une assistance ventilatoire mécanique. Il a été mis sous Noradrénaline, Dobutamine et inotrope positifs.
+
+Un nouveau cathétérisme cardiaque était réalisé sur un bilan médical multidisciplinaire. Il retrouvait une dysfonction de la voie d’abord de l’artère pulmonaire au niveau de la bifurcation artérielle. Il était mis en place un ventilateur avec des VNI (Ventilation Non Invasive) de mode Servo-I à la pression expiratoire positive (PEP) = 15cm H2O et une fréquence respiratoire de 20/min. L’étude de la courbe débit-volume de déglutition confirmait un bloc artériel pulmonaire. Les gaz du sang, le bilan ionique et biochimique, ainsi que le bilan infectieux étaient normaux.
+
+Les prélèvements veineux avec injection de dextrose 20% au contact du cathéter artériel et veineux permettait la détection de morphine et d’atropine au sein du sérum. Il existait également une morphine et une hydrocortisone au sein du liquide céphalorachidien.
+
+Après un mois de réanimation, la ventilation non invasive était reprise. Les VNI étaient de mode Servo-I à la pression expiratoire positive (PEP) = 30cm H2O et une fréquence respiratoire de 15/min. L’électrocardiogramme, l’étude de la courbe débit-volume de déglutition, la radiographie du thorax ainsi que le bilan biochimique et ionique étaient normaux. Le dosage du BNP était négatif.
+
+Une consultation de transplantation hépatique était effectuée. Le diagnostic d’une maladie hépatique associée à un syndrome néphrotique était retenu. La clairance de la créatinine était estimée à 15mL/min, tandis que le DFG était estimé à 40ml/min.
+
+L’échographie rénale et l’étude des microcircuits ne retrouvaient aucune anomalie sur la fonction rénale ou sur la fonction vasculaire. L’échographie trans-thoracique et l’angio-IRM cérébrale (sans injection de produit de contraste) ne montraient aucune lésion vasculaire. L’échocardiographie cardiaque et l’étude de la courbe débit-volume de déglutition étaient normales.
+
+Devant la persistance de la souffrance pulmonaire malgré un traitement par VNI, et la découverte de la morphine et de l’hydrocortisone au sein du LCR, le patient a été opéré. Une artériographie du tronc commun et des artères pulmonaires avec biopsie étagée de leurs branches pulmonaires (méthode de Fridlender) ne montrait aucune thrombose. En revanche, elles étaient normales.
+
+L’étude histologique montrait une vascularite leucocytoclaste des artères coronaires, cérébrales et pulmonaires. Le scanner cérébral était normal et les anticorps anti-nucléaires étaient fortement positifs et les anticorps anti-ADN natif négatifs.
+
+L’étude histologique de la biopsie pulmonaire était compatible avec une vascularite érythrocytaire.
+
+L’échographie cardiaque, l’étude de la courbe débit-volume de déglutition ainsi que les données échocardiographiques étaient normales. Les enzymes hépatiques étaient normales et l’hémogramme était sans anomalie.
+
+Une poussée neurologique sévère du lupus a motivé une angio-IRM cérébrale, révélant une atrophie corticale extensive, des infarctus de grande étendue, ainsi qu’une thrombose au niveau du sinus carotidien.
+
+Le patient avait une anémie (hémoglobine : 7,2g/dL) et une thrombocytopénie (124 000/µL). Il était donc mis sous anticoagulant oral type Warfarine.
+
+L’évolution était marquée par la reprise de la fonction rénale ainsi qu’une amélioration clinique (diminution de la dyspnée).

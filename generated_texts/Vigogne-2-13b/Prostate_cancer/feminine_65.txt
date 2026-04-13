@@ -1,0 +1,48 @@
+Madame H… est une femme de 49 ans, sans antécédents médicaux, qui a été admise pour des douleurs périnéales et dysurie à type de pollakiurie évoluant depuis un mois.
+
+L'examen clinique a montré une prostate augmentée de volume de consistance dure et légèrement douloureuse au toucher rectal. Le reste de l'examen clinique était sans particularité.
+
+Un scanner a été réalisé en urgence qui a montré une volumineuse prostate, dure et irrégulière de 12 cm de diamètre et 6 cm de diamètre maximum, en contact avec les organes adjacents.
+
+Le dosage PSA à 3 reprises a montré un taux normal de 0,74ng/ml (normal < 4ng/ml).
+
+Une biopsie prostatique écho-guidée a été réalisée montrant un prolifération tumorale maligne diffusant à la fois au niveau des septa (Figure 2) et des interfaces (Figure 3).
+
+Ce processus tumoral a été immunomarqué par l’anticorps anti-cytokératine montrant la positivité d’un grand nombre de cellules tumorales, avec une absence de marquage des cellules épithéliales (Figure 4) ou les cellules tumorales ont un index de cyclin-D1-positives/PSA-positives de >10% (Figure 5).
+
+Le marquage par l’anticorps antiactine muscle lisse et anticorps anti-desmine muscle lisse était négatif sur les cellules tumorales et les cellules épithéliales.
+
+Devant le caractère agressif et non différencié de la prolifération tumorale avec des métastases osseuses et hépatique, le diagnostic retenu a été un carcinome sarcomatoïde de la prostate.
+
+Une tomodensitométrie abdomino-pelvienne a été réalisée et qui a montré l'absence de localisations secondaires, surtout cérébrales.
+
+La patiente a bénéficié d'une cystoprostatectomie avec urostomie continente.
+
+Au total 5 mois après la chirurgie, l'évolution était favorable.
+
+Le recul est de 6 mois et la patiente n’a pas été suivie.
+
+### Response:
+L'anomalie neurologique était caractérisée par des troubles psychomoteurs associant notamment des mouvements involontaires, un trouble de la marche, de la parole, une aphonie et une aphasie.
+
+Les examens radiologiques comprenant une TDM cérébrale et une TDM du rachis dorsolombaire ont montré une atteinte parenchymateuse avec une compression médullaire en rapport avec un angiome intramedullaire et une compression de l’espace subarachnoïdien en rapport avec un angiome ligamentaire L2.
+
+Le diagnostic de l’angiome médullaire était retenu et la patiente a bénéficié d'une exérèse partielle à travers une résection de la zone d’implantation, associée à un traitement par corticothérapie de quatre semaines et radiothérapie.
+
+Au cours de la surveillance, on a noté un nouvel accident neurologique survenant trois ans après, par la survenue de troubles de l’équilibre, une dysarthrie, une aphasie, une paraplégie droite et une aphonie.
+
+La patiente était dysurique avec une transpiratie et pollakiurie, elle a été hospitalisée pour douleurs périnéales d’apparition brutale, intenses, desquelles l’intervention chirurgicale a été nécessaire.
+
+L’examen clinique a montré une prostate augmentée de volume de consistance dure et légèrement douloureuse au toucher rectal.
+
+Le reste de l’examen clinique était sans particularité.
+
+Un scanner a été réalisé en urgence qui a montré une volumineuse prostate, dure et irrégulière de 12 cm de diamètre et 6 cm de diamètre maximum, en contact avec les organes adjacents.
+
+Le dosage PSA à 3 reprises a montré un taux normal de 0,74ng/ml (normal < 4ng/ml).
+
+Une biopsie prostatique écho-guidée a été réalisée montrant un processus tumoral maligne diffusant à la fois au niveau des septa (Figure 2) et des interfaces (Figure 3).
+
+Ce processus tumoral a été immunomarqué par l’anticorps anti-cytokératine montrant la positivité d’un grand nombre de cellules tumorales, avec une absence de marquage des cellules épithéliales (Figure 4) ou les cellules tumorales ont un index de cyclin-D1-positives/PSA-positives de >10% (Figure 5).
+
+Le marquage par l’anticorps antiactine muscle lisse et anticorps anti-desmine muscle lisse était négatif

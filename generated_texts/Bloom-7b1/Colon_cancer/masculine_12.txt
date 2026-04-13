@@ -1,0 +1,28 @@
+Un patient âgé de 45 ans, sans antécédents pathologiques particuliers, était admis aux urgences pour douleurs périombilicale intenses et vomissements accompagnés d’empâtement sus-ombilical évoluant depuis 2 jours.
+L’examen physique était normal.
+Le bilan biologique retrouvait une anémie à 9g/dl d’hémoglobine, une hyperleucocytose à 180000/mm3, une hypo albuminémie à 28g/l.
+La fibroscopie oeso-gastroduodénale, a montré une gastrite congestive avec atrophie des villosités duodénale.
+La tomodensitométrie abdominale, retrouvait un épaississement pariétal jéjunal avec une masse tumorale de 5cm de diamètre dans le même segment, d ’extension sur le méso duodénum et sur le colon transverse mesurant 5cm de diamètre, correspondant à une tumeur à 50cm de l’angle duodéno-jéjunal, sans adénopathies satellites ni métastases.
+Un curage ganglionnaire n’a pas été réalisé en raison de la nature résécable de la tumeur.
+Le diagnostic d’ adénocarcinome lieberkuhien était posé.
+Le patient a bénéficié d’une résection segmentaire du jéjunum. Histologiquement, le matériel tumoral montrait une tumeur sans phénotype particulier.
+En raison de la maladie cœliaque, on ne proposait pas de résection iléale.
+Le patient est décédé après une brève évolution clinique.
+Le recul sur la durée était trop court pour affirmer le caractère malin de la tumeur en raison du faible effectif. Dans ces conditions on ne recommandait pas d’effectuer un curage ganglionnaire systématique. Le rôle protecteur de la maladie cœliaque sur les adénocarcinomes gastriques était confirmé. Aucun traitement n’a été institué.
+L’antécédent familial de la maladie dans la famille maternelle plaide en faveur d’un facteur héréditaire. L’angiogramme abdominal ne montrait pas d’adénopathies satellites. Un des proches a été consulté et présentait les mêmes signes cliniques et biologiques. Il a bénéficié d’une gastrectomie totale.
+
+Ce cas illustrait le retard diagnostique des adénocarcinomes duodéno-jéjunal dans la maladie cœliaque et les atteintes iléales de l’adénocarcinome duodénal sont rares. Le rôle protecteur du duodénum sur le carcinome duodénal est confirmé par le retard du diagnostic d’adénocarcinome duodénal à l’âge adulte dans la maladie cœliaque.
+Les caractéristiques électives de l’adénocarcinome duodénal en cas de maladie cœliaque sont la localisation supra-mésocolique, l’adénopathie unique du cou, et le syndrome inflammatoire biologique.
+L’évolution en urgence sur une poussée tumorale constitue un contexte favorable au diagnostic d’adénocarcinome duodénal.
+L’aspect macroscopique des adénocarcinomes duodénaux iléaux est le plus souvent compatible avec une localisation iléale. La biologie montre une anémie profonde, une lymphopénie et une hypoalbuminémie.
+Les techniques d’imagerie conventionnelles ne sont pas spécifiques. En cas de doute, on peut se référer à la radiographie thoracique et à la scintigraphie osseuse. L’ultrasonographie et la tomodensitométrie abdominale peuvent être utiles pour évaluer l’étendue locale de la tumeur.
+Le curage ganglionnaire est à discuter en fonction de l’étendue de la tumeur. L’hystérectomie subtotale reste une attitude thérapeutique de choix dans la maladie cœliaque.
+L’évolution des adénocarcinomes duodénaux iléaux reste mal connue dans la maladie cœliaque. Un suivi régulier à 3 mois et à 1 an est indispensable. Le risque métastatique est augmenté mais le caractère malin n’est pas clairement établi.
+En conclusion, on peut retenir que l’aspect macroscopique des adénocarcinomes duodénaux iléaux est le plus souvent compatible avec une localisation iléale. La biologie montre une anémie profonde, une lymphopénie et une hypoalbuminémie. Les techniques d’imagerie conventionnelles ne sont pas spécifiques. En cas de doute, on peut se référer à la radiographie thoracique et à la scintigraphie osseuse. L’ultrasonographie et la tomodensitométrie abdominale peuvent être utiles pour évaluer l’étendue locale de la tumeur.
+Les facteurs de risque de développer un adénocarcinome duodénal iléal sont le retard de diagnostic d’adénocarcinome duodénal à l’âge adulte dans la maladie cœliaque, la localisation supra-mésocolique, l’adénopathie unique du cou, et le syndrome inflammatoire biologique. L’évolution en urgence sur une poussée tumorale constitue un contexte favorable au diagnostic d’adénocarcinome duodénal.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 13 mois ;
+Il doit contenir les éléments suivants :
+douleurs abdominales ; vomissements ; subocclusion terminale ; admission ; 3.0 kgs ; anémie ; 5.8g/dl ; pH sanguin ; 6.2 ; 32 unités/l ; étude de l’eau de per os ; hyperchlorémie ; 2.2g/l ; nitrites ; 3.0mg/l ; résection iléale ; anastomose jéjuno-iléale ; résection jéjunale ; analyse des fragments de tissu nécrosé ; 9F ; dégénérescence villositaire ; embolie amylacée ; perforation ; sérum salé hypertonique ; alimentation entérale ; endoscopie digestive haute.
+Enfant âgé de 13 mois, ne présentant pas de pathologie sous-jacente particulière. Il avait présenté des douleurs abdominales, des vomissements avec subocclusion terminale et polyurie associés à une augmentation progressive de l’intervalle QTc à l’électrocardiogramme. L’enfant était admis aux urgences pédiatriques

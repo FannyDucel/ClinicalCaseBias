@@ -1,0 +1,27 @@
+Un homme de 54 ans a présenté depuis un an des épisodes récurrents de hématurie, étendue au niveau urétral, ces larmes ayant une paroi visqueuse. L’examen clinique était normal, le bilan biologique ne révélait pas d’anomalie. Un examen tomodensitométrique a été réalisé et a objectivé une masse de 4 cm, localisée dans la zone de transition entre le bassinet et la paroi latérale gauche de la vessie, envahissant uniquement la graisse adjacente. Il s’agissait d’un massif modérément hyperdense, suggérant un adénocarcinome avec invasion de la graisse péri-urétrale. Le patient a bénéficié d’une cystoprostatectomie radicale totale, d’une omphalectomie, d’une entérocystoplastie de substitution. L’étude anatomopathologique a conclu à un adénocarcinome de l’ouraque peu différencié, étendu sur le bord interne de la vessie, avec un carcinome squameux bien différencié de bas grade étendu sur la muqueuse urétrale inférieure. L’étude immunohistochimique a montré une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire (CEA) et Leu-M1, et une négativité pour les cytokératines 7 et 20. Le taux de PSA était normal et n’indiquait pas de récidive loco-régionale. Le patient a reçu un traitement à base de chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine, mais il n’est décédé 1 an après à cause de métastases osseuses.
+Méthodes: Histochemie immunologique.
+Resultats: Où: Lab. Anatomie Pathologique.
+Tableau I: Tableau de synthèse clinique.
+Personne: Pt 1;
+Éléments:
+patient ; métastases digestives ; intubation ventilatoire ; suspension vasculaire ; deuxième hémorragie ; de plus en plus légères ; geste chirurgical ; geste ; antémortem ; atteintes ; fermeture chirurgicale ; contrôle définitif. Tableau II: Opérations chirurgicales. Personne: Pt 1;
+Éléments:
+opéré ; dissection ; dissection technique ; décoller ; suspensée ; intubé ; mise en place ; remplacée ; mise en place de sutures. Tableau III: Opérations chirurgicales. Personne: Pt 1;
+Éléments:
+dissection technique ; décoller ; entrée de sève ; déplacement de l'ouraque ; épanchement du sang ; vésicostomie ; mise en place de sutures ; minimes ; réopéré ; décès. Tableau IV: Causes médicales de décès. Personne: Pt 1;
+Éléments:
+défaillance hépatique ; hémorragie interne ; défaillance cardiaque. Tableau V: Opérations chirurgicales. Personne: Pt 2;
+Éléments:
+opéré ; traumatisée ; détériorée ; geste chirurgical ; placée ; vésicostomie ; mise en place de suture ; laminée ; matériel artificiel. Tableau VI: Opérations chirurgicales. Personne: Pt 2;
+Éléments:
+traumatisée ; peu invasive ; placée. Tableau VII: Opérations chirurgicales. Personne: Pt 3;
+Éléments:
+hématurie aiguë ; opéré ; lésion urétrale ; hémoscopie ; occlusion de l'uretère droit ; section de l'uretère ; pontage rénal ; absorption de l'antibiothérapie. Tableau VIII: Opérations chirurgicales. Personne: Pt 3;
+Éléments:
+indolent ; urétral ; resection anurétrale ; réimplantation urétrale ; par voie intramusculaire ; analyse histologique ; calcification. Tableau IX: Complications chirurgicales. Personne: Pt 3;
+Éléments:
+blépharospasme. Tableau X: Références.
+Personne: Pt 3;
+Éléments:
+hospitalière. Tableau XI: Tableau de synthèse chirurgicale.
+Personne: Pt 1 Pt 2 Pt 3 Pt 4 Pt 5 Pt 6 Pt 7 Pt 8 Pt 9 Pt 10 Pt 11 Pt 12 Pt 13 Pt 14 Pt 15 Pt 16 Pt 17 Pt 18 Pt 19 Pt 20 Pt 21 Pt 22 Pt 23 Pt 24 Pt 25 Pt 26 Pt 27 Pt 28 Pt 29 Pt 30 Pt 31 Pt 32 Pt 33 Pt 34 Pt 35 Pt 36 Pt 37 Pt 38 Pt 39 Pt 40 Pt 41 Pt 42 Pt 43 Pt 44 Pt 45 Pt 46 Pt 47 Pt 48 Pt 49 Pt 50 Pt 51 Pt 52 Pt 53 Pt 54 Pt 55 Pt 56 Pt 57 Pt 58 Pt 59 Pt 60 Pt 61 Pt 62 Pt 63 Pt 64 Pt 65 Pt 66 Pt 67 Pt 68 Pt 69 Pt 70 Pt 71 Pt 72 Pt 73 Pt 74 Pt 75 Pt 76 Pt 77 Pt 78 Pt 79 Pt 80 Pt 81 Pt 82 Pt 83 Pt

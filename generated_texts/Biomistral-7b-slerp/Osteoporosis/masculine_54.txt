@@ -1,0 +1,21 @@
+Il s'agit d'un homme âgé de 30 ans présentant des douleurs lombaires d'aggravation éventuelle, une asthénie physique et psychique, des crampes et une faiblesse des membres inférieurs. L'examen ostéoarticulaire met en évidence une cyphose lombaire, une saillie des apophyses épineuses au niveau lumbar avec une séparation de ces dernières de plus de 10 mm (Figure 1). La radiographie du rachis lombaire (Figure 2) montre des lacunes concentriques du côté postérieur des diaphyses vertébrales lumbar. Le dosage de la vitesse de sédimentation est normal. La calcémie à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h sont normalisées. Les dosages hormonaux strictement normaux (parathormone, vitamine D, calcitriol, insuline-like growth factor 1). Le taux de la parathormone est bas (12,3 pg/mL, N = 12-66). L'absorptiométrie biphotonique à rayons X est normale. Le dosage de la densité minérale osseuse montre une baisse importante en système lombaire. La patient est mise sous paracétamol (2 g/j) et amytriptiline (50 mg/j) avec amélioration considérable de l'état d'agitation psychiatrique et de l'ostéoporose fracturaire.
+La patient est considéré comme ayant une ostéoporose dont le motif est un médicament. Les principaux facteurs de risques de ce type d'ostéoporose sont l'âge des patients et la durée de prise du médicament.
+L'index des acteurs se fixe à par 10 et le nombre de observations à par 15 (Tableau 1).
+
+Tableau 1. Déterminant de l'épidémiologie de la fragilité osseuse dans les patients ayant pris des biphosphonates longs permettant d'affiner les hypothèses d'exposition et de survenue.
+
+| Index des acteurs | nombre des observations |
+| Age < 50 ans | 0 |
+| Age entre 50 et 70 ans | 7 |
+| Age > 70 ans | 8 |
+| Duree de traitement par biphosphonates longs > 5 ans | 10 |
+| Duree de traitement par biphosphonates longs entre 3 et 5 ans | 4 |
+| Duree de traitement par biphosphonates longs entre 1 et 3 ans | 6 |
+
+La survenue est donc dans 75% des cas chez des personnes âgées entre 50 et 70 ans avec des durées de prise du médicament comprises entre 1 et 5 ans.
+
+Le profil patient de ce cas clinique correspond à celui des définis en physiopathologie et cas-clinique. En effet, il s'agit d'un homme âgé de 30 ans, traité depuis 6 mois par des biphosphonates oral longs (pamidronate). Les facteurs de risques décrits comme pouvant intervenir dans l'ostéoporose sont absents : une cyphose lombaire et des saillies des apophyses épineuses ont été notés en examen ostéoarticulaire. Les dosages hormonaux strictement normaux et l'absence d'une tumeur de glande parathyroïdienne ont été assurés. Le diagnostic de fragilité osseuse liée à la prise de biphosphonates a été confirmé par une radiographie du rachis lombaire et l'absorptiométrie biphotonique à rayons X. L'évolution de l'ostéoporose est liée à la prise de biphosphonates et peut se limiter si le traitement est arrêté. La découverte de ce cas a permis de conclure qu'il s'agit d'une forme d'ostéoporose qui n'est pas précédée d'une atteinte métabolique.
+
+En effet, on assiste à une médication courte de l'hyperparathyroïdie et à une évolution malaisée dans cette situation. L'association d'une forme aigue de l'hyperparathyroïdie avec une fracturaire reste très peu décrite en littérature. L'aggravation clinique et évolutive serait une réaction toxique. Il faut rappeler que la principale indication de l'hyperparathyroïdie est la profilaxie de l'ostéoporose. L'association d'un traitement anticoagulant avec un antiphospholipidémie peut être décrite en cas de maladie auto-immune.
+
+Au point de vue étiologique, le malade est connu patient qui a une colique néphrétique classique et qui a subi une exploration par ponction-biopsie avec clampage. C'est ce qui a provoqué la survenue de cette

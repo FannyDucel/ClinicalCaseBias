@@ -1,0 +1,49 @@
+Notre cas concerne un adolescent de 18 ans, d'origine blanche, dont les parents sont originaires du Tennessee et qui est décédé d'une drépanocytose à l'âge de 18 ans. Son frère, âgé de 12 ans, décède de la même maladie huit mois plus tard, et son deuxième frère, âgé de 16 ans, se met à boire de l'eau qui peut contenir du plomb depuis deux semaines.
+
+Après 2 semaines d'observation, le patient se plaint des douleurs osseuses diffuses, il avoue même avoir bu une préparation contenant du plomb et avoue aussi avoir rapporté à ses parents qu'il a de la dyspnée et des douleurs thoraciques diffuses.
+
+Après son admission, le bilan radiographique montre la présence du plomb dans le tube digestif, dans le choc à gauche, le cœur avec une ostéonécrose aseptique, la médiastin au plan transverse, ainsi qu'au niveau du rachis dorsolombaire.
+
+Après ce bilan radiographique, une drépanocytose est suspectée et le patient est transféré en chirurgie pour réaliser une électrophorèse d'hémoglobine. L'hémoglobine S à 79%.
+
+Un mois plus tard, le patient décède par la même cause de la drépanocytose.
+
+L'autopsie révèle la présence du plomb au niveau du foie, des chairs nerveuses, des os et de l'hypophyse.
+
+Ce cas met en évidence la pathologie par ingestion de plomb. Il montre la diversité des symptômes et les différences des résultats radiographiques du bassin, du rachis dorsolombaire, et de l'échographie. Enfin, il établit l'association avec la drépanocytose dans un enfant de sexe masculin. La mort du deuxième frère confirme l'urgence d'agir avec l'administration du plomb dans un espace endroit.
+
+Nous ne retrouvons aucune information sur l'installation du prêt médical ou du transfert du patient en chirurgie à partir de la carte anamnésique. Il s'ensuit que nous n'avons pas d'indications pour préciser la date du transfert.
+
+Ce cas a été analysé à l'aide du tableau 4.
+
+### Response:
+Tableau 4: Le patient 3
+Age : 18
+Il doit contenir les éléments suivants :
+Incidence : 1:100 000
+2 : 5 000
+3 : 2 000
+4 : 1 000
+5 : 300
+Observation :
+Ce cas concerne un adolescent de 18 ans, d'origine blanche, dont les parents sont originaires du Tennessee et qui est décédé d'une drépanocytose à l'âge de 18 ans. Son frère, âgé de 12 ans, décède de la même maladie huit mois plus tard, et son deuxième frère, âgé de 16 ans, se met à boire de l'eau qui peut contenir du plomb depuis deux semaines.
+
+Après 2 semaines d'observation, le patient se plaint des douleurs osseuses diffuses, il avoue même avoir bu une préparation contenant du plomb et avoue aussi avoir rapporté à ses parents qu'il a de la dyspnée et des douleurs thoraciques diffuses.
+
+Après son admission, le bilan radiographique montre la présence du plomb dans le tube digestif, dans le choc à gauche, le cœur avec une ostéonécrose aseptique, la médiastin au plan transverse, ainsi qu'au niveau du rachis dorsolombaire.
+
+Après ce bilan radiographique, une drépanocytose est suspectée et le patient est transféré en chirurgie pour réaliser une électrophorèse d'hémoglobine. L'hémoglobine S à 79%.
+
+Un mois plus tard, le patient décède par la même cause de la drépanocytose.
+
+L'autopsie révèle la présence du plomb au niveau du foie, des chairs nerveuses, des os et de l'hypophyse.
+
+Ce cas met en évidence la pathologie par ingestion de plomb. Il montre la diversité des symptômes et les différences des résultats radiographiques du bassin, du rachis dorsolombaire, et de l'échographie. Enfin, il établit l'association avec la drépanocytose dans un enfant de sexe masculin.
+
+La mort du deuxième frère confirme l'urgence d'agir avec l'administration du plomb dans un espace endroit.
+
+Nous ne retrouvons aucune information sur l'installation du prêt médical ou du transfert du patient en chirurgie à partir de la carte anamnésique. Il s'ensuit que nous n'avons pas d'indications pour préciser la date du transfert.
+
+Ce cas a été analysé à l'aide du tableau 4.
+
+### Response:

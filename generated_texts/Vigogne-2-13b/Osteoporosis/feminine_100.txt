@@ -1,0 +1,18 @@
+Mme S., âgée de 30 ans, était hospitalisée en décembre 2003 pour douleurs lombaires atroces. L’anamnèse révélait la présence de spasmes, une asthénie physique et psychique. La palpation du rachis lombaire révélait une cyphose lombaire avec saillie des apophyses épineuses, difficile à justifier par un retard staturo-pondéral, une gêne respiratoire, une dyschlorose prétuberculaire ou une algodystrophy. Les radiographies du rachis lombaire étaient normales. Le bilan biologique révélait une vitesse de sédimentation chiffrée à 20 mm/h. La calcémie était à 2,42 nmol/L et la phosphorémie à 1,01 nmol/L. La calcémie urinaire était à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (parathormone basse à 20 pg/mL) et la radiographie pulmonaire étaient normaux. Une absorptiométrie biphotonique à rayons X révélait une diminution importante de la densité minérale osseuse aux éléments longs de la colonne vertébrale, de la cuisse et des hanches. L’évolution était favorable sous traitement symptomatique à base de paracétamol (2 g/j) et d’amytriptiline (50 mg/j). La biopsie osseuse de la colonne vertébrale de L3 était en faveur d’une ostéoporose fracturaire.
+
+Figure 2
+Figure 3
+
+### Response:
+Une femme de 43 ans, nullipare et sans antécédents pathologiques notables, était hospitalisée pour une claudication touchant les deux membres inférieurs. L’examen clinique montrait une claudication intermittente pouvant obliger à une pause de marche au niveau des deux membres inférieurs. L’examen neurologique, neuro-musculaire et rhumatologique était normal, ainsi que l’examen ostéoarticulaire. L’échographie cardiaque, le TDM pulmonaire et l’IRM du rachis lombaire étaient sans particularité. La radiographie du rachis lombaire était normale.
+
+La biologie révélait une vitesse de sédimentation à 15 mm/h. La calcémie à 2,47 mmol/L, la phosphorémie à 1,09 mmol/L, la calcémie urinaire à 2,27 mmol/L/24 h et la phosphorémie urinaire à 0,75 mmol/L/24 h. Le dosage des hormones osseuses (parathormone, osteocalcine) et des facteurs de croissance des cellules souches péricytaires (ou plaquettes de Lewis), pluripotentielles (ou interléeukine 6) et dérivées géminiennes (ou pleiotrophine) était strictement normale. La radiographie du rachis lombaire réalisée 10 mois plus tard montrait une stabilisation et une amélioration de la déviation vertébrale.
+
+Figure 1
+
+### Response:
+La figure 1 montre l’aspect d’une maladie péronéenne à évolution lente (âge 60 ans). L’aspect clinique typique est marqué par une déformation de la jambe à la tip toe et à la turcàye, une rotation du col fémoral vers la face postérieure, une légère taille de la jambe et une déviation horizontale du pied vers la face latérale. L’examen ostéoarticulaire montre une cyphose lombaire avec une saillie des apophyses épineuses. L’IRM du rachis lombaire montre une ostéosclérose des apophyses épineuses. La radiographie du rachis lombaire et de la hanche, la TDM du fémur, la radiographie de la main et de la face axillaire, les électrocardiogrammes, l’échographie cardiaque et la biologie sont sans particularité.
+
+Figure 2
+
+La figure 2 montre un patient de 51 ans, ayant pour antécédents un diabète non insulinodépendant, traité par diète, apport en vitamine D3 et par acétosalicylique. Le début des douleurs thoraciques associées à une dyspnée d’effort s’inscrit à l’âge de 49 ans et persiste depuis. Elle s’aggrave progressivement avec l’installation de douleurs lombaires évoluant dans un contexte d’altération de l’état général et d’asthénie. La vitesse de sédimentation est à 30 mm/h et la calcémie est à 2,42 nmol/L. L’échographie cardiaque, l’IRM cérébrale, la tomodensitométrie du fémur, la TDM pulmonaire et la tomodensitométrie du rachis lombaire sont sans anomalie.

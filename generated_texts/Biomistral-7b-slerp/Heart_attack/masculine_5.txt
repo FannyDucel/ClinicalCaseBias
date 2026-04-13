@@ -1,0 +1,31 @@
+M. R, âgé de 64 ans, tabagique chronique et diabétique, est adressé à l'unité de réanimation pour un infarctoide inaugurale survenu dans le travail en palier électrique. La recherche de l'origine est négative. Le patient présente une instabilité hémodynamique non répondue aux dilatations veineuses. Le geste opératoire a consisté en une résection et l'amélioration de la circulation au niveau des membres inférieurs sans mise en place d'un défibrillateur paraplegique. En post-opératoire direct, l'électrocardiogramme montre un syndrome de conduction incomplet avec un bloc de branche droit sans bloc de branche gauche.
+L'auscultation cardio-pulmonaire découvre un souffle systolique émis par l'aorte thoracique. La percussion révèle des râles crépitant au niveau des bases pulmonaires. L'échocardiographie transthoracique objectivait un CIV musculaire avec un ventricule gauche non dilaté ni hypertendu mais présentant une akinésie apicale et inféroseptale avec une dysfonction systolique sévère. Elle révèle également la présence d'un anévrysme du ventricule gauche.
+La coronarographie retrouve des lésions bi-tronculaires avec un anévrysme du ventricule gauche en dessous du segment apical (Figure 2).
+
+Le patient bénéficie d'une fermeture chirurgicale de la CIV et de la fermeture chirurgicale de l'anévrysme ventriculaire gauche (Figure 3).
+
+La réanimation post opératoire directe et l'hémodynamique et le monopontage aortocoronaire sur la coronaire droite, deux semaines après l'intervention permettent à ce patient de quitter l'unité de réanimation directe avec des paramètres cardiaques et vasculaires en amélioration et un syndrome de conduction rétabli.
+
+Un mois après l'intervention, le patient est revoir en consultation avec des paramètres cardiaques et vasculaires en amélioration. Il présente une activité et un élan exceptionnel. L'électrocardiogramme est normal.
+
+Le début du décès est d'évolution lente, marqué par l'apparition de troubles cognitifs. Le décès survenant 6 mois après l'intervention était subit.
+
+Nous rapportons une observation qui, par son évolution, par ses séquelles neurologiques et en particulier par la présence d'un syndrome de Langworthy survenu il y a quelques semaines avant le décès, témoigne de l'importance de l'atteinte de l'aire motrice spinal supérieure et même d'une lésion cortico-sous corticale.
+
+L'usage d'un défibrillateur extérieur sur la base du dos de ce patient avant la fermeture définitive de la CIV ou la fermeture de l'anévrysme aurait-il permis de guérir cet infarcto-idé? Une étude théorique retenue par des études de travail en laboratoire montre qu'une analyse en fonction de la distance entre la pointe du défibrillateur et le mur ventriculaire gauche se fait par la forme carrée A suivante:
+
+A = [(L x P) x (L x P) x (L x P) / L] x (100 / 1)
+
+avec:
+
+- A: coefficients d'analyse;
+- L: longueur du champ de choc (centimètres);
+- P: épaisseur de ventricule gauche (centimètres).
+
+D'après cette étude, l'A est 27% au 5e centimètre, 40% au 10e centimètre et 62% au 20e centimètre.
+
+Dans notre cas, il était impossible de fermer la CIV par la seule aorticoronarienne gauche. Ainsi, nous avons fait la monopontage aortocoronaire sur la coronaire droite. Les distances entre l'anode et la pointe du défibrillateur étaient de 10 centimètres au niveau du ventricule gauche.
+
+En cas de choc défibrillateur, il aurait donc été utilisé 60% de l'A total. Ce qui, dans notre cas, aurait-il été suffisant pour provoquer un arrêt du cœur? L'étude de notre cas montre qu'une étude théorique ou expérimentale seule ne peut être concluante. La choc défibrillateur du dos, n'est pas pour autant pour nous indiqué dans l'arrêt du cœur.
+
+Le suivi médical de notre patient en post-opératoire directe se termine par un transfert au service de rééducation fonctionnelle. Ce transfert a été rendu nécessaire par une instabilité hémodynamique, la périménalgie, une hypersensibilité pourtois caractéristique du syndrome de Langworthy et un hypotension avec des râles crépitants. L'examen

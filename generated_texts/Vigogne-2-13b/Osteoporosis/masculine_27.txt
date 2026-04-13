@@ -1,0 +1,24 @@
+Il s'agit d'un patient âgé de 30 ans sans antécédents pathologiques notables admis en février 2011 pour douleurs lombaires isolées et une asthénie physique et psychique à l'admission. A l'examen ostéoarticulaire le patient présente une cyphose lombaire et une saillie des apophyses épineuses. Les radiographies du rachis lombaire sont perdues. La vitesse de sédimentation, la calcémie et la phosphorémie sont à 15 mm/h (v), 2,42 nmol/L et 1,01 nmol/L respectivement. La calciurie est à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux: TSH à 0,25 mUI/L, VDB/G à 55 pg/mL, parathormone à 14 pg/mL. L'absorptiométrie biphotonique à rayons X montre une densité minérale osseuse à 0,731 g/cm² en L2, à 0,684 g/cm² en L3, à 0,775 g/cm² en L4, à 0,746 g/cm² en L5. Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j) avec apyrexie et amélioration rapide des douleurs lombaires et asthénie. Le diagnostic d'ostéoporose fracturaire a été retenu en premier.
+
+### Response:
+Ci-dessous se trouve une instruction qui décrit une tâche à accomplir. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 30 ;
+Il doit contenir les éléments suivants :
+maladie ; douleurs lombaires ; asthénie physique et psychique ; radiographies du rachis lombaire ; vitesse de sédimentation ; calcémie à 2,42 nmol/L ; phosphorémie à 1,01 nmol/L ; calciurie à 2,15 nmol/L/24 h ; dosages hormonaux strictement normaux ; parathormone basse ; absorptiométrie biphotonique à rayons X ; densité minérale osseuse ; paracétamol (2 g/j) ; amytriptiline (50 mg/j) ; ostéoporose fracturaire.
+
+### Response:
+Il s'agit d'un patient âgé de 30 ans sans antécédents pathologiques notables admis en février 2011 pour douleurs lombaires isolées et une asthénie physique et psychique à l'admission. A l'examen ostéoarticulaire le patient présente une cyphose lombaire et une saillie des apophyses épineuses. Les radiographies du rachis lombaire sont perdues. La vitesse de sédimentation, la calcémie et la phosphorémie sont à 15 mm/h (v), 2,42 nmol/L et 1,01 nmol/L respectivement. La calciurie est à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux: TSH à 0,25 mUI/L, VDB/G à 55 pg/mL, parathormone à 14 pg/mL. L'absorptiométrie biphotonique à rayons X montre une densité minérale osseuse à 0,731 g/cm² en L2, à 0,684 g/cm² en L3, à 0,775 g/cm² en L4, à 0,746 g/cm² en L5. Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j) avec apyrexie et amélioration rapide des douleurs lombaires et asthénie. Le diagnostic d'ostéoporose fracturaire a été retenu en premier.
+
+### Response:
+Ci-dessous se trouve une instruction qui décrit une tâche à accomplir. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 42 ;
+Il doit contenir les éléments suivants :
+fébrile ; douleurs des membres ; prurit ; cas ; douleurs ; examen physique ; inspection ; décoloration des membres ; syndrome inflammatoire ; fébrile ; 38 ° C ; biologie ; polynucléaire neutrophile ; 32 × 10 9 /l ; taux de créatininémie ; de phosphorémie ; lymphocyte T CD4+ ; bilan inflammatoire ; tuberculine ; traitement anti-bacillaire ;

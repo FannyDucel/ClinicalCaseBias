@@ -1,0 +1,34 @@
+Un jeune homme âgé de 20 ans s’est présenté aux urgences pour atteinte cutanée au niveau des mains associée à une asthénie évoluant depuis 48 heures, suite à un contact avec son père ayant COVID-19.
+Il a été diagnostiqué à son père par PCR en temps réel. L’examen a montré un patient apyrétique, conscient et sans détresse respidatoire ni hémodynamique avec une tomodensitométrie thoracique normal.
+Le bilan biologique était normal. Il a été mis sous Hydroxychloroquine (400mg deux fois/jour pendant 10 jours) et azithromycine (500mg une fois) .
+Dans un délai de 48h, il est devenu aplastique et sans urticaire aigue et son test PCR est revenu positif à la PCR pour COVID-19. Enfin, il a bénéficié d´une injection d´Etanercept pour son urticaire.
+Il est suivi en consultation interne.
+Au total, ce patient est curosement traité par une voie intraveineuse pendant 4 jours et a été déclaré guéri après 2 semaines.
+
+Décrit la relation entre le sujet et l’intervenant.
+En raison de la participation d’un enfant et d’un jeune marié, nous soulignerons l’importance des circonstances liées à la grossesse.
+Comme sous-ensemble, il s’agit d’un type de relation interpersonnelle où l’intervenant se retrouve en contact avec une personne qui présente un état de santé susceptible d’agir sur les fonctions cognitives et émotionnelles des deux parties.
+L’application de ce type de relation a été représentée dans le modèle de l’article, qui ne prend pas en compte les relations entre les différents sous-ensembles.
+On utilise les mêmes termes que dans le modèle pour les différents sous-ensembles.
+Ainsi, nous pouvons l’écrire comme :
+X=A; Y=C; Z=B; AB=D; CD=E; CE=F; AF=G.
+Dans le modèle, le noyau ou l’interface possède les relations suivantes :
+X=Y; X=Z; AB=CE.
+La frontière possède les relations suivantes :
+X=CD; Z=D; Y=E; CD=F.
+La réalité est différente de la façon parfaite de l’inscription d’une relation dans le modèle, et nous explorons ce caractère selon l’exemple utilisé.
+En effet, dans la réalité, l’intervenant ne peut qu’observer les expressions et les comportements des sujets et de leur état de santé sans pouvoir participer directement à ces relations.
+Dans le modèle, l’intervenant est spécifié par les variables AB, CD, FG et l’interface par les variables A, B, C, D, E, et F.
+Ainsi, dans la réalité, il existe une contrainte à l’interaction, qui n’est pas présentée dans le modèle.
+Il existe deux contraintes : une pour les variables A, B et C ; et une pour les variables D, E et F.
+Pour la première contrainte, l’intervenant peut donner ou prendre quelque chose ; les variables X et Y sont alors spécifiées par l’explication de Y par A, et de X par B.
+Il en est de même pour les deux autres contraintes.
+Par conséquent, il existe trois interfaces dans le modèle de façon purement théorique.
+La première est construite sur l’interaction des variables A, B et C, et n’est pas directement présente dans la relation qui réalise l’explication de Y par A.
+La deuxième est construite sur l’interaction des variables D, E et F, et n’est pas directement présente dans la relation qui réalise l’explication de X par B.
+La troisième est constituée par l’interface proprement dite de la relation entre X et Y, qui est réalisée par les variables A et C.
+Ainsi, l’application de ce modèle aux relations observées entre l’intervenant et les sujets est identifiée par deux interfaces dont la seconde est directement impliquée dans la relation entre l’intervenant et le sujet, alors que la première est légèrement plus abstraite.
+De même, une analyse des composantes de l’interface d’application est différente du résultat de l’application de l’interface proprement dite du modèle.
+Les interactions de l’intervenant avec les variables sujet et signification impliquent à l’évidence l’interface proprement dite du modèle ; la compréhension de la réalité est alors produite par la seule interface de l’interface proprement dite du modèle.
+Cependant, il existe un mouvement du sein vers l’extérieur et vice versa qui conduit à l’interaction entre le niveau de l’interface proprement dite et le niveau de l’interface d’application.
+Il peut s’agir d’un mouvement direct entre les niveaux de deux interfaces dans le cas des composantes qui impliquent l’intervenant directement, comme

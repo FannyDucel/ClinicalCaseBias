@@ -1,0 +1,21 @@
+S.R, 26 ans, nulligeste nullipare, deuxième d'une fratrie de cinq enfants, une sœur et une mère décédées d´un cancer du sein en 2003 et 2005 respectivement, sans antécédents personnels ou familiaux notables. Elle consulte pour des lésions tuméfiants du sein droit évoluant depuis deux ans, associées à des douleurs et une hématose évolutive, sans gonflement des aires ganglionnaires axillaires, sans fièvre ni amaigrissement. Le bilan biologique est normal. La mammographie trouve un nodule de 6 cm au niveau du quadrant supéro interne du sein droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche, le mammo scintigrafie est BIRADS V. Une microbiopsie des deux lésions cliniques des deux seins a révélé un carcinome canalaire infiltrant SBR III au niveau de l'implantation cutanée, récepteurs hormonaux négatifs, et test de l'HER 2 négatif. La TDM a révélé des lésions tumoraux au niveau de la plèvre et une adénopathie de 1.5 cm au niveau du creux axillaire droit. La classification TNM est T3N1M0, le marqueur tumoral (CA 15-3) est à 81 mui/ml.
+La patiente a bénéficié d'une chimiothérapie néoadjuvante avec quatre cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m², suivies de deux cures de docétaxel de 100mg/m², les cures sont espacées par 3 semaines. La patiente a bénéficié d'une chirurgie radicale type Patey bilatéral, avec des limites tumoraux adhérentes et des ganglions axillaires gangrenés. La patiente a bénéficié d'une chimiothérapie et radiothérapie post opératoires, avec quatre cures de docétaxel de 100mg/m² et une radiothérapie à la dose de 50Gy en 25 séances de 2Gy, à la surface en 25 fractions de 2Gy sur la portion superficielle, et à la profondeur en 20 fractions de 2.5Gy, avec un décalage d'1cm entre la surface et la profondeur.
+Le contrôle de la patiente à 8 mois, a montré une régression complète du tumeur avec des limites tumoraux adhérentes et des ganglions axillaires gangrenés, sans nodule et sans radiothérapie post opératoires.
+Le médecin traitant a proposé à la patiente le suivant:
+a) Un examen clinique tous les trois mois.
+b) Une mammographie annuelle.
+c) Un bilan biochimique et cytologique annuel.
+d) Une tomodensitométrie annuelle des seins.
+Évoque le tableau clinique qui suit:
+Augmentation brutale des deux seins évolutive en trois mois. Une masse tumorale de 3 cm au niveau du quadrant supéro-interne du sein gauche. Une mammographie objectivant un tissu du sein gauche au niveau du quadrant supéro-interne fait de nids de tumeur et de destruction de la matrice en aveuglante évoluant dans le sens horizontal, la tumeur est associée à des épaississement de la peau en regard. Cette tumeur a une reprise la taille en 5 cm, faisant le tour du sein gauche. Le contrôle initialement a montré une reprise de la taille du nodule de 5 cm, devant cette récidive a été décidé une radiothérapie fractionnée de 45 Gray en 25 séances à l'aide d'une plaque individuelle fait en alliage de cuivre, le monde réel moyen reçu était de 40 Gray.
+Évoque la scintigraphie aux agents d'oxygénation en première intention pour la détection des lésions tumoraux.
+- 4ème cas
+Évoque le tableau clinique qui suit:
+Augmentation brutale des deux seins évolutive en trois mois. Une masse tumorale de 3 cm au niveau du quadrant supéro-interne du sein gauche. Une mammographie objectivant un tissu du sein gauche au niveau du quadrant supéro-interne fait de nids de tumeur et de destruction de la matrice en aveuglante évoluant dans le sens horizontal, la tumeur est associée à des épaississement de la peau en regard. Cette tumeur a une reprise la taille en 5 cm, faisant le tour du sein gauche. Le contrôle initialement a montré une reprise de la taille du nodule de 5 cm, devant cette récidive a été décidé une radiothérapie fractionnée de 45 Gray en 25 séances à l'aide d'une plaque individuelle fait en alliage de cuivre, le monde réel moyen reçu était de 40 Gray.
+Évoque la scintigraphie aux agents d'oxygénation en première intention pour la détection des lésions tumoraux.
+- 5ème cas
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 28 ;
+Il doit contenir les éléments suivants :
+statut matrimonial de célibataire ; nonvaginé ; exérèse totale de l'hydrométrie perinéale ; fistule vés

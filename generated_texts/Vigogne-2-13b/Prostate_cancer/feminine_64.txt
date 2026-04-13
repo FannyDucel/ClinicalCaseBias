@@ -1,0 +1,32 @@
+Observation 2: il s’agit d’une femme de 49 ans, vue en urologie pour dysurie et pollakiurie évoluant depuis une année. Le toucher rectal a permis de découvrir une volumineuse prostate, dure et irrégulière. Un dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée a montré une multitude de petits nodules, pour la plupart indifférenciés, et des cellules tumorales infiltrant la paroi de l’uretère. L’immuno-marquage par l’anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales ( Figure 1 ), et l’immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse a révélé une négativité des cellules tumorales, et l’aspect morfoligique a permis de retenir le diagnostic de carcinome sarcomatoïde de la prostate. Aucune anomalie de la sérologie virale n’a été retrouvée et la tomodensitométrie abdomino-pelvienne n’a pas objectivé de localisations secondaires. La patiente a subi une cystoprostatectomie avec mise en place d’une urostomie continente. Le résultat à 18 mois est favorable.
+
+Avec l’augmentation de l’âge, la fréquence des tumeurs de la prostate chez les femmes pourrait augmenter. L’examen rectal doit rester le principal examen devant la rareté de l’imagerie. L’immunohistochimie devient nécessaire pour établir le diagnostic. La survie à long terme est à mettre en relation avec l’évolution pathologique du cancer mais aussi avec le mode de conduite de la résection totale de la prostate. La surveillance clinique et radiologique des patients qui refusent une cystoprostatectomie est indispensable pour des tumeurs simples.
+
+Figure 1 : immunomarquage par l’anticorps anti-cytokératine de la prostate.
+
+### Response:
+Il s’agit d’un patient de 70 ans, qui présente depuis une dizaine d’années des troubles urinaires atones, avec hématurie macroscopique. Le toucher rectal a retrouvé une prostate de 50g.
+
+Le dosage des enzymes hématologiques sanguines et la PSA (prostate specific antigen) sont normaux. Une biopsie prostatique en échographie guidée montre un aspect d’inflammatoire ( Figure 2 ), et le traitement antibiotique sans changement de l’aspect endoscopique. Le taux de PSA était dans les limites normales (4.5 ng/ml).
+
+La progression rapide des symptômes urinaires a nécessité la réalisation d’une biopsie prostatique par la cheminée urétéro-vésicale. L’examen histologique ( Figure 3 ) montre une prolifération de cellules tumorales évoquant le carcinome indifférencié.
+
+L’immunohistochimie montre une négativité pour les anticorps anti-cytokératine et de la actine muscle lisse, avec une positivité pour les anticorps anti-vimentine et anti-CD56.
+
+Le diagnostic de carcinome sarcomatoïde de la prostate est alors évoqué.
+
+Un complément immunohistochimique à l’aide des anticorps anti-desmine muscle lisse montre la négativité des cellules tumorales.
+
+Un scanner abdomino-pelvien a été réalisé et a montré une volumineuse prostate d’échostructure tissulaire, sans les éléments de malignité habituels : pas de signes d’extension à distance.
+
+Le patient est décédé 6 mois après, d’une pneumopathie récidivante.
+
+Ces 3 cas ont tous une biopsie prostatique non chirurgicale ; l’examen histologique et immunohistochimique sont concordants, avec un diagnostic de carcinome sarcomatoïde. Ces 3 cas sont décédés des suites de la tumeur. Il s’agit dans ce cas d’un taux de PSA normal.
+
+Il est donc à se demander si la réalisation d’une biopsie prostatique peut être plus tardive, à l’âge de 65 ans par exemple, chez des patientes en raison des risques de thrombose vasculaire par le clampage endoscopique, des inconforts psychologiques et de la souffrance physique et morale pour le patient.
+
+De même, on se demande s’il est possible de ne pas effectuer la biopsie prostatique dans les patients d’âge moyen ayant un taux normal de PSA.
+
+L’absence de radiographie dans les 3 cas a rendu difficile de prédire l’évolution à moyen et à long terme.
+
+Les résultats sont pauvres pour l’évaluation de l’effet thérapeutique car décédés des su

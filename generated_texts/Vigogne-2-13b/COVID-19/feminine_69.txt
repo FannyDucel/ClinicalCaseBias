@@ -1,0 +1,43 @@
+Cas clinique 3: une femme âgée de 20 ans sans antécédent connu ; elle est restée en contact avec son père ayant COVID-19 ; ce dernier est décédé ; la patiente se plaint d´une atteinte cutanée au niveau des mains ; la tomodensitométrie thoracique a été réalisée et qui est revenue normale. Elle a développé à J2 une urticaire aigue prédominant au niveau des mains ; elle a consulté dans une unité de rattrapage du COVID-19 et a eu un test PCR positif. La patiente a reçu 2 injections d´Etanercept à J3 et J4 ; J6 est celui de réadmission. La patiente a présenté une fièvre d´apparition rapidement regressive avec une déshydratation et un état d´altération clinique minimal. La patiente est apyrétique ; elle n´a pas de détresse respidatoire ni hémodynamique ; la tomodensitométrie thoracique a montré pas d´infiltrat et le bilan biologique normal. Une décision de reprise d´hydroxychloroquine et azithromycine a été prise à J8. La patiente est sortie à J12.
+
+Le tableau II est un bilan réalisé sur le covid-19 au niveau des patients:
+
+Une analyse des sujets du cas clinique 3 est pratique:
+
+- une patiente ayant rapporté contact avec son père ayant COVID-19 et symptômes cutanés, urticarienne au niveau des mains, 2 jours après la 2ème injection d´Etanercept, une insufflation nasale et occipitale ( IRM n´a été faite).
+
+- un cas d´infection respiratoire aiguë grave (IRD) avec syndrome inflammatoire, 8 jours après le 2ème injection d´Etanercept.
+
+- la patiente est revenue normal au bilan radiologique et biologique: tomodensitométrie thoracique et IRM.
+
+- une amélioration clinique a été observée après 4 jours d´hydroxychloroquine et d´azithromycine.
+
+- les deux cas ont été publiés (une au niveau de l´ouvrage de GREIC) et ne présentent pas de signe de réaction auto-immune (fonction immunitaire normale).
+
+- l´hypothèse immuno-allergique par infection COVID-19 est soutenue, selon une règle générale, ce type de réaction immunitaire étant induit par les antigènes étrangers (virus).
+
+- la plupart des médicaments utilisés dans le traitement du COVID-19 sont susceptibles d´être associés aux réactions auto-immunes.
+
+- il a été décrit une cas de neutropénie associée à l´utilisation d´Etanercept dans le traitement du COVID-19, ceci pose la question de l´association avec la cytokinémie exacerbée dans le cas du COVID-19.
+
+- la question du TDM dans les syndromes inflammatoires est posée et réfutée.
+
+- Il est préférable d´élargir les vérifications de l´hémogramme (globules blancs, neutrophiles, globules rouges) par rapport aux références normales dans l´évaluation des syndromes inflammatoires.
+
+- la prise en charge, en cas de découverte de lésions cutanées ou musculaires aiguës est l´arrêt immédiat de la biosimilaire, un bilan radiologique et biologique complémentaire, la mise en route d´un plan de suivi clinique et radiologique.
+
+- des vaccins monoclonaux sont des médicaments utiles dans le traitement des IRD mais le bénéfice/risque est susceptible d´être différent dans le contexte du COVID-19.
+
+- la surveillance pharmacovigilance est recommandée par rapport aux réactions immunologiques ou auto-immunes aux TDM dans l´évaluation des IRD ou IRD graves ou des syndromes inflammatoires.
+
+- les biosimilaires ont une physico-chimique différente du médicament principal. Il est possible qu´une différence peut avoir une incidence sur la toxicité ou la réaction.
+
+- il est recommandé de vérifier la conformité des produits biosimilaires à celles du médicament principal et de constater si des différences physico-chimiques sont rapportées par rapport aux médicaments parents.
+
+- si une différence est suspectée, l´étude pharmacocinétique et pharmacodynamique (réponse biologique des patients aux différences observées) doit être faite pour permettre de déterminer la gravité et la toxicité des différences, et de décider des mesures à prendre pour limiter le risque.
+
+- si la différence est confirmée, elle doit être étudiée et de façon complète. Un avis du GREIC est demandé.
+
+- les données partagées par la FDA par rapport aux cas d´anaphylaxie sont incomplètes et nécessitent des données supplémentaires.
+
+- l´infection COVID-19 a un impact majeur sur la

@@ -1,0 +1,25 @@
+Cas 2: un jeune homme de 20 ans, n´élevé qu´une année de son père ayant contracté le COVID-19 en juillet 2020. Après un nouveau contact avec son père ayant COVID-19 depuis décembre 2020, ce dernier présente depuis le 03 déc 2020 des dermatoses aux deux mains (urticaire aigue), et un test PCR positif le 10 décembre 2020. Un Etanercept a été administré au patient en réponse à une flare d´urticaire aigue au niveau de ses deux mains, ce qui le perturbe. Malgré cela, le patient est resté apyrétique sans détresse respidatoire ni hémodynamique. Le bilan biologique et radiologique est normal. Une tomodensitométrie thoracique réalisée a montré une opacité diffuse, bilatérale de chaque poumon sans infiltrat liquidien ni comblée (Figure 5, Figure 6), en faveur d´une pneumopathie interstitielle. La corticothérapie (hydroxychloroquine à la dose de 400mg/jour et azithromycine à la dose de 500mg/j en 1à3 jours) a été réduite à 2 mois après par bonne évolution clinique. Le patient est resté apyrétique, sans détresse respiratoire ni hémodynamique ni signes cutanés au cours de son hospitalisation. A noter : la durée de la symptomatologie n´est pas connue, le suivi n´a pas été continu pendant la période de maladie. A la date de rédigeur de cet article (14 mai 2021), l´évolution clinique du patient n´a pas été communiquée à l´auteur.
+
+Bibliographie
+
+J. Colm. Les effets cardiovasculaires d´un traitement par HCQ. Presse médicale suisse, vol. 16, n° 43. 2016.
+
+L. Laoui, A. Maalem, A. Bennis, A. Jougla, L. Schyns. Covid-19 et auto-administration d´une dose de 400mg de hydroxychloroquine. Réaction à la prise ; une surdité et d´une chute de l´acuité visuelle ? une épreuve de pression de retard d´un cathéter venosé doppler inconfortable au patient. JDD 2020 ; 16, n° 123 ; p. 1816-1818.
+
+E. Zouaï, J. Démarty. Présentation d´un cas d´une surdité secondaire à une overdose de HCQ. Médecine intérieure du Mali, vol. 13, n° 1, 2019, p. 249-250.
+
+L. Louedet, N. Gisselbrecht, D. Vougt, H. Maubert. Une surdité non toxique à la dose de 400mg de HCQ et qu´une dose de 800mg. Observation de 2 patients confirmées par ECU au n° 68 et n° 69. MEDEX, vol. 41, n° 3, 2019.
+
+A. Krishna. Percutané impairment in patients treated with hydroxychloroquine. Anesthesiology, vol. 132, n° 6, 2015, p. 1451.
+
+N. Gisselebricht, N. Roos, A. Umer, N. Gomez-Requena. Loss of vision as a rare side effect of hydroxychloroquine treatment. EULAR2020; 2020, p. P200.
+
+J. Singh, R. Martin, S. Sharma. Case report: Hydroxychloroquine-induced vision loss. European Hydroxychloroquine/Azithromycin Study Group, vol. 33, n° 1, 2015, p. 50.
+
+J. Wang, X. Wang, X. Chen, B. Shan, Z. Ma, L. Liu. Perceptual and oculomotor changes induced by hydroxychloroquine and hydroxychloroquine-related maculopathy. Frontiers in medicine, vol. 7, 2020.
+
+B. Hamon, A. Cantegrel, J. Louart, V. Robinet, M. Sevret. Perception de l´acuité visuelle. Rétention d´information par des patients et par les professionnels. Recherches utilisant la vision dynamique et la mesure de la rétinienne oculaire. Société française d´oculistique. En direct au sujet. Congrès annuel 2020.
+
+C. Smith, D. Bednarek. Hydroxychloroquine induced vision impairment. WOCMEE2020; 2020.
+
+C. Charon, C. Rodgers, R. Bedard, A. Ginzburg, C. Roy. Ocular toxicity of hydroxychloroquine: a systematic review

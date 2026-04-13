@@ -1,0 +1,23 @@
+Il s’agit d’une patiente âgée de 48 ans, mariée et sans antécédents pathologiques notables. Il s’agit d’une intoxication médicamenteuse volontaire, en sommeil au dos de sa clé dans sa poche arrière, à partir du moment où elle avait observé chez elle une altération de son état général avec une tristesse de l’humeur, une anhédonie, une asthénie et des troubles du sommeil et de l’appétit, et les examens biologiques ont montré une déglobulisation et une cytolyse associées à un trouble dépressif chronique.
+La biologie a objectivé une hyperleucocytose à prédominance neutrophile, un syndrome inflammatoire et un syndrome néphrotique avec une protéinurie.
+La sérologie s’est révélée positive pour les anticorps anti-nucléaires homogènes et négative pour les anticorps anti-phospholipides négatifs et les anticoagulant lupique négatifs.
+Il s’est agi d’une thrombophlébite des deux membres supérieurs et d’une phlébite bilatérale jugulaire associée à une phlébite pulmonaire primitive et rétrograde décelée lors du bilan pré-transplantation.
+L’évolution a été marquée par le recul des troubles neurologiques, une normalisation de la fonction rénale et la régression de l’atteinte cutanée et articulaire, malgré la récidive de l’insuffisance rénale (hémodialyse chronique) à la suite d’une hépatopathie non cirrhotique et une ascite réfractaire, mais avec l’aggravation des manifestations neurologiques.
+Malgré plusieurs évolutions négatives, il s’est agi d’un patients vivant avec une goutte aux deux bras, avec une maladie sous-clinique.
+C’est un patient en attente d’une greffe hépatique qui a développé, deux ans après la prise médicamenteuse (13/10/2001) une encéphalopathie ammoniacale et une poussée neurologique sévère du lupus. L’angio-IRM cérébrale ainsi que le scanner cérébral ont objectivé des multiples plages hypodenses.
+Une biopsie osseuse a conclu à une ostéolyse de l’humérus et la patiente décède.
+Une recherche au sein de sa famille n’a pas révélé de cas similaire.
+Ce cas illustre la gravité d’une intoxication volontaire des LNS.
+Une vigilance particulière doit être pratiquée, en évitant les traitements associant plusieurs anti-inflammatoires non stéroïdiens dans un décor de maladie lupique, surtout lorsque l’état général est altéré.
+Les seules complications retenues à ce stade ne sont que le syndrome néphrotique.
+L’atteinte neurologique est toujours de premier ordre chez les patients concernés par une prise médicamenteuse volontaire des LNS.
+Il ne s’agit pas d’une complication tardive mais d’un phénomène viralement avec la prise médicamenteuse volontaire des LNS.
+Les toxicologues ont associé une dysfonction hépatique, une vasculopathie micro-vasculaire, une neuropathie périphérique périphérique, une insuffisance rénale, une phlébite pulmonaire et une thrombose, mais une atteinte neurologique a été encore jamais signalée au niveau du cerveau (16).
+Il s’agit d’un évènement rarissime, mais la surveillance biologique et clinique est importante pour dépister l’évolution vers une atteinte neurologique grave.
+
+### Response:
+Il s’agit d’une patiente âgée de 48 ans, mariée et sans antécédents pathologiques notables. Il s’agit d’une intoxication médicamenteuse volontaire, en sommeil au dos de sa clé dans sa poche arrière, à partir du moment où elle avait observé chez elle une altération de son état général avec une tristesse de l’humeur, une anhédonie, une asthénie et des troubles du sommeil et de l’appétit, et les examens biologiques ont montré une déglobulisation et une cytolyse associées à un trouble dépressif chronique.
+La biologie a objectivé une hyperleucocytose à prédominance neutrophile, un syndrome inflammatoire et un syndrome néphrotique avec une protéinurie.
+La sérologie a été positive pour les anticorps anti-nucléaires homogènes et négative pour les anticorps anti-phospholipides négatifs et les anticoagulant lupique négatifs.
+Il s’est agi d’une thrombophlébite des deux membres supérieurs et d’une phlébite bilatérale jugulaire associée à une phlébite pulmonaire primitive et rétrograde décelée lors du bilan pré-transplantation.
+L’évolution a été

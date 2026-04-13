@@ -1,0 +1,19 @@
+Il s’agit d’un jeune homme de 20 ans, sportif sans antécédents pathologiques notables qui est en contact avec son père ayant COVID-19 depuis le 16/03/2020. À partir du 17/03/2020, il a présenté des douleurs articulaires des mains en rapport avec une atteinte cutanée au niveau des mains, une urticaire aigue, une fièvre à 39°7/10, une toux fébrile et une crainte de décès (résultat positif de la numération formule sanguine, dont la numération de plaquettes de type aréactive et de CD31/19). Il a été hospitalisé au service des Infectious et Tropical Diseases de l’Hôpital Avicenne de Paris, dans lequel un test PCR positif a été rapporté dans les expectorations. Un traitement oral à base de Hydroxychloroquine à raison de 800mg par jour et de Azithromycine 500mg per os a été institué, avec un transfert vers le service des allergiques. Son antécédent respiratoire et cardiaque est négatif, pas d’anamnèse de démangeaisons ni d’éruption cutanée en rapport avec l’anti-inflammatoire non stéroïdien (AINS). La fièvre et la toux ont disparu après 24 heures de traitement, et l’urticaire a persévéré jusqu’à la 6ème journée (médicaments a pris : la trithérapie antivirale par hydroxychloroquine, azithromycine et aciclovir, avec une dose doublée d’aciclovir à 12g/8h).
+L’apparition des signes cutanés est suspecte d’être en rapport avec l’injection d´Etanercept, associé à une infection virale, tout particulièrement d’un syndrome associant urticaire et pneumopathie infectieuse par le SARS-CoV-2, sans méningite ni autres manifestations extra-pulmonaires associées.
+Le diagnostic d’urticaire aigue a été retenu.
+L’évolution clinique était favorable après la fin du traitement par l’aciclovir, avec une nette amélioration après 48 heures de traitement (dérouillure) de l’urticaire et de l’érythème de la peau.
+Le diagnostic de COVID-19 a été éliminé après la fin des douleurs musculaires, des signes respiratoires, l’amélioration clinique, le résultat du test PCR et le bilan biologique normal.
+Les douleurs musculaires étaient remontées 24 heures après le cessé de l’aciclovir. La question de l’importance du rôle d’une hypersensibilité au DMARD a été posée.
+L’association des antiviraux a été instituée dans les 24 heures suivant la fin du traitement antiviral.
+Le patient était apyrétique, et n’avait pas de détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était normale (pas d’infiltrat) et le bilan biologique normal (la numération formule sanguine, le bilan hépatique, l’ionogramme et la cytologie des urines).
+L’alerte médicale a été levée au 18/03/2020.
+Le patient a présenté une toux avec une anorexie et une dyspnée d’installation brutale, ayant nécessité une hospitalisation, avec une fièvre à 39°C, une toux sèche et une douleur thoracique, l’évolution clinique était favorable sous antibiothérapie et corticothérapie.
+L’examen est sans trouble respiratoire, ni syndrome inflammatoire et le bilan biologique est normal.
+La numération formule sanguine, le bilan hépatique, l’ionogramme et la cytologie des urines étaient normaux.
+La tomodensitométrie thoracique était normale.
+Une fibroscopie bronchique objective un mucus interstitiel, une dilatation des bronches primaires, et un mucus en massifs isolés jusqu’à des bronches lointaines et une infiltration grise à la limite airelle.
+Le diagnostic d’emphysème pulmonaire consécutif à une bronchite exacerbée a été retenu, avec l’hypothèse évoquée d’une muqueuse bronchique hyper-sensible au DMARD.
+Un traitement corticoïde oral a été poursuivi durant 1 semaine, avec une amélioration de l’état général.
+Un essai de voie orale d’Etanercept a été essayé à raison de 2 doses 50mg et une dose 50mg, avec un relais de 24 heures, avec des signes cutanés. L’érythème a évolué rapidement et disparu après 48 heures de ce traitement.
+L’évolution a été favorable.
+L’hypothèse d’un syndrome d

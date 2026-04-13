@@ -1,0 +1,27 @@
+Nous rapportons le cas d´un homme âgé de 20 ans, sans antécédent qui a été admis à l´unité de soins intensifs pour des signes suspects de COVID-19. Ses principales antécédents sont un contact avec son père ayant COVID-19, atteinte cutanée au niveau des mains en raison d´un urticaire aigue. La prise de la perception des symptômes remonte à 5 jours avec un test PCR positif. Il a reçu initialement une injection d´Etanercept à 24 heures suivi d´un traitement standard au niveau des soins intensifs. Son evolution est marquée par une amélioration de sa fièvre avec une réduction importante de la charge virale au quatrième jour et son prélèvement s´est avéré être négatif. Le patient est apyrétique, sans détresse respidatoire ni hémodynamique, son examen clinique est normal, une tomodensitométrie thoracique ne montrait pas d´infiltrat. Le bilan biologique était normal. Le patient a bénéficié d´une montée en doses progressive de son traitement par hydroxychloroquine et azithromycine.
+
+L´objectif de notre cas est de démontrer la raréité des cas de COVID-19 associé à un psoriasis ou atteinte cutanée au niveau des mains en résultat d´une forte réponse immunologique comme urticaire aigue ou psoriasis. Aucune morbidité n’est documentée, même si les manifestations cutanées sont rares au cours de la COVID-19, les rares cas de manifestations cutanées sont documentées.
+
+Le psoriasis n´est pas un facteur de risque pour contracter le COVID-19. Il y a aussi des cas isolés où une réaction maladaptive immunologique a été rapportée dans la littérature. Mais il n’y a pas d’exemple documenté sur la composition de la séquence de l´immunogénétique et la présence de l’haplotype HLA qui influence l’aggravation des lésions cutanées dans les patients à prédisposition au psoriasis.
+
+Il s’agit de deux cas isolés où une réaction maladaptive immunologique a été documentée, surtout que les autres cas de la littérature ne sont pas clairement caractérisés, il existe donc une nécessité de mieux comprendre ce processus immunologique dans la prochaine étude sur le psoriasis.
+
+La collaboration interdisciplinaire entre le dermatologue et l’interniste est indispensable. Un suivi fort régulier du patient est important pour assurer un diagnostic rapide et une prise en charge approfondie.
+
+Il faut noter que dans notre cas, la manifestation cutanée s’est corrélée avec l’aggravation de la maladie. L’introduction de la biothérapie dans le traitement du psoriasis pourrait être considérée comme une facteur de risque pour contracter le COVID-19. La biothérapie aurait aussi un impact sur la gravité du développement de la maladie en cas d’infection par le SARS-CoV-2.
+
+Il n’y a pas de recommandations précises concernant l’utilisation des thérapeutiques d’immunosuppression chez les patients ayant des manifestations cutanées, qui présentent un risque élevé pour contracter le SARS-CoV-2. Les malades seront suivis et complètement évalués pour l’optimisation de la mise en place d’une thérapie efficiente pour l’atténuation de leurs symptômes cutanées.
+
+Le patient bénéficiera également d’une surveillance étroite et régulière pour sa condition respiratoire, la qualité de l’oxygénation et la stabilité de la charge virale.
+
+Ce cas représente une situation très inhabituelle chez un patient présentant des manifestations cutanées survenues après un traitement de premier choix standard du COVID-19. Il s’agit d’une association exceptionnelle entre une pathologie cutanée et une infection pulmonaire par le SARS-CoV-2.
+
+Ce cas, bien que très exceptionnel dans la littérature, se confirme un élément important pour la formation des cliniciens en ce qui concerne la surveillance et le suivi des patients qui présentent des manifestations cutanées associées à l’infection par le SARS-CoV-2.
+
+En effet, une surveillance rétroactive s’avère obligatoire. Une réévaluation de la charge virale sera donc prévue et les anticorps anti-viral sera testé si possible.
+
+L’isolement complet du patient, la reprise de ses activités quotidiennes et la vérification de l’absence de récurrence de l’atteinte cutanée en tant qu’une réaction maladaptive immunologique à la biothérapie seront également réalisés.
+
+L’aptitude de la patiente à une forme de traitement de première ligne de la COVID-19, du moment où les médicaments seront disponibles sera également prise en compte.
+
+Notre cas

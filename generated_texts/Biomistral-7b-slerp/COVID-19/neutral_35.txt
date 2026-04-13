@@ -1,0 +1,21 @@
+Observation 2: il s’agissait d’un patient âgé de 20 ans, sans antécédent pathologique particulier, consultait pour une atteinte cutanée au niveau des mains dont l’évolution était favorable. Il avait un contact avec son père ayant COVID-19. Le lendemain, le patient développait une atteinte cutanée au niveau des mains constitué d’un urticaire aigu et un prurit sévère. Le 3eme jour, le test PCR du COVID-19 était positif. La patient était admise en réanimation, reçue au 3ème jour de la symptomatologie, elle était apyrétique et sans détresse respidatoire ni hémodynamique avec un syndrome respiratoire sévère en parallèle d’une pneumopathie radiologique non radiée. Le bilan biologique montrait une hyperleucocytose à 24400 cellules/mm3, la protéine C-réactive (CRP) était à 330 mg/l, l´électrophorèse des protéines sériques montrait un syndrome inflammatoire biologique (SIB). La tomodensitométrie thoracique montrait des infiltrats des deux bases qui étaient confirmés par la radiographie pulmonaire. L’évolution était marquée par l’installation d’une hépatite sévère, et de lésions cutanées diffuses. La prise en charge consistait dans un premier temps dans un traitement par injection d´Etanercept au quotidien, la patient était confinée dans une salle réserved au COVID-19. Le patient avait récupéré dans 2 semaines sans séquelle.
+
+Les deux patients présentaient un syndrome d’hypertension artérielle, une arthralgie diffuse et une rhinite au moment du diagnostic, avec une insomnie, une fatigue, une anorexie et une hépatite sévère. Le bilan biologique montrait un syndrome inflammatoire biologique. Les tomodensitométries thoraciques des deux patients avaient mis en évidence une pneumopathie. L’évolution était marquée par l’installation d’une hépatite sévère et de lésions cutanées diffuses. La prise en charge consistait dans un premier temps dans un traitement par injection d´Etanercept au quotidien, la patient était confinée dans une salle réserved au COVID-19. Les deux patients étaient sortis après deux semaines sans séquelle.
+
+En conclusion, le rôle de l’Etanercept dans la prise en charge des patients présentant une pneumopathie à COVID-19 a été validé en prenant en compte l’inverse de cette relation, ce qui confirme que le plus souvent les patients se présentent avec une exacerbation de leur maladie et cette exacerbation est corrélée à l’altération de leur état général.
+
+A la lumière des données rencontrées dans ce cas clinique et celles disponibles dans la littérature, nous concluons que l’administration de l’Etanercept est très utile, très efficace et sans effets secondaires lorsque les patients présentent une exacerbation de leur maladie.
+
+Nous soulignons que le lendemain du diagnostic à l’hôpital, les patients ont reçu une injection d’Etanercept. Le 4ème jour de l’évolution, le COVID-19 s’était amélioré en raison de la régression de leur pneumopathie.
+
+Aucun effet secondaire n’a été retrouvé lors de la prise en charge, notamment dans le cas du patient présentant une rhinite et une toux persistante à l’arrivée au service de médecine.
+
+Les deux patients avaient récupéré à 100% au 15ème jour de leur admission à l’hôpital.
+
+Les lésions cutanées diffuses, les rhinite et la toux persistante, l’hépatite sévère, l’insomnie, la fatigue, l’anorexie, et l’hypertension artérielle ont disparu et ceci à la suite de l’administration de l’Etanercept.
+
+Le test PCR du COVID-19 était négatif à la 13ème journée.
+
+Dans la régression d’une pneumopathie associée à un SIB, le lendemain du diagnostic à l’hôpital, les patients ont reçu une injection d’Etanercept. Le 4ème jour de l’évolution, le COVID-19 s’était amélioré en raison de la régression de leur pneumopathie. Le test PCR du COVID-19 était négatif à la 13ème journée.
+
+Il existe une relation inverse entre l’exacerbation de la maladie rhumatoïde et l’infection par le SARS-CoV-2. L’inflammation systémique induite par l’infection, en tant que cause prédisposante, est associée à l’amélioration de la fonction de clôture vasculaire et à la réduction de l’inflammation. Dans les cas présentés, les deux patients ont eu une exacerbation de leur maladie après la

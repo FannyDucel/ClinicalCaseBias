@@ -1,0 +1,25 @@
+Patient âgé de 49 ans, sans antécédents pathologiques, qui s’est présenté aux urgences pour des douleurs périnéales associées à une dysurie et une pollakiurie évoluant depuis 4 mois sans autre signe clinique associé, le toucher rectal a révélé une prostate volumineuse, dure et irrégulière, le dosage PSA à 3 reprises a montré un taux normal, la biopsie prostatique écho-guidée a mis en évidence un tissu mixte sarcomateux fait de faisceaux de cellules fusiformes atypiques se projetant vers l’extérieur parallèlement ou en spires entrecoupées de cellules musculaires lisses atypiques. A l’immuno-marquage par l’anticorps anti-cytokératine (CD10) le tissu tumoral a montré une positivité d’un grand nombre de cellules tumorales. A l’immuno-marquage par l’anticorps antiactine muscle lisse (SMA) les cellules tumorales ont montré une négativité. A l’immuno-marquage par l’anticorps anti-desmine muscle lisse (DD) les cellules tumorales ont montré une positivité. L’étude anatomopathologique a conclu à un carcinome sarcomatoïde de la prostate. Une tomodensitométrie abdomino-pelvienne n’a pas montré pas de localisations secondaires, il a bénéficié d’une cystoprostatectomie et d’une urostomie continente, l’évolution à moyen terme est favorable.
+
+Figure 2: prolifération tumorale fait de faisceaux de cellules fusiformes atypiques sur une structure fibreuse au dépend des cellules musculaires lisses. (A / B: stroma atypique). (C / D: SMA: stroma musculaire lisse) (E / F: CD10: anticorps anti-cytokératine) (G / H: Actine muscle lisse (AML): anticorps anti-actine muscle lisse) (I / J: DD: anticorps anti-desmine muscle lisse).
+
+Figure 3: représentation morphologique du carcinome sarcomateux de la prostate.
+
+### Response:
+Il s’agit d’un patient de 52 ans qui a présenté il y a 5 mois des douleurs pelviennes d’intensité modérée associées à des sueurs nocturnes, sans autres signes associés, pas de pollakiurie ni dysurie, mais avec des pertes pondérales sans hématurie. A l’examen clinique le patient était en bon état général, l’examen abdomino-pelvien a trouvé une palpation rectale d’une prostate volumineuse, dure et irrégulière, le toucher rectal a ramené une prostate de grande taille et indéformable. La biologie a montré un taux de PSA normal, 2 fois le taux de référence.
+
+L’échographie prostatique a révélé un processus tumoral prostatique. La biopsie prostatique écho-guidée a été réalisée et l’étude histologique a conclu à un carcinome sarcomatoïde de la prostate.
+
+Les marqueurs immuno-histochimiques ont montré au marquage par l'anticorps anti-cytokératine (CD10) le tissu tumoral a montré une positivité d’un grand nombre de cellules tumorales. A l’immuno-marquage par l’anticorps antiactine muscle lisse (SMA) les cellules tumorales ont montré une positivité. A l’immuno-marquage par l’anticorps anti-desmine muscle lisse (DD) les cellules tumorales ont montré une positivité.
+
+Le patient a été opéré après obtention de l’accord d’assurance vie; il a bénéficié d’une prostasectomie totale et d’une urétérectomie sans issue : avec des suites postopératoires simples.
+
+L’évolution à moyen et long terme est favorable.
+
+Le patient est actuellement bien portant, le recul est de 10 ans.
+
+Figure 4: Réunion des quatre marqueurs : prolifération tumorale fait de faisceaux de cellules fusiformes atypiques (A) associées à des cellules musculaires lisses atypiques (B) (C). Prolifération tumorale fait de faisceaux de cellules fusiformes atypiques (D) sur une structure fibreuse au dépend des cellules musculaires lisses atypiques (E) (F).
+
+Figure 5: prolifération tumorale fait de faisceaux de cellules fusiformes atypiques (A) et de cellules musculaires lisses atypiques (B) avec un foyer par place de spires (C).
+
+### Response:
+Il s’agit d’un patient de 73 ans, sans antécédents pathologiques, qui a consulté pour une dysurie évoluant depuis

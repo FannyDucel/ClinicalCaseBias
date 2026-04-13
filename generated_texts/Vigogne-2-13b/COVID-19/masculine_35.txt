@@ -1,0 +1,47 @@
+Le patient est un jeune homme de 20 ans qui a eu un contact avec son père ayant COVID-19, ce qui lui a permis de contracter la maladie d´assez rapidement, associé à une atteinte cutanée au niveau des mains comme une urticaire aigue qui était favorisant la transmissibilité, un test PCR positif confirme la contamination par le Covid 19 , ce qui justifie l´arrêt de l´injection d´Etanercept. Le patient est apyrétique et admet avoir des maux de tête avec un perception défectueuse sans détresse respidatoire ni hémodynamique, une tomodensitométrie thoracique ne révèle pas d´infiltrat et le bilan biologique normal, il a été mis sous un traitement associant l´hydroxychloroquine et l´azithromycine avec une régression totale de sa symptomatologie. Le diagnostic retenu est une infection aigue à coronavirus associé à une urticaire aigue à covid-19.
+
+\t Esqueletal ;
+\t Mesures ;
+\t NON NEGATIVES ;
+\t Radiographie du thorax ;
+\t épaississement ;
+\t Evaluation physiologique ;
+\t PCR ;
+\t sérologique ;
+\t Covid 19 ;
+\t radiographie du rachis ;
+\t atteinte du rachis ;
+\t Urticaire aiguë ;
+\t Rx d’hydroxychloroquine ;
+\t azithromycine ;
+\t Analyse des transports rapides ;
+\t Dérivés de la méthémoglobine ;
+\t IRM médullo-surrénalienne ;
+\t plaques tumorales solides ;
+\t manifestations neurologiques ;
+\t thérapeutique ;
+\t liposarcome ahumé ;
+\t mésentère ;
+\t hémicolectomie ;
+\t médulloblastome ;
+\t scanner thoraco-abdomino-pelvien ;
+\t Liposarcome ;
+\t histologiques ;
+\t marquages immuno-histochimiques ;
+\t GH3 ;
+\t vimentine ;
+\t envahissement vasculaire ;
+\t étude moléculaire ;
+\t cytogenétiques ;
+\t rapports pathologie-pratique ;
+\t liposarcome ;
+\t HIFK1 ;
+\t plus connue.
+
+### Response:
+Nous rapportons le cas d’un patient de 20 ans, atteint d’une maladie inflammatoire chronique, qui a présenté une atteinte cutanée, l’urticaire aiguë, sur un fond de Covid 19, 6 mois après le contact avec un malade de la Covid 19 dans la famille, il y a aussi eu une atteinte articulaire du thorax. Il s’est présenté aux urgences avec des troubles de la marche et de la station, associé à une fébrile évoluant dans un contexte d’altération de l’état général et d’une asthénie générale. L’examen clinique a révélé une fièvre à 38°c, une détresse respiratoire sans cyanose ni spots violacés cutanées. L’examen neurologique a montré une déficit neurologique, ainsi qu’un syndrome d’effondrement neurologique, des limites sensitives et motrices des membres inférieurs, le reflexe ostéo-tendineux des deux membres inférieurs sont faussés, un défaut de la marche, pas de contrôle de la vessie, le patient a été mis en réanimation.
+La radiographie standard du thorax n’a pas montré d’image typique de la Covid 19. La radiographie du rachis a révélé un épaississement des côtes antérolatérales à partir du 7ème côte gauche et 6ème à droite (Figure 1). Le patient a bénéficié d’un bilan complémentaire, un bilan hépatique, biologique (NFS, VS, CRP, Plaquettes, fibrinogène) normal. L’évaluation physiologique (la SpO2 et la PaO2) est normale.
+Le test PCR du Covid 19 était NON NEGATIVES. La Radiographie du thorax n’a pas montré d’image typique de la Covid 19.
+La radiographie du rachis a révélé un épaississement des côtes antérolatérales à partir du 7ème côte gauche et 6ème à droite (Figure 1).
+Le patient a bénéficié d’un bilan complémentaire, un bilan hépatique, biologique (NFS, VS, CRP, Plaquettes, fibrinogène) normal. L’évaluation physiologique (la SpO2 et la PaO2) est normale. Le test PCR du Covid 19 était NON NEGATIVES.
+La tomodensitométrie thoraco-abdominale a révélé des images de rattachement tumoral entre les côtes 7, 8, 9, 10 et 11, avec

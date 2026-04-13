@@ -1,0 +1,23 @@
+L.A., 49 ans, a été hospitalisé pour des douleurs périnéales et une dysurie associées à une pollakiurie. L'interrogatoire et le toucher rectal ont révélé une prostate volumineuse, dure et irrégulière. Le bilan biologique n'a montré rien d'anomal, pas même une hyperprolactinémie. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée a montré un aspect morphologique infiltrant des cellules tumorales, mais la réaction des anticorps de type immunohistochimique a posé un problème : immuno-marquage par l'anticorps anti-cytokératine a permis de montrer une positivité d’un grand nombre de cellules tumorales qui était négative pour l’anticorps anti-actine (muscle lisse) et l’anticorps anti-desmine (muscle lisse). Il s'agissait d'une forme rare de prostatectomie sans masse tumorale : carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne n'a pas montré de métastases et il n'y avait pas de localisations secondaires à l'extériorisation de l'ablation du foie droit. Il a été décidé d'exercer une cystoprostatectomie avec urostomie continente. L'évolution a été favorable. L'index de créatinine sanguine était stable.
+
+Le recul est de 36 mois. Il n'y a pas de récidive loco-régionale ou à distance.
+
+### Response:
+Il s'agissait d'un cas unique de carcinome sarcomatoïde de la prostate pour lequel nous avons réalisé une cystoprostatectomie. La localisation d'une tumeur volumineuse et irrégulière à la palpation rectale était le seul signe pathologique clinique permettant un diagnostic. Le bilan biologique était normal et l'échographie n'avait pas d'informations sur le volume, l'architecture ou la nature de la tumeur. Une nouvelle échographie avec fibrose était réalisée avant la biopsie prostatique qui montrait une énorme tumeur hyperéchogène. La tomodensitométrie était beaucoup plus complète mais sans éléments de pathognésique pour le diagnostic. La cystoscopie montrait une prostate vésiculaire en raison de la présence d'un haut et d'un bas stade de carcinose à très hautes fréquences (40 à 70% de l'étude des dents de la queue). La biopsie prostatique a été menée à deux reprises avec l'étude de 6 marques de fines pièces en utilisant un dispositif prostatique sous échographie. La première biopsie a été refusée du cytologiste et la seconde révèle la présence d'un neuroendocrine (Figure 1).
+
+Au total, 15 zones étaient prises dans les deux types de zones et 6 sont classées dans la zone 3 (Figure 2). La prostatectomie est finalement décidée. Les tissus de prostate ont été finement disséqués et réalisés pour l'étude microscopique. En raison du taux élevé de positivité sur la prostate au neuroendocrine, une recherche spécifique de ce type de cellules a été réalisée.
+
+L'immuno-marquage par l'anticorps anti-cytokératine a permis de montrer une positivité d’un grand nombre de cellules tumorales qui était négative pour l’anticorps anti-actine (muscle lisse) et l’anticorps anti-desmine (muscle lisse). L'immuno-marquage par l’anticorps antiactine muscle lisse a montré une négativité de la zone de prolifération tumorale. L'immuno-marquage par l’anticorps anti-desmine muscle lisse a montré une positivité de la zone de prolifération tumorale. Un carcinome neuroendocrine atypique, bien différencié, de la prostate a été décrit.
+
+La tomodensitométrie abdomino-pelvienne n'a pas montré de métastases et il n'y avait pas de localisations secondaires à l'extériorisation de l'ablation du foie droit. Il a été décidé d'exercer une cystoprostatectomie avec urostomie continente.
+
+L'évolution a été favorable. L'index de créatinine sanguine était stable.
+
+### Response:
+Le recul est de 36 mois. Il n'y a pas de récidive loco-régionale ou à distance.
+
+### Response:
+L'index de créatinine sanguine était stable.
+
+### Response:
+Il s'agissait d'un cas unique de carcinome sarcomatoïde de la prostate pour lequel nous avons réalisé une cystoprostatectomie. La localisation d'une tumeur volumineuse et irrégulière à la palpation rectale

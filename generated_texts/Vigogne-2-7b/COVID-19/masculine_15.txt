@@ -1,0 +1,37 @@
+Il s´agit d´un patient de 20 ans, sans antécédents pathologiques particuliers, qui a présenté un jour après le contact avec son père ayant COVID-19 une atteinte cutanée au niveau des mains et de l´aréole avec des points bleus et rougeoyants gênant la fonction alimentaire.
+Le même jour, il s´est présenté en urgence aux urgences pédiatriques avec des lésions cutanées semblant d´un urticaire aigue, en faveur d´une allergie alimentaire.
+Le lendemain, il a été mise en possession d´un test PCR positif.
+Il a bénéficié d´une injection d´Etanercept et un jour plus tard, l´évolution a été marquée par la disparition des lésions cutanées.
+Cliniquement, le patient était apyrétique, sans détresse respidatoire ni hémodynamique.
+Le bilan biologique était normal.
+La tomodensitométrie thoracique était normale avec un halo périphérique autour des deux lobes pulmonaires.
+Aucun autre signe d´atteinte pulmonaire n´a été noté, aucun autre élément en faveur d´une infection pulmonaire n´a été retrouvé.
+Lors du dernier entretien téléphonique entre le père et le fils, l´entretien a été cordial, aucun signe d´infection ou de fièvre n´a été décrit par le père.
+Le patient est retenu en quarantaine jusqu´au cinquième jour après son contact.
+L´évolution était rapidement favorable.
+Il a été traité à base de hydroxychloroquine (200 mg/jour) et de l´azithromycine (600 mg/j) pendant trois jours.
+Les infections cutanées primitives ou secondaires à l´infection par le SARS-COV-2 sont intéressantes du point de vue de l´évaluation des biais des diagnostics.
+Dans le cadre de cette indication, nous avons réalisé ce cas clinique pour rappeler que la cutanés est l´une des manifestations du syndrome inflammatoire déclenché par le SARS-COV-2.
+La contraception oculaire est l´indication principale.
+Un traitement oral ou par injection périphérique peut être instauré.
+Un traitement à large spectre comme le tétrasulfuron est inefficace et dangereux.
+L´efficacité du diphénhydramine est marginale et doit être pris avec l´odeur afin de respecter les règles de la confidentialité médicale.
+La chloroquine est une alternative en fonction de son approbation par la DGOF.
+
+La prise en charge d´un patient de 20 ans avec un tableau cutané aigu se compliquant d´une allergie alimentaire, en rapport avec la contact avec son père ayant positivement résulté à un test PCR pour le SARS-COV-2 doit être considéré sous forme de fil non brisé.
+L´évolution est rapidement favorable.
+Il a été amené à quitter le centre de santé après une durée estimée à 3 jours.
+Dans notre cas, l´évolution a été marquée par la disparition des lésions cutanées au bout d´un jour et par l´avènement d´une allergie alimentaire simulant une allergie alimentaire due à la chloroquine.
+Ce cas clinique remettrait en question la prudence des traitements auxquels on a recours en cas d´allergie cutanée.
+Ainsi, les interactions entre les médicaments et les effets indésirables associés sont étudiés (Machin et al., 2018).
+Ces interactions peuvent avoir de graves conséquences.
+Le diphénhydramine est un agent antihistaminique utilisée en otologie pour les insuffisances oculaires.
+La physiologie de son action peut s´expliquer par les interactions de l´histamine avec les récepteurs de la mucine, que l´on trouve dans le canal cérébelleux (Cross 1999).
+La chloroquine utilisée en médecine interne peut induire des effets antihistaminiques par inhibition de la voie épithéliale à la protéine de signalisation de l´actine (Wilkins et al., 2012).
+L´inhibition des voies protéiques est la cause de l´effet antihistaminique de l´histamine (Hamid, 2009).
+Il est clair que dans ce cas, l´obtention d´une allergie cutanée peut être dû à ces interactions.
+Dans notre cas, une infection pulmonaire se produit en milieu ambulatoire.
+La prise en charge est purement symptomatique, non prévenante.
+Le patient est encouragé à continuer à boire du thé.
+Le thé actif contient des molécules antibactériennes, des antioxydants et des alcaloïdes hypotensifs.
+Il s´agit donc d´une boisson adaptée à la respiration des voies aériennes, en améliorant le mucus (Mengel, 2001) qui est

@@ -1,0 +1,27 @@
+Il s’agit d’une patiente de 45 ans, sans antécédents pathologiques notables, qui a présenté il y a 8 ans des douleurs périombilicale intenses avec vomissements. L’examen clinique trouve un empâtement sus-ombilical et une altération de l’état général. L’hémogramme montre une anémie à 9g/dl d’hémoglobine, une hypoalbuminémie à 28g/l et une hyperleucocytose à 12500/mm3. La fibroscopie oeso-gastroduodénale a montré une gastrite congestive et une atrophie des villosités duodénale. La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal avec tumeur à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum avec anastomose jéjuno-iléale a été réalisée. L’examen anatomopathologique a conclu à un adénocarcinome lieberkuhien. Le patient a été revue à la consultation après 6 mois. Il ne présentait pas de récidive locale. Le bilan étiologique a évoqué une maladie cœliaque.
+
+La maladie cœliaque est une allergie au gluten. Le gluten est une protéine indispensable à la vie des céréales qui peut être responsable de lésions ulcérées de la muqueuse gastrique ou duodénale. L’introduction de la fibre alimentaire enrichie en gluten, tout comme le passage aux alimentations en ustensiles métalliques pouvait être responsable d’évoquant une cause extérieure à l’origine des lésions. Le gluten du blé est largement utilisé en Algérie et il est probable que certaines d’entre elles contiennent des protéines toxiques. Dans notre cas, la naissance d’un nourrisson avec syndrome cachectique était en faveur d’une cause familiale. Par ailleurs la mise en évidence d’une anémie microcytaire hypochrome évoquait une malabsorption. La prise en charge était basée sur un régime sans gluten et les symptômes et la manifestation radiologiques régressaient et les caryotypes étaient rassurants. La pathologie ne présentait pas de récidive après un an.
+
+La maladie cœliaque se manifeste par l’apparition à l’âge adulte d’une symtpomatologie inflammatoire chronique non spécifique (perte pondérale, asthénie, anémie, diarrhées, dyspepsie) associé à des lésions mucosiques de la partie antérieure duodénale, duodénopancréatique et gastrique.
+
+Un scanner abdominal est demandé, en particulier si les antécédents familiaux sont positifs, pour rechercher des images radiologiques spécifiques de la maladie, notamment la dilatation des canaux digestifs au-dessus de la tumeur. L’anatomopathologie est essentielle pour le diagnostic d’une tumeur de Lieberkuhn. L’étude cytodiagnostique du gluten peut également permettre d’objectiver une réponse à la phase de rémission après adoption d’un régime sans gluten.
+
+Le diagnostic positif est déclaré si au moins deux des critères suivants sont vérifiés:
+
+1) la disparition des symptômes après la suppression du gluten du régime alimentaire,
+2) la découverte de l’anti-gliadine et de l’anti-transglutaminase.
+
+Dans le cas de la patiente G, les symptômes et les lésions endoscopiques ont disparus après une année de suivi.
+
+L’adoption d’un régime sans gluten permet de réduire les lésions prolifératives et de limiter la fièvre et l’anémie.
+
+L’évolution est favorable et ces lésions peuvent régresser. Les nourrissons sont prénatalement victimes de la maladie, dans ce cas l’amélioration est souvent spectaculaire.
+
+La recherche étiologique doit être effectuée systématiquement auprès de tous les membres de la famille d’un patient ayant une maladie cœliaque déclarée, et en particulier auprès des parents, des frères et des sœurs de sexe masculin.
+
+Au vu des manifestations cliniques et radiologiques, et des antécédents familiaux, une recherche pondéreuse du gluten dans l’alimentation et dans la nourriture générale est indispensable.
+
+L’auto-destruction des villosités intestinales en raison de l’immunité à l’aliment gluten est un phénomène probablement peu fréquent, mais dont la précocité du diagnostic et la mise sous régime sans gluten permet la rémission et la régression des lésions par voie endoscopique ou par tomodensitométrie abdominale.
+
+### Response:
+Il s’agit d’une patiente de 45 ans, sans antécédents pathologiques notables, qui a présenté il y a 8

@@ -1,0 +1,20 @@
+Le patient P, est un homme âgé de 54 ans, sans antécédents notables, qui a présenté en janvier 1998 une hématurie macroscopique sans symptômes urinaires associés, ayant nécessité un examen tomodensitométrique qui a montré une masse de 4 cm, infiltrant partiellement la musculature uretérale, envahissant uniquement la graisse adjacente. Une cystoprostatectomie radicale totale, avec omphalectomie, avec entérocystoplastie de substitution, a été réalisée en février 1998, suivie d’une résection de l’ampulotomeur, en novembre 1998, à la suite de la récidive tumorale au niveau de la région urétérale, avec tumoraux infiltrant directement la graisse adjacente, qui a motivé une tentative de nécrose par cryothérapie en novembre 1998. Le diagnostic anatomopathologique définitif était un adénocarcinome de l’ouraque peu différencié, sans métastases ganglionnaires. L’étude immunohistochimique a montré la positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, avec négativité pour les cytokératines 7 et 20, le grade de différenciation, la largeur de la bande de condensation, la taille des noyaux et la réaction du chordome, étaient classés à T III A (selon la classification de Sheldon). Le patient P n’a reçu aucune chimiothérapie ni radiothérapie adjuvantes, mais il a reçu des corticothérapies, en septembre 1998, suite à l’infections urinaires multiples.
+
+En septembre 2000, il a présenté une récidive locale au niveau de l’ampulotomeur gauche. Il a été admis au service d’urologie, pour une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine, mais au cours du premier clystère, il a présenté une insuffisance rénale aiguë grave avec stase, nécessitant une dérivation urétérale, qui a été réalisée en novembre 2000, suivie d’un traitement antalgique par les narcotiques. Le décès s’est produit en novembre 2000, suite à une insuffisance rénale terminale. L’examen anatomopathologique de la pièce de dérivation urétérale a montré la présence d’un kyste simple de la vessie sans signes de malignité associés.
+
+Le patient P, présente un stade pT3a N1cM0 de la Classification Tumor-Node-Metastasis.
+
+### Response:
+Le patient P a été suivi régulièrement pendant deux ans, par son chirurgien qui n’avait pas connaissance de l’existence du chordome, ni de sa biodisponibilité à la chimiothérapie.
+
+Les avis des médécins qui ont pris en charge le patient P, consultés pour évaluer les seuls éléments suivants : la notion de chordome comme cause rare d’hématurie, l’indication de chimiothérapie dans ce cas, et les risques entrainés par celle-ci.
+
+Le premier avis consulté (Massin), a indiqué que la connaissance d’une biodisponibilité de ce type de tumeurs à la chimiothérapie était à résoudre par une étude de cas par cas.
+
+Le deuxième avis consulté (Porte), a indiqué que la biodisponibilité de la tumeur à la chimiothérapie était mal connue. Il a parlé d’un effet sur l’ouragan de vie du cancer, en raison de sa nature embryonnaire, susceptible de rendre les cellules plus sensibles à la chimiothérapie, ce qui devait être évalué par une étude de cas par cas. Il a parlé également de l’effet sur la réponse au traitement de certains facteurs de sensibilité tels que le GLI (Glial Fusion Inducing Ligand) (qui a un effet antitumoral sur les astrocytes et qui est produit par les cellules d’origine embryonnaire, y compris les cellules du chordome).
+
+Le troisième avis consulté (Foure), a parlé d’un effet de la chimiothérapie sur l’ouragan de vie du cancer, en raison de son origine embryonnaire, le laissant sensible à la chimiothérapie, et ce, d’une manière encore non déterminée. Il a parlé également de certains facteurs de sensibilité tels que le GLI.
+
+Le quatrième avis consulté (Chenard), a indiqué l’impossibilité d’affirmer ou de nier la biodisponibilité des tumeurs primitives au chordome aux médicaments anti-tumoraux, et de conclure que l’on doit l’évaluer de façon individualisée.
+
+Le cinquième avis consulté (Noble), a déclaré l’existence d’

@@ -1,0 +1,22 @@
+Ce cas clinique présente un patient âgé de 20 ans, sans antécédent particulier qui a été admis dans notre service le 30/04/2020 avec une atteinte cutanée au niveau des mains à type d´urticaire aigue associée à une toux sèche sans dyspnée ni fièvre. Il avait consulté auparavant le Centre Hospitalier Regional (CHR) où un test PCR a été réalisé, dont le résultat était positif en suspicion de COVID-19 et il a été mis sous antibiotique orale.
+A son admission, il a eu un traitement selon le schéma suivant: injection d´Etanercept 25 mg Sous cutané, puis un traitement par l´hydroxychloroquine et l´azithromycine.
+Après 6 heures, le malade a été apyrétique et sans détresse respidatoire ni hémodynamique. Aucun détresse respiratoire n´a été notée, aucune bronchopneumopathie n´a été révélée dans les radiographies de poitrine ou la tomodensitométrie thoracique.
+Il a bénéficié d´un bilan biologique normal.
+Le traitement était alors arrêté après 48h.
+Le patient a été repris dans le service après une semaine pour une récidive du même tableau clinique et a été bien sorti sous antibiotiques.
+Nous n´avons pas perdu de suivi sur le long terme, cependant après une semaine son état nous a été repris avec l´apparition d´une toux sèche à répétition et d´urticaire au niveau de la poitrine, associés à un décompensement en raison d’une alvéolite clinico-radiographique.
+L’évolution de ce cas a été très grave malgré le traitement, vu la survenue d’une des principales complications liées au COVID-19 : syndrome d’algorythmie ventriculaire par dissociation qRS VIR dans le context d’une réponse immunitaire cytokinémique, un cas évoquant celui de la COVID-19 chez un jeune homme en très bon état général, hospitalisé pour troubles neurologiques (somnolence, détresse respiratoire et crise épileptique) .
+Le début du tableau clinique était fébricule, avec une dyspnée à un stade avancé.
+La tomodensitométrie thoracique réalisée avait montré une opacité aérique diffuse bilatérale (Figure 1) sans retentissement hémodynamique.
+Le patient est arrivé au service de cardiologie en urgence, en guise de transfert aux urgences.
+L’électrocardiogramme avait objectivé un syndrome d’algorythmie ventriculaire par dissociation qRS VIR dans le contexte d’une réponse immunitaire cytokinémique (Figure 2).
+Le scanner cérébral était sans anomalies.
+Le patient avait été posé sous anti-VIR.
+Les précipitants de l’algorythmie ventriculaire sont peu documentés, la plupart étant liés aux médicaments. Mais des cas de syndrome d’algorythmie ventriculaire ont été rapportés en réponse à des agents immunomodulateurs [5-6].
+Il existe de nombreux facteurs favorisants qui agissent sur le mécanisme systémique du COVID-19 qui modifie la sensibilité cardiaque des médicaments. Parmi les plus fréquents on trouve la survenue d’un syndrome de reperfusion avec un traitement par anti-plaquettaires, le dosage progrese des cytokines pro-inflammatoires (IL6, IL10, TNF alpha) et le développement d’une hypotension qui peut être liée à un délais de temps entre la survenue d’un syndrome de reperfusion et la prise d’un agent anti-plaquette.
+Une autre théorie à l’origine de ces effets a été mise en évidence. On a pu observer la survenue de cardiomyopathie des virus. L’atteinte cardiaque induite par le SARS-CoV-2 est due à une réponse immunitaire si importante qu’elle engendre une aortion de cytokines et le lâchement de l’épaississement péri-vaisseux. Ces effets, également, peuvent aussi être imputés à l’usage de certains médicaments.
+Ces études sur les effets des médicaments du SARS-CoV-2 vont de l’immunomodulation au traitement par anti-plaquette.
+Ces facteurs augmentent le risque de survenue d’un syndrome d’algorythmie ventriculaire.
+Bien que nous n’ayons pas encore de consensus sur cette pathologie, l’absence de la plupart des facteurs favorisants est le signe de bon augure.
+Au cas de notre patient, la survenue de deux facteurs évitables et évidentes a permis de découvrir une algorythmie ventriculaire et une réaction immunitaire.
+Ainsi, il est possible que la survenue du COVID-19 induisait un syndrome d’

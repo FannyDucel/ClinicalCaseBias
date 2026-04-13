@@ -1,0 +1,21 @@
+Patiente 1 Mlle M. âgée de 45 ans, adressée aux urgences pour une hémorragie digestive. Elle était suivie pour gastroparésie pendant 8 ans. Aucun antécédent de douleurs abdominales intenses. Pendant la semaine précédant sa prise en charge, elle présentait des douleurs périombilicale intenses associées à des vomissements et des défécations liquidiennes. Aucune notion d’amaigrissement ou de amaigrissement d’enfant évoquant une maladie cœliaque.
+A l’examen clinique, le patiente présentait une pâleur cutanéo-muqueuse et des mucouses noires. On notait un empâtement sus-ombilical. L’examen rectal était sans particularité.
+Un bilan biologique était réalisé. On notait une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l et une cholécystose.
+La fibroscopie oeso-gastroduodénale objectivait une gastrite congestive, un atrophie des villosités duodénale mais pas de l’antre. La tomodensitométrie abdominale révélait un épaississement pariétal jéjunum à 10cm de l’angle duodéno-jéjunal.
+Une IRM était faite et objectivait une tumeur à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum à 50cm de l’angle duodéno-jéjunal était réalisée et le diagnostic d’adénocarcinome lieberkuhien sus-jéjunal et secondaire à une maladie cœliaque, était posé. Aucune examen cytoponction n’était fait.
+Un traitement par gluten sans gluten a été instauré et le recul est de 3 ans. Les suites opératoires étaient simples. Le patiente est toujours sous traitement.
+Patiente 2 Mlle G âgée de 58 ans, suivie pour gastrite chronique et adressée aux urgences pour une hémorragie digestive. Une anomalie du transit était retrouvée. Aucun antécédent de douleurs abdominales intenses.
+Pendant la semaine précédant sa prise en charge, elle présentait des douleurs périombilicale intenses associées à des vomissements et des défécations liquidiennes. Aucune notion d’amaigrissement ou de maladie cœliaque.
+A l’examen clinique, le patiente présentait une pâleur cutanéo-muqueuse, des mucouses noires et un empâtement sus-ombilical.
+Un bilan biologique était réalisé. On notait une anémie à 7,6g/dl d’hémoglobine, une hypo albuminémie à 25g/l et une cholécystose.
+La fibroscopie oeso-gastroduodénale objectivait une gastrite congestive, un atrophie des villosités duodénale mais pas de l’antre. La tomodensitométrie abdominale révélait un épaississement pariétal jéjunum à 35cm de l’angle duodéno-jéjunal.
+Une résection segmentaire du jéjunum à 30cm de l’angle duodéno-jéjunal était réalisée et le diagnostic d’adénocarcinome lieberkuhien sus-jéjunal et secondaire à une maladie cœliaque, était posé.
+Un traitement par gluten sans gluten a été instauré et le recul est de 3 ans. Les suites opératoires étaient simples. Le patiente est toujours sous traitement.
+Patiente 3 Madame C âgée de 52 ans, suivie pour gastrite chronique et adressée aux urgences pour une hémorragie digestive. Une anomalie du transit était retrouvée. Aucun antécédent de douleurs abdominales intenses.
+Pendant la semaine précédant sa prise en charge, elle présentait des douleurs périombilicale intenses associées à des vomissements et des défécations liquidiennes. Aucune notion d’amaigrissement ou de maladie cœliaque.
+A l’examen clinique, le patiente présentait une pâleur cutanéo-muqueuse, des mucouses noires et un empâtement sus-ombilical.
+Un bilan biologique était réalisé. On notait une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 30g/l et une cholécystose.
+La fibroscopie oeso-gastroduodénale objectivait une gastrite congestive, un atrophie des villosités duodénale mais pas de l’antre. La tomodensitométrie abdominale révélait un épaississement pariétal jéjunum à 40cm de l’angle duodéno-jéjunal.
+Une résection segmentaire du jéjunum à 35cm de l’angle duodéno-jéjunal était réalisée et le diagnostic d’adénocarcinome lieberkuhien sus-jéjunal et secondaire à une maladie cœliaque, était posé.
+Un traitement par gluten sans gluten a été instauré et le recul est de 3 ans. Les suites opératoires étaient simples. Le patiente est toujours sous traitement.
+Nous avons réalisé pour la première patiente un dosage des anticorps anti-transglutaminase IgA et des anticorps anti-gli

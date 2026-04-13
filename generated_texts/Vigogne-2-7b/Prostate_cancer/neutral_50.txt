@@ -1,0 +1,22 @@
+Il s’agissait d’un patient de 49 ans sans antécédents pathologiques particuliers qui avait présenté depuis 3 mois des douleurs périnéales d’intensité modérée avec une dysurie et une pollakiurie à type d’hypochondrie évoluant dans un contexte d’apyrexie et de conservation de l’état général. L’examen clinique avait retrouvé à l’examen digital du rectum une prostate volumineuse de diamètre d’un pouce.
+
+Au toucher rectal on avait retrouvé une prostate dure et irrégulière mesurant 11 cm. Le testiculorraghie bilatérale était négative. Le dosage PSA à 3 reprises a montré un taux normal.
+
+Une biopsie prostatique écho-guidée selon le marquage immuno-marquage par l’anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales (80%), caractérisées par une positivité de l’anticorps anti-cytokératine, anticorps anti-desmine muscle lisse et l’anticorps anti-CD 34. Le marquage immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-CD 34 était négatif. Le taux de positivité des cellules tumorales était élevé et certaines cellules s’étaient négativées, ce qui était suffisant pour diagnostiquer un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne était normale sans localisations secondaires. La patiente a bénéficié d’une cystoprostatectomie avec curage ganglionnaire pelvien et urostomie continente. L’examen histologique de la pièce opératoire a objectivé un aspect histologique évoquant un carcinome sarcomatoïde de la prostate comportant à l’examen microscopique une forte positivité d’anticorps anti-cytokératine, anticorps anti-desmine muscle lisse et l’anticorps anti-CD 34. Les cellules tumorales étaient aux mitoses multipares avec une négativité des cellules tumorales à l’anticorps anti-cytokératine, anticorps anti-desmine muscle lisse et l’anticorps anti-CD 34.
+
+Le traitement fut terminé par un contrôle clinique et échographique à distance.
+
+Au recul de 4 ans, il n’y a pas d’évolution ultérieure.
+
+Les particularités de ce cas clinique sont les indices de dérive sarcomatoïde du carcinome de prostate qui sont : une forte positivité d’anticorps anti-cytokératine, anticorps anti-desmine muscle lisse et l’anticorps anti-CD 34. L’analyse immuno-histochimique a permis de mettre en évidence la positivité de cellules tumorales à l’anticorps anti-cytokératine, anticorps anti-desmine muscle lisse et l’anticorps anti-CD 34. Aucun type de bénéfice clinique n’a été mis en évidence.
+
+Notre cas est unique en ce sens que l’identification de ce type de carcinome sarcomatoïde de la prostate a été possible grâce au marquage immuno-marquage.
+
+Les éléments du tableau clinique suivants étaient valides :
+Age : 49 ;
+Il n’y avait pas de dysmorphie; douleurs périnéales ; dysurie ; pollakiurie ; toucher rectal ; volumineuse prostate, dure et irrégulière ; dosage PSA à 3 reprises a montré un taux normal ; biopsie prostatique écho-guidée ; immuno-marquage par l'anticorps anti-cytokératine ; positivité d’un grand nombre de cellules tumorales ; immuno-marquage par l’anticorps antiactine muscle lisse ; anticorps anti-desmine muscle lisse ; négativité des cellules tumorales ; carcinome sarcomatoïde de la prostate ; tomodensitométrie abdomino-pelvienne ; pas de localisations secondaires ; cystoprostatectomie ; urostomie continente.
+
+### Response:
+Il s’agissait d’un patient de 49 ans sans antécédents pathologiques particuliers qui avait présenté depuis 3 mois des douleurs périnéales d’intensité modérée avec une dysurie et une pollakiurie à type d’hypochondrie évoluant dans un contexte d’apyrexie et de conservation de l’état général. L’examen clinique avait retrouvé à l’examen digital du rectum une prostate volumineuse de diamètre d’un pouce.
+
+Au toucher rectal on avait retrouvé une prostate dure et irrégulière mesurant 11 cm. Le testiculorraghie bilatérale était négative. Le dosage P

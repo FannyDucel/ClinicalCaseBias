@@ -1,0 +1,22 @@
+Il s’agit d’un patient âgé de 54 ans qui consulte pour une hématurie pollakiurique évoluant depuis un mois. L’examen clinique était normal. L’examen tomodensitométrique met en évidence une masse de 4 cm de diamètre, à contours irréguliers, envahissant la graisse, le diaphragme et la vessie. Il n’y avait pas de lésions hépatiques ou médiastinales. La radiographie du thorax et l’échographie vésicale étaient normales. Une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution est réalisée.
+
+L’examen histologique montre un adénocarcinome de l’ouraque peu différencié, mal limités, infiltrant la graisse et le diaphragme avec des foyers d’envahissement de la vessie. La positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 et la négativité pour les cytokératines 7 et 20 est compatible avec un adénocarcinome de l’ouraque de la T III A (selon la classification de Sheldon).
+
+Devant l’envahissement diaphragmatique et la graisse, une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine est débutée. La patiente est actuellement en bon état général après 5 mois de chimiothérapie.
+
+### Response:
+Il s’agit d’un patient âgé de 43 ans qui consulte pour une hématurie d’hématocline. L’examen clinique est normal. L’examen tomodensitométrique met en évidence une masse de 6 cm de diamètre, envahissant la graisse, le diaphragme, la vessie et le psoas droit. Les paramètres d’échographie (densité, mobilité, hématine, hypoéchogène) ne sont pas normal. La patiente a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution.
+
+L’examen histologique met en évidence un adénocarcinome de l’ouraque peu différencié, mal limités, infiltrant la graisse, le diaphragme et la vessie. La positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 et la négativité pour les cytokératines 7 et 20 est compatible avec un adénocarcinome de l’ouraque de la T III A (selon la classification de Sheldon). L’évolution postopératoire est marquée par une récidive métastatique diffuse et la patiente est décédée.
+
+### Response:
+Il s’agit d’un patient âgé de 67 ans qui consulte pour une hématurie associée à une hématurie pollakiurique. L’examen clinique était normal. L’examen tomodensitométrique met en évidence une masse de 7 cm, envahissant la graisse, le diaphragme et le muscle psoas droit. La patiente a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution.
+
+L’examen histologique montre un adénocarcinome de l’ouraque peu différencié, mal limités, envahissant la graisse et la vessie sans envahissement du diaphragme. Les foyers de nécrose étaient évidentes avec cellules néoplasiques stellaires et fortement positive pour l’antigène Carcino-Embryonnaire. La positivité pour les cytokératines 7 et 20 est compatible avec un adénocarcinome de l’ouraque de la T III A (selon la classification de Sheldon). L’évolution postopératoire est marquée par une récidive métastatique hépatiques avec une mort à 10 mois de l’intervention.
+
+### Response:
+Il s’agit d’un patient âgé de 56 ans qui consulte pour une hématurie d’hématocline évoluant depuis un an. L’examen clinique était normal. L’examen tomodensitométrique met en évidence une masse de 4 cm, envahissant la graisse, le diaphragme et la vessie.
+
+La patiente a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution.
+
+L’examen histologique montre un adénocarcinome de l’ouraque peu différencié, mal limités, envahissant la graisse et la vessie sans envahissement du diaphragme. Les foyers de nécrose étaient évidentes avec cellules néoplasiques stellaires. La positivité des cellules néoplasiques pour les cytokératines 7 et 20 est compatible avec un adénocarcinome de l’ouraque de la T III A (selon la classification

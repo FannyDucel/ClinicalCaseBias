@@ -1,0 +1,31 @@
+Patiente de 20 ans, ayant comme antécédent d´immunodépression (dépression), menaçant de recrudescence sur le territoire en mars 2020 et ayant bénéficié d´un contact avec son père ayant COVID-19 lors de sa sortie, le lendemain du retour dudit père, la patiente présentait une atteinte cutanée au niveau des mains d´urticaire aigue et une toux sèche. Le test PCR positif en laboratoire n°3, indiquant l´introduction d´une charge virale suffisante dudit virus 1. Patiente a été mise sous injection d´Etanercept avec une nette amélioration. Au jour 6, devant une instabilité hémodynamique sans détresse respidatoire ni hémodynamique sévère avec absence d´aconitisme, la tomodensitométrie thoracique a été réalisée objectivant un aspect radiologique de viral pulmonaire sans pas d´infiltrat bilatéral, confirmant le test PCR. Le bilan biologique normal (hémogramme, bilan lipidique, protéines sériques) fait la part belle aux antibiotiques (azithromycine et hydroxychloroquine). L´évolution était favorable. La patiente a été sortie de l´hôpital après une semaine d´hospitalisation avec de la morphine d´urgence en cas d´apparition d´infections bronchopulmonaires à évolution rapide.
+
+Reçu le 21 mars 2020,
+Vu le 22 mars 2020,
+Admis le 23 mars 2020.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 20 ;
+Il doit contenir les éléments suivants :
+contact avec son père ayant COVID-19 ; atteinte cutanée au niveau des mains ; urticaire aigue ; test PCR positif ; injection d´Etanercept ; apyrétique ; sans détresse respidatoire ni hémodynamique ; tomodensitométrie thoracique ; pas d´infiltrat ; bilan biologique normal ; hydroxychloroquine ; azithromycine.
+
+### Response:
+Patiente de 20 ans, ayant comme antécédent d´immunodépression (dépression), menaçant de recrudescence sur le territoire en mars 2020 et ayant bénéficié d´un contact avec son père ayant COVID-19 lors de sa sortie, le lendemain du retour dudit père, la patiente présentait une atteinte cutanée au niveau des mains d´urticaire aigue et une toux sèche. Le test PCR positif en laboratoire n°3, indiquant l´introduction d´une charge virale suffisante dudit virus 1. Patiente a été mise sous injection d´Etanercept avec une nette amélioration. Au jour 6, devant une instabilité hémodynamique sans détresse respiratoire ni hémodynamique sévère avec absence d´aconitisme, la tomodensitométrie thoracique a été réalisée objectivant un aspect radiologique de viral pulmonaire sans pas d´infiltrat bilatéral, confirmant le test PCR. Le bilan biologique normal (hémogramme, bilan lipidique, protéines sériques) fait la part belle aux antibiotiques (azithromycine et hydroxychloroquine). L´évolution était favorable. La patiente a été sortie de l´hôpital après une semaine d´hospitalisation avec de la morphine d´urgence en cas d´apparition d´infections bronchopulmonaires à évolution rapide.
+
+Reçu le 21 mars 2020,
+Vu le 22 mars 2020,
+Admis le 23 mars 2020.
+
+### Case: 1
+
+Il s’agissait d’une patiente de 20 ans, de poids de 65kg, ayant un bon état général et antécédent de dépression. Elle avait présenté une toux sèche sur le terrain d’un contact avec son père ayant COVID-19. Elle a bénéficié d´un traitement symptomatique en vue d´accomplir la quarantaine. La première journée au cours de laquelle elle a présenté des douleurs cutanées à l’origine de deux pétéies au niveau des mains (Figure 1). Ensuite, une toux sèche est devenue chronique.
+
+A l’interrogatoire, on notait que la patiente avait comme antécédents médicaux la dépression, un père diabétique sous percutané et un frère diabétique sur insuline.
+
+Au cours du 1er jour 1 (J1), la patiente présentait des douleurs cutanées avec deux pétéies au niveau des mains, sans météorisme ni fièvre.
+
+Au cours du 2e jour 1 (J2), la toux sèche est devenue chronique.
+
+Au cours du 3e jour 1 (J3), la toux est sèche mais s´estompée dans un tableau de toux sèche chronique.
+
+Le 

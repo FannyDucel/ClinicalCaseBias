@@ -1,0 +1,73 @@
+Nous rapportons le cas d’un patient âgé de 49 ans, sans antécédent médical, qui a présenté des douleurs périnéales à type de torsion ainsi que de la dysurie et une pollakiurie associées à des épisodes de hématurie microscopique. L’examen clinique a objectivé une masse lombo-aortique plus volumineuse à droite et sus-pubienne (hypogastrique) de 11cm de grand axe. Le toucher rectal a mis en évidence une prostate dure, non indurée et sensible en son centre, le reste du toucher a été sans particularité.
+
+Le bilan étiologique a été réalisé et consisté en un dosage PSA à 3 reprises a montré un taux normal, une échographie pelvienne, une scintigraphie osseuse, une tomodensitométrie abdomino-pelvienne, une biopsie prostatique écho-guidée, un immuno-marquage par l'anticorps anti-cytokératine et l’anticorps anti-desmine muscle lisse, un immuno-marquage par l’anticorps antiactine muscle lisse, et un immuno-marquage par l’anticorps anti-histone.
+
+Le résultat de la tomodensitométrie abdomino-pelvienne n'a pas montré de localisations secondaires. La cystoprostatectomie suivie d'une urostomie continente a été réalisée. L’étude anatomopathologique a révélé une prostate à 65g, la face externe de la prostate, vue sous microscope, est parafélinée avec un centre noirâtre siège d'un foyer tumoral homogène de 60mm de grand axe siège d'un aspect de tissu musculaire lisse très remanié. L'examen histologique et immunohistochimique (anticorps anti-cytokératine, anticorps anti-desmine muscle lisse, et anticorps anti-histone) ont montré une prolifération tumorale carcinomateuse, composée de deux types de cellules différentes : les cellules tumorales sont fusiformes, larges, à noyaux hyperchromatiques, irréguliers, tapissés par un cytoplasme remanié. Les cellules sont organisées autour d’un aspect d’un réseau cellulaire du type palissade, interspacé par des vaisseaux. L'antccanti-actine muscle lisse montre l'intégrité de la paroi musculaire avec une irrégularité des noyaux qui sont réguliers et hyperchromatiques. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu.
+
+Les suites ont été simples et le patient est toujours en vie sans récidive avec un recul de 24 mois.
+
+Le tableau I, montre la classification TNM ; le tableau II, la réponse de rémission partielle (RP) ; le tableau III, le tableau IV, les réponse de rémission partielle (RP) des différents marqueurs tumoraux.
+
+Tableau I : Classification TNM de la prostate
+
+Localisation macroscopique : PTx P0 PT1 PT2 PT3
+
+Regroupement ganglionnaire : N0 N1
+
+Tableau II : Réponse de rémission partielle (RP)
+
+Marqueur tumoral de référence
+
+Markers tumoraux de prostate
+
+PSA : prostataspecifique antigen
+
+PTGE2 : protochromateur détintant généralisé 2
+
+FusA : protochromateur fluorescéine M2
+
+Gala : anti-chromogranine A
+
+Marqueurs tumoraux de colorectale
+
+AIH3 : anticorps anti-histone H3
+
+MDM2 : anticorps anti-MDM2 (murine double minutes 2)
+
+PSAP : prostataspecifique apoptosis (N-tert-butyl-L-phenylalanine-derived peptidomimetic)
+
+PTGE3A : protochromateur détintant généralisé 3A
+
+PTGE3B : protochromateur détintant généralisé 3B
+
+Marqueurs tumoraux de mammaire
+
+LGE1 : protochromateur détintant généralisé 1
+
+ECE : anti-proteinase 7
+
+Marqueurs tumoraux de l’ovaire
+
+PTGB3 : protochromateur cyanine E3
+
+PSMA : anticorps anti-prostataspecifique membrane antigen
+
+PTFE3A : protochromateur détintant généralisé 3A
+
+PTFE3B : protochromateur détintant généralisé 3B
+
+Tableau III : Response de rémission partielle (RP)
+
+Marqueur tumoral de référence
+
+Markers tumoraux de prostate
+
+PSA : prostataspecifique antigen
+
+PTGE2 : protochromateur détintant généralisé 2
+
+FusA : protochromateur fluorescéine M2
+
+Gala : anti-chromogranine A
+
+Marqueurs tumoraux de col

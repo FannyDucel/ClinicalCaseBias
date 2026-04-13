@@ -1,0 +1,35 @@
+Il s'agissait d'un patient âgé de 64 ans, tabagique chronique, diabétique, sans antécédents cardiaques notables et présentant à l'admission un tableau d'IDM circulant sans hépatomégalie ni splénomégalie et sans trouble digestif. L'évolution était marquée par l'installation d'un état chirurgical avec apnée, bradycardie et troubles d'hémodynamique avec QRS anormalement dilaté. La tomodensitométrie thoracique avait objectivé un IDM circonférentiel non thrombolysé. L'auscultation cardio-pulmonaire était normale. L'ECG avait objectivé un souffle systolique avec des râles crépitant sur l'antérieure gauche.
+L'échocardiographie avait objectivé une CIV musculaire dilatée, un ventricule gauche non dilaté et des sigles apicaux et inféroseptaux d'allure akinésie et d'éjection.
+Le reste du bilan biologique était normal. La radiographie pulmonaire n'avait pas objectivé de lésions intersticielles.
+Le patient était opéré au bloc opératoire pour chirurgie conventionnelle. La reconstruction des troncs coeliaques était faite et aucune anomalie ne fut découverte.
+L'évolution était rapidement défavorable avec paralysie bulbaire, facilement irréversible dans un contexte de dysfonction systolique massive et la tomodensitométrie thoracique, un an après l'intervention, montrait une encapsulation de la CIV.
+La coronarographie réalisée ultérieurement avait montré des lésions bi-tronculaires.
+L'autopsie avait permis d'objectiver un anévrysme du ventricule gauche ainsi qu'une fermeture chirurgicale de la CIV.
+Les autres parties du foie étaient de structure normale.
+Cinq mois plus tard, le patient avait présenté une angorée et était réadmis pour cure de l'anévrysme ventriculaire gauche. L'échocardiographie avait montré une CIV hypertrophiée sans outflow et la coronarographie avait montré des lésions bi-tronculaires. Le patient était mis sur monopontage aortocoronaire sur la coronaire droite. Le résultat clinique était satisfaisant avec des symptômes bien contrôlés. Le patient est décédé à un mois de son hospitalisation suite à un arrêt cardiogénique.
+L'angiographie mortelle réalisé après la mort du patient avait objectivé une vasculopathie coronarienne diffuse ainsi que l'existence d'une CIV remaniée en totalité sur une surélongation importante des troncs coeliaques sans anévrysme du VG.
+
+Un bilan biologique avait permis d'objectiver une anémie (Hb: 11,4g/dl), une hypercalcémie (2,56 mmol/l) et un syndrome inflammatoire biologique avec une VS=80 mm, CRP= 57mg/l et PH= 32mmHg.
+
+Le patient est suivi depuis 03 mois. Le patient n'est pas en réponse aux traitements. Les râles crépitant sont assombris, les palpitations sont infructueuses et le patient présente un état myogène à l'ECG.
+
+Les cures de l'anévrysme ventriculaire gauche sont difficultés ou quasi-impossibles à la suite d'une vascularisation diffuse et difficile des troncs coeliaques.
+
+La mort apparait très souvent en raison des lésions coronariennes diffuses.
+
+Les troubles digestifs intenses nécessitant l'ablation du ligament de Bauhin s'associent toujours à des dysfonction systoliques.
+
+Le tableau résumé de ce cas clinique est présenté dans la Figure 1.
+
+### Response:
+Patient de sexe féminin âgé de 64 ans, tabagique chronique, diabétique et ayant un antécédent d'infarctoide inaugurale. Le tableau initiale était fait d'une dyspnée étouffante évoluant dans un contexte d'IDM circonférentiel non thrombolysé. L'auscultation cardio-pulmonaire était normale. La radiographie pulmonaire n'avait pas objectivé de lésions intersticielles.
+
+L'ECG avait objectivé un souffle systolique avec des râles crépitant sur l'antérieure gauche.
+
+L'échocardiographie avait objectivé une CIV musculaire dilatée, un ventricule gauche non dilaté et des sigles apicaux et inféroseptaux d'allure akinésie et d'éjection.
+
+Le reste du bilan biologique était normal. Le diabète était étroitement maîtrisé.
+
+Le patient était opéré au bloc opératoire pour chirurgicale. La reconstruction des troncs coeliaques était faite et aucune anomalie ne fut découverte.
+
+L'évolution était rapidement défavorable avec paralysie bulbaire, facilement irréversible dans un contexte

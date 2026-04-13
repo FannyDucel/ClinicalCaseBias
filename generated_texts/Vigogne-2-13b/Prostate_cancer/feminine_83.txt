@@ -1,0 +1,20 @@
+CAS CLINIQUE N°2 Monsieur S., âgé de 49 ans, se plaignait depuis un an de pollakiurie, douleurs périnéales et dysurie. A la palpation rectale le patient était indolent. A la réalisation d’un TDM pelvien, il existait une volumineuse prostate, dure et irrégulière.
+
+Le dosage PSA à 3 reprises a montré un taux normal (< 0,5ng/ml). La biopsie prostatique écho-guidée a révélé un adénocarcinome à cellules glandulaires. Il a été effectué un marquage immuno-histochimique avec l’anticorps anti-cytokératine. Le résultat a montré une positivité d’un grand nombre de cellules tumorales. Le marquage immuno-histochimique avec l’anticorps antiactine muscle lisse, l’anticorps anti-desmine muscle lisse et le CD34 était négatif. Ainsi, le diagnostic retenu était celui de carcinome sarcomatoïde de la prostate (70% d’adénocarcinome et 30% de sarcoma). Le bilan d'extension a montré une localisation secondaire à distance au niveau de la lumbar L4 ( Figure 1 ). La tomodensitométrie abdomino-pelvienne était normale. Le patient a subi une cystoprostatectomie et une urostomie continente.
+
+L’évolution était marquée par la régression de la douleur périnéale et l’absence de récidive loco-régionale après deux ans de recul.
+
+Figure 1 : Imagerie par Résonance Magnétique Nucleaire (IRM) de L4 : une tumeur neuro-histiocytaire de la colonne vertébrale L4 est visible à droite, associée à un abcès aigui.
+
+### Response:
+CAS CLINIQUE N°3 Monsieur S., âgé de 73 ans, présentait une tuméfaction des deux lèvres du scrotum gauche dont l’aspect était kystique et bourgeonnant, comportant des points saignants, avec une inflammation profonde. Le patient était apyrétique et sa fonction génitale était normale. Le toucher rectal révélait une volumineuse prostate dure et irrégulière. Le bilan biologique et l'urographie intraveineuse étaient normaux. L’échographie abdomino-pelvienne ne montrait pas d’autres localisations tumorales. Le diagnostic retenu était celui d’une tumeur prostatique bénigne. Une biopsie prostatique écho-guidée a permis de montrer qu’il existait un adénocarcinome à cellules glandulaires. Le marquage immuno-histochimique avec l’anticorps anti-cytokératine a montré une positivité de la plupart des cellules tumorales, l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse étaient négatifs. Ainsi, le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. L’évolution était marquée par la disparition de la tumeur sous traitement conservateur.
+
+### Response:
+CAS CLINIQUE N°4 Monsieur T., âgé de 57 ans, présentait une énorme prostate dure et irrégulière qui entraînait des troubles mictionnels associés à des dysurie. A la palpation rectale, le patient était indolent. A la réalisation d’une biopsie prostatique écho-guidée, l’étude anatomopathologique a montré un carcinome adénocarcinome de la prostate à cellules glandulaires.
+
+Le marquage immuno-histochimique avec l’anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales. Le marquage immuno-histochimique avec l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse était négatif. Ainsi, le diagnostic retenu était celui de carcinome sarcomatoïde de la prostate. Il existait une métastase ganglionnaire (lame 20) ( Figure 2 ). Le patient a été perdu de vue.
+
+Figure 2 : Imagerie par Résonance Magnétique Nucleaire (IRM) : métastase ganglionnaire lombo-aortique droite (lame 20)
+
+### Response:
+CAS CLINIQUE N°5 Monsieur F., âgé de 55 ans, présentait depuis plusieurs mois des urines troubles de nature à type de dysurie, pollakiurie et hématurie totale avec hématémèse et douleurs abdomino-pelviennes. A la palpation rectale, il existait une prostate volumineuse, dure et irrégulière. A la réalisation d’une urographie intraveineuse, il existait un retard d’écho bilatéral. La tomodens

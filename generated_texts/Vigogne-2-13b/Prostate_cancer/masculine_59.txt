@@ -1,0 +1,39 @@
+M.A., 49 ans, sans antécédents médicaux particuliers, présentait des douleurs périnéales et dysurie associées à une pollakiurie. Il n'y avait pas d'altération de l'état général ni de signes inflammatoires au niveau de l'examen clinique. Le toucher rectal avait montré une prostate volumineuse, dure et irrégulière. Le dosage PSA à 3 reprises était normal (4 ng/ml; 0,1-4 ng/ml). Une biopsie prostatique écho-guidée avait mis en évidence une prolifération tumorale faite de cellules larges disposées en tourbillons, évoquant une prolifération carcinomateuse avec des marges de séparation hémorragiques, sans dégénération glandulaire (Figure 1). Le résultat du marquage immuno-histochimique (IHC) a montré que les cellules tumorales ne sont pas marquées par l'anticorps anti-cytokératine, l’anticorps anti-actine muscle lisse et l’anticorps anti-desmine muscle lisse. Le marquage par les anticorps anti-CD34, anti-CD99 et anti-PSL est négatif. Il existe des migrations cellulaires indifférenciées de grandes tailles avec un important index mitotique. Le diagnostic retenu est celui de carcinome sarcomatoïde de la prostate (Figure 2).
+
+La tomodensitométrie abdomino-pelvienne ne montre pas de localisations secondaires.
+
+Un geste chirurgical de cystoprostatectomie a été réalisé avec urostomie continente. Les suites opératoires ont été simples. Après une année de recul, aucune récidive n’a été décelée.
+
+L'évolution est marquée par l'amélioration totale des symptômes.
+
+La découverte accidentelle de ce type de carcinome de la prostate est très rare. Le diagnostic de ce type de cancer est souvent tardif par suite d’une baisse de l’activité sexuelle qui masque les signes cliniques et de l’impossibilité d’obtenir des coupes diagnostiques par la TDM. En effet, les cellules tumorales ne sécrètent pas d’hormone prostatique qui bloque les récepteurs de l’aromatase aux membranes plasmique et nucléaire. Cette carence en hormone prostatique a pour effet de mettre en évidence les lipides cytoplasmiques qui se projettent au-dessus de la paroi cellulaire, ce qui est visible par l’écho-guidée (20).
+
+Un geste chirurgical est tout à fait envisageable et indispensable au vu de la gravité du carcinome.
+
+Il n’y a pas de consensus sur le choix de la prise en charge thérapeutique de ce type de carcinome. Les tumeurs sarcomatoïdes ont une croissance rapide et des métastases hépatiques. En cas de progression loco-régionale, on parle de sarcome d’Ewing alors que la notion de carcinome est utilisée pour les cellules indifférenciées qui prolifèrent par mitose.
+
+Des résultats sont malheureusement peu éclairants. Une récapitulation des traitements réalisés dans les cas historiques a montré une indolence importante, de nombreuses récidives et des survivances différentes (2, 7, 13).
+
+Une étude récente a tenté de déterminer un classement histologique qui pourrait guider la décision thérapeutique. Les résultats ont montré que les carcinomes indifférenciés avaient la plus mauvaise prognose avec une survie médiane à 17 mois. Le tableau 1 regroupe les éléments de choix dans la prise en charge du sarcomateuse carcinome de la prostate.
+
+Tableau 1. éléments de choix dans la prise en charge du sarcomateuse carcinome de la prostate
+
+Recommandation Quelle activité métastatique Le mode d’acquisition (de néoplasie) de métastases (surgicales)
+• Évaluation de la fonction rénale préopératoire 3 / 4
+• Évaluation du stade tumoral UICC:
+- Prostate, paramètres locaux: T3 N1 M0
+- Radiothérapie adjuvante: non indiquée
+• Détermination du gène HRAS muté:
+- HRAS Gly > Asp
+• Reconstruction urinaire (bilatérale):
+• Chimiothérapie adjuvante : non indiquée
+• Examen morphologique des métastases
+• Alteration du nombre et des grandes lignes de la chromatine
+• Gène HRAS muté
+• Alteration du volume cellulaire
+• Examen morphologique des métastases urinaires
+• Modification des cellules tumorales par la radiothérapie
+• Considération des paramètres locaux, tumoraux et métastatiques
+• Compliance d’un cytoscan ; observation en survie.
+
+1. Ewing, S. S., Grossfeld, G. D., Mil

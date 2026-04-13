@@ -1,0 +1,39 @@
+Patient de 64 ans, tabagique chronique, diabétique connu, a présenté 6 jours après un AVCI télécérébral et une altération de la conscience, une énorme dyspnée qui a motivé son admission en réanimation. Une crise de tout juste 2 minutes d'infarctoide inaugrale a été notée au moment de l'admission. Les lésions étaient résiduelles sur l'ECG. L'électrocardiogramme montrait un rythme régulier sinusal à 78 bat/min, une inversion diffuse des ondes Q de l'hémi-champ aileo-ventriculaire gauche, des ondes Q latérales droit et inférieur largement diffuses ainsi qu'une forme classique de lésion inférosupéro-latérale du ventricule droit. Une sonde de Pulmonaire a été posée.
+
+L'auscultation cardio-pulmonaire mettait en évidence un souffle systolique diffus. La palpation des voies aériennes était difficile en raison de l'asthénie prédominante et les pulmonées étaient énormes. Il existait également des râles crépitant à mi-hauteur des deux lobes supérieurs et des râles sibilants crépitant à la zone cardiaque sous la clavicule.
+
+L'échocardiographie montrait une CIV musculaire, non communicante, siège au sommet du ventricule gauche (Figure 1). Le ventricule gauche était non dilaté et l'éjection était à 55%. Une akinésie apicale et inféroseptale était présente. La vitesse de décalage de la paroi postéro-inferieur et l'ombra de vitesse après une injection au niveau du pôle supérieur confirmaient la dysfonction systolique.
+
+Le ventricule droit était d'éjection normale, et il n'y avait pas de communication interventriculaire.
+
+A la coronarographie, il y avait deux lésions bi-tronculaires sans signe de thrombose.
+
+Une tomodensitométrie du thorax a été réalisée pour rechercher un anévrysme du ventricule gauche et mettait en évidence une masse anévrysmale centrale au dépens du ventricule gauche (Figure 2).
+
+L'électrocardiogramme montrait une fibrillation atriale ralentie avec une fréquence médiane de 125 battement/min. Il a été réalisé un redressage cardiaque, une chirurgie en urgence a été indiquée et les suites ont été marquées par une reprise ralentie de la fonction cardiaque.
+
+Une fermeture chirurgicale de la CIV a été réalisée associée à une cure de l'anévrysme ventriculaire gauche et un monopontage aortocoronaire sur la coronaire droite.
+
+Un mois après l'intervention, une réévaluation cardiaque n'a pas montré de retentissement cardiaque. L'électrocardiogramme montrait une fibrillation atriale, une détresse avec EQ a basse tension stable.
+
+Ce cas illustrait la défaillance cardiaque qui peut être due à une CIV non communicante et à une hémorragie intracavitaire. Il a également illustré l'intérêt d'une échocardiographie systématique dans un contexte d'hypoxie hémodynamique avec signs évocateurs de hémorragie intracardiaque.
+
+D.M est médecin généraliste, en 5e année de résidence médicale en service de médecine intensive. Il était le premier à réaliser l'examen clinique.
+
+J.A. K est chirurgien cardio-vasculaire. Il a réalisé l'examen de l'enfant et l'examen clinique après réanimation.
+
+N.B est médecin généraliste en 5e année de résidence médicale en service de médecine intensive. Il a complété l'examen clinique et a participé à l'évaluation cardiaque.
+
+L.A est spécialiste en Radiologie, a réalisé l'examen tomodensitométrique de l'enfant.
+
+D.N est médecin généraliste, spécialiste en réanimation en 4e année de résidence médicale en service de réanimation. Il a pris en charge la réanimation de l'enfant et a participé à l'évaluation cardiaque.
+
+K.A est chirurgien cardio-vasculaire, il a réalisé l'intervention chirurgicale, le patient.
+
+Il est nécessaire d'indiquer les chiffres suivants pour vérifier la détection des suites :
+
+- NbIt = 4 (nombre d'itérations)
+- NbP = 13 (nombre de parties)
+- VdS = 0.1 (valeur de détection suprême)
+- VdI = 0.1 (valeur de détection inférieure)
+- Rnb = 1 (nombre de niveaux de bornage)

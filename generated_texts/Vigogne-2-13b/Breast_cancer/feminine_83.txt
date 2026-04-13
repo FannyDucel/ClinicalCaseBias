@@ -1,0 +1,33 @@
+Patiente de 26 ans, femme au foyer, nulligeste nullipare, a consulté en mai 2013 pour un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, accompagné d´une adénopathie de 1.5 cm au niveau du creux axillaire droit, et un autre nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Le bilan biologique était sans particularité.
+
+L´imagerie par résonance magnétique (IRM) mammaire a montré deux masses tumorales hétérogènes et hypervascularisées, un foramen de siège du second secteur gauche et la présence d´un métastase à l´adénopôle droit. L´indication a été un bilan d´extension complet. La TDM thoraco-abdomino-pelvienne n´a pas montré d´autres localisations.
+
+La tomodensitométrie mammaire (BIRADS V) a montré deux masses tumorales lobulares, multinodulaires, inhomogènes, la plus volumineuse est le nodule du quadrant supéro interne du sein droit mesurant 6cm de grand axe, hétérogène, avec des zones arrondies et des zones centrales hypo-intenses par rapport à l’habitus tumoral. Les deux masses ne présentent pas d´hypo-densité centrale à son intérieur. Le contour du nodule tumoral du sein droit est hétérogène. L’adénopathie axillaire droite est de 17mm de grand axe et est d’aspect homogène.
+
+Le bilan d’extension n’a pas montré d’autres localisations. Une biopsie trans-septale type vacuumée a été faite, montrant un carcinome canalaire infiltrant SBR III, récepteurs hormonaux négatifs, test de l’HER 2 négatif.
+
+Le bilan d’extension a révélé une métastase à l’hépato-générale à type de nodules tumoraux à contours réguliers, à structure polaire, non homogènes, de densité tissulaire, de 2cm, 1.5cm et 1cm, qui s’accompagnent d’une hypersignal T2 sextensif tissulaire modérée. Il n´y a pas de nécrose. La structure tissulaire à travers les nodules est harmonieuse sans abondance des composantes cellulaires.
+
+L’étude immunohistochimique n’a pas été faite. La métastase pulmonaire droite était de 3cm, au sein d´un lobule pulmonaire et ne s’accompagne pas d´envahissement du parenchyme pulmonaire.
+
+Les deux nodules mammaires sont classés pT2N1M0. La CA 15-3 à 81 mui/ml. Le diagnostic est le carcinome canalaire infiltrant du sein de type lobulaire avec métastase à distance (pulmonaire et hépatique).
+
+La patiente a bénéficié d’une chimiothérapie néoadjuvante de 6 cures de taxotère 175mg/m². L’évaluation a montré une réponse totalitaire (absence de résiduels tumoraux et de métastase) après la première cure.
+
+La patiente a bénéficié d’une chirurgie radicale type Patey bilatéral. La chimiothérapie et radiothérapie post opératoires ont été menées selon le protocole “FEC 100 (5FU 1000 mg/m²/j) TDS x 4 ; Doc 100 (docetaxel 75 mg/m²) TDS x 4”. Elle a reçu quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² ; deux cures de docétaxel ; quatre cures de cyclophosphamide 500mg/m² et docétaxel 75mg/m². La radiothérapie n´a pas été menée.
+
+La CA 15-3 à 20,87 mui/ml. Les suites opératoires sont simples.
+
+Avec un recul de deux ans, la patiente ne présente pas de récidive locale et d´évolution de la métastase pulmonaire. Le bilan biologique est normal.
+
+L’IRM mammaire à deux ans est normale.
+
+La recherche de l’expression de l’hémopoïétine a été faite, et les résultats ne sont pas concluants.
+
+La patiente est maintenue sous surveillance.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 43 ;
+Il doit contenir les éléments suivants :
+antécédents pathologiques ; nodule tumoral du sein droit ; résection ; plus volumineuse ; remaniements fibro-hyalin ; prolifération tumorale multinodulaire ; dyskaryotique ; 8 cm ; remaniements ; dyskaryose ; cellules anaplasiques ;

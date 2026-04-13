@@ -1,0 +1,31 @@
+Un jeune homme de 20 ans ayant comme antécédent une toux sèche et une dyspnée depuis quelques jours, est admis en réanimation médicale pour altération de l’état de conscience d’où une admission aux urgences. L’histoire de la maladie note que le patient a un contact avec son père ayant COVID-19, présentant des céphalées et de l’asthénie, avec l’apparition depuis une semaine d’une atteinte cutanée au niveau des mains se généralisant rapidement au tronc. Le tout évolue dans un contexte d’urticaire aigue.
+Le test PCR est positif, malgré qu’il soit négatif au test rapid.
+Le patient est mis sous injection d´Etanercept.
+L’examen clinique à son admission trouve un patient apyrétique, en bon état général, fébrile à 38,3°C, ses saturations en oxygène étaient à 98% à l’air ambiant et le patient a une tachycardie sinusale à 130 battements/min. Il ne présente pas de détresse respidatoire ni hémodynamique.
+La tomodensitométrie thoracique n’a pas révélé de pneumopathie ou de fibrose alvéolaire.
+Les recherches de Syphilis et Hépatite B ont été négatives.
+Le bilan biologique normal, l’échographie abdomino-pelvienne, ainsi que l’électrocardiogramme étaient normaux.
+L’évolution à hospitalisation est marquée par l’amélioration clinique, biologique, ainsi que radiologique.
+Après 72 heures, il est adressé en réanimation médicale.
+La maladie de Behçet est évoquée en cas de découverte d’une urticarienne dans le cadre de COVID-19 et le patient est mis sous hydroxychloroquine et azithromycine, qui est ajusté devant une persistance de l’urticaire.
+Le 14e jour d’hospitalisation, le patient décède dans un tableau de choc septique.
+L’autopsie n’a pas pu être réalisée.
+La recherche d’antigène anti HLA-B51 a été négative.
+Le tableau 1, présente la répartition de la mortalité en COVID-19 dans notre centre hospitalier, ainsi que la répartition par sexe et par âge.
+A noter que le patient décédé ici est le seul ayant Behçet’s disease.
+Le tableau 2, présente la distribution des études cliniques réalisées sur les patients ayant une COVID-19 et une Behçet’s disease.
+Les données épidémiologiques, diagnostiques et cliniques des 10 cas présentés ici et des 11 cas présentés dans la littérature (4, 10-14) sont résumées dans le tableau 3.
+À travers cet examen, il semble que le diagnostic de COVID-19 chez les patients atteints d’une Behçet’s disease puisse être facile, mais les atteintes cutanées peuvent être tardives.
+L’utilité de mettre ces patients sous traitement à base de Hydroxychloroquine en raison d’un risque d’évolution vers le choc septique reste à déterminer.
+Le tableau 4 résume l’état actuel de l’immunopathogenèse de la maladie de Behçet.
+Le tableau 5, présente la séquence des étapes évolutives de la cascade inflammatoire, où la maladie de Behçet serait au cœur de cette cascade.
+Le tableau 6, présente l’état actuel de la pathogénie des vascules de A et de C3, dans la maladie de Behçet.
+Le tableau 7, présente la séquence des produits de dégradation de la C3 (C3α, C3β, C3γ) avec les enzymes de cette voie de degradation, les catalyseurs concomitants et les cofacteurs nécessaires.
+Le tableau 8, présente les données les plus récentes sur la structure des molécules d’auto-antithyroperoxidase, anticorps réactifs aux polynucléaires neutrophiles (ANA) et anticorps anti-citrulinés antigènes, qui sont des antigènes que la pathogénie de Behçet peut expliquer.
+L’étude de ces données pourrait peut-être permettre un traitement plus précis pour les patients présentant une pathologie auto-immune.
+
+Un arrêt de traitement ou un décaissement des doses des traitements corticoïdes ou immunosuppresseurs associés peut être nécessaire, et ceci repose sur des données issues d’études de laboratoires expérimentales et/ou cliniques, et devrait être ajusté devant l’état actuel des connaissances.
+
+L’insuffisance rénale chronique éosinophile associée à la maladie de Behçet est une réalité cliniquement et biologiquement fondée.
+Les données publiées dans la littérature (26-28), indiquent que les hyper-sialylases chez les patients de Behçet’s disease ont une activité importante.
+La

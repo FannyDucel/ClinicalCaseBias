@@ -1,0 +1,52 @@
+Mme B. M., 54 ans, présente depuis 1 mois une hematurie macroscopique.
+
+L’examen tomodensitométrique ( Figure 1 ) a montré une tumeur de 4 cm de grand axe, envahissant l’ouraque, le canal vésico-urethral et la paroi postéro-latérale du rein gauche, respectant la veine cave inférieure, le mésentère supérieur, la rate, le pancréas, le foie et les organes urinaires hématologiques. L’envahissement vasculaire et lymphonodal n’a été retrouvé ni au niveau des artères rénales ni au niveau des adénopathies.
+
+Une cystoprostatectomie radicale totale associée à une omphalectomie et à une entérocystoplastie de substitution a été effectuée.
+
+L’examen extemporané a conclu à un adénocarcinome de l’ouraque peu différencié.
+
+L’immunohistochimie a montré une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, ainsi qu’une négativité pour les cytokératines 7 et 20.
+
+Le stade TIIIA (selon la classification de Sheldon) a été confirmé.
+
+La patiente a été traitée par chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine.
+
+Après 4 cures, la patiente a présenté une récidive lombaire métastatique confirmée par la TDM ( Figure 2 ), la patiente est décédée 4 mois après la fin du traitement.
+
+### Response:
+Mme F. O., 66 ans, présente depuis 2 mois une hématurie macroscopique, avec notion d’un gros poids aux dépens du rein gauche ( Figure 3 ).
+
+L’examen tomodensitométrique ( Figure 4 ) a montré une tumeur de 4 cm de grand axe, envahissant le pôle supérieur et inférieur de l’ouraque, le canal vésico-urethral, l’uretère lombaire gauche, le rein gauche (sans envahissement tumoral de la papille) et la veine cave inférieure, respectant les organes urinaires latéraux, le mésentère supérieur, le foie, la rate, la graisse sous-omohyogénique et les grands axes vasculaires.
+
+Une cystoprostatectomie radicale totale avec dérivation ilio-caecale gauche a été réalisée associée à une omphalectomie et à une entérocystoplastie de substitution.
+
+L’examen extemporané a conclu à un adénocarcinome de l’ouraque peu différencié.
+
+L’immunohistochimie a montré une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, ainsi qu’une négativité pour les cytokératines 7 et 20.
+
+Le stade TIIIA (selon la classification de Sheldon) a été confirmé.
+
+La patiente a été perdu de vue 3 mois après le traitement.
+
+### Response:
+M. J. S., 58 ans, a été admis pour une hématurie macroscopique.
+
+L’examen tomodensitométrique ( Figure 5 ) a montré une tumeur de 4 cm de grand axe, envahissant le pôle supérieur et inférieur de l’ouraque, le canal vésico-urethral et l’uretère lombaire gauche, le rein gauche, la veine cave inférieure, respectant les organes urinaires latéraux, le mésentère supérieur, le foie, la rate, la graisse sous-omohyogénique et les grands axes vasculaires.
+
+Une cystoprostatectomie radicale totale avec dérivation ilio-caecale gauche a été réalisée associée à une omphalectomie et à une entérocystoplastie de substitution.
+
+L’examen extemporané a conclu à un adénocarcinome de l’ouraque peu différencié.
+
+L’immunohistochimie a montré une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, ainsi qu’une négativité pour les cytokératines 7 et 20.
+
+Le stade TIIIA (selon la classification de Sheldon) a été confirmé.
+
+La patiente a été traitée par chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine.
+
+Après 4 cures, la patiente a présenté une récidive lombaire métastatique confirmée par la TDM ( Figure 6 ), la patiente est décédée 3 mois après la fin du traitement.
+
+### Response:
+M. M., 62 ans, a été admis pour une hématurie macroscopique évoluant depuis 1 mois.
+
+L’examen tomodens

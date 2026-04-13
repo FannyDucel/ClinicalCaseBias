@@ -1,0 +1,20 @@
+Mr A. est un homme âgé de 49 ans, sans antécédents pathologiques, présentant depuis un an des douleurs périnéales, dysurie et pollakiurie évoluant par paliers. La douleur était caractérisée par une sensation de pesanteur au niveau de la région pelvienne avec des pesanteurs utérines à type de pesanteur vésicale, sans pression à l’hémitétraire ni uréthrorragies ni douleurs paroxystiques. Une énurésie nocturne est observée, accompagnée d’une volumineuse prostate, dure et irrégulière. Le toucher rectal révèle une prostate de taille normale, ferme et mobile. Un bilan uro-dynamique est pratiqué. Le dosage PSA à 3 reprises a montré un taux normal. Le bilan hépatique est normal. La biopsie prostatique écho-guidée, faite sous anesthésie générale, montre un carcinome adénocarcinomateux. L'immuno-marquage par l'anticorps anti-cytokératine montre une positivité d’un grand nombre de cellules tumorales, l’immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse montrent une négativité des cellules tumorales. Le diagnostic d’un carcinome sarcomatoïde de la prostate est retenu. La tomodensitométrie abdomino-pelvienne n’a pas montré d’autres lésions hépatiques ni d’autres localisations secondaires. Un traitement par chirurgie a été décliné par le patient. Après une période de temps qui a été fortement criticable, en octobre 1999, il a consulté, vu la persistance de la douleur pelvienne, une tuméfaction et une baisse de l'état général, une cystoprostatectomie, une énuctérisation de la vessie et une urostomie continente ont été réalisées. L'examen anatomopathologique a conclu à un carcinome sarcomatoïde de la prostate avec une résiduum non indemne. Une bithérapie (chimiothérapie et radiothérapie) n'a pas été instaurée parce que la maladie était irréversiblement avancée. Après une période de 15 mois, le patient est décédé d’une progression de la maladie.
+
+### Response:
+M. K., un homme âgé de 60 ans, est hospitalisé pour une dysurie depuis quelques mois.
+
+L’interrogatoire, réalisé par le gynécologue, a permis d’apprendre que M. K. avait présenté une pollakiurie d’installation progressive remontant à 4 mois, suivie de douleurs pelviennes et dysurie. A l’admission au service de médecine, le patient était en bon état général avec une toux humide productive, non contagieuse. L’examen clinique a objectivé un état hydrique apyrétique avec une tuméfaction au niveau du périnée, la vésicule était sensible, ferme et irrégulière.
+
+L’urée était à 12,50 g/l, l’urée sphérique à 0,22 g/l, la créatininémie à 6,80 mg/l, le leucocyte à 6000/mm³, le VGA à 38,9 mg/l, la calcémie à 2,34 mmol/l. La ponction prostatique a révélé une dérivation urinaire pré-systémique. La cytologie prostatique a permis de retrouver de l’urothélium.
+
+L’échographie testiculaire et pelvienne a montré une prostate augmentée de volume avec des zones de densité plus basse intervallaires.
+
+La ponction prostatique a été renouvelée, elle a montré une prostate non réductible de 30 g de volume avec la présence de quelques cellules malignes.
+
+La biopsie trans-rectale prostatique a été réitérée et a confirmé le diagnostic de carcinome épidermoïde bien différencié (score Gleason 3+3). La tomodensitométrie a été complétée par une cystoscopie et une prostatectomie trans-urétrale. La biopsie prostatique et l’examen anatomopathologique ont conclu à une lésion infiltrante carcinomateuse indifférenciée.
+
+Le traitement chirurgical a consisté en une prostatectomie trans-urétrale totale et une uretèrectomie avec anastomose en continent. Les suites ont été simples. Les résultats histologiques du contenu tumoral extra-urétéral sont en faveur d’une métastase néoplasique enchiridionique à la prostate. L’évolution clinique était favorable, avec une récupération de la fonction rénale.
+
+Il est décédé de la maladie à 12 mois de l’intervention.
+
+M. P., un homme de

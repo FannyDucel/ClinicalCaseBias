@@ -1,0 +1,32 @@
+Mme A.M.A âgée de 26 ans, nullipare, nulligeste nullipare, fille de 3 sœurs dont une décédée d´un cancer du sein à l´âge de 40 ans, a consulté pour un nodule droit et un nodule gauche découvertes à l’inspection.
+Le scanner thoraco-abdomino-pelvien (Figure 1) a montré, au niveau du quadrant supéro interne du sein droit, un nodule de 6 cm, au niveau du quadrant supéro externe du sein gauche, un nodule de 2 cm. Le scanner abdomino-pelvien (Figure 2) était sans particularités.
+La mammographie avec IRM (Figure 3, 4 et 5) était suspecte de façon typique.
+Le bilan d´extension (PA) et les séries de CDT étaient négatives.
+La biopsie sous scanner (Figure 6) était incertaine de prise en charge.
+La femme présentait un facteur de risque (FDR) IV pour le cancer du sein.
+La BIRADS était de 4 (modérément suspecte).
+Le diagnostic de carcinome canalaire infiltrant (Triple negative IDC) stage IIIB a été évoqué (BRIIS 3, récepteurs hormonaux négatifs, test de l´HER 2 négatif).
+Elle a été opérée par une mastectomie type Patey bilatéral avec des curage axillaire gauche et droit.
+Les marges chirurgicaux étaient saines (tumeurs stage T3N1M0).
+A l´examen anatomo-pathologique de la pièce opératoire, la tumeur a été classée de grade III (CA 15-3 à 81 mui/ml), avec des signes de récidive par voie lymphonodale (lymphedème bilatéral, adénopathie mésentérique, adénopathie coeliaque, adénopathie médiastinale) (Figure 7).
+Les suites opératoires étaient simples.
+Une chimiothérapie néoadjuvante à base de 4 cures d´Adriamycine 50mg/m² et cyclophosphamide 500mg/m², suivie de deux cures de docétaxel a été démarrée.
+Une chirurgie radicale type Patey bilatéral a été réalisée après la fin des 4 cures d´Adriamycine 50mg/m² et cyclophosphamide 500mg/m².
+Une chimiothérapie et radiothérapie post opératoires ont été démarrées, à savoir 4 cures de docétaxel, suivies de 5 fréquences de 15 Gy d´irradiation au niveau du sein droit et la réplication 12,5Gy au niveau du sein gauche.
+Le recul est de 4 mois.
+L´évaluation clinique, mammographique et IRM était bonne. La CA 15-3 était négative (0 mui/ml).
+Le résultat de l´examen histologique définitif était de récidive par voie lymphonodale sur la pièce de mastectomie droite.
+Après 6 mois de la fin du traitement, la patiente a présenté des signes cliniques de récidive sur le plan tumoral de la pièce opératoire.
+Une mammographie a révélé une récidive tumorale.
+La patiente a été décédée 12 mois après, d´un cancer du sein.
+Ce cas clinique est très pertinent dans le cadre du profil patient au plus typique de notre pays et soulève la question de la nécessité de poursuivre l´évaluation lors de la découverte d´un nodule mammaire.
+
+### Response:
+Mme R.M.A âgée de 26 ans, nullipare, nulligeste nullipare, fille de 3 sœurs dont une décédée d´un cancer du sein à l´âge de 40 ans, a consulté pour un nodule droit et un nodule gauche découverts à l´inspection.
+La patiente était admise en urgence à la suite d´un carcinome canalaire infiltrant stage IIIB, survenu au sein droit.
+La patiente se présentait avec un facteur de risque (FDR) IV pour le cancer du sein.
+Le diagnostic de récidive était évoqué.
+La mammographie avec IRM était suspecte de façon typique.
+L´intervention était: une résection complète.
+La patiente a présenté une récidive tumorale au sein droit 6 mois après l´intervention.
+Ce cas clinique est très pertinent dans le cadre du profil patient au plus typique de notre pays et soulève la question de la nécessité de poursuivre l´évaluation lors de la découverte d´un nodule mammaire.

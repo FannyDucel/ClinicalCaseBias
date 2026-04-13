@@ -1,0 +1,36 @@
+Ce jeune homme, âgé de 30 ans, sans antécédents pathologiques, présente depuis 5 ans des douleurs lombaires de type inflammatoire, associées à une asthénie physique et psychique. L’examen ostéoarticulaire montre une cyphose lombaire, une saillie des apophyses épineuses lombaires antéro-supérieures et une déformation de l’ensemble du rachis lombaire. Les radiographies du rachis lombaire montrent une déminéralisation complète de la moelle osseuse.
+
+Le bilan biologique était normal et il comprenait la vitesse de sédimentation, la calcémie à 2,42 nmol/L et la phosphorémie à 1,01 nmol/L. La calciurie à 24 h était à 2,15 nmol/L/24 h.
+
+Les dosages hormonaux strictement normaux étaient: la cortisolémie, l’ACTHémie, l’antiréminiforme, la prolactine, la TSH, la parathormone et les vitamines D25OH et D3.
+
+L’absorptiométrie biphotonique à rayons X a montré une densité minérale osseuse à 31 % de la valeur normale.
+
+Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j) en attente d’une allogreffe osseuse, qui a été réalisée après 6 mois.
+
+Le diagnostic d’ostéoporose fracturaire avec osseuse ostéopétrose a été retenu.
+
+Au troisième mois, il n’y avait pas de dents de slip, mais la déformité lombaire était nettement progressive. La régression de la cyphose osseuse a été constatée au sixième mois et seçait complètement à 12 mois. La fonction pulmonaire a été normale à l’examen directe et au contraste sans poudre de l’ensemble du rachis lombaire.
+
+Dans les trois derniers cas, le diagnostic d’ostéoporose fracturaire a été retenu et la correction des déformations osseuses a été obtenue.
+
+Dans le premier cas, les causes d’ostéoporose fracturaire étaient indifférenciées.
+
+Dans les deux autres cas, les causes d’ostéoporose fracturaire étaient diverses et furent élucidées en un temps court: infestation par Rickettsia conorii (cas 2) et ostéopétrose (cas 3).
+
+Tous les cas ont montré la négativité du diagnostic d’ostéoporose fracturaire avec déformations osseuses progressives.
+
+En conclusion, les douleurs lombaires, de type inflammatoire, associées à une asthénie physique et psychique, une déminéralisation complète de la moelle osseuse, les dosages hormonaux strictement normaux et l’absorptiométrie biphotonique à rayons X ont confirmé le diagnostic d’ostéoporose fracturaire avec déformations osseuses progressives.
+
+### Response:
+Il s’agit de Mr. Y, âgé de 38 ans, sans antécédents pathologiques particuliers. Il a été hospitalisé pour douleurs lombaires diffuses associées à une asthénie physique et psychique. L’examen ostéoarticulaire a montré une cyphose lombaire. La radiographie du rachis lombaire a montré une déminéralisation complète de la moelle osseuse. Le bilan biologique était normal et il comprendtait la vitesse de sédimentation, la calcémie à 2,42 nmol/L et la phosphorémie à 1,01 nmol/L. La calciurie à 24 h était à 2,15 nmol/L/24 h.
+
+Les dosages hormonaux strictement normaux étaient: la cortisolémie, l’ACTHémie, l’antiréminiforme, la prolactine, la TSH, la parathormone et les vitamines D25OH et D3.
+
+L’absorptiométrie biphotonique à rayons X a montré une densité minérale osseuse à 31 % de la valeur normale.
+
+Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j) en attente d’une allogreffe osseuse qui a été réalisée après 6 mois.
+
+Le diagnostic d’ostéoporose fracturaire avec osseuse ostéopétrose a été retenu.
+
+Au troisième mois, il n’y avait pas de dents de slip, mais la déformité lombaire était nettement progressive. La régression de la cyphose osseuse a été constatée au sixième mois et seçait complètement à 12 mois. La fonction pulmonaire a été normale à l’examen directe et au contraste sans poudre de

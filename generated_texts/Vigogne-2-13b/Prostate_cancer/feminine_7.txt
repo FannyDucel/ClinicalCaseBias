@@ -1,0 +1,23 @@
+Mme F., âgée de 49 ans, consultait pour des douleurs périnéales, une dysurie et une pollakiurie depuis 1 mois. Le début de la symptomatologie remonterait à 4 mois par la découverte, lors d’une toilette, d’une masse du rectum non douloureuse et mobile par rapport aux deux plans. Après 4 mois d’évolution indolore, l’évolution prenait un tour défavorable par l’apparition de douleurs périnéales, d’une dysurie et d’une pollakiurie. A l’examen clinique, on notait une masse rectale volumineuse (10cm de diamètre), indolore, irrégulière, mobile et bien limitée, de consistance ferme. Le toucher rectal permettait de constater la présence d’une prostate volumineuse, dure et irrégulière avec un contour, indépendant de la prostate. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée avec immuno-marquage par l’anticorps anti-cytokératine avait montré une positivité d’un grand nombre de cellules tumorales disposées en nappes, en chaînes et en groupes de taille variable à constituant cellulaire très réduit, infiltrant le chorion et les fibres musculaires lisses de l’éponge parenchymateuse de la prostate. L’immuno-marquage par l’anticorps antiactine muscle lisse était positif sur 30% des cellules tumorales. L’anticorps anti-desmine muscle lisse était également positif sur 30% des cellules tumorales. Enfin, la desmine était également positive sur 30% des cellules tumorales. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. La tomodensitométrie abdomino-pelvienne réalisée pour éliminer une localisation secondaire était sans particularité. La patiente a bénéficié d’une cystoprostatectomie avec urostomie continente. L’examen histologique avait montré un carcinome sarcomatoïde de la prostate et les marges chirurgicales étaient saines. L’évolution est favorable après un recul de 18 mois.
+
+### Réponse:
+Mme F. âgée de 49 ans a été vue en consultation pour des douleurs périnéales associées à une pollakiurie.
+Dans ses antécédents on note une ménopause à 40 ans.
+L'examen physique a trouvé une masse rectale volumineuse et mobile, indolore, avec une patiente apyrétique, sans hématurie ni adénopathies péri rectales.
+La biopsie rectale était négative.
+Le toucher rectal a trouvé une prostate volumineuse, dure et irrégulière avec un contour indépendant de celui de la prostate.
+Le dosage PSA à 3 reprises a montré un taux normal.
+La biopsie prostatique écho-guidée a montré l'immuno-marquage par l'anticorps anti-cytokératine, la positivité d’un grand nombre de cellules tumorales, avec des cellules faisant 30% à constituant cellulaire très réduit, infiltrant le chorion et les fibres musculaires lisses de l’éponge parenchymateuse de la prostate. L'immuno-marquage par l’anticorps antiactine muscle lisse était positif sur 30% des cellules tumorales. L'anticorps anti-desmine muscle lisse était également positif sur 30% des cellules tumorales. Enfin, la desmine était également positive sur 30% des cellules tumorales.
+Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu.
+La tomodensitométrie abdomino-pelvienne réalisée pour éliminer une localisation secondaire était sans particularité.
+La patiente a bénéficié d'une cystoprostatectomie avec urostomie continente.
+L'examen histologique avait montré un carcinome sarcomatoïde de la prostate et les marges chirurgicales étaient saines.
+L'évolution est favorable après un recul de 18 mois.
+
+### Response:
+Mme F. âgée de 49 ans a été vue en consultation pour des douleurs périnéales associées à une pollakiurie.
+Dans ses antécédents on note une ménopause à 40 ans.
+L'examen physique a trouvé une masse rectale volumineuse et mobile, indolore, avec une patiente apyrétique, sans hématurie ni adénopathies péri rectales.
+La biopsie rectale était négative.
+Le toucher rectal a trouvé une prostate volumineuse, dure et irrégulière avec un contour indépendant de celui de la prostate.
+Le dosage PSA à 3 reprises a montré

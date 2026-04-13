@@ -1,0 +1,25 @@
+Il s’agissait d’un homme de 30 ans, sans antécédents particuliers, qui s’était présenté au service de rhumatologie pour douleurs lombaires sévères d’installation progressive, irradiant au mollet droit et au plancher pelvien, d’aggravation par la déflexion et la rotation. Ces douleurs étaient accompagnées de tentations irradiantes au haut du fessier droit. L’examen clinique objectivait une laxité de la hanche droite avec asthénie physique et psychique, l’examen ostéoarticulaire était normal. A la radiographie du rachis lombaire une cyphose lombaire avec saillie des apophyses épineuses L1 et L2. Une échographie abdominale a été réalisée et n’a pas objectivé de lésions évocatrices.
+
+Les radiographies du rachis lombaire, de la hanche et du bassin a révélé un agenèse des deux côtes supérieures et de la clavicule droite, une cyphose lombaire avec saillie des apophyses épineuses L1 et L2, une saillie des arcs postérieur et antérieur de la hanche droite, un saillie du corps du pubis, un saillie du corps du pisiforme et du scaphide, une doublure de la scapulo-thoracique droite.
+
+L’examen du métabolisme minéral osseux a mis en évidence une vitesse de sédimentation élevée à 45 mm à la première heure, une hypocalcémie à 2,42 nmol/L, une hypophosphorémie à 1,01 nmol/L, une hypercalciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux, notamment la parathormone basse et le facteur de croissance, le taux de V2M et V3M, ainsi que l’absence d’aspect anomalie à l’échographie mamillaire, le dosage de l’α-fœto-protéine a été fait et était normal.
+
+La calculoscolographie a été réalisée et confirme l’aspect de déformation des côtes et du bassin, la densité minérale osseuse a été faible, de 140 mg/cm2.
+
+Le diagnostic d’ostéogenèse imparfaite type II B fonctionnelle a été retenu. Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j). Il a été revu à deux mois et la surveillance médicale en vue d’un diagnostic précoce d’ostéoporose fracturaire fut décidée.
+
+Il n’y a pas eu de signes de mauvais état général ni signes d’ostéoporose.
+
+En ce qui concerne la prise en charge de ce patient nous pensons que l’ostéoporose avec l’âge évoluant dans ce patient a entraîné son éventuelle osteoporose.
+
+Il n’y a pas de preuves une prise en charge spécifique (n'existe pas de code SNOMED CT et de JACOG pour cette pathologie) dans le JACOG, bien que l'ostéoporose figure parmi les complications rares, et aussi bien que le critère de recherche spécifique de type néphrotique n'est pas mentionné. La plupart des infections évitables, notamment les infections urinaires ont été reconnues et considérées comme compliquations spécifiques. De même pour les complication de la renaissance maternelle (sepsis néonatal, hypoglycémie, choc septique, souffrance du nouveau-né). Une étude sur la survie et le fonctionnement des reins chez les patients avec l'OSTEOPOROSE FOUNDATION a étudié la survie et les effets médicamenteux de la prise d'effleurants sur la survie et la fonction du rein. L'étude n'a trouvé aucune différence significative entre les patients avec et sans OI retenant le recours à un traitement par la phosphorémie. Une surveillance clinique et radiologique sans traitement spécifique d'ostéoporose a été recommandée chez les patients ayant une fracture stérile.
+
+Le traitement par vitamine D a été noté comme un traitement possible dans le traitement de l'ostéoporose mais n'a pas été spécifié dans la prise en charge du patient.
+
+La formule de gestion de la chaleur a été notée, mais aussi l'importance de l'aggravation des douleurs liées à la chaleur.
+
+La mesure des vitesse de sédimentation était estimée à être non significative.
+
+Au long de la vie, l'examen de la croissance est toujours indiqué pour les patients avec OI, la chaleur augmente les douleurs. La chaleur et l'activité physique ont été notées comme des aggravateurs. Une éducation a été appuyée pour l'interprétation des symptômes.
+
+L'ostéoporose, bien que très courante, est

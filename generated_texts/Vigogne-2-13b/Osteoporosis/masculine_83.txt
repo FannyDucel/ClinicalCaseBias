@@ -1,0 +1,32 @@
+Mr A est un homme de 30 ans qui vit dans une région du Sahara. Il a présenté, depuis 4 ans, des douleurs lombaires expansives avec asthénie physique et psychique. L’examen ostéoarticulaire a retrouvé une cyphose lombaire, une saillie des apophyses épineuses et une curvature de la colonne vertébrale, mais pas de déformations paralysantes. Les radiographies du rachis lombaire ont montré une spine palmée, une asymétrie et un affaissement du plan sagittal du dernier segment de la colonne. L’angulation de la colonne vertébrale en regard de la vésicule séminale droite est marquée. La vitesse de sédimentation était à 12 mm/h et la calcémie à 2,42 nmol/L, avec une phosphorémie à 1,01 nmol/L et une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (calcitriol à 37,3 nmol/L, parathormone basse (6,4 pg/ml), oestradiol à 39,5 pg/mL, testostérone à 0,94 nmol/L) ont été contrôlés en urgence. L’absorptiométrie biphotonique à rayons X a objectivé une densité minérale osseuse très faible à 1,02 g/cm 2 du squelette axial, comparée à 1,17 g/cm 2 au niveau du squelette périphérique (Tableau 1). Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j) en l’absence de réponse.
+
+Devant la persistance des douleurs lombaires et la présence d’une ostéoporose fracturaire, une greffe osseuse a été proposée, qui a permis de redresser le dos, avec régression des douleurs.
+
+Tableau 1.
+Densités minérales osseuses en g/cm 2 selon les régions.
+
+Sites Distances radiologiques à l’axe squelette axial 33-45 cm squelette périphérique
+L1 L2 L3 L4 L5 S1 S2 S3 S4 S5 S6 S12 S13 S14 S15 S24 S25 S26 S36
+1.11 1.05 0.93 0.87 0.98 1.07 1.12 1.16 1.17 1.12 1.18 1.11 1.07 1.08 1.07 1.13 1.13 1.13 1.08 1.09 1.14 1.13 1.14 1.16
+
+C1 C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12
+1.17 1.18 1.18 1.15 1.15 1.12 1.06 1.03 1.04 1.06 1.08 1.12 1.08 1.05 1.03 1.03 1.12 1.11 1.10 1.11 1.11 1.11 1.13
+
+Région lombaire
+1.02
+
+Région dorsale
+1.15
+
+Note : les lignes directrices de l’absorptiométrie osseuse (DAOS) en DXA pour le diagnostic du « rachitisme négligé » sont les suivantes :
+Ligne droite : 1,13 à 1,16 g/cm 2 ;
+Ligne oblique de récupération (5° de déclinaison par rapport à la ligne droite) : 1,18 à 1,22 g/cm 2.
+
+### Response:
+Il n’y a pas de variances à noter entre les deux lignes directrices DXA osseuse pour la région lombaire et la région dorsale. Ces deux lignes directrices permettent donc de discuter du diagnostic du rachitisme négligé sur le plan osseux dans le syndrome observé chez M. A, en contrôlant ses dosages hormonaux strictement normaux.
+
+La DAOS semble être de plus en plus utile pour la recherche du « rachitisme négligé » chez les patients adultes.
+
+L’anomalie de la densité minérale osseuse apparaît fort probablement à l’origine de l’ostéoporose et des fractures du rachis lombaire, voire du rachis cervical, chez M. A, compliqués de céphalées et de céphalodynies.
+
+La densité minérale osseuse n’est pas dans les limites précises de la ligne droite qui sert de référence pour un diagnostic de « rachitisme négligé ». Il ne nous

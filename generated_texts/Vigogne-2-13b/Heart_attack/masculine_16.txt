@@ -1,0 +1,30 @@
+Il s'agit d'un patient âgé de 64 ans, tabagique chronique avec une co-morbidité diabétique et un infarctoide inaugurale, qui a été hospitalisé pour une IDM circonférentielle non thrombolysée au niveau du quadrant apicodorsolateral gauche. L'examen clinique a trouvé une conscience claire, un tonus normal, un patient droitier, un bon état hémodynamique, une tension artérielle à 130/70mmHg, un pouls à 80 battements par mn, un pouls radial à 32 cycles par minute, une tachycardie sinusale à 120/min. L'auscultation cardio-pulmonaire a noté un souffle systolique prolongé qui s'accompagne de râles crépitant diffuses, un tirage épigastrique sans douleur. L'électrocardiogramme a montré une dysrythmie stable sur un infarctus myocardique antérieur post-MI. L'échocardiographie a montré une petite bourrelet d'épanchement pléural, un CIV musculaire, un ventricule gauche non dilaté, une akinésie apicale et inféroseptale sans dysfonction systolique, une dysfonction diastolique avec une insuffisance régressionnelle droite. La coronarographie a montré des lésions bi-tronculaires au niveau du LAD et de la coronaire droite, une anévrysme du ventricule gauche communiquant au niveau du CIV et au tiers inféroseptal. Le patient a bénéficié d'une fermeture chirurgicale de la CIV et d'une cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite. Les suites opératoires étaient simples avec un recul de deux ans et demi. Le patient est toujours bien porteur.
+
+Figure 1. Maison de Littre le LAD partiellement occludé à 90% avant la fermeture chirurgicale de la CIV.
+
+Figure 2. Méthode de monopontage aortocoronaire sur la coronaire droite au niveau de la zone anévrysmale.
+
+Figure 3. Monopontage aortocoronaire sur la coronaire droite au niveau de la zone anévrysmale.
+
+Figure 4. Image après fermeture chirurgicale de la CIV et cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite.
+
+Figure 5. Image après fermeture chirurgicale de la CIV et cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite.
+
+Figure 6. Image après fermeture chirurgicale de la CIV et cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite.
+
+Tableau I.
+
+Détails du patient n°1 Tableau II.
+
+Détails du patient n°2 Tableau III.
+
+Détails du patient n°3 Tableau IV.
+
+Détails du patient n°4 Tableau V.
+
+Détails du patient n°5 Tableau VI.
+
+Détails du patient n°6
+
+### Response:
+Il s'agit d'un patient âgé de 64 ans, tabagique chronique avec une co-morbidité diabétique et un infarctoide inaugurale, qui a été hospitalisé pour une IDM circonférentielle non thrombolysée au niveau du quadrant apicodorsolateral gauche. L'examen clinique a trouvé une conscience claire, un tonus normal, un patient droitier, un bon état hémodynamique, une tension artérielle à 130/70mmHg, un pouls à 80 battements par mn, un pouls radial à 32 cycles par minute, une tachycardie sinusale à 120/min. L'auscultation cardio-pulmonaire a noté un souffle systolique prolongé qui s'accompagne de râles crépitant diffuses, un tirage épigastrique sans douleur. L'électrocardiogramme a montré une dysrythmie stable sur un infarctus myocardique antérieur post-MI. L'échocardiographie a montré une petite bourrelet d'épanchement pléural, un CIV musculaire, un ventricule gauche non dilaté, une akinésie apicale et inféroseptale sans dysfonction systolique, une dysfonction diastolique avec une insuffisance régressionnelle droite. La coronarographie a montré des lésions bi-tronculaires au niveau du LAD et de la coronaire droite, une anévrysme du ventricule gauche communiquant au niveau du CIV et au tiers inféroseptal. Le patient a bénéficié d'une fermeture chirurgicale de la CIV et d'une cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite

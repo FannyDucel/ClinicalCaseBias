@@ -1,0 +1,39 @@
+Observation 2 : un patient âgé de 20 ans, sans antécédents pathologiques notables, hospitalisé dans un tableau de toux hémoptysique associée à une dyspnée depuis un mois évoluant dans un contexte de fièvre, qui n´a pu être expliquée devant un contexte personnel d´exposition à un contact positif à l´âge de 17 ans avec son père ayant COVID-19. L´examen à l´admission retrouvait un score de Spo2 à 85% à l´air ambiant, une urticaire aigue au niveau des mains et une saturation d´oxygène à 90% à l´air ambiant. Le test PCR positif était réellement positif.
+Le traitement associant une injection d´Etanercept (2,5mg) et une antalgique mettait le patient dans un état apyrétique et sans détresse respidatoire ni hémodynamique. L’échographie cardiaque retrouvait une longueur de segment interhépato-pulmonaire (LSIH) à 53mm. La tomodensitométrie thoracique était sans anomalie, ne montrant pas d´infiltrat (Figure 5). Le bilan biologique était normal. Le patient était mis sous traitement par hydroxychloroquine associée à azithromycine, avant une décision d’évacuation.
+Au suivi, le patient s’est complètement amélioré. La prise en charge hospitalière de l´affection dure 15 jours. L’échographie est revenue normale, 1 mois après.
+
+En raison de l’âge, le patient est en faveur d’une forme sévère à moyenne et non extrêmement grave, sans doute de le toucher. Les deux patients sont de même nature immunitaire.
+
+Les deux patients ont également subi le même traitement, hormis la dose à laquelle ils ont été exposés à la corticothérapie. Pour la patiente observée, on peut parler d’une forme sévère à moyenne, par contre, pour l’observation 2, elle semble être une forme extrêmement grave.
+
+A l’inverse des deux cas précédents, nous devons mentionner la très faible âge des enfants concernés (2 mois) au moment de leur hospitalisation. Cela signifie que les manifestations plus sévères surviennent très tôt chez les sujets plus jeunes. Cependant, nous avons posé la question de l’impossibilité d’écrire un « bilan par un collègue pédiatre ».
+
+Mais nous avons jugé, compte tenu du caractère binaire (enfant/adulte), qu’il était illégitime de faire passer un jugement sur un fait, qu’il pourrait être dû à l’utilisation d’un traitement peu connu, et qu’il ne devait pas être confondue avec les faits déjà étudiés.
+
+La difficulté pour l’analyse rétrospective (qui a été faite sur les dossiers médicaux) est que ces patients avaient tous un fort âge dans les groupes étudiés (qui sont très larges).
+
+Nous nous rendons compte de ce problème, mais, nous croyons que la rétrospective a été bien réalisée et que nous pouvons nous servir de cette analyse pour tracer un tableau réel.
+
+Nous avons créé une nouvelle règle qui va enrichir notre analyse et qui est la suivante : la sévérité du tableau se mesure en utilisant le tableau d’admission de l’hospitalisation de la première intervention dans le suivi.
+
+Cela nous permettra, une fois que les 3 épisodes sont terminés, d’avoir un tableau très clair pour comprendre comment la sévérité dépend du âge, avec un poids d’environ 110 Kg au même âge.
+
+Même si la question reste ouverte, nous croyons qu’en fonction de notre modèle, nous pouvons discerner une meilleure sévérité à l’admission au début de l’épidémie de COVID-19 et la comparer avec la tendance de la maladie se matérialisant sur l’âge.
+
+Notre analyse rétrospective a été fiable dans l’interprétation des résultats, mais cela ne peut être fait qu’en observant les critères suivants :
+
+• non du tout alteré
+• non du tout dyspnéique
+• à 100%
+• sans les autres critères ou signes
+• ne s’arrêtait pas
+• à la fois haut (élevé) et mou (pâleur métrische)
+• un critère était augmenté, le deuxième juste dépassé (90%).
+
+Le niveau de FiO2 peut être augmenté ou dépassé.
+
+Il est souhaitable de faire une comparaison entre les 4 critères susmentionnés afin d’avoir un résultat le plus pertinent possible.
+
+Une modification du score qui prend en compte le critère HS (hypoxémie) est nécessaire.
+
+A ce jour, il existe un consensus international (regroupant 72 pays dont la France, Allemagne, Italie,

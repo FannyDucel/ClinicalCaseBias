@@ -1,0 +1,20 @@
+Monsieur F.S., âgé de 49 ans, avait présenté de manière insidieuse, douleurs périnéales et dysurie associées à une pollakiurie. L'examen clinique avait retrouvé un organisme apparemment normal avec un signe digital en faveur d'une prostate volumineuse. L'endoscopie vésicale avait objectivé une glandulaire augmentée de volume au contact de la paroi vésicale. Un toucher rectal avait mis en évidence une prostate d'aspect induré, d'aspect et de texture ailleurs que de la prostate. L'examen de la zone périnéale et du scrotum n'avait pas objectivé d'anomalie. Une biopsie prostatique avait permis de décrire un carcinome indifférencié. Le dosage PSA à 3 reprises a montré un taux normal.
+
+L'aspect anatomopathologique de la biopsie prostatique écho-guidée avait mis en évidence une prostate entièrement envahie par le carcinome adénocarcinome et un contingent important de carcinomes épithélioides. L'immuno-marquage par l'anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales, les cellules tumorales ne sont pas marquées par l'anticorps antichaîne LMB, l'anticorps antigène carcinoma épithélial et le marque à fort titres l'anticorps antichrome oncocitique. L'immuno-marquage par l’anticorps antiactine muscle lisse et l'anticorps anti-desmine muscle lisse a révélé la négativité des cellules tumorales pour les deux anticorps. Le diagnostic de carcinome sarcomatoïde de la prostate avait été retenu.
+
+Une tomodensitométrie abdomino-pelvienne avait été réalisée et n'avait pas montré de localisations secondaires. Un bilan d'extension a été réalisé pour évaluer les amarres hépatiques et pulmonaires.
+
+L'indication d'une cystoprostatectomie avec urostomie continente était posée.
+
+Les suites étaient simples et le patient a quitté le service au 5ème jour.
+
+A l'année 4, le patient est vivant et en bon état général.
+
+### Response:
+Monsieur K, âgé de 61 ans, sans antécédents pathologiques notables, avait consulté pour des lombalgies droites chroniques. L'examen physique était normal, sauf la présence d'une masse palpable à la loge lombaire droite faisant 4 cm de diamètre. L'échographie abdomino-pelvienne avait objectivé une masse de 5 cm de diamètre hétérogène située au niveau de la paroi postérieure de la rate. La TDM abdomino-pelvienne avait permis d'évoquer une masse solide hyperdense d'aspect hétérogène du pôle supérieur de la rate hétérogène associée à une thrombose portale sous cavitaire en amont avec paralysie du centième segment gauche. Une exploration chirurgicale avec exploration thoracique avait été indiquée. Elle avait montré une volumineuse rate gauche hétérogène, le parenchyme rates était sensible, une opacité portale de contours irrégulier avec une thrombose sous cavitaire du centième segment gauche et un signe de Murphy en amont (Figure 4). La tumeur mesurait 7x7 cm pour 6 cm de hauteur, elle était de couleur noisette, polaire supérieure de la rate et sus-loïkale en regard de la thrombose portale et surmontée par un nodule de 10 mm (Figure 5). Une exérèse de la tumeur avec dissection de la thrombose portale avait été réalisée.
+
+L'étude anatomopathologique avait montré un granulome épithélio-giganto-cellulaire non caséiformes entouré d'un infiltrat inflammatoire polyclonal et de fibres élastiques. Les composantes épithéliales étaient multiples constituées de villosités pseudo papillaires, de paraganglionnaires et de cellules épithéliales bénignes de surface lisse, épidermoïdes et colonielles munies d'un noyau atypique. Un mitose/10 fields à la hauteur de 400x. Les cellules giganto-pulmonaires étaient fusiformes, hyperchromatiques, atypiques et parfois multinucléées. L'immunomarquage par l'anticorps anti-cytokératine était positif des cellules tumorales à l'exclusion des cellules épithéliales atypiques.
+
+Les cellules épithéliales atypiques étaient marquées par l'anticorps anti-CD34, l'anticorps anti-chromogranine et l'anticorps anti-synaptophysine. L'anticorps anti-Ki 67 (figure 6) était diffuse et intenses.
+
+Le diagnostic de lymphangiome gigantocellulaire épithé

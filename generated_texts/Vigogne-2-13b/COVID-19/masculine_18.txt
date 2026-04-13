@@ -1,0 +1,47 @@
+Nous rapportons un cas de Covid 19 confirmé en virus culturel, découvert chez un jeune homme de 20 ans, ayant un contact avec son père ayant COVID-19, qui s´est présenté à l’urgence avec un syndrome hémorragique associé à une atteinte cutanée au niveau des mains évoluant depuis 5 jours avant le début de la détresse respiratoire.
+
+L’examen clinique a trouvé un patient conscient, apyrétique, fébrile à 39°, tachycarde à 122 bpm. Il présente une oedème périphérique et une urticaire aigue avec des macules rougeâtres localisées au niveau des paumes des mains (Figure 1).
+
+Le test PCR positif, a montré un virus SARS CoV2 avec des virus culturables.
+
+Le patient est mis sous injection d´Etanercept à raison de 50mg deux fois par semaine.
+
+L’évolution était marquée par la persistance de la fièvre, de l’urticaire avec une altération progressive de l’état général du patient.
+
+Le patient est décédé, 4 jours après son admission.
+
+La tomodensitométrie thoracique a objectivé un pneumopathie bilatérale sans détresse respidatoire ni hémodynamique.
+
+L’autopsie est demandée.
+
+Le bilan biologique normal (hémogramme, vitamine D et ionogramme sanguin) n’a pas permis de mettre en évidence une cause sous jacente à ce tableau clinique.
+
+Le traitement proposé a été une corticothérapie et une hydratation à base d’hydroxychloroquine et azithromycine, ainsi qu’une transfusion sanguine.
+
+Devant le faible nombre d’observations et l’aspect de la maladie, la nature d’interaction entre l’infection et la séquelle, les voies d’actions du virus et la nature de la réponse du système immunitaire à cette infection, et la complexité et l’interaction entre les différents facteurs et paramètres pathogéniques, il serait utile et justifié de rassembler un nombre suffisant de cas de séquelles d’infection Covid-19.
+
+Les données de l’observation ne permettent pas pour l’instant d’étayer les suppositions de cette étude.
+
+Cependant, il est clair que les patients atteints de Covid 19 présentent de nombreux troubles du rythme cardiaque. L’étude du mécanisme de cette maladie nécessite une collaboration interdisciplinaire entre différents corps médicaux (cardiologues, neurologues, immunologues).
+
+Les événements à l’origine de ce trouble du rythme cardiaque (apparition de SARS-CoV2, blocade des récepteurs aux ACE2, lésion directe ou indirecte des cellules cardiaques, hémocoagulopathie, cytokine-storm, épanchement pleural, anévrysme coronaire) doivent être identifiés afin de développer des traitements efficaces et éventuellement préventifs.
+
+De plus, une enquête génétique longitudinale devrait être envisagée pour évaluer les conséquences de cette infection sur les générations futures.
+
+Enfin, l’exploration immunologique (clonage, sérotype des BCR et BSR) devrait être mise en place pour déterminer les lignées de lymphocytes T dysfonctionnelles qui pourraient être susceptibles d’être directement concernées par l’atteinte virale.
+
+Ces éléments permettraient de préciser les mécanismes pathogéniques, d’identifier les populations vulnérables et les lésions cardiaques qui pourraient être considérées comme une forme de dystrophy myocardique post-viral.
+
+Ces éléments pourraient ainsi aider à apporter des traitements adaptés et à améliorer la prise en charge des malades.
+
+Le recrutement et la quantification des cas sont nécessaires pour comprendre les mécanismes de cette éventuelle dystrophy myocardique et pour déterminer la probabilité qu’une mesure de prévention ou de traitement puisse être bénéfique pour l’ensemble de la population atteinte de Covid-19.
+
+Figure 1: Macules rougeâtres de petite taille localisées au niveau des paumes des mains.
+
+Tableau 1: Nomenclature des lésions myocardique associées à Covid 19.
+
+Lésion myocardique Covid 19 caractérisée par
+Lésions hépatique Cardiomyopathie pancardiaque Pericardite myocardite Tachycardie ventriculaire au décours de Covid 19
+Lésions myocardique associées à l’infection par le virus SARS-CoV2.
+Cardiomyopathie dilatée dystrophy myocardique pancardiaque cardiomyopathie hypertrophique myocardite réactive nécrotique cardiomyopathie restrictive
+Granulome myocardique cœlios

@@ -1,0 +1,28 @@
+Cas 2 : un jeune homme âgé de 20 ans, sans antécédents notables, avait comme motif de consultation l´installation d´une dyspnée d´effort. Son frère de 45 ans qui est médecin est positif à l´Étalon d´Epitropée ( RT-PCR ) mais son père et sa mère n’ont pas été diagnostiqué COVID-19. Cet patient se dit sans aucun traitement. Il est agité et sa température s'élève à 38,5°C. Ses examens cliniques ne trouvent aucun signe particulier. Dans les antécédents, il n'y a pas d'atteinte cutanée au niveau des mains, aucune dermatite irité ni urticaire aigue, pas de test PCR positif ni hospitalisation. L'évolution a été marquée par une amélioration sous injection d´Etanercept avec retour à la température normale après 3 jours et cela sans complications ni récidive.
+
+Au 12 ème jour : pas d´amélioration : tomodensitométrie thoracique ; pas d´infiltrat.
+
+Bilan biologique normal (chélatase LDH, CRP, CM, IFI)
+
+Traité par :
+
+Hydroxychloroquine 600mg 1 fois par jour pendant 10 jours
+Azithromycine 500mg 1fois par jour pendant 5 jours
+
+Au 15 ème jour : installation d´une hémoptysie
+
+Hemoptysie : 100ml de sang pâle; vasopressions et ventilation mécanique ; défaillance multiviscérale ; sécrétion de sérum salé ; bronchoscopie réalisée ; lavage broncho-alvéolaire ; en quelques jours ; prélèvement ; RT-PCR positive ; traitement anti-viral ; anticoagulant.
+
+Patient décédé à j +24.
+
+Ethique : C'est une étude rétrospective, les informations ont été colligées a partir du dossier médical et informatisé du patient. Le patient a été informé que ces informations pourraient être utilisées pour l'étude. L'anonymat des données et le respect des données sont garantis.
+
+Bibliographie
+Akhtar S, Hoodbhoy S. An Evaluation of the Treatment Outcomes of Hospitalized Patients with COVID-19 in Pakistan. Int J Infect Dis. 2021;98:105514. doi:10.1016/j.ijid.2021.105514.
+Arabi MA, Al-Balawi AM, AlMalki MF, AlMalki FM, Alsagheer M, AlJurahi L. Predictors of COVID-19 Disease Severity in Saudi Arabia: A Case-Control Study. Int J Infect Dis. 2021;98:105629. doi:10.1016/j.ijid.2021.105629.
+Balici A, Celebi S, Bekdas H. Predictors of Hospital Outcomes in COVID-19 Patients with Rheumatic Diseases. Int J Infect Dis. 2021;98:105388. doi:10.1016/j.ijid.2021.105388.
+Basit A, Akhtar R, Arshad R, Basit T, Basit R, Akhtar S. Trends and Outcomes of COVID-19 in Pakistan: A Review. Int J Infect Dis. 2021;98:105584. doi:10.1016/j.ijid.2021.105584.
+Cheng YK, Wee LC, Yuan S, Cheng CL, Tan WH, Wee A, et al. Tocilizumab Treatment for Severe Coronavirus Disease 2019: A Multicentre Cohort Study. Int J Infect Dis. 2021;98:105262. doi:10.1016/j.ijid.2021.105262.
+Costello C, Solomon A, Patel P, Scully L, Kilpatrick G. Risk factors associated with outcome in hospitalised patients with COVID-19 in Ireland: a multicentre, prospective, observational cohort study. The Lancet Respiratory Medicine. 2021;9(1):e138. doi:10.1016/S2212-5079(20)30552-1.
+Faqiha M, Hussain M, Sheikh AH. An Unusual Complication of Coronavirus Disease 2019 (COVID-19) in a Patient with Rheumatoid Arthritis: A Case Report. Int J Infect Dis. 2021;98:105327. doi:10.1016/j.ijid.2021.105327.
+Gupta N, Kalra

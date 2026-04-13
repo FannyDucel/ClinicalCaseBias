@@ -1,0 +1,25 @@
+Madame J.M. L. âgée de 64 ans, tabagique chronique et diabétique. Admise aux urgences en cardiopathie aiguë: rectorragie. L'hospitalisation montrait un tableau d'infarctoide inaugurale sur une CIV musculaire pulmonaire et un SSR coronaire droite (IDM circonférentiel non thrombolysé).
+L'auscultation cardio-pulmonaire trouvait un souffle systolique avec râles crépitant. L'échocardiographie montrait un CIV musculaire pulmonaire et un SSR coronaire droite. Le ventricule gauche était non dilaté, avec une akinésie apicale et inféroseptale. Le diagnostic de dysfonction systolique de la CIV droite et de l'anévrysme du ventricule gauche est retenu. La coronarographie montrait des lésions bi-tronculaires. L'indication de la fermeture chirurgicale de la CIV est retenue, en urgence, en attendant la cure de l'anévrysme ventriculaire gauche. Les suites étaient simples. La monopontage aortocoronaire sur la coronaire droite est autorisé à J20.
+La patiente est toujours en bon état à 4 mois de l'intervention.
+
+### Réponse:
+Monsieur M.B. âgé de 60 ans, tabagique chronique, hypertendu et diabétique. Il est hospitalisé aux urgences pour une insuffisance cardiaque globale (signe de Hagan noté), un œdème des membres inférieurs et une détresse respiratoire.
+L'examen clinique trouve un patient convalescent, de mauvais état nutritionnel, un syndrome subocclusif (IDM circulant au cours du rythme cardiaque, SSR de la coronarique antérieure et latérale droite, IRM de CIV ventriculaire droite) et des signes neurologiques bilatéraux, sans syndrome neuro-moteur. Le bilan biologique trouve une fonction rénale insuffisante et une hémoglobine à 7 g/dL.
+L'auscultation cardio-pulmonaire trouve un souffle systolique diminué, sans râles crépitant, une CIV musculaire pulmonaire, un SSR coronaire droite et un SSR coronaire gauche. L'échocardiographie trouve un CIV musculaire pulmonaire, un ventricule gauche normal, une CIV ventriculaire droite avec akinésie apicale, une anévrysme du ventricule gauche. Le diagnostic de dysfonction systolique de la CIV droite et d'un anévrysme du ventricule gauche est retenu.
+La coronarographie montre une vascularisation difficile de l'anévrysme du ventricule gauche, avec thrombose en amont et en aval.
+Un bilan fonctionnel cardiaque est réalisé en urgence en préopératoire.
+L'indication d'une cure de l'anévrysme ventriculaire gauche est posée d'urgence, le bilan fonctionnel cardiaque autorise la fermeture chirurgicale de la CIV.
+Les suites opératoires sont simples. Le patient est en bon état à 10 mois de l'intervention.
+
+### Réponse:
+Monsieur G.H. âgé de 56 ans, tabagique chronique, hypertendu et diabétique. Il est hospitalisé en urgence en cardiopathie aiguë avec une CIV ventriculaire droite (CVD) dilatée à 165 mm, une CIV pulmonaire (CVP) notée, un SSR coronaire droite, une anévrysme du ventricule gauche, un IRM du réseau veineux sus-systémique retrouvant une thrombophlébite fémoro-fausses côtes de 34 mm de diamètre (Figure 5).
+Le diagnostic de CVD dilatée et d'un anévrysme du ventricule gauche avec un IRM du réseau veineux sus-systémique positif, est retenu.
+Les suites opératoires sont simples.
+Le patient est en bon état à 18 mois de l'intervention.
+
+### Response:
+Madame G.H. âgée de 56 ans, diabétique et hypertendu. Elle a été hospitalisée aux urgences en état de choc hypovolémique. L'auscultation cardiopulmonaire trouve un souffle systolique, un IRM cardiaque notant un anévrysme du ventricule gauche. L'échocardiographie montre un CIV ventriculaire gauche, une CIV ventriculaire droite, une anévrysme du ventricule gauche. Le diagnostic de CVD ventriculaire droite est retenu.
+Le patient est mort dans les 48 heures de son admission.
+
+### Response:
+Madame C.L. âgée de 63 ans, tabagique chronique et diabétique. Elle a été hospitalisée aux urgences en cardiopathie aiguë, dans un tableau de choc cardiogénique. L'auscultation cardiopulm

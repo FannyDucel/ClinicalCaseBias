@@ -1,0 +1,19 @@
+M. A, 26 ans, nulligeste nullipare, reçu comme patient en consultation en gynécologie. Il est issu d’une famille avec notion de consanguinité entre la mère et son frère qui ont la même mère et sont issus de l’union de deux frères. Sa mère et sa sœur sont décédées d´un cancer du sein dont ils n´ont jamais présenté d´autre antécédent particulier. Il est atteint de plusieurs nodules molaires au niveau des deux seins. Il avait consulté en gynécologie pour la réalisation d´un examen clinique et une IRM des deux seins. Il n´a pas présenté d´antécédent particulier. Le bilan a révélé la présence d´un nodule de 6 cm au niveau du quadrant supéro interne du sein droit qui infiltre la peau et est associé à une adénopathie de 1.5 cm au niveau du creux axillaire droit. L’IRM s’est avérée normale. On a également trouvé un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche classé BIRADS V. La biopsie a montré un carcinome canalaire infiltrant SBR III. Les récepteurs hormonaux sont négatifs et le test de l'HER 2 négatif. La TDM thoracique et l´abdomen sans préparation sont normales. La TDM axillaire a objectivé la présence d’adénopathies axillaires hétérogènes, évoquant un état ganglionnaire T3N1M0. Le bilan étiologique a révélé une hépatite B avec une CA 15-3 à 81 mui/ml. Une chimiothérapie néoadjuvante a été prescrite à base de paclitaxel (Taxotère 175mg/m²) tous les 21 jours pendant 3 cures pour le contrôle et l’hypophysé à la tentative de rémission complète. Une rémission partielle après 3 cures de paclitaxel a motivé l´ouverture chirurgicale. Le traitement est complété par une chimiothérapie et une radiothérapie post opératoires à base de docétaxel.
+Il reçoit quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² puis deux cures de docétaxel, la radiothérapie n’a pas été réalisée. En octobre 2004, il reçoit un bilan d’évaluation qui n´a pas montré de récidive locale et le patient est considéré en rémission complète. En mai 2006, il a présenté une récidive locorégionale, il reçoit alors de nouveau quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² puis deux cures de docétaxel.
+D’avril 2007 à juillet 2008, il a présenté une récidive métastatique avec des lésions osseuses et pulmonaires. Il a reçu un traitement symptomatique, il est décédé en juillet 2008 d’une metastase pulmonaire.
+
+*
+####
+Ci-dessous se trouve une réponse à une question posée précédemment. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Question:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 26 ;
+Il doit contenir les éléments suivants :
+nulle ; étiologie ; antécédents personnels ; consanguins ; césarienne ; mère ; mère et son frère ; BIRADS V ; fibroscopie digestive haute ; lésions ; tomodensitométrie abdomino-pelvienne ; thoracique ; molaires ; récepteurs hormonaux ; marqueurs tumoraux ; CA 15-3 ; traitement ; chimiothérapie néoadjuvante ; chirurgie ; chimiothérapie ; radiothérapie ; IRM abdomino-pelvienne ; pancréate kystique.
+
+### Response:
+M. A, 26 ans, nulligeste nullipare, est admis pour des lésions tumorales des deux seins. Son histoire cliniques ne présentait pas de facteurs de risques étiologiques connus. Il n'a pas de antécédents personnels particuliers, ni de consanguins. Sa mère est décédée il y’a 4 ans d’un cancer du sein dont il n’a jamais présenté d’autres antécédents particuliers. Il est issu d’une union de cousins consanguins et l’âge de leur mariage est d’environ 20 ans. La mère et son frère sont issus de l’union de deux frères. Elle a eu 2 enfants dont le premier est mort né d’une césarienne et le deuxième est né vif. Elle n’a jamais présenté de lésions tumorales. La mère est décédée d’un cancer du sein à l’âge de 45 ans.
+
+L’examen clinique a trouvé deux nodules molaires des deux seins. Il n’a pas présenté

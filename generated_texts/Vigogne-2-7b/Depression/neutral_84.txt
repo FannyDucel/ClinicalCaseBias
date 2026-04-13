@@ -1,0 +1,32 @@
+Nous rapportons le cas d’une patiente de 48 ans, hypertendue, sevré de tabac depuis 10 ans, suivie depuis 3 ans pour une intoxication médicamenteuse volontaire. À son admission, elle a présenté des troubles du sommeil, une fatigue accablante, une tristesse de l’humeur, un anhédonie et une asthénie. Il n’y avait pas de troubles moteurs, de troubles du comportement, ni d’hallucinations. L’examen neurologique était sans particularités. Les troubles du sommeil et de l’appétit se sont amendés à 3 mois d’évolution. Il n’y avait pas de syndrome dépressif selon la DSM IV (Diagnostic and Statistical Manual of Mental Disorders). L’examen biologique montrait une lupus érythémateux disséminé avec syndrome néphrotique sur anticorps anti-nucléaires homogènes positifs, anticorps anti-phospholipides négatifs, des anticoagulant lupique négatifs, une thrombophlébite des deux membres supérieurs nécessitant une traitement par anticoagulants oraux pendant 3 ans, une insuffisance rénale chronique stable à l’hémodialyse chronique avec une fonction rénale en atténuation mais sans signes d’hépatopathie non cirrhotique. La recherche de polynucléaires neutrophiles (PNN) et les glandes claires était positive. On notait une anémie microcytaire à 8.5g/dl d’hémoglobine, une dépression du taux des plaquettes à 90000/mm3, avec un syndrome d’ascite réfractaire. On découvrait un diabète sucré selon le sucre sanguin à 15 mmol/l. Il y avait également une insuffisance rénale et une insuffisance hépato-cellulaire. La malade a bénéficié d’une greffe hépatique par une marge inter-hépatique selon la technique de ‘sandwich’ à 50 J/kg en percutané. Après l’intervention, on notait un décollement hépatique transitoriel du temps de croissance, mais pas de parenchyme hépato-coronéen trompeuse. On a envisagé une encéphalopathie ammoniacale à la détection de multiples plages hypodenses sur le FLAIR. Le diagnostic d’une poussée neurologique sévère du lupus a été retenu. Un angio-IRM cérébral a été complété par un scanner cérébral et qui était normal.
+
+Après 18 mois, la patiente avait une fonction rénale stables. Elle est morte au 3ème mois de la greffe du fait de son état général dégradé et d’un sénile psychogène.
+
+Le tableau I ci-dessous représente les valeurs des anticorps anti-nucléaires homogènes du temps de la première séance de greffe et du suivi à 2, 4, 6, 9, 11, 12, 18, 24, 30, 36 mois.
+
+Le tableau II ci-dessous représente les valeurs des anticorps anti-phospholipides négatifs et positifs des séances de greffe.
+
+Le tableau III ci-dessous représente les valeurs des anticoagulant lupique négatifs du temps de la première séance de greffe et du suivi à 12 et 24 mois.
+
+Le tableau IV ci-dessous représente les valeurs des hémoglobine et les plaquettes du suivi à 2, 4, 6, 9, 12, 18, 24, 30, 36 mois.
+
+Le tableau V ci-dessous représente les valeurs des TP et du bilan hépatique du suivi à 2, 4, 6, 9, 12, 18, 24, 30, 36 mois.
+
+Le tableau VI ci-dessous représente les valeurs de la créatininémie et des urines légères du suivi à 2, 4, 6, 9, 12, 18, 24, 30, 36 mois.
+
+Le tableau VII ci-dessous représente les données toxicométriques de la première séance de greffe.
+
+Relation entre temps des seances de greffe et valeurs d’hémoglobine, de plaquettes, de créatininémie, d’urines légères, de TP, de bilan hépatique, de créatininémie.
+
+######
+Tableau I:
+Anticorps anti-nucléaires homogènes
+
+######
+Tâches
+
+Prendre les valeurs anticorps anti-nucléaires homogènes
+
+######
+Exemple :
+2012/08/28 0,07 168 167 167 152 150 146 133 120 112 128 124 12

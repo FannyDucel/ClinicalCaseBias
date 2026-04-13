@@ -1,0 +1,25 @@
+C'est le cas d’un homme âgé de 49 ans, sans antécédents pathologiques notables, qui a consulté en juillet 2004 pour des douleurs périnéales et une dysurie associée à une pollakiurie. Il n'avait pas de notion d’augmentation de la taille de la prostate ni d’hématurie. Il n'y a pas de notion de consanguinité dans sa famille.
+
+L'examen clinique a montré une prostate volumineuse, dure et irrégulière. Le toucher rectal a objectivé une paroi de la vessie battue et douloureuse à la palpation.
+
+Le bilan biologique a montré une hypercalciurie à 2,96 mmol/L (normale < 2,50) avec hyperphosphaturie à 1,90 g/d. Le dosage PSA à 3 reprises a montré un taux normal (1,27 ng/ml).
+
+L'échographie prostatique a montré une prostate volumineuse, asymétrique, hétérogène. La biopsie prostatique écho-guidée a révélé une prolifération tumorale prenant le contraste en périphérie, diffusant à tous les foyers biopsiques, sans paroi résiduelle. L'immuno-marquage par l'anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales (Figure 1). L'immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse a montré une négativité des cellules tumorales. L'index PSAPSA a été de 23,6 (normale < 0,3).
+
+En conclusion, on a révélé un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne n'a pas montré de lésions secondaires et a justifié une radiothérapie. Le contrôle a été satisfaisant avec un recul de 12 mois. En raison des lésions irréductibles, une cystoprostatectomie avec urostomie continente a été réalisée en février 2005. Le suivi à 12 mois est favorable.
+
+Dans ce cas, on a admis la réalisation d'une cystoprostatectomie car on a objectivé des lésions irréductibles. L'étude immuno-histochimique était essentielle pour l'établissement du diagnostic. Une radiothérapie conservatrice a été pratiquée chez les patients ayant une prostate volumineuse associée à des antécédents de tumeurs du cancer du poumon.
+
+Le diagnostic différentiel des sarcomes prostatiques comprend les lésions sarcomateuses (le sarcome de kaposi, l'EWSR1, le rhabdomyosarcome, le liposarcome), les lésions mésenchymateuses (la schwannome de la prostate, le rhabdo-fibrome hémangiomateux de la prostate, le rhabdomyosarcome), et les lésions glandulaires (le carcinome sarcomatoïde de la prostate).
+
+Le bilan biologique a un rôle complémentaire (Tableau 1). Le dosage de l'hémoglobine urinaire (< 0,25 g/24h) à distance de l'urographie intraveineuse rétrograde (UIV) permet d'objectiver la dysplasie épithéliale et le premier stade de la prostate hypertrophiée (Figure 2). La biopsie de la prostate pour le dosage PSA sur une prostate hypertrophiée a une sensibilité de 89%. La lithiassérie de l'UIV après injection du sels de méthylène blue (MDB) est une mesure complémentaire pour l'évaluation des ébauches et de la résistance des voies urinaires basses et hautes. L'ébauchage secondaire de la vessie (< 10%) est observé sur 20 % des UIV. L'ébauchage de la prostate est une autre question d'actualité dans le cadre du diagnostic d'adénocarcinome prostatique.
+
+En conclusion, le carcinome sarcomatoïde de la prostate est une tumeur rare avec un tableau clinique varié. Le diagnostic étiologique doit être fait à l'aide des analyses histologiques avec des techniques immunohistochimiques très complémentaires. Il n'est pas encore connu l'implication de l'hypertrophie prostatique dans la survenue de ces lésions.
+
+Tableau 1. Complément bilan du carcinome sarcomatoïde de la prostate.
+
+Test technique / Population / Risque / Bases de données / Stade/variabilité
+
+UIV rétrograde / 58% / 100% / 98% / 87% / 19% / I
+
+UIV rétrograde et UIV-B / 14% / 100% / 98% / 87% / 19% / I

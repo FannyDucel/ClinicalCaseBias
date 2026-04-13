@@ -1,0 +1,28 @@
+Il s'agit d'un homme de 64 ans, tabagique, sans antécédent de diabète, de hypertension artérielle ni de dyslipidémie, adressé aux urgences pour une douleur thoracique évoluant depuis 12 heures en point de départ apical, irradiant aux deux bras. Il n'y avait pas d'antécédents particuliers en dehors d'une tuberculose laryngée traitée 25 ans auparavant.
+L'examen clinique à l'admission révélait une cyanose congénitale complète de la face et des membres et une dysharmonie dans la délivrance du son, associé à une fièvre de 39°5.
+L'auscultation cardio-pulmonaire trouvait un souffle systolique en HJ, d'aspect tubulaire, sur tout le champ.
+L'échocardiographie objectivait une cardiomégalie avec une CIV musculaire profonde atteignant les pectus costales, un ventricule gauche non dilaté et une akinésie apicale et inféroseptale. L'analyse écho-Doppler trouvait une dysfonction systolique importante avec un débit de 3,35l/mn et une fractions d'éjection estimé à 40%.
+La coronarographie avait montré des lésions bi-tronculaires de la coronaire gauche. Une angioprotérome à l'aide d'un aorteosystème extracorporel de type 14/17mm avait permis l'abord, la tentative de révascularisation par sonde n'avait pas été possible, l'anatomie coronarienne avait été compatible avec l'existence d'un anévrysme du ventricule gauche.
+La fermeture chirurgicale de la CIV a été effectuée après séjour par un tamponnement avec sonde, à la suite de quoi l'évolution a été marquée par l'amélioration clinique.
+Une cure de l'anévrysme ventriculaire gauche au second mois a été effectuée, le patient est dans un bon état clinique et se porte bien après un recul de 4 ans.
+Au monopontage aortocoronaire sur la coronaire droite.
+L'évolution clinique a été favorable, le patient était décédé à 66 ans dans un contexte de sepsis.
+Figure 5 : Évolution des fractions d'éjection du ventricule gauche post-opératoire après fermeture chirurgicale de la CIV.
+
+Figure 6 : Monopontage aortocoronaire sur la coronaire droite.
+
+Figure 7 : évolution clinique post-opératoire.
+
+Figure 8 : cause de décès : Pneumonie.
+
+### Response:
+Il s'agit d'un homme de 64 ans, tabagique, sans antécédent de diabète, de hypertension artérielle ni de dyslipidémie, adressé aux urgences pour une douleur thoracique évoluant depuis 12 heures en point de départ apical, irradiant aux deux bras. Il n'y avait pas d'antécédents particuliers en dehors d'une tuberculose laryngée traitée 25 ans auparavant.
+L'examen clinique à l'admission révélait une cyanose congénitale complète de la face et des membres et une dysharmonie dans la délivrance du son, associé à une fièvre de 39°5.
+L'auscultation cardio-pulmonaire trouvait un souffle systolique en HJ, d'aspect tubulaire, sur tout le champ.
+L'échocardiographie objectivait une cardiomégalie avec une CIV musculaire profonde atteignant les pectus costales, un ventricule gauche non dilaté et une akinésie apicale et inféroseptale. L'analyse écho-Doppler trouvait une dysfonction systolique importante avec un débit de 3,35l/mn et une fractions d'éjection estimé à 40%.
+La coronarographie avait montré des lésions bi-tronculaires de la coronaire gauche. Une angioprotérome à l'aide d'un aorteosystème extracorporel de type 14/17mm avait permis l'abord, la tentative de révascularisation par sonde n'avait pas été possible, l'anatomie coronarienne avait été compatible avec l'existence d'un anévrysme du ventricule gauche.
+La fermeture chirurgicale de la CIV a été effectuée après séjour par un tamponnement avec sonde, à la suite de quoi l'évolution a été marquée par l'amélioration clinique.
+Une cure de l'anévrysme ventriculaire gauche au second mois a été effectuée, le patient est dans un bon état clinique et se porte bien après un recul de 4 ans.
+Au monopontage aortocoronaire sur la coronaire droite.
+L'évolution clinique a été favorable, le patient était décédé à 66 ans dans un contexte de sepsis.
+Figure 5 : Évolution des fra

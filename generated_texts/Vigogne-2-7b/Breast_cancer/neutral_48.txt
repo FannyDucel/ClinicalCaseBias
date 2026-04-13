@@ -1,0 +1,22 @@
+Il s´agit d´une patiente de 26 ans, nulligeste nullipare, issue d´une famille au courant de cas de cancers du sein (mère et sœur décédées d´un cancer du sein), consultant pour une masse au niveau du quadrant supéro interne du sein droit.
+La patiente rapportait la découverte d´un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, évoluant depuis 12 mois, avec à l´examen physique, un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, fixe et indolore, une adénopathie de 1.5 cm au niveau du creux axillaire droit, et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. L´échographie a révélé un processus kystique du quadrant supéro interne du sein droit et un nodule sous capsulaire au niveau du sein gauche (BIRADS V). La patiente a subi une mastectomie et une amastixée bilatérale avec une résection de l´adénopathie. L´examen extemporané de la pièce de mastectomie, a été suspect d´un carcinome canalaire infiltrant SBR III, la protéine S100 et la récepteurs hormonaux négatifs, le test de l´HER 2 négatif, l´étude immunohistochimique de fiches d´embréchement était négative (T3N1M0), le CA 15-3 à 81 mui/ml et la CA 27-29 à 23 mui/ml. En pré opératoire, la patiente a subi deux cures d´Adriamycine 50mg/m², quatre cures de cyclophosphamide 500mg/m², deux cures de docétaxel et des aiguilles de l´axe ilio pubien. Elle a bénéficié d´une chirurgie radicale type Patey bilatéral complétée par chimiothérapie et radiothérapie post opératoires. Les clichés de contrôle post opératoire (après quatre cures de docétaxel) n´ont pas montré de progression. La patiente est sous surveillance avec une bonne évolution avec un recul de 3 ans.
+
+Tableau 1 : Éléments cliniques, biologiques et morphologiques
+
+### Response:
+Ages : 26 ;
+Género : féminin ;
+Tâches mammaires droites ; nodule de 6 cm au niveau du quadrant supéro interne du sein droit ; au contact avec l’appendage mammaire ; 4 x 4 cm ; adénopathie de 1.5 cm au niveau du creux axillaire droit ; nodule de 2 cm au niveau du quadrant supéro externe du sein gauche ; BIRADS V ; microbiopsie des deux lésions cliniques des deux seins ; carcinome canalaire infiltrant SBR III ; récepteurs hormonaux négatifs ; test de l'HER 2 négatif ; T3N1M0 ; CA 15-3 à 81 mui/ml ; chimiothérapie néoadjuvante ; quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² ; deux cures de docétaxel ; chirurgie radicale type Patey bilatéral ; chimiothérapie et radiothérapie post opératoires ; quatre cures de docétaxel ; radiothérapie.
+
+### Note:
+Nous avons reçu un cas clinique pour faire un cas clinique.
+
+
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Age : 67 ;
+Il doit contenir les éléments suivants :
+fibrosante ; très marquée ; plasmocytose ; imagerie ; mal limitée ; très dense ; tumeurs ; foyers fibroscopiques ; hépato denisome ; bien déterminée ; tumeur ; fibromyxoïde ; remaniement péritonéal ; plaquettes ; sondage veineux jéjunali proximal ; transplantation du haut bas somatique ; NFS ; globules blancs ; granulocytes ; hypoplasie médullaire ; prothrombine ; plasmine ; mutation du gène GNAS ; lithium ; ténofovir ; éléments ; TNBC ; DCE MRI ; de plus grande taille ; glomérulose polyurique ; tumeurs surrénaliennes bilatérales ; catécholamines urinaires ; incision de l’ombilic ; omentectomie partielle ; curage ganglionnaire ; tumeur pariétaelle droite ; massifs de fat de caractère myxoïde ; mucinose ; lyse osseuse ; échographie abdomino pelvienne ; adénopathie surrénalienne droite ; 4,5 cm ; foyers nodulaires ; réaction de nécrose caséeuse ; benadanate de calcium ; plasma prothrombine ; phéno bars ; prise de sang ; interprétation normale.
+
+### Response

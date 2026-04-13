@@ -1,0 +1,25 @@
+Il s´agit d´une patiente âgée de 20 ans, sans antécédents médicaux particuliers, non-tabagique et non-alcoolique. Elle est admise aux urgences, 1 jour après son retour du Maroc, pays en crise sanitaire sur le compte du COVID-19, avec des doutes sur le diagnostic de la maladie. L´histoire de la maladie remonte à 1 jour auparavant lors d´un interrogatoire détaillé, la patiente nous explique qu’il s´agit d´une jeune femme qui, 3 jours auparavant, a eu un contact avec son père ayant COVID-19 dont le diagnostic a été confirmé par le test PCR. La patiente se plaint d´une fièvre associée à une atteinte cutanée au niveau des mains, la patiente rapporte un prurit important à type d´urticaire aigue en constante amélioration au contact de l’eau et évoluant depuis 2 jours. Elle a reçu par la suite le diagnostic d’un test PCR positif, l´objectif de notre consultation était l’utilisation de l’Etanercept (Chiron Bioresearch Inc, Emeryville, CA) par voie intramusculaire aux alentours de 40 mg, une fois par semaine avec une dose initiale de 80 mg, avec une très bonne tolérance, sans hypotension artérielle ni détresse respiratoire. Les premiers jours de traitement, la patiente a présenté une fièvre élevée de 40°C et une hépatopathie asymptomatique. Après 48 heures, la fièvre a disparu complètement et la patiente a repris son état général au bout de 3 jours. La patiente a bénéficié d’une échographie thoraco-abdominale et d’une tomodensitométrie thoracique qui ont été normalisés. En plus, la patiente a été mise sous traitement par hydroxychloroquine 200 mg par jour pendant 5 jours et azithromycine 500 mg une fois par jour pendant 5 jours. La fièvre a disparu complètement au bout de 48 heures et la patiente est retournée à son domicile pour continuer ses soins. Aucun syndrome de rechauffement cutané, ni d´autres effets secondaires ne sont observés. Un mois après, la patiente est toujours apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique effectuée à un mois n´a pas montré de lésions sur les images. Le bilan biologique était normal.
+
+La décision était, de non héberger la patiente dans le service et d’administrez l’injection d´Etanercept une fois par semaine, pendant 4 semaines, 14 injections au total, en dehors de l’hôpital.
+
+À noter qu’il n’y avait aucune reprise de fièvre après avoir cessé l’injection d´Etanercept. L´injection d´Etanercept n’a pas été suivie de changement de comportement, ni de manifestation clinique chez la patiente.
+
+La décision a été de la renvoyer à son domicile après 4 injections, le traitement est suivi jusqu’à ce jour par téléphone, et aucune récidive de l’état d’urticaire n’a été observée.
+
+Le dernier rapport de la patiente était en date du 24/06/2020.
+
+L’enquête epidémiologique a permis d’identifier le conteneur de son père en France et qui se trouve positif au COVID-19 avec des symptômes d’asthénie et de fièvre persistante.
+
+Ce cas est original car il s’agit d’un contact positif du patient avec son père qui nous permet d’analyser la possibilité d’une action de l’Etanercept.
+
+Il est intéressant d’observer que dans notre cas, la plaie cutanée ne s’aggrave pas, et la symptomatologie a disparu avec une bonne tolérance à l’injection de l’Etanercept.
+
+Le traitement est encore recommandé par le CDC de New York [2, 3].
+
+Ce qui pourrait aussi expliquer la tolérance de la patiente à l’Etanercept, car il s’agit d’un médicament recommandé par l’ANSM (Note d’avertissement pour la réduction du risque d’infection à Staphylococcus aureus résistant à la méticilline (SA-MRSA) associée aux traitements anticancer).
+
+L’avantage du traitement par l’Etanercept n’a pas été démontré par les études qui le concernent [4].
+
+Une étude met en évidence l’importance de la déduction des effets secondaires observés avec l’Etanercept [5].
+
+D’autres éventualités ont été présentées dans la littérature qui mettent en évidence des effets secondaires qui étaient très peu décrits, la majorité des auteurs concluent

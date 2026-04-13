@@ -1,0 +1,21 @@
+M. E.B est âgé de 54 ans, Il présente depuis 6 mois une hématurie, touchant au niveau de la vessie avec des douleurs lombaires bilatérales à type de pesanteur sans autre signe clinique en faveur d’une localisation urologique. L’examen tomodensitométrique a montré une masse de 4 cm, de contours irréguliers, calcifiée, envahissant uniquement la graisse adjacente avec des structures suspectes de vessie, sans extension lombaire, il a été opéré le 20/06/2000 et a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie suivie d’une entérocystoplastie de substitution. L’étude anatomopathologique a montré un adénocarcinome de l’ouraque peu différencié, indépendant des vaisseaux et des ganglions lymphatiques, les cellules possédaient une chromatine irrégulière, disposée en masses fusiformes et présentait une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 et une négativité pour les cytokératines 7 et 20. La Tumeur était classée de T III A (selon la classification de Sheldon). Il a bénéficié d’une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine sans récidive clinique ou radiologique. L’évolution est bonne avec un recul de 2 ans.
+
+### Response:
+Il s’agit d’un cas de tumeur de l’ouraque ( Fig. 1 ) pouvant être de classification partielle de Rokhlin ( T III ) selon la classification de Sheldon (6). Ce type de tumeur est rare dans la littérature médicale (7-9), on a rapporté peu de cas, le premier cas rapporté de localisation intra-urétérale (7), une autre fois de localisation intra-vesicale (9) et une autre fois dans une urétéro-prosthèse double (8). La localisation urétérale invoque l’idée d’une néoplasie urétéro-vésicale mais le cas contraire a été bien démontré dans notre cas où la tumeur est inextensible vers l’uretère ( Figure 1 ) et l’entonnoir ( Figure 2 ).
+
+La maladie est uniquement symptomatique par l’apparition de saignement vésical et le patient n’a pas d’autre signe clinique décelable. L’examen clinique est normal.
+
+L’examen tomodensitométrique a montré une masse de 4 cm, de contours irréguliers, calcifiée, envahissant uniquement la graisse adjacente avec des structures suspectes de vessie, sans extension lombaire.
+
+La tumeur a été enlevée par une cystoprostatectomie radicale totale avec omphalectomie suivie d’une entérocystoplastie de substitution.
+
+L’étude anatomopathologique a montré un adénocarcinome de l’ouraque peu différencié, indépendant des vaisseaux et des ganglions lymphatiques, les cellules possédaient une chromatine irrégulière, disposée en masses fusiformes et présentait une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 et une négativité pour les cytokératines 7 et 20.
+
+La Tumeur était classée de T III A (selon la classification de Sheldon). Il a bénéficié d’une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine sans récidive clinique ou radiologique. L’évolution est bonne avec un recul de 2 ans.
+
+Revue :
+Vouzaa B, Lamrani M, Chafaï M. Problèmes posés par le traitement des maladies urologiques invasives. Une étude de quelques aspects. Acta Urolgyca Fennica. 1993;59:34-41.
+Vyas MS, Punt C, Acharya S, Garrett T, Keatinge W. Primary malignant neoplasm of the ouraque. Report of a case and review of the literature. Can J Urol. 1999;6(1):13-16.
+Jouannic JM, Comeau AM, Coutarel JP, Lehesroux D. Urethro-ovarienoma : report de cas et revue de la littérature. Progr Urol. 2002;12:26-31.
+Rao CR, Jha RK, Bidur R, Sinha S, Saikia D. Ovarian Cystadenocarcinoma arising from the urinary bladder. Acta Oncol. 1988;27:231-233.
+Gonzalez RR, Reutter III K, Fritsch HS. Bladder adenocarcinoma invading the left u

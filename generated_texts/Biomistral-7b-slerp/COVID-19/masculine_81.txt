@@ -1,0 +1,31 @@
+Nous rapportons un cas d´une jeune fille de 20 ans qui a présenté une atteinte cutanée au niveau des mains par une éruption cutanée morbilliforme.
+L’histoire a été marquée par un contact avec son père ayant COVID-19.
+L’interrogatoire a révélé l’apparition 5 jours avant de son hospitalisation, d’une éruption cutanée au niveau des mains présentant des petites papules d’aspect rouge et vives devenues rapidly confluentes, avec un urticaire aigue parfois érodant.
+Le test PCR a été réalisé révélant un cas positif.
+A notre avis, nous avons décidé l’injection d´Etanercept (50mg sous cutanée) trois fois par semaine.
+Après 10 jours d’evolution, la patiente est devenu apyrétique, sans détresse respidatoire ni hémodynamique, et avec une bonne marche, une bonne capacité respiratoire et une bonne appetite.
+La patiente a été déclarée en sortie libre sans suivi.
+Une TDM thoracique a été faite après un mois n’ayant pas révélé des altérations des images bronchiques.
+Le bilan biologique a été normal.
+Le bilan d´anatomopathologie a également été normal.
+Nous avons répandu la patience à l´hydroxychloroquine associé à l’azithromycine durant 5 jours.
+
+L’apparition de l’état symptomatique nécessitait l’intervention immédiate d’un praticien compétent.
+La principale crise de l’état d’urgence, vu la pandémie de Covid 19 qui est actuelle, était la problématique de l’hépatotoxicité potentielle de la molécule.
+Le dosage des transaminases sériques des premières heures avait montré une augmentation à 4 fois la normale de l’ASAT (67U/l) et 10 fois de la normale de l’ALAT (61 U/l) (normale ≤ 30 U/l).
+Une consultation référé sur 24h, chez l’hépatologue, avait conclu à une rémission de l’hypertension artérielle de l’ASAT et une normo valeur de l’ALAT.
+Une nouvelle consultation à 48h n’avait pas mis en évidence une régression complète de la transaminase avec une ASAT à 18U/l et une ALAT à 170U/l.
+Dans ce contexte, l’hématologue avait répandu le patient à l’Hôpital General de Douala avec une lettre de prescription comportant les anti-inflammatoires non stéroïdiens et une anticoagulante.
+Nous avons vu le patient, sur 24h, dans un état critiquement mauvais avec une difficulté respiratoire prononcée, une gêne respiratoire à type de ronron et une très grave hypertension artérielle.
+Cette hypertension artérielle était très étendue au niveau du corps entier, si bien que les transfusions sanguines étaient devenues systématiques.
+Le patient a été intubé et mis sur ventilation mécanique à l’aide d’une pneumothorax entre-tubulaire.
+Les paramètres hémodynamiques étaient le suivant: Pulse : 110 / battement cardiaque : 120 / pression arterielle : 110/ 60mmhg / PaO2 : 52 mmhg / PaCO2 : 30 mmHg / pH : 7,15 / Ions calciques : 1,20 mmol/l / CRP : 180.
+Un dosage de l’ASAT était de 72U/l et de l’ALAT de 220U/l.
+A partir de ces résultats biologiques, nous avons mis en route:
+- l’oxygène aux voies respiratoires.
+- des bolus d’hydroxychloroquine à une dose de 600mg/day,
+- un traitement anticoagulant sur 24h.
+L’évolution était marquée par une amélioration dans les premiers jours et un décès au 6ème jour.
+Enfin, dans cette présentation, on s’aperçoit l’hypothèse d’une une mauvaise administration de cette molécule. En effet, selon les dernières recommandations du Centre National de Référence COVID-19 [1, 2], l’hydroxychloroquine doit être administrée par voie orale à la dose de 400 mg ou 600mg deux fois par jour pendant 10 jours. L’association avec de l’azithromycine, vaut au début de 500mg puis 250mg par jour pendant 10 jours.
+En cas d’insuffisance rénale, le posology peut être ajustée en fonction du degré d’insuffisance rénale. Il n’existe pas d’administration par voie parenchymateuse.
+D’autres

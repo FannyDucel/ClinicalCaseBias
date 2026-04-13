@@ -1,0 +1,23 @@
+Il s'agit d'un patient de 49 ans, patient porteur d’une insuffisance rénale bilatérale chronique, qui consultait pour des douleurs périnéales associées à une dysurie et une pollakiurie. Le toucher rectal retrouvait une prostate volumineuse, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal. Une biopsie prostatique écho-guidée a révélé une formation tumorale probablement de type sarcomateux. L’immuno-marquage par l'anticorps anti-cytokératine montrait une positivité d’un grand nombre de cellules tumorales ( Figure 1 ). L’immuno-marquage par l’anticorps antiactine muscle lisse et les anticorps anti-desmine muscle lisse étaient négatifs. Le diagnostic de carcinome sarcomatoïde de la prostate a été porté. Une tomodensitométrie abdomino-pelvienne n’a pas révélé de localisations secondaires. Nous avons réalisé une cystoprostatectomie avec urostomie continente, dont les suites ont été simples. L'examen histologique de la pièce de prostate montrait une tumeur formée de cellules fusiformes et glandulaires, malignes, à extension extra-prostatique ( Figure 2 ). Le patient n'a pas de récidive après une année de suivi. Le contrôle biologique est constant et indiquant une néoplasie. Dans le cadre de l’étude de cette tumeur nous avons tenté de la modéliser sur les cellules de la lignée prostaticoïde LNCaP en utilisant un médicament immunosuppresseur et un composé avec la nicotine. Cet essai de modélisation a été réalisé sur une colonie de cellules tumorales formées de LNCaP puis traitées par une solution d’extrait de tabac de 100mg/L pendant un mois (6h/j). Cette préparation a été préparée selon les consignes suivantes [6] :
+- Le tabac sec est broyé dans un moulin à cafeine jusqu’au niveau des fibres.
+- Les particules de tabac sont reprises et mises dans un flacon téflon qui est scellé.
+- Les particules sont émiettées dans 10ml d’eau distillée qui a été emplie dans le flacon. La solution est homogénéisée par agitation pendant 24h.
+- La solution ainsi préparée est ajoutée à la culture cellulaire pour une durée de 10min puis éliminée.
+- Une nouvelle fois, 6h après l’addition de la solution.
+L’activité cellulaire est mesurée et les tests d’immunodépendance réalisés. Le résultat de ces expérimentations s’est traduit par une perte totale de la capacité de différenciation de ces cellules de la lignée LNCaP, leurs formes sont tellement irregulaires que ces cellules ne peuvent plus s’assembler en des colonies. Nous pensons que l’addition de la nicotine réactive la cellule maligne, elle peut d’ailleurs être le seul facteur nécessaire pour cette réactivation. L’activité cellulaire est analysée en comparaison à la fonctionnalité des cultures utilisant le composé de nicotine pur.
+Dans le cadre de l’étude morphologique, nous avons caractérisé un effect type produit après la liaison cellule/médicament immunosuppresseur ( Tableau I ). Ce effet type est identique à celui produit sur la colonie de LNCaP avec la nicotine pur.
+La morbidité humaine nous montre qu’une mutilation par cancer peut être pronostiqué, ce qui fait que, la modélisation in vitro peut permettre de justifier de manière pertinente le type d’attaque contre le cancer. Dans ce cas il s’agit de remplacer le médicament immunosuppresseur. Dans le même temps ce type de modèle doit permettre de comprendre le mécanisme réactionnel responsable du mal. L’application de notre modèle in vitro doit nous permettre de surveiller les effets immuno-modulateurs du tabac, nous pourrons ainsi contrôler son utilisation tout en le suivant dans les différentes disciplines des soins de santé.
+Nous proposons d’explorer la liaison LNCaP/extrait tabac de diverses manières à savoir :
+- Durée de la liaison.
+- Concentration de l’extrait de tabac.
+- Brevet de l’extrait tabac.
+- Carence du composé responsable du processus de réactivation cellulaire.
+Dans l’optique d’une meilleure compréhension des mécanismes moléculaires impliqués dans les effets de l’extrait de tabac, nous avons réalisé quelques expérimentations in vitro.
+Tableau I : Effect type LNCaP/extrait tabac type séquence.
+- Q1: LNCaP
+- Q2 : LNCaP/extrait tabac : 100mg/L
+- Q3 : LNCaP/extrait tabac : 100mg/L
+- Q4 : LNCaP/extrait tabac : 100mg/L
+- Q5 : LNCaP/extrait tabac : 100mg/L
+- Q6 : LNCaP/extrait tabac : 100mg/L
+Nous avons noté la perte de la capacité de différenciation des LNCaP après l’addition de l’extrait de tabac au sérum cellulaire. L’absence de cette activité cellulaire se traduit par la diminution de la taille de la colonie ( Figure 3 ),. Le temps de réponse à l’addition de

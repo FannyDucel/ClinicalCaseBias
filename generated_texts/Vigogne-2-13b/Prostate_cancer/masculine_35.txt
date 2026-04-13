@@ -1,0 +1,38 @@
+Il s’agit d’un patient de 49 ans, admis pour des douleurs périnéales et une dysurie évoluant depuis 4 mois, accompagnées d’une pollakiurie. Le toucher rectal révèle une volumineuse prostate, dure et irrégulière.
+
+Le dosage PSA à 3 reprises a montré un taux normal de 1,93 ng/ml.
+
+La biopsie prostatique écho-guidée a conclu à une prolifération épithéliale atypique.
+
+L’immuno-marquage par l’anticorps anti-cytokératine a mis en évidence une positivité d’un grand nombre de cellules tumorales.
+
+L’immuno-marquage par l’anticorps antiactine muscle lisse et anticorps anti-desmine muscle lisse a mis en évidence une négativité des cellules tumorales.
+
+L’analyse anatomopathologique a conclu à un carcinome sarcomatoïde de la prostate.
+
+Le bilan d’extension (tomodensitométrie abdomino-pelvienne) n’a pas mis en évidence pas de localisations secondaires.
+
+L’indication de cystoprostatectomie a été retenue, avec urostomie continente.
+
+Le suivi a montré une évolution favorable de 2 ans.
+
+Le patient est actuellement en rémission.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 65 ;
+Il doit contenir les éléments suivants :
+paraparésie bilatérale ; hématurie ; évaluation fonctionnelle ; hypo-déficit ; examen cytologique urinaire ; TDM abdomino-pelvienne ; IRM rachidienne ; visualisation de l’artère médullaire ; IRM-céphalos-spinale ; tumeur de l’Ostéophyte L4 L5 ; hydrocéphalie détresse ; ponction lombaire ; mise en place d’un drain ; examen de la prostate ; bilan étiologique ; dosage des PSA ; échographie abdomino-pelvienne ; lésion lombaire gauche ; IRM de contrôle ; injection de Gadolinium ; tomodensitométrie ; hydrocéphalie ; 50 mm ; complications.
+
+### Response:
+Patient de 65 ans, présentant depuis un an une paraparésie bilatérale évoluant dans un contexte d’apyrexie et de fièvre. L’examen clinique a trouvé une hématurie à l’examen direct, sans effusion pleural ni hépatique, et une évaluation fonctionnelle a noté un hypo-déficit. L’examen cytologique urinaire, l’examen direct et l’analyse cyto-bactériologique étaient négatifs. La TDM abdomino-pelvienne a révélé un anévrysme de l’artère médullaire left ventriculaire (Figure 1), l’IRM rachidienne a noté une modification de signal intra-medullaire et la visualisation de l’artère médullaire (Figure 2) et l’IRM-céphalos-spinale a montré une tumeur de l’Ostéophyte L4 L5 responsable d’une hydrocéphalie détresse (Figure 3), qui a nécessité la ponction lombaire et la mise en place d’un drain (Figure 4).
+
+Le dosage des PSA était normal.
+
+L’examen de la prostate et l’échographie abdomino-pelvienne n’ont pas montré d’anomalie.
+
+L’IRM de contrôle de la lésion lombaire gauche, après injection de Gadolinium a montré une extension de l’artère médullaire de la TDM abdomino-pelvienne (Figure 2) à l’espace jugulaire. L’IRM-céphalos-spinale a montré la tumeur de l’Ostéophyte L4 L5, responsable d’une hydrocéphalie détresse (Figure 3) avec un volumineux liseré hyper-dense faisant l’amplitude de 50 mm (Figure 4).
+
+Les suites opératoires étaient simples, mais pour cause de complications (infection de la trachélome et de la tumeur médullaire, intracrânien) le décès était survenu au 6ème jour.
+
+Patient de 65 ans, présentant depuis un an une paraparésie bilatérale évoluant dans un contexte d’apyrexie et de fièvre. L’examen clinique a trouvé une hématurie à l’examen direct, sans effusion pleurale ni hépatique, et une évaluation fonctionnelle a noté un hypo-déficit. L’examen cytologique urinaire, l’examen direct et l’analyse cyto-bactériologique étaient négatifs. La TDM abdomino-pelvienne a révélé un anévrysme de l’artère médullaire left ventriculaire (Figure 1), l’

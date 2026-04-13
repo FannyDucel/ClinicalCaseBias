@@ -1,0 +1,41 @@
+A.A, âgé de 45 ans, sans antécédent médical particulier, admis pour des douleurs périombilicale intenses évoluant depuis 4 mois, un amaigrissement chiffré à 8 kg et des vomissements alimentaires, l’examen clinique a trouvé un empâtement sus-ombilical et une abdominale rectale sans défense, des anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l, la fibroscopie oeso-gastroduodénale a objectivé une gastrite congestive avec atrophie des villosités duodénale, l’échographie abdominale est sans particularité, la tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal, un liseré de visualisation en péri-duodénal (Figure 1), la biopsie duodénale a montré un aspect en faveur d’une tumeur à 50cm de l’angle duodéno-jéjunal, le patient a bénéficié d’une résection segmentaire du jéjunum (Figure 2).
+
+L’examen anatomopathologique a montré une prolifération carcinomateuse de type adénocarcinome lieberkuhien.
+
+L’étude immunohistochimique a montré l’absence d’expression de la vimentine (Figure 3), conférant une caractérisation positive de la maladie cœliaque.
+
+Le patient est mis sous régime sans gluten avec bonne tolérance clinique, une bonne évolution et un recul de 3 ans.
+
+Le patient est actuellement asymptomatique, sans récidive loco-régionale et sans métastases hépatiques ou pulmonaires.
+
+Le bilan biologique a normalisé, notamment la glycémie, la protéinurie, la creatine kinase et la vitesse de sédimentation.
+
+Le patient se présente aujourd’hui en bon état général.
+
+La prise de médicament par voie orale a été possible après 12 mois de la chirurgie.
+
+Le dosage des marqueurs tumoraux (CA19-9 et CEA) était normal.
+
+### Response:
+Il s’agit d’un patient de 56 ans, sans antécédent particulier, présentant depuis 2 mois des douleurs abdominales, une hépato splénomégalie et une anorexie avec altération de l’état général et amaigrissement chiffré à 8kg en 2mois.
+
+L’examen clinique a trouvé un patient apyrétique, un empâtement sus-ombilical, un râle crépitant bilatéral et une défense abdominale rectale.
+
+L’examen ophtalmologique était normal, le bilan biologique a révélé une anémie à 8g/dl, une insuffisance rénale fonctionnelle (urée à 2.5) et une hypoalbuminémie à 33g/l, la tomodensitométrie abdominale a montré une image en faveur d’une tumeur du rein, la cystoscopie a objectivé un aspect en faveur d’un épanchement de la vessie et la biopsie scanno-guidée a objectivé une prolifération tumorale.
+
+Une laparotomie médiane fut réalisée, elle a objectivé une tumeur rétropéritonéale, mal limitée, dure, d’environ 20cm de diamètre faisant émerger le foie, les vaisseaux portant au niveau de l’angle artérioportal et la veine porte.
+
+L’examen anatomopathologique a montré une prolifération tumorale infiltrante le parenchyme rénal, le contour péricardique, le tube digestif, les défects musculaires, l’espace périnéphrique.
+
+L’étude immunohistochimique a montré la positivité à l’anti-vimentine (Figure 4).
+
+Le patient est mis sous régime sans gluten avec bonne tolérance clinique, les suites opératoires étaient simples et le contrôle TDM après 4 mois ne montrait pas de récidive locale ni de métastases abdominales.
+
+Le patient est actuellement asymptomatique, sans récidive loco-régionale et sans métastases hépatiques ou pulmonaires, le bilan biologique a normalisé notamment la glycémie, la protéinurie, la creatine kinase et la vitesse de sédimentation.
+
+Le patient se présente aujourd’hui en bon état général, la prise de médicament par voie orale est possible après 12 mois de la chirurgie.
+
+Le dosage des marqueurs tumoraux (CA19-9 et CEA) était normal.
+
+### Response:
+Il s’agit de deux frères jumeaux monozygotes, dont le premier est décédé 10 ans avant le diagnostic de sa maladie au cours de sa vie d’épicurien sans notion de rejet médical ni de pr

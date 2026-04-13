@@ -1,0 +1,33 @@
+Il s’agit de patient de 20 ans, porteur de MUT n°4 chez son père, et qui s’est présenté aux urgences pour une atteinte cutanée au niveau des mains et des pieds, avec urticaire aigue et prurit au contact de liquide infectieux.
+
+L’examen clinique a objectivé une tension artérielle de 90/50 mmHg, un stress oxydatif important et le test PCR positif au Covid-19.
+
+L’évolution a été marquée par une amélioration de la situation clinique au bout d’une semaine, avec l’arrêt de la prise d’Etanercept et la réintroduction par le médecin d’un apyrétique avec un score MScRI stable.
+
+Deux mois après la disparition de l’urticaire aigue, le patient a perdu son travail et son autonomie. Il a été mis sous chloroquine et mésalazine.
+Le bilan biologique n'a pas montré la présence d'infections opportunistes.
+
+L'hémodynamie n'était pas améliorée par l'introduction par le médecin du traitement par hydrocortisone sous forme de per os à raison de 200 mg/j. La tomodensitométrie thoracique a montré que les lésions cutanées existaient à chaque muqueuse de la région ilio--pectorale mais pas d´infiltrat important au niveau du larynx.
+
+L’évolution était marquée par une bonne évolution sur le plan fonctionnel avec l’arrêt de la chloroquine mais une reprise des lésions cutanées au niveau des mains, des pieds et du cou avec la persistance des urticaires aigues.
+Les rhinite exanthématique entraînée par le Covid-19 restent une complication fréquente chez les patients souffrant d’un syndrome inflammatoire (avec désinfections virales, plus fréquemment associées). Elles sont liées au système immunitaire qui combat au niveau du tractus respiratoire (rez, nez, bouche) et des muqueuses cutanées.
+
+La corticothérapie a longtemps été associée à des cas d’urticaire paraphénylétique et peut être incriminée dans les manifestations cutanées. Dans ce cas, un contrôle de la réponse immunitaire est essentiel en raison de sa capacité à agir à deux niveaux différents : sur la cause du prurit et sur ses manifestations.
+
+En effet, dans le cadre de la cohabitation de plusieurs immunodéficiences (en particulier MUT), la réponse immunitaire contre des stimulateurs TCR est très réduite. C’est le cas des produits hydroallergéniques (salvins, nettoyants faciaux, traitement au contact…), du cytomégalovirus (CMV) et du VIH.
+
+De plus, l’injection d´Etanercept peut également favoriser des réponses inflammatoires sévères associant des douleurs cutanées, des prurits généralisés et une anxiété sévère. La survenue de réactions inflammatoires étendues peut également persister après l’arrêt de l’Etanercept et même après la reprise de la dose (2-3 semaines).
+
+Devant ces différents facteurs associés à une réponse immunitaire basse, la corticothérapie a été instaurée progressivement au long du suivi.
+A son départ du service de réanimation, la corticothérapie était limitée à la per os avec injection de 10 à 20 mg/j à raison de 400 mg/j. Par contre, la dose injectée a été augmentée progressivement en fonction de l’apparition d’anaphyles aux hydrocorticoïdes.
+La dose de cytomégalovirus a été respectivement diminuée de 50 à 10 % puis stoppée à l’issue du contrôle de la réponse immunitaire au contact du CMV.
+Le patient était transféré dans son milieu familial, au sein duquel il est toujours sous Etanercept.
+
+Au départ, l’administration de corticothérapie était associée à une augmentation significative des réactions allergiques (prurit, urticaire, prurit pétéchial et érythèmes polymorbidus) ce qui justifiait la mise en place de nombreuses mesures d’hygiène au niveau de la maison et des locaux d’hospitalisation.
+A la demande du patient, la corticothérapie a été de nouveau diminuée au cours du premier mois puis l’augmentation des allergies a été limitée au dernier mois.
+
+Une augmentation significative des réactions allergiques aux traitements immuno-diphasiques est observée lors de la réponse immunitaire effectrice par l’Etanercept. Ces réactions (urticaire à répétition, prurit généralisé, maux de tête, myalgies et maux de gorge) sont la conséquence d’une réponse immunitaire à haute dose et favorisent un syndrome de choc immuno-diphasique, une hypersensibilité cutanée et rénale et parfois un syndrome de choc hypodermique qui peut conduire à une défaillance d'organe.
+
+Le spécialiste en charge de la prise en charge du patient a prescrit de la corticothérapie à la dose de 20 mg/j par injection d’Etanercept dès l’apparition des premières réactions allergiques. En conséquence, il était possible de décaler l’apparition des nouvelles allergies au cours du temps. Il en a été de même pour le syndrome de choc hypodermique. La diminution de la dose injectée a été progressive et l’arrêt des injections et du corticothérapie s’est amorcé au bout de 15 jours de la reprise de la réponse immunitaire par l’Etanercept.
+A l’heure actuelle, les nouvelles allergies ne sont plus associées à une surestimation de la réponse immunitaire. Le traitement par corticothérapie a été arrêté au bout de 19 mois de la prise d’e. Un test d’immunodiagnostic positif au Covid-19 a été réalisé après deux mois de la sortie du service de réanimation.
+L’étude fonctionnelle de l’Etanercept après deux mois de la sortie a montré une efficacité de la molécule en charge de la réponse immunitaire (Etanercept CPK 450 – contrôle : 180 µg/mL ; Etanercept CPK 450-- efficacité : 45µg/mL). Le bilan d’immunodéficience réalisé pendant la deuxième année de traitement ne permettait pas de déterminer si la réponse immunitaire à l’Etanercept était responsable de l’extension des lésions cutanées. Un contrôle cutané sous contrôle immunologique a été effectué avec Etanercept deux mois après le

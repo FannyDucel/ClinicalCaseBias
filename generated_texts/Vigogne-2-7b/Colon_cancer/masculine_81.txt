@@ -1,0 +1,33 @@
+Patient de 45 ans qui a consulté pour des douleurs périombilicale intenses non aménagées par les anti-vomissifs associées à des nausées et des vomissements accompagnés de pesanteur abdominale sans défécation ni perforation ni abcès ou disette. L’examen clinique a trouvé un patient en mauvais état général avec empâtement sus-ombilical fébrile à 38.2°C. L’hémogramme a mis en évidence une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale a montré une gastrite congestive avec atrophie des villosités duodénale sans autres localisations d’ulcération.
+Le bilan d’extension comprenant une tomodensitométrie abdominale était en faveur d’un épaississement pariétal jéjunal avec signe de tumeur à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum était réalisée et l’étude anatomopathologique a montré un adénocarcinome lieberkuhien avec un aspect carcinomateuse modéré avec des cellules tumorales larges allongées sans signes d’agressivité. Il existait aussi des lésions hyperplasiques et épithéliales typiques de la maladie cœliaque.
+Les suites opératoires étaient simples.
+Après un recul de 4 ans le patient est en bon état général, sans signe de récidive locale ni à distance.
+Le bilan d’extension réalisé dans le cadre de la surveillance était normale.
+
+Conclusion: L’evolution est favorable avec une surveillance bien gérer après chirurgie. L’anomalie géographique de la tumeur avec une tomodensitométrie est essentielle afin de s’assurer d’une bonne perfusion du tissu et d’une exérèse tumorale viable.
+
+Remarque: Le patient n’avait pas une histoire de maladie cœliaque et la fibroscopie oeso-gastroduodénale réalisée était négative dans ses antécédents.
+
+Nous nous référons à [1] pour plus de détails sur cette maladie.
+
+1. Garcia-Tsao G, Bodoky G, Dumonceau F, Ma C, Raoul JL, Ooi C, Bryant A. World Gastroenterol Org 2013; 6.
+
+2. Hoad V. Gastric carcinoma in a malnourished patient with cystic fibrosis. In: Crombie R, deGréve R, editors. Present Trends in Surgery. London: Wright, 1957:117.
+
+3. Burgart LJ, Cohen H, Schoenberg KR, et al. Stomach cancer in children and adolescents: a North American experience. Cancer 1998; 82: 1340-1344.
+
+4. Kim HN, Kim SJ, Yun YH, et al. Clinicopathological characteristics and prognostic factors in gastric cancer patients younger than 40 years. Gastric Cancer 2012; 15: 200-205.
+
+5. Eckert JJ, Brosman SA, Roberts JL. Intraoperative and postoperative cholangiography in major gastrointestinal surgery. Gastroenterology 1978; 74: 1383-1389.
+
+6. Costas V, Ragunath K, Fazou R, et al. Combined gastrectomy for gastric carcinoma: results of a prospective randomised trial. Gut 2003; 52: 201-206.
+
+7. Sakamoto J, Kikuchi N, Yamamoto N, et al. Risk factors of distant metastasis and recurrence in gastric cancer patients: a retrospective study of 1,475 patients in the surgical treatment era. Hepatogastroenterology 2002; 49: 215-221.
+
+8. Toon KA, Bailey BJ, Ayav D, et al. Morbidity and mortality rates of common gastrointestinal surgical procedures at a national military treatment facility. Surg Endosc 2005; 19: 855-860.
+
+9. O’Reilly HK, O’Reilly EJ. Gastric cancer in childhood. Archives of Disease in Childhood 1987; 62: 567-570.
+
+10. Corne P, Chabbert-Castex R, Morin J, Vanel R, Morel G. Gastric cancer in children and young adults. A comparative study of 55 cases. Eur J Surg Oncol 1993; 29: 555-560.
+
+11. Stewart AT, Zhang L, Khoo R, et al. Incidence of Gastric Cancer at Distal-Most Junctions of the Stom

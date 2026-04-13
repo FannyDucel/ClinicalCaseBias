@@ -1,0 +1,24 @@
+Un homme de 64 ans, tabagique et diabétique, hospitalisé pour douleur thoracique d'installation brusque dans une hémiparkie. Son angina pectoris évoluait depuis 2006 et il n'avait pas d'autre facteur de risque cardiovasculaire. A l'échocardiographie, il a été découvert un IDM circonférentiel non thrombolysé. L'auscultation cardio-pulmonaire a objectivé un souffle systolique et des râles crépitant. L'échocardiographie a mis en évidence une CIV musculaire en rapport avec une CIV dilatée et rupturée, responsable d'une IDM circonférentielle non thrombolysé, ainsi qu'un ventricule gauche non dilaté avec une akinésie apicale et inféroseptale, témoignant d'une dysfonction systolique (Figure 1). La coronarographie a révélé la présence de lésions bi-tronculaires au niveau du rami postéro-latéral droit et de l'artère première interne correspondant à un anévrysme du ventricule gauche avec un flux émaillé qui n'est pas fortement évide, évoquant une angor par akinésie (Figure 2). La fermeture chirurgicale de la CIV a permis l'accomplissement d'une cure de l'anévrysme ventriculaire gauche par voie du rami postéro-latéral droit, à l'aide d'un pontage par un patch intra-ventriculaire (Figure 3). Les deux branches du rami postéro-latéral gauche n'étaient pas englobées. Une monopontage aortocoronaire sur la coronaire droite a été réalisée. Les suites opératoires ont été simples. A l'angioscanner, l'anévrysme était résorbé (Figure 4). L'évolution était favorable avec un recul de 3 ans.
+
+Figure 1
+Figure 2
+Figure 3
+Figure 4
+
+### Response:
+Monsieur H.T âgé de 75 ans, a été hospitalisé en urgence dans le service de réanimation chirurgicale pour une détresse respiratoire aiguë à type de respirations dyspnéiques avec une fièvre évoluant depuis 48 heures. Dans ses antécédents, on note la notion d'un cardiopathie ischémique. L'examen clinique a objectivé une tachycardie sinusale à 130/min, une fièvre à 38,5°C, un râle crépitant au niveau des deux champs pulmonaires, un souffle systolique à l'auscultation cardiaque, une impotence fonctionnelle du membre supérieur gauche et une paralysie bulbaire bilatérale. Le reste de l'examen somatique a été sans particularités.
+L'échocardiographie a objectivé une CIV musculaire en rapport avec une CIV dilatée et rupturée responsable d'une IDM circonférentielle non thrombolysée, ainsi qu'un ventricule gauche non dilaté avec une akinésie apicale et inféroseptale, témoignant d'une dysfonction systolique (Figure 5).
+L'échocardiographie-doppler a mis en évidence un collatéral interventriculaire de premier degré droit et gauche. Une coronarographie a objectivé la présence d'une sténose complet en territoire rami postéro-latéral droit, responsable d'une angor pulmonaire avec un flux émaillé qui n'est pas fortement évide, évoquant une angor par akinésie (Figure 6). Le reste des artères coronariennes était libre (Figure 7). Une fermeture chirurgicale de la CIV a permis l'accomplissement d'une cure de l'anévrysme ventriculaire gauche par voie du rami postéro-latéral droit (Figure 8), à l'aide d'un patch intra-ventriculaire en porc, avec une exérèse partielle de l'anévrysme au microscope (Figure 9). La suture de l'orifice interventriculaire a été réalisée à l'aide d'un tissu viscéngé (Figure 10). Les deux branches du rami postéro-latéral gauche n'étaient pas englobées. Un pontage par un double sac veineux du rami apical droit en porc à 10 mm de diamètre a été réalisé sur la coronaire droite.
+Les suites opératoires ont été simples. A l'angioscanner, l'anévrysme était résorbé (Figure 11).
+L'évolution était favorable avec un recul de 3 ans.
+
+Figure 5
+Figure 6
+Figure 7
+Figure 8
+Figure 9
+Figure 10
+Figure 11
+
+### Response:
+Un homme de 66 ans, sans antécédent cardiaque connu, victime d'une chute qui l'a conduit à l'hôpital où on a découvert une CIV musculaire, une IDM circonférentielle non thrombolysée,

@@ -1,0 +1,74 @@
+Une patiente de 54 ans, sans antécédents pathologiques notables, a été adressée pour malaise général et douleurs épigastriques. L’examen physique a objectivé une grossesse gestationnelle de 6 semaines. L’échographie abdominale a montré une grossesse singleton avec un utérus de taille normale. Par ailleurs, l’examen tomodensitométrique a révélé une masse indéterminée de 4 cm de diamètre localisée au niveau de l’ouraque avec un aspect envahissant uniquement la graisse adjacente. Le diagnostic d’une urétérohydronéphrose gauche à droit a été posé et la patiente a été incisée.
+
+Une cystoprostatectomie radicale totale associée à une omphalectomie et à une entérocystoplastie de substitution a été réalisée.
+
+L’examen anatomopathologique de la pièce opératoire a montré la présence d’un adénocarcinome de l’ouraque peu différencié s’exprimant fortement les cytokératines moléculaires typiques (cytokeratines 7 et 20). Cette tumeur est également positive aux marqueurs épithéliaux (antigène Carcino-Embryonnaire et Leu-M1), apporteant une preuve de l’origine urétrale de la tumeur. Le stade anatomopathologique était classé T III A (selon la classification de Sheldon) avec un score d’extension UICC 1997 de 3/8.
+
+La patiente a reçu une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine avec une réponse favorable. Après 15 mois de surveillance, la patiente est en bon état général avec un bon contrôle clinique de la maladie.
+Le tableau III résume les données des cas cliniques détaillés. Tableau III. Caractéristiques des patients étudiés.
+Tumeurs
+Adénocarcinomes
+Adénocarcinomes du col utérin
+Non spécifiés
+Nombre de cas
+18
+3
+3
+Traitement
+Non traités
+Traités
+Antifoliques
+Vincristine
+Antimétabolites
+Colchicine
+Hydroxyuree
+Cisplatine
+Cyclophosphamide
+Doisifiés
+AUC0∞
+0,95 ± 0,35
+1,36 ± 0,45
+0,70 ± 0,25
+0,91 ± 0,38
+0,77 ± 0,27
+0,82 ± 0,36
+AUC0∞(1–7)
+0,57 ± 0,22
+0,83 ± 0,34
+0,45 ± 0,21
+0,56 ± 0,24
+0,47 ± 0,19
+0,53 ± 0,24
+Cmax
+20,7 ± 8,8 mg/L
+36,7 ± 13,4 mg/L
+13,7 ± 5,1 mg/L
+18,6 ± 6,8 mg/L
+15,8 ± 5,9 mg/L
+17,3 ± 6,3 mg/L
+t½a
+3,04 ± 1,02 h
+2,51 ± 0,83 h
+2,55 ± 0,87 h
+2,72 ± 0,92 h
+2,59 ± 0,91 h
+2,65 ± 0,93 h
+tmax
+0,5 h
+0,5 h
+1,07 ± 0,40 h
+0,5 h
+1,17 ± 0,51 h
+1,05 ± 0,42 h
+Cmax/C0
+1,05 ± 0,30
+1,14 ± 0,35
+1,08 ± 0,32
+1,07 ± 0,32
+1,04 ± 0,30
+1,06 ± 0,31
+La figure 2 présente la courbe médiane de l’AUC0∞ et la Cmax, pour l’hybride 2 et l’antibiotique cytotxique pour l’ensemble des données du tableau III.
+Figure 2 : Courbes médianes des AUC0∞ et Cmax pour l’hybride 2 et l’antibiotique cytotxique
+La dose ajustée par le modèle semi-pharmacocinétique semi-dynamique est de 2 g, avec une variation de 46 % de la valeur médiane. L’étude d’un patient avec de multiples pathologies sous l’hybride 2 a permis de valider l’approximation du modèle semi-pharmacocinétique semi-dynamique.
+A noter que les données cinétiques des patients dans cette étude sont différentes de celles observées chez les patients âgés de 24 à 61 ans, avec le plus petit AUC0∞ observé dans les patient âgés de 34 à 52 ans et le plus grand AUC0∞ dans les patients âgés de 64 à 74 ans. On observe la même variabilité dans la Cmax. Ainsi, la variation de 24 % de la dose de l’hybride 2 peut expliquer 53 % de la variabilité de la dose ajustée. Le dosmage individuel en vigueur utilise cette origine. Devant l’ampleur de la variation, il serait raisonnable de préconiser la conduite de dose ajustée par la détermination des AUC0∞ ou Cmax.
+Aucune limitation de dosage du cytarabine n’a été observée. L’étude cinétique d’un patient ayant reçu de multiples traitem

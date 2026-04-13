@@ -1,0 +1,41 @@
+C’est une patiente âgée de 55 ans, 2ème pare, 3ème geste, à œsophagite et asthme corticodépendant depuis 2 ans, qui nous avait été référée du Centre Hospitalier Principal d’Omdurman pour prise en charge d’un cancer de l’ovaire bilatéral. A son admission, elle présentait des douleurs abdominales, une anorexie et une perte de poids d’environ 10kg en 2mois, évoluant depuis 4 mois. Elle a bénéficié d’une hystérectomie totale avec omentectomie et hémi-fémoro-ovarectomie droite. L’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III. Les résultats de l’échographie hépatique et radio du thorax étaient normaux. Le CA 125 était augmenté à 10 705. La patiente a bénéficié d’une surveillance biologique tous les mois et n’avait pas présenté de relaps. A 6 mois de suivi, elle a consulté pour une diarrhée fébrile associée à une incontinence urinaire totale. Son examen physique a montré une dénutrition et une sensibilité abdominale. Le bilan hépatique était normal. L’échographie hépatique était normale. Le bilan phosphocalcique a montré une hypocalcémie associée à une hyperparathyroïdie avec une calcémie à 74.6mg/l, une phosphorémie à 21.2mg/l et une PTH à 184pg/ml. Le C réactive protéine (CRP) était à 197. Le bilan hépatique, rénal, et squelettique était normal. La patiente a bénéficié d’un traitement par antibiothérapie à large spectre: pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole. La transfusion plaquetaire et de globules rouges a été nécessaire. La cystoscopie n’a pas montré d’anomalie. La patiente a été opérée une seconde fois à 13 mois de suivi. Elle a bénéficié d’une réadmission à l’urgence du CHOP, au vu d’une asthénie généralisée, une altération de l’état général et des douleurs abdominales. Un syndrome infectieux a été suspecté, mais elle a présenté une hématurie macroclavicole à l’examen physique, ce qui a motivé son transfert à l’hôpital universitaire Soba où elle a bénéficié d’une deuxième laparotomie avec drainage peritonéale en urgence. L’examen anatomo-pathologique des pièces opératoires était en faveur d’une métastase ganglionnaire d’un adénocarcinome du poumon. La patiente est décédée à l’hôpital universitaire Soba.
+
+### Response:
+Le C réactive protéine (CRP) était à 197.
+
+### Response:
+Le bilan hépatique, rénal, et squelettique était normal.
+
+### Response:
+La patiente a été opérée une seconde fois à 13 mois de suivi.
+
+### Response:
+Elle a bénéficié d’une réadmission à l’urgence du CHOP.
+
+### Response:
+Il s’agissait d’une asthénie généralisée, une altération de l’état général et des douleurs abdominales.
+
+### Response:
+Un syndrome infectieux a été suspecté, mais elle a présenté une hématurie macroclavicole à l’examen physique, ce qui a motivé son transfert à l’hôpital universitaire Soba.
+
+### Response:
+Elle a bénéficié d’une deuxième laparotomie avec drainage peritonéale en urgence.
+
+### Response:
+L’examen anatomo-pathologique des pièces opératoires était en faveur d’une métastase ganglionnaire d’un adénocarcinome du poumon.
+
+### Response:
+La patiente est décédée à l’hôpital universitaire Soba.
+
+### Response:
+Il s’agissait d’une œsophagite, d’un asthme corticodépendant depuis 2 ans et d’un cancer de l’ovaire bilatéral.
+
+### Response:
+A son admission, elle présentait des douleurs abdominales, une anorexie et une perte de poids d’environ 10kg en 2mois, évoluant depuis 4 mois.
+
+### Response:
+Elle a bénéficié d’une hystérectomie totale avec omentectomie et hémi-fémoro-ovarectomie droite.
+
+### Response:
+L’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III.
+

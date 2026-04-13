@@ -1,0 +1,24 @@
+Il s'agit d'une patiente de 26 ans, sans antécédents pathologiques particuliers, nulligeste nullipare qui a consulté au service de radio-oncologie de l'hôpital militaire d'instruction Mohamed V à Rabat. Cette patiente, qui est originaire d'une famille poly-atteinte par le cancer du sein, a vu sa mère et sœur décédées d'un cancer du sein à l'âge de 40 ans et 35 ans. Elle a consulté pour une douleur au sein droit, une irritation cutanée et un écoulement de pus. L'examen clinique a mis en évidence un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, le tout accompagné d'adénopathie de 1.5 cm au niveau du creux axillaire droit. L'examen du sein gauche a montré un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Un contrôle abdominal a été effectué et était normal. La mammographie a révélé deux opacités cortico-alvéolaires en stade III de BIRADS. La tomodensitométrie a montré la présence de deux formations tissulaires bien limitées au sein droit, refoulant les tissus graisseux du creux axillaire et la présence d'une formation tissulaire bien limitée au sein gauche. La patiente a bénéficié d'une microbiopsie des deux lésions cliniques des deux seins qui étaient d'allure maligne. Le diagnostic de carcinome canalaire infiltrant SBR III était établi. Les marqueurs tumoraux ont été faits et montraient des récepteurs hormonaux négatifs. Le test de l'HER 2 était négatif. La patiente a été opérée au mois d'Avril 2015, devant l'extension de la tumeur et d'adénopathie d'un cote avec un stade T3N1M0. L'évolution clinique a été marquée par la notion d'engorgement mammaire bilatéral et une augmentation des inflammations mammaires. Le CA 15-3 a été élevé à 81 mui/ml. Une chimiothérapie néoadjuvante a été décidée sur la base de quatre cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m² puis deux cures de docétaxel. La patiente a bénéficié d'une chirurgie radicale type Patey bilatéral. La patiente a bénéficié d'une chimiothérapie et radiothérapie post opératoires, sur la base de quatre cures de docétaxel puis d'une radiothérapie sur les 2 seins avec une dose totale de 50 Gy. L'évolution clinique a été marquée par la disparition des douleurs et la régression des inflammations mammaires. Le suivi à 6 mois a montré une patiente en bonne santé.
+Mammographie
+Fig 1: La mammographie a révélé deux opacités cortico-alvéolaires en stade III de BIRADS.
+Fig 2 :La tomodensitométrie a montré la présence de deux formations tissulaires bien limitées au sein droit refoulant les tissus graisseux du creux axillaire
+Fig 3 :La tomodensitométrie a montré la présence d'une formation tissulaire bien limitée au sein gauche.
+Tomodensitométrie
+Fig 4 :Les marqueurs tumoraux montraient des récepteurs hormonaux négatifs.
+Fig 5 : Le test de l'HER 2 était négatif.
+Fig 6 : Le CA 15-3 a été élevé à 81 mui/ml.
+Fig 7: La patiente a bénéficié d'une chirurgie radicale type Patey bilatéral.
+Fig 8: La patiente a bénéficié d'une chimiothérapie et radiothérapie post opératoires sur la base de quatre cures de docétaxel puis d'une radiothérapie sur les 2 seins avec une dose totale de 50 Gy.
+Fig 9: La mammographie a révélé deux opacités cortico-alvéolaires en stade III de BIRADS.
+Fig 10: La tomodensitométrie a montré la présence de deux formations tissulaires bien limitées au sein droit refoulant les tissus graisseux du creux axillaire
+Fig 11: La tomodensitométrie a montré la présence d'une formation tissulaire bien limitée au sein gauche.
+Fig 12: Les marqueurs tumoraux montraient des récepteurs hormonaux négatifs.
+Fig 13: Le test de l'HER 2 était négatif.
+Fig 14: Le CA 15-3 a été élevé à 81 mui/ml.
+Fig 15: La patiente a bénéficié d'une chirurgie radicale type Patey bilatéral.
+Fig 16: La patiente a bénéficié d'une chimiothérapie et radiothérapie post opératoires sur la base de quatre cures de docétaxel puis d'une radiothérapie sur les 2 seins avec une dose totale de 50 Gy.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 26 ;
+Il doit contenir les éléments suivants :
+poly-atteinte par le cancer du sein ; nulligeste nullipare ; t

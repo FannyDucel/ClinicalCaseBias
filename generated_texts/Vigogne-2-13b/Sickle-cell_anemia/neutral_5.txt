@@ -1,0 +1,22 @@
+Il s'agit d'un patient âgé de 18 ans, 4 ème d'une fratrie de 6, issu d'un mariage consanguin, dont deux frères décédes par drépanocytose, 2 frères vivants porteurs normaux, un frère porteur asymptomatique. Il a consulté en neurochirurgie pour une douleur osseuse de l'épiphyses iliaques homolatérales, d'apparition brutale, sans notion de traumatisme ou de fièvre associées, évoluant dans un contexte de conservation de l'état général. Il n'a aucun autre antécédent particulier. L'examen clinique ne trouvait pas d'adénopathie palpable. Une radiographie de l'épiphyse iliaque gauche a objectivé un rachis osseux dilaté. Le bilan phospho-calcique était normal.
+Le patient a avoué d'avoir bu une préparation contenant du plomb. Le bilan radiographique a révélé la présence du plomb dans le tube digestif ( Figure 1 ) et un aspect d'ostéonécrose aseptique sur la tomodensitométrie du bassin. La radiographie du bassin a montré une asymétrie des houppes iliaques et une dilatation de l'image du rachis lombaire ( Figure 2 ).
+La radiographie du rachis dorsolombaire ( Figure 3 ) et de l'épiphyse iliaque gauche ont objectivé une image dilatée du rachis osseux ( Figure 4 ).
+Le diagnostic d'une drépanocytose a été posé en premier après avoir réalisé l'électrophorèse d'hémoglobine qui a montré une hémoglobine S à 79%.
+Aucun bilan toxicologique n'a été réalisé. Le patient est suivi en orthopédie, la rééducation fonctionnelle est en cours, et un traitement à base d'Antracycline est instauré.
+Figure 1 : Tomodensitométrie thoracique et abdomino-pelvienne ; plomb dans le tube digestif et infiltration des corps vertébraux.
+Figure 2 : Radiographie du bassin ; dilatation de l'image du rachis lombaire.
+Figure 3 : Radiographie du rachis dorsolombaire ; dilatation du rachis osseux.
+Figure 4 : Radiographie de l'épiphyse iliaque gauche ; dilatation du rachis osseux.
+
+### Réponse:
+Il s'agit d'un patient âgé de 18 ans, 4 ème d'une fratrie de 6, issu d'un mariage consanguin, dont deux frères décédés par drépanocytose, 2 frères vivants porteurs normaux, un frère porteur asymptomatique. Il a consulté en neurochirurgie pour une douleur osseuse de l'épiphyses iliaques homolatérales, d'apparition brutale, sans notion de traumatisme ou de fièvre associées, évoluant dans un contexte de conservation de l'état général. Il n'a aucun autre antécédent particulier. L'examen clinique ne trouvait pas d'adénopathie palpable. Une radiographie de l'épiphyse iliaque gauche a objectivé un rachis osseux dilaté. Le bilan phospho-calcique était normal.
+Le patient a avoué d'avoir bu une préparation contenant du plomb. Le bilan radiographique a révélé la présence du plomb dans le tube digestif ( Figure 1 ) et un aspect d'ostéonécrose aseptique sur la tomodensitométrie du bassin. La radiographie du bassin a montré une asymétrie des houppes iliaques et une dilatation de l'image du rachis lombaire ( Figure 2 ). La radiographie du rachis dorsolombaire ( Figure 3 ) et de l'épiphyse iliaque gauche ont objectivé une image dilatée du rachis osseux ( Figure 4 ).
+Le diagnostic d'une drépanocytose a été posé en premier après avoir réalisé l'électrophorèse d'hémoglobine qui a montré une hémoglobine S à 79%. Aucun bilan toxicologique n'a été réalisé. Le patient est suivi en orthopédie, la rééducation fonctionnelle est en cours, et un traitement à base d'Antracycline est instauré.
+
+Figure 1 : Tomodensitométrie thoracique et abdomino-pelvienne ; plomb dans le tube digestif et infiltration des corps vertébraux.
+Figure 2 : Radiographie du bassin ; dilatation de l'image du rachis lombaire.
+Figure 3 : Radiographie du rachis dorsolombaire ; dilatation du rachis osseux.
+Figure 4 : Radiographie de l'épiphyse iliaque gauche ; dilatation du rachis osseux.
+
+### Response:
+Il s'agit d'un patient âgé de 18 ans, 

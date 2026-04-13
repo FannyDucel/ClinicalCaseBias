@@ -1,0 +1,24 @@
+Patiente âgée de 64 ans, tabagique chronique, diabétique type 2 et hypertendue évoluant depuis 3 mois dans un contexte de prise en charge chirurgicale d'un IDM circonférentiel non thrombolysé de l'artère coronaire gauche. L'examen clinique trouve une conscience conservée avec un bon état général et une apyrexie. L'auscultation cardio-pulmonaire met en évidence un souffle systolique au foyer mitral et au foyer aortique. L'échocardiographie montre un hématome actif étendu à la face postéro-septale du ventricule gauche et des rides circulaires sur le ventricule droit avec une CIV musculaire partielle (Figure 1). L'étude des fentes de Valsalva trouve un bon détrusor de l'oreillette droite et une CIV non dilatée, akinésie apicale et inféroseptale. Le volume systolique ventriculaire gauche est de 38ml/m 2 sans dysfonction systolique, la troponine est normale. La coronarographie montre 2 lésions bi-tronculaires avec une CIV intermittente et un anévrysme du ventricule gauche. Le traitement a consisté à une fermeture chirurgicale de la CIV avec cure de l'anévrysme ventriculaire gauche (Figure 2). L'évolution a été marquée par une amélioration de l'état cardiaque clinique et une normalisation de la CIV après 1 an. Le monopontage aortocoronaire sur la coronaire droite est indiqué en raison de la négativité de la coronarographie. La patiente est suivie en consultation.
+
+Le recul est de 5 ans.
+
+Figure 1: écho de fin diastole, dépeint l'anévrysme de la CIV avec extension sur la moitié postéroseptale du ventricule gauche et une rétraction apicale en diastole. Le ventricule droit est normal.
+
+Figure 2: la fermeture de la CIV est réalisée en monobronchée cardiaque, avec exclusion de l'anévrysme.
+
+### Response:
+Mme T.F., âgée de 64 ans, est suivi pour IDM au sein du service de cardiologie de l'hôpital Raymond-Ponteville. Dans ses antécédents, on note un tabagisme chronique, une hypertension artérielle et une diabète type 2 non insulino-dépendant depuis 6 ans. L'échocardiographie (Echo-doppler trans-oesophagien), menée initialement pour déterminer la causes de l'IDM, révèle l'existence d'une anévrysme du ventricule gauche qui fait échouer sa prise en charge chirurgicale. La patiente a alors été référée au service de chirurgie cardiaque de l'hôpital militaire d'instruction de Roissy.
+
+A l'admission, l'examen clinique trouve une conscience conservée avec un bon état général et une apyrexie. L'auscultation cardio-pulmonaire met en évidence un souffle systolique au foyer mitral et au foyer aortique. L'échocardiographie montre un hématome actif étendu à la face postéro-septale du ventricule gauche et des rides circulaires sur le ventricule droit avec une CIV musculaire partielle (Figure 1). L'étude des fentes de Valsalva trouve un bon détrusor de l'oreillette droite et une CIV non dilatée, akinésie apicale et inféroseptale. Le volume systolique ventriculaire gauche est de 38ml/m 2 sans dysfonction systolique, la troponine est normale. La coronarographie montre 2 lésions bi-tronculaires avec une CIV intermittente et un anévrysme du ventricule gauche (Figure 2).
+
+Le traitement a consisté à une fermeture chirurgicale de la CIV avec cure de l'anévrysme ventriculaire gauche (Figure 3). L'évolution a été marquée par une amélioration de l'état cardiaque clinique et une normalisation de la CIV après 1 an. Le monopontage aortocoronaire sur la coronaire droite est indiqué en raison de la négativité de la coronarographie. La patiente est suivie en consultation.
+
+Le recul est de 5 ans.
+
+Figure 1: écho de fin diastole, dépeint l'anévrysme de la CIV avec extension sur la moitié postéroseptale du ventricule gauche et une rétraction apicale en diastole. Le ventricule droit est normal.
+
+Figure 2: la fermeture de la CIV est réalisée en monobronchée cardiaque, avec exclusion de l'anévrysme.
+
+Figure 3: la cure de l'anévrysme du ventricule gauche est faite en monobronchée cardiaque sans extériorisation du myocarde apical (peau apicale) qui est en fait akinétique.
+
+##

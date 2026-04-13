@@ -1,0 +1,44 @@
+Monsieur F. est âgé de 54 ans, sans antécédents pathologiques notables.
+
+Il a présenté une hématurie avec douleurs lombaires associées. L’examen clinique était normal.
+
+L’examen tomodensitométrique mettait en évidence une masse de 4 cm de diamètre de consistance tissulaire (diamètre les plus grands étant de 20 mm) à cheval sur le dôme vésical qui est envahissant uniquement la graisse adjacente sans envahissement des muscles vésicaux.
+
+Une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution était réalisée.
+
+L’examen anatomo-pathologique montrait qu’il s’agissait d’un adénocarcinome de l’ouraque peu différencié: positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, négativité pour les cytokératines 7 et 20 (T III A selon la classification de Sheldon).
+
+Ceci était associé à des métastases de l’os iliaque gauche.
+
+Après quelques mois de chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine le patient est décédé.
+
+### Response:
+Il s’agit d’un patient de 68 ans, sans antécédents pathologiques, qui a consulté pour des douleurs lombaires aiguës associées à une hématurie. L’examen clinique était normal.
+
+L’examen tomodensitométrique montrait un processus tumoral hétérogène de la loge vésicale et renfermant un épanchement péritonéal, envahissant la graisse adjacente sans envahissement des muscles vésicaux, réhaussé après injection de produit de contraste et associé à une dilatation pyélocalicielle bilatérale. Le bilan d’extension montrait une hémipéritonite droite.
+
+Une cystoprostatectomie totale était réalisée. L’examen anatomo-pathologique mettait en évidence une prolifération carcinomateuse infiltrant le parenchyme et la lèvre infra-vésicale. Cette prolifération adhère aux muscles pélviques, à l’uretère, à la séreuse de Veress ainsi qu’à la vessie.
+
+Le bilan d’extension: biopsie duodénale négative, biopsie rénale négative, biopsie sus et rétro-péritonéale positive.
+
+Le patient est décédé 6 mois plus tard dans un tableau de conséquence tumorale.
+
+L’étude immunohistochimique de la biopsie résiduelle montre la positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire (T40), la cytokératine 7 et la Leu-M1, négativité pour les cytokératines 20 et 17 et la chromogranine A.
+
+Ceci est en accord avec les données du premier cas qui montrait la positivité de l’ACE, le CK 7 et le Leu-M1.
+
+Le diagnostic histologique conclut donc à un carcinome papillaire d’origine vésicale avec des caractéristiques d’un adénocarcinome.
+
+Le caractère récurrent de ces carcinomes rénaux épithéliaux associés à une anaplasie tubulaire et a réactivé l’intérêt pour le marquage par les marqueurs CK 7 et le Leu-M1 et pour l’ACE.
+
+### Response:
+Monsieur A., de 65 ans, est hospitalisé pour détresse respiratoire. L’examen clinique a trouvé une masse sus-ombilicale faisant 6 cm de diamètre avec des paramètres dépressifs. Une tomodensitométrie a montré une masse tumorale au niveau de la fosse iliaque droite avec envahissement des muscles de l’abdomen sans envahissement des muscles du rectum, sans envahissement des muscles périnéaux ni d’autres localisations secondaires.
+
+L’examen histologique montrait un processus tumoral d’architecture papillaire fusiforme compliqué d’un aspect mixte. Le diagnostic retenu est celui de carcinome papillaire associant un adénocarcinome et un carcinome muqueux avec des différenciations rectales et vaginales. Le patient décède 1 an plus tard.
+
+Le taux de CK 19 est négatif. Les marqueurs ACE et Leu-M1 sont positifs (T40).
+
+L’analyse de données cliniques, histologiques et immunohistochimiques conclut à un adénocarcinome vésical associé à une différenciation rectale.
+
+### Response:
+Monsieur C. est âgé de 63 ans. L’examen clinique a trouvé un patient conscient avec une hématurie intermittente. L’examen tomodensitométrique a mis en évidence une lésion de consistance tissulaire au

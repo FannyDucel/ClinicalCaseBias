@@ -1,0 +1,18 @@
+Il s’agit d’une patiente âgée de 30 ans, sans antécédents pathologiques notables, qui présentait des douleurs lombaires lancinantes avec hypersensibilité cutanéo-mandibulaire associées à des réflexes ostéotendineux affaissés et à une asthénie physique et psychique. L’examen ostéoarticulaire retrouvait une cyphose lombaire, avec un décalage de l’apophyse articulaire de L3, une saillie des apophyses épineuses de D9 et D10, et une baisse de la sensibilité cutanéo-mandibulaire. Les radiographies du rachis lombaire objectivaient une déformation pléomorphique avec hypertrophie d’éminences et pileux centraux. L’examen biologique retrouvait une vitesse de sédimentation accélérée, une calciurie à 2,15 nmol/L/24 h et une calciurie au 12 h à 0,82 nmol/L/24 h. Les dosages hormonaux strictement normaux. Le bilan biochimique, réalisés en paraclinique, révélait une parathormone basse (11 pg/ml). L’absorptiométrie biphotonique à rayons X (DXA) a objectivé une densité minérale osseuse insuffisante, malgré une masse musculaire résiduelle (T score= -2,6). L’évolution a été marquée par la mise en place du traitement par paracétamol (2 g/j) et amytriptiline (50 mg/j) pendant trois mois. Le résultat a été qualifié de négatif. Ainsi, le diagnostic de parathormonémie secondaire à une ostéoporose fracturaire a été retenu.
+
+La patiente est actuellement hospitalisée à l’âge de 33 ans, dans un tableau de détresse respiratoire sur découverte d’une trombone pulmonaire. L’étude biologique retrouvait une hypercalcémie (9,64 mmol/L), avec calciurie à 1,70 nmol/L/24 h. L’absorptiométrie biphotonique à rayons X retrouvait une densité minérale osseuse normale.
+
+La patiente est décédée dans un tableau d’asthme, avant qu’un bilan d’acide 5-n-glucyrocôté-4-sulfurique (GSL) ne soit entrepris pour revoir le diagnostic d’ostéoporose.
+
+Les deux cas rapportent la même maladie (type 2).
+
+Dans le cas 1, on ne réalise que le bilan biologique fait en paraclinique. Dans le cas 2, on réalise un bilan biologique fait en paraclinique (dosage de PTH, dosage hormonaux strictement normaux, calcémie à 2,42 nmol/L, phosphorémie à 1,01 nmol/L, calciurie à 2,15 nmol/L/24 h, dosages hormonaux strictement normaux, parathormone basse).
+
+### Response:
+Le bilan hormonal et un bilan de minéralocalcium ont été effectués. Le bilan biochimique, réalisé en paraclinique, était normal.
+
+Dans le cas 2, on réalise un bilan biologique fait en paraclinique (dosage de PTH, dosage hormonaux strictement normaux, calcémie à 2,42 nmol/L, phosphorémie à 1,01 nmol/L, calciurie à 2,15 nmol/L/24 h, dosages hormonaux strictement normaux, parathormone basse).
+
+Les bilans biologiques, réalisés lors de chaque hospitalisation de chaque patient, ont été retenus pour une approche clinique de la pathologie. Les résultats relèvent la présence de pathologies en rapport avec la pathologie considérée et associées : un dyscélération de la vitesse de sédimentation (VS) (N = 3), une distension abdominale (N = 2), des douleurs abdominales diffuses (N = 2), une asthénie (N = 2), une érythrose (N = 2), une anémie normocytaire hypochrome (N = 1), une anémie (N = 2), des céphalées (N = 1), des reflexes ostéotendineux afibrillaires (N = 1), des œdèmes des membres inférieurs (N = 1), un syndrome post-urinaire (N = 1), des otites purulentes (N = 1).
+
+Deux patients présentaient des résultats hormonaux variés, selon les époques de prise de contrôle biologique. Les résultats normaux, lors de la prise de contrôle biologique le jour 0 (patient 1), étaient de façon variée (dosage hormonaux strictement normaux, parathormone basse, calcémie à 2,42 nmol/L

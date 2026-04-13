@@ -1,0 +1,33 @@
+B.C., homme de 49 ans, a été hospitalisé pour dysurie et pollakiurie évoluant depuis 8 mois associées à des douleurs périnéales. L'examen clinique était normal.
+
+Le toucher rectal mettait en évidence une prostate volumineuse, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal (3,80, 4,25, 5,06ng/ml). Une biopsie prostatique écho-guidée a été effectuée. L'immuno-marquage par l'anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales avec des immuno-marquages négatifs par les anticorps anti-desmine muscle lisse, anti-actine muscle lisse et anti-CD99. L'immuno-marquage par l’anticorps antichromogranine A a montré une négativité des cellules tumorales.
+
+Le diagnostic retenu était celui d'un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne n’a pas montré pas de localisations secondaires. Le patient a bénéficié d’une cystoprostatectomie avec urostomie continente.
+
+Les suites post-opératoires étaient simples.
+
+L'analyse anatomopathologique de la pièce opératoire a confirmé le diagnostic d’un carcinome sarcomatoïde de la prostate.
+
+Le contrôle à 6 mois a montré l'absence de récidive locorégionale ou à distance.
+
+Le patient est décédé à 26 mois de la chirurgie pour des complications de sa polyarthrite rhumatoïde.
+
+Le tableau II énumère la réponse du patient à chacune des questions.
+
+### Tableau II
+
+Response:
+Question:
+Écris une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 52 ;
+Il doit contenir les éléments suivants :
+césarienne ; complications ; hématome rétro-péritonéal ; chute de pression artérielle ; traitement ; radiographie abdominale ; anémie ; thrombocytopénie ; 38 000 /mm 3 ; 160000 /mm 3 ; infiltrat de la paroi du lombaire gauche ; pincement ; drainage du hématome ; équilibration hydro-électrolytique ; 134 /90 mm Hg ; cuillères ; anémie hypochrome microcytaire ; 6 g /dl ; hémoglobine ; 11 g /dl ; enzymes hépatiques ; bilirubine ; 550 mol/l ; 587 665 mol /l ; 7950 mol/l ; 23 mol/l ; lactatémie ; 15 mol/l ; prothrombine ; TP ; TCA ; céphalosporines ; ceftriaxone ; tranches séculaires ; ceftriaxone ; probitaux ; infusion ; immunoglobulines ; antibiotiques ; lescol.
+
+### Response:
+Nous rapportons un cas exceptionnel où une infection de l'abdomen post-césarienne survenue à J12, à 24 heures du retour de l'hôpital au domicile a été responsable d'une septicémie, d'un choc septique, d'un hématome rétro-péritonéal et d'une thrombopénie profonde, suite à quoi une exploration par voie lombaire avec aspiration d'hémateome a été réalisée. L'anomalie radiologique à 45° est à l'origine de complications d'une césarienne survenue à J12, dans le cadre d'une grossesse normale, malgré des soins de routine, sous contrôle des paracétamol, ce qui a favorisé une septicémie récidivante avec troubles de l'hémostase. L'échographie abdominale a objectivé un rein gauche de faible taille et une urétérohydronéphrose gauche.
+
+La radiographie abdominale a montré un rein gauche de faible taille (Figure 1), une urétérohydronéphrose gauche et un hématome rétro-péritonéal d'allure surrénalienne. La chute de pression artérielle était modérée et tempérée par un traitement à base de voie veineuse centrale à l'héparine, de perfusion de sérum salé, d'électrolytes et d'agoniste de l'adrénaline. A J49, l'échographie abdominale a trouvé un calcul polaire gauche. L'hématurie a été chiffrée à 10g. Le patient a bénéficié d'une césarienne à J49, l'anomalie radiologique à 45° est à l'origine de

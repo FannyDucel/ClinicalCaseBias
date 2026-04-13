@@ -1,0 +1,29 @@
+Il s’agit d’un patient âgé de 55 ans, deuxième pare, 3ème geste, hypertendu, diabétique suivi dans un autre établissement. Il a été admis aux urgences pour des métrorragies évacuées et des douleurs abdominales. Il était suivi pour œsophagite et asthme corticodépendant depuis 2 ans. Il a été opéré 4 ans avant pour un cancer de l’ovaire bilatéral, après hystérectomie totale et omentectomie.
+
+L’examen clinique à l’admission retrouvait une stabilité hémodynamique (pression artérielle à 130/70 mmHg), la conscience était conservée, l’examen abdominal objective une distension abdominale et des marbrures en regard de l’ombilic. L’image par résonnance magnétique (IRM) abdominale réalisée était normal et l’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III.
+
+L’échographie hépatique et radio du thorax n’objectivaient aucune localisation secondaire, le CA 125 était augmenté à 10 705.
+
+Après 2 jours, il est admis au bloc opératoire pour une diarrhé fébrile associée à une incontinence urinaire totale et une altération de l’état général. La pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 avec une stase des hématies faveolaires a été mise en évidence. Il y a eu un choc infectieux associé à un traumatisme abdominal profond et une insuffisance rénale.
+
+Il a été initialement mis sous antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et transfusion plaquetaire et de globules rouges. Une cystoscopie a révélé une vessie complètement déprimée et un urétéro iléale ostomisé. L’exploration par laparotomie a été réalisée, elle a objectivé un léiomyosarcome de la fosse iliaque gauche de grande taille, un large foyer de nécrose et de gangrène autour de l’urétéro iléale et de la vessie. Un urétéro stomie seule a été réalisée et une sonde vesicale maintenue au domicile a été laissée après son transfert à l’unite de soins intensifs.
+
+Après stabilisation de l’état, un traitement chirurgical et chimiothérapie a été démarré. Le décès a été intervenu au 13ème jour après la chirurgie, à domicile. L’analyse des prélèvements bactériologiques et anatomopathologiques révèle une colibacille et un léiomyosarcome malin dont les frontières de resection ont été atteintes. Les prélèvements microbiologiques ont montré la présence de colibacille.
+
+Il s'agit d'une femme âgée de 55 ans, deuxième pare, 3ème geste, hypertendue, diabétique suivi dans un autre établissement, elle a été admise aux urgences pour des métrorragies évacuées et des douleurs abdominales.
+
+Dans l'histoire médicale, elle était suivi pour œsophagite et asthme corticodépendant depuis 2 ans. Elle a été opéré 4 ans avant pour un cancer de l'ovaire bilatéral, après hystérectomie totale et omentectomie.
+
+L'examen clinique à l'admission retrouvait une stabilité hémodynamique (pression artérielle à 130/70 mmHg), la conscience était conservée, l'examen abdominal objective une distension abdominale et des marbrures en regard de l'ombilic.
+
+L'image par résonnance magnétique (IRM) abdominale réalisée était normal et l'examen anatomo-pathologique était en faveur d'un adénocarcinome séreux peu différencié de grade III.
+
+L'échographie hépatique et radio du thorax n'objectivaient aucune localisation secondaire, le CA 125 était augmenté à 10 705.
+
+Après 2 jours, elle est admise au bloc opératoire pour une diarrhé fébrile associée à une incontinence urinaire totale et une altération de l'état général.
+
+La pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 avec une stase des hématies faveolaires a été mise en évidence.
+
+Il y a eu un choc infectieux associé à un traumatisme abdominal profond et une insuffisance rénale.
+
+Elle a été initialement mise sous antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et transfusion plaquetaire et de globules rouges. Une cystoscopie a révélé une vessie complètement déprimée et un urétéro iléale ostomisé. L'exploration par laparotomie a été réalisée, elle a objectivé un léiomyosarcome de la fosse iliaque gauche de grande taille, un large foyer de nécrose et de gangrène autour de

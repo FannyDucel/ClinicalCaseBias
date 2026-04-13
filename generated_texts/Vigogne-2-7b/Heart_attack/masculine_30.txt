@@ -1,0 +1,23 @@
+Patient de 64 ans, tabagique et diabétique, ayant été hospitalisé en novembre 2004 pour une IDM circonférentiel non thrombolysé. L'examen physique retrouve un patient en bon état général, bien conscient avec une auscultation cardio-pulmonaire normale à l'exception d'un souffle systolique avec un râles crépitant dans le terrain thoracique gauche. L'électrocardiogramme révèle un rythme sinusal avec une notion d'anomalie de réplication des complexes QRS (figure 1). L'échocardiographie (figure 2) a mis en évidence un CIV musculaire ne fonctionnant pas, un VG non dilaté. Il existe en outre une akinésie apicale et inféroseptale et un ventricule gauche non contractile à part la méso et le septum interventriculaire (SIV) et avec une fraction d'éjection totale basse (≈45%). L'échographie trans-thoracique a mis en évidence un foyer hypèresinové ischémique de la cavité gauche avec une présence possible d'une anévrysme du ventricule gauche sur le CIV.
+Devant ces données, le patient a bénéficié d'une fermeture chirurgicale de la CIV. L'exérèse de la CIV a été faite par voie bi-ventriculaire à travers une poche rénale droite emportant une veine trans-septale aortique pour une courte section en aval de l'anévrysme. L'anévrysme a été comblé par des deuxiters de graisse autologues et clos par des points séparés autant que possible et suturé en fin de laurée.
+L'examen anatomo-pathologique du CIV a mis en évidence une malacoplastie ventriculaire gauche. Les suites opératoires ont été simples et le patient a été libéré au 5ème jour. Au terme d'un post-opératoire de 20 jours, le patient a bénéficié d'une seule cure de l'anévrysme ventriculaire gauche, également par voie bi-ventriculaire et monopontage aortocoronaire sur la coronaire droite. L'évolution ultérieure est favorable, après une année de recul, sans récidive des problèmes cardiaques, avec un bon état général et une fonction ventriculaire gauche normale.
+
+Figure 1: Électrocardiogramme.
+
+Figure 2: Echocardiographie: couleur doppler de CIV musculaire et de VG.
+
+Tableau I: Nomenclature des codages échographiques.
+
+Nomenclature | Codage échographique | Définition
+---|---|---
+CIV anévrysme | M3 | Signale anormale de la fonction aortique, qui est incapable d'accueillir le courant lymphatique par une CIV compacte, «milli »
+CIV musculaire | M4 | Trouvé quand la CIV l'accueille avec l'aide d'un fragment d'aorte physiologique ; elle ne ferme pas complètement et ne « muscle » pas
+VG non dilaté | M2 | VG réduit, pas dilaté. L'éjection essentielle se produit en pleine d'embonpoint dans le septum interventriculaire
+Anomalies de réplication des complexes QRS | désordre temporel | Une dissipation importante de l'intervall RR (plus que 200 millisecondes (ms))
+Malacoplastie ventriculaire gauche | M3 | Signale l'embonpoint en dehors de l'anneau de Gabbana du tronc du ventricule gauche
+Source : Programme FRENZY - GE Healthcare.
+
+Nous t'en remercions pour l'intérêt que tu portes à ce cas. Nous te dis merci encore pour la coopération qui nous a permis de publier ce cas clinique.
+
+Cordialement,
+L'équipe du groupe de travail sur le coronarisme expérimental.

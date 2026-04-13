@@ -1,0 +1,20 @@
+Il s'agit d'un patient âgé de 64 ans, tabagique chronique à 40 paquets-années et diabétique, ayant comme antécédent médical une IDM circonférentiel non thrombolysé traitée par thrombectomie puis par revascularisation coronaire par pontage 12/13 par exemple le sillon radial droit. À l'admission en salle de réanimation cardio-vasculaire du CHU de Rabat, il présente une dyspnée d'effort débutant à la simple marche, une syncope, une palpitations et une vertige. L'auscultation cardio-pulmonaire retrouve un souffle systolique à l'aide de la stéthoscope. Les voix de métaux étaient perçus à l'auscultation avec râles crépitant à la radio-thorax. L'électrocardiogramme avait montré un bloc de branche droit complet et des ondes Q - en fasce. Les sérologies à VIH, toxoplasmose, cytomégalovirus et syphilis étaient négatives. Le test anti- cardiolipine était négatif. L'échocardiographie trouvait une CIV musculaire avec ventricule gauche non dilaté, une akinésie apicale et inféroseptale et une dysfonction systolique légère. La coronarographie avait montré des lésions bi-tronculaires avec un anévrysme du ventricule gauche. L'indication d'une fermeture chirurgicale de la CIV a été posée et l'intervention avait permis de réaliser une cure de l'anévrysme ventriculaire gauche et de la CIV sur monopontage aortocoronaire sur la coronaire droite. Les suites étaient simples, le patient étant décédé 4 mois après l'intervention.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 19 ;
+Il doit contenir les éléments suivants :
+déficiency de la vitamine B12 ; bilan étiologique ; atteinte de la paroi du côlon ; tumeur du gastro-intestine ; lésions hépatiques hémorragiques ; polynucléaires neutrophiles ; anti corps antinucléaire ; réaction diagnostique ; anomalies histologiques ; purpura thrombopénique ; thrombocytopénie ; 51000 éléments/mm 3 ; maladie d'Anka ; thrombose de l'artère brève droite ; thrombose interstitielle du rectorum ; endoscopie ; anémie hypochrome microcytaire ; transfusion ; anti coagulation à base d'acide acétylsalicylique ; proteinurie ; plasmaphérèse ; sérum hyper immunoglobuliné ; IGA ; 17,3 mg/dL ; C4 ; 16,4 mg/dL ; cholinesterase ; 6000 U/dL ; 10 mg/dL ; complément terminal ; 110 mg/L ; profil anti nucléaire ; lupus érythémateux systémique.
+Monsieur B.D, âgé de 19 ans, était admis dans le service de chirurgie à la suite de bilan étiologique d'une fièvre persistante d'allure infectieuse. Le début était marqué par la survenue depuis deux mois d'une fièvre associée à des céphalées, une notion de gastro-entérite inflammatoire et une sténotique colique sous diaphragmatique, ayant entraîné une perte pondérale de 6kg sur un mois.
+
+L'examen initial mettait en évidence un patient agitée à l'apparence normal avec un pâleur cutanéo-muqueuse des mains et une hépatomégalie.
+
+Au niveau abdominal, une apparition récente d'un énorme œdème des deux flancs et de nodules maritimes fissurés au niveau de la région subambienne droite étaient notées.
+
+Au niveau cutané, il existait un érythème marbrure réticulé légèrement prurigineux, particulièrement au niveau du membre supérieur gauche avec des petites fissures écaillées. L'examen abdominal notait un œdème abdominal diffus et deux lèvres serrées dont une est fissurée au niveau de la région subambienne droite.
+
+L'examen gynécologique était sans particularité.
+
+Le bilan biologique avait objectivé une anémie à 8,3g/100ml avec une vitesse de sédimentation (VS) élevée à 100mm 1 h.
+
+Au bilan biologique, on notait une hyperleucocytose à 13700 éléments/mm 3, une inflammation à 10300 plaquettes/mm 3 avec une thrombose à 40%. Il existait une

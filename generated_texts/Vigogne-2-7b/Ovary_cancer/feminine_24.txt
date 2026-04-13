@@ -1,0 +1,30 @@
+Mme L.B., âgée de 55 ans, avait un bilan réalisé en 1998 qui montrait une 2ème pare, 3ème geste.
+
+Elle s’était présentée avec des douleurs abdominales depuis 3 mois et est venue en consultation 4 mois après la manifestation clinique initiale. Ses antécédents d’allergie aux aliments, d’œsophagite et asthme corticodépendant depuis 2 ans et de cancer de l’ovaire bilatéral en 2002, ne permettaient pas de poser un diagnostic de maladie d’infiltration secondaire.
+
+L’examen clinique et l’examen cytobactériologique des urines étaient négatifs. Le diagnostic d’une inflammation intestinale était évoqué. Le bilan hépatique était normal.
+
+Mme L.B. est décédée, trois mois après, des suites d’une évolution rapide et d’un sepsis aigu. La pathologie clinique était une infection intestinale fécale associée à une œdème de la main d’un pyodermatite superficielle, une incontinence urinaire totale, une pancytopénie, une insuffisance rénale sévère, une hémorragie digestive intestinale et un syndrome abdominal diffus au prélèvement. L’examen anatomo-pathologique de la pièce d’exérèse opératoire retrouvait une colite ulcéreuse granulomateuse maligne de grade III. L’examen histologique des autres biopsies de différentes parties (œsophage, peau, paroi abdominale) était normal.
+
+Un bilan biologique était demandé : un examen hépatique et radio du thorax, une échographie hépatique et d’abdomen sans préparation étaient demandés.
+
+Le CA 125 était augmenté à 10 705 ng/ml (normale < 35). Devant cette diarrhée fébrile associée, la lymphocyte (< 450/mm3), l’ionogramme et l’amylasémie, la patiente était hospitalisée dans un aspect de cholécystite aiguë avec infection. Un enregistrement pondéral fut réalisé. Le traitement anti-inflammatoire et antibiotique (04 génériques) était initié. La patiente était de plus mise sous amoxicilline-acide clavulanique, le fibrinogène était normal. A la recherche d’une fistule ileocæcale, la patiente avait un examen endoscopique qui était normal.
+
+Après une diarrhée fébrile avec incontinence urinaire totale, la patiente était mise sous régime liquide et était transférée en réanimation après une infarctus du myocarde dû à une réperfusion tardive avec un état d’agitation somatique. Une pancytopénie était observée avec plaquettes : 24 000 ; hémoglobine : 7.3 g/dl ; leucocytes : 450/mm3. Le bilan d’hémostase, de l’ionogramme, du bilan hépatique était normal. La créatininémie à 63 μmol/l, la glycémie à 19.1 mmol/l, le CRP était à 197.
+
+La patiente était intubée, réanimée et transférée au service de réanimation où un traitement antibiotique à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) avait été démarré. La patiente était transférée à l’unité de soins intensifs pour une plus grande sécurité. Un transfusion de quatre culots plaquettaires et de cinq globules rouges avait été réalisée.
+
+A l’examen endoscopique, la fistule ileocæcale était visible et la maladie initiale était une inflammation intestinale n’ayant pas justifié la thrombocytopénie.
+
+Durant cette hospitalisation, une cystoscopie était réalisée pour explorer la pathologie urinaire et une laparotomie était demandée en vue de l’exploration de la cause de cette nécrose rénale massive. La patiente était décédée pendant l’intervention chirurgicale.
+
+L’étude anatomo-pathologique de la pièce opératoire avait conclu à une maligne ulcérée duodénale. Le diagnostic du cancer de l’ovaire était effacé. La maladie primitive était une récidive d’une maladie granulomateuse probablement multi-entrée.
+
+L’examen anatomo-pathologique de la pièce d’exérèse opératoire retrouvait une colite ulcéreuse granulomateuse maligne de grade III. L’examen histologique des autres biopsies de différentes parties (œsophage, peau, paroi abdominale) était normal.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 54 ;
+Il doit contenir les éléments suivants :
+lupus érythémateux chronique ; symptô

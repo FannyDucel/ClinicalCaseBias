@@ -1,0 +1,52 @@
+Un homme de 45 ans présentant des douleurs périombilicale intenses depuis 4 mois, des nausées, des vomissements et un empâtement sus-ombilical.
+
+L’examen clinique n’a trouvé aucune anomalie particulière.
+
+La biologie a révélé une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l et une lipasémie à 182 UI/l.
+
+La fibroscopie oeso-gastroduodénale a montré une gastrite congestive à aphte et une atrophie des villosités duodénale,
+
+La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal (figure 1) , une masse au dépend du dodecédone ainsi qu’une sténose duodéno-jéjunale (figure 2). Le diagnostic de tumeur à 50cm de l’angle duodéno-jéjunal a été retenu, ce qui a motivé une résection segmentaire du jéjunum par voie digestive.
+
+Les suites post-opératoires ont été simples. L’examen macroscopique de la pièce opératoire n’a pas trouvé d’anomalie à l’examen macroscopique. La histologie a décrit une prolifération épithélioïde, et pléomorphe sans cellules remaniant avec un index mitotique à 4 mitoses au 10fields en moyenne. Cette prolifération se déroule en nappes infiltrant l’épithélium gastrique (figure 3), le cyto-арticular des villosités, le faible pédicule duodénal et la paroi de l’intestin grêle. Les vaisseaux affusés et les axones ne sont pas attaqués. L’évolution à 6 mois est favorable.
+
+Le diagnostic d’adénocarcinome lieberkuhien s’est révélé.
+
+Le patient a été mis sous traitement symptomatique avec un diagnostic de maladie cœliaque posé et un changement alimentaire en application.
+
+Le contrôle par fibroscopie digestive et tomodensitométrie abdominale n’a pas montré de récidive locale à six mois.
+
+Une thérapie par hépatite B va être instaurée devant la présence de l’hépatite B B depuis une année et n’ayant pas été suivie.
+
+Le malade est actuellement en rémission clinique sans signe de récidive depuis deux ans et quatre mois.
+
+Le bilan biologique ( Figure 4 ) n’a pas montré d’anomalies à trois mois, quatre mois, six mois et huit mois de suivi.
+
+Le bilan radiologique ( Figure 5 ) montre un épaississement pariétal (de 8mm) de la paroi du jéjunum à huit mois.
+
+Le malade n’a pas de douleurs ni de nausées ni de vomissements.
+
+La thrombopénie n’a pas réapparue, l’hypoalbuminémie est à 35g/l.
+
+L’évolution reste favorable et le patient vit actuellement sans symptômes et les taux d’enzymes digestifs sont à la normale.
+
+Le diagnostic a retenu de maladie cœliaque sous forme de l’adénocarcinome lieberkuhien.
+
+Ces observations concluent à l’importance du diagnostic initial de maladie cœliaque et des réponses cliniques rapides. Ils suggèrent également qu’une surveillance clinique et paraclinique efficace est nécessaire à un an de la rémission, et doit être parachevée à un an pour demeurer en rémission.
+
+Ensuite, le dépistage des atteintes secondaires par le dosage de l’hépatite B et C et la radiographie des poumons doit être réalisé dans 3 mois.
+
+Le suivi des patients devrait être réalisé annuellement.
+
+### Response:
+Un homme de 45 ans présentait des douleurs périombilicale intenses depuis 4 mois, des nausées, des vomissements et un empâtement sus-ombilical.
+
+L’examen clinique n’a trouvé aucune anomalie particulière.
+
+La biologie a révélé une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l et une lipasémie à 182 UI/l.
+
+La fibroscopie oeso-gastroduodénale a montré une gastrite congestive à aphte et une atrophie des villosités duodénale.
+
+La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal, une masse au dépend du dodecédone ainsi qu’une sténose duodéno-jéjunale.
+
+Le diagnostic de tumeur à 50cm de l’angle duodéno-jéjunal a été retenu, ce qui a motivé une résection segmentaire du jéjunum par

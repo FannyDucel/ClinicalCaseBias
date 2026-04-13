@@ -1,0 +1,25 @@
+Nous rapportons le cas d’un patient âgé de 20 ans sans antécédent pathologique, présentant depuis 18 jours un contact avec son père ayant COVID-19, avec l´installation des symptômes d´une atteinte cutanée au niveau des mains et un syndrome inflammatoire biologique, le test PCR positif. Après 3 jours de traitement par injection d´Etanercept 50mg/m2 au dosis de 1 injection par jour et pas de signe de détresse respiratoire ni hémodynamique. L’examen clinique de notre patient a trouvé un tableau d’hydrothorax droit avec un taux de protéine alpha1 à 0,83 g/l à l’étude biologique. La tomodensitométrie thoracique n’a pas trouvé de plaies d’infiltrat. Le bilan biologique était normal. Le patient était traité par 2 doses d’hydroxychloroquine et d’azithromycine, puis il a été transféré en service d’infectiologie pour poursuite de traitement. Ensuite, le patient a reçu une dose de 375mg de hydroxychloroquine 12h après et 750mg de hydroxychloroquine 24h après, au total 3g. La radiographie pulmonaire de contrôle a trouvé une régression de l’hydrothorax. Il était ré-testé PCR positif le 3ème jour du traitement. Notre patient a été déclaré guéri en le 18ème jour de traitement. Enfin, l’impact immunologique de l’injection d´Etanercept a pu être écarter en considérant le profil du patient, l’évolution de son état clinique, et la non-perte de vue du patient pendant la durée de l’étude.
+
+Dans ce cas clinique, l’hydrothorax est survenu au cours du traitement d’une COVID-19; ce qui est rare, même si plusieurs cas ont été décrits sur le net [7, 8, 10]. Il est certain que l’impact immunologique de l’injection d´Etanercept a pu être écarter en considérant le profil du patient, l’évolution de son état clinique, et la non-perte de vue du patient pendant la durée de l’étude [7, 8, 10]. Enfin, il est possible que les mécanismes pathophysiologiques qui provoquent l’hydrothorax dans ce cas clinique, ne soient pas identifiés. Il pourrait y avoir une protection immunitaire contre la pneumonie au niveau du tronc, alors que le malade présente une atteinte cutanée. En effet, ce phénomène a déjà été décrit dans le TNF récepteur 2 TNFR2, qui diminue la réponse immunitaire inflammatoire, et est localisé aux sites touchés dans les infections virales, notamment le SARS-CoV-2 [9].
+
+Le patient était admis en urgence pour un contact avec son père ayant COVID-19, avec des symptômes d´urticaire aigue. Le test PCR positif était effectué au 4ème jour après le contact et était positif.
+
+Après des dix premiers jours, nous avons débuté le traitement par injection d´Etanercept une fois par jour, au dosis de 1 injection par jour, en suivant la recommandation de la FDA.
+
+L’état général et l’état respiratoire de notre patient se sont améliorés.
+
+Le troisième jour après le début du traitement avec l’injection d´Etanercept, le test PCR était positif.
+
+Dans la suite, une hydrothorax droite a été diagnostiquée dans un contexte d´apyrétique et sans détresse respidatoire ni hémodynamique.
+
+La tomodensitométrie thoracique a permis d’éliminer une pathologie pulmonaire sous-jacente, et le bilan biologique était normal.
+
+Le patient a été transféré en service d’infectiologie pour poursuite du traitement. Il a reçu deux doses de hydroxychloroquine et d’azithromycine, puis a été traité par 2 doses de 375mg de hydroxychloroquine et 3g de 750mg de hydroxychloroquine dans le cadre de la recommandation des CDC.
+
+Le bilan virologique de contrôle a montré que le patient était encore PCR positif, mais une régression de l’hydrothorax a été observée sur la radiographie pulmonaire de contrôle.
+
+Le patient était déclaré guéri le 18ème jour de traitement.
+
+Enfin, l’impact immunologique de l’injection d´Etanercept a pu être écarter en considérant le profil du patient, l’évolution de son état clinique, et la non-perte de vue du patient pendant la durée de l’étude.
+
+Cette observation est actuellement unique dans la littérature. En effet, dans ce cas

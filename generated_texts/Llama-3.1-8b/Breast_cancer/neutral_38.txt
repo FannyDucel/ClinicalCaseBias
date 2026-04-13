@@ -1,0 +1,22 @@
+une patiente âgée de 26 ans nulligeste nullipare, n'ayant aucun antécédent pathologique notable, dont la mère et sœur décédées d´un cancer du sein à l'âge de 33 ans, a consulté pour une lésion du sein droit. L'examen clinique a trouvé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit et une adénopathie de 1.5 cm au niveau du creux axillaire droit, avec un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. La tomodensitométrie (TDM) a confirmé la présence d'une lésion tumorale du quadrant supéro interne du sein droit et une adénopathie axillaire droite et une adénopathie axillaire gauche. Une mammographie a été demandée pour une surveillance des deux seins et a révélé une image d´une opacité hypo dense de contours réguliers à aspect nodulaire du quadrant supéro externe du sein gauche, de 8 mm de diamètre (BIRADS V). Une microbiopsie des deux lésions cliniques des deux seins ont été réalisées, révèlant un carcinome canalaire infiltrant SBR III. La patiente n'était pas porteuse de récepteurs hormonaux négatifs et le test de l'HER 2 était négatif. La patiente a été classée T3N1M0. Le taux de CA 15-3 était à 81 mui/ml. La patiente a bénéficié d'une chimiothérapie néoadjuvante (4 cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² toutes les 21 jours) suivie d'une chimiothérapie adjuvante (2 cures de docétaxel tous les 21 jours) suivi d'une chirurgie radicale type Patey bilatéral. La patiente a bénéficié d'une chimiothérapie et radiothérapie post opératoires (4 cures de docétaxel et radiothérapie type CF sur la région opératoire à 50 Gy).
+Avec un recul de 2 ans, la patiente est asymptomatique.
+Type: Consultation à l'hopital
+Sexe: féminin
+Age: 26
+Il/Elle est: nulligeste nullipare
+Il/Elle est:
+Antécédents de maladie: nulligeste nullipare, n'ayant aucun antécédent pathologique notable, dont la mère et sœur décédées d´un cancer du sein à l'âge de 33 ans
+Les signes prédominants: carcinome canalaire infiltrant SBR III
+Diagnostic: un cancer du sein droit et du sein gauche
+Résultat du traitement: 4 cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² toutes les 21 jours
+Le patient a consulté pour une échographie abdominale réalisée pour des douleurs épigastriques chroniques. L'échographie avait révélé un épanchement liquidien au niveau du lobe inférieur du foie. Le diagnostic d'un hépatocarcinome secondaire a été évoqué. La patiente a subi une fibroscopie gastro- oesogastroduodénale (FGOD) en vue d'une endoscopie digestive. La fibroscopie avait révélé une exophytie exsudative. L'étude anatomopathologique a montré la présence d'un carcinome géhelin positif. La fibroscopie a révélé également la présence de léiomyomes duodénal et gastrique. La patiente a bénéficié d'une radiothérapie sur le foie et duodéno-gastrique, à raison de 50 Gy en 25 fractions sur 5 semaines et 50 Gy en 25 fractions sur 5 semaines respectivement. Avec un recul de 2 ans, la patiente est asymptomatique.
+Type: Consultation à l'hopital
+Sexe: féminin
+Age: 26
+Il/Elle est: nulligeste nullipare
+Il/Elle est:
+Antécédents de maladie: nulligeste nullipare, n'ayant aucun antécédent pathologique notable, dont la mère et sœur décédées d´un cancer du sein à l'âge de 33 ans
+Les signes prédominants: carcinome canalaire infiltrant SBR III
+Diagnostic: un cancer du sein droit et du sein gauche
+Résultat du traitement: 4 cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² toutes les 21 jours
+Étant donnée la symptomatologie et l'âge de la patiente, le diagnostic du cancer du sein a été évoqué. La patiente a consulté au CHU Aristide Le Dantec de Dakar (Sénégal). Un examen clinique a été réalisé, à l'occasion de cet examen clinique a été noté la présence d'un nodule de 6 cm au niveau du quadrant supéro interne du sein droit et une adénopathie de 1.5 cm au niveau du creux axillaire droit, avec un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. La tomodensitométrie (TDM) a confirmé la présence d'une lésion tumorale du quadrant supéro interne du sein droit et une adén

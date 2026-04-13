@@ -1,0 +1,23 @@
+Il s'agit d'un patient âgé de 64 ans, tabagique et diabétique. Quatre jours avant son admission pour une IDM circonférentielle non thrombolysé, le patient se plaignait de douleurs thoraciques non radiationnelles. L'auscultation cardio-pulmonaire avait objectivé un souffle systolique et des râles crépitant à l'auscultation pulmonaire bilatérale, ainsi qu'une diminution de l'auscultation cardiaque à la paroi thoracique, sans syndrome effusif. L'échocardiographie montrait un cœur grand, une CIV musculaire et un ventricule gauche non dilaté et une akinésie apicale et inféroseptale avec une dysfonction systolique (VFPEM 50%, EF 45%). La coronarographie a révélé la présence de lésions bi-tronculaires du tronc et de la coronaire gauche, associées à la présence d'un anévrysme du ventricule gauche. Une fermeture chirurgicale de la CIV avec cure de l'anévrysme ventriculaire gauche a été pratiquée. Le monopontage aortocoronaire sur la coronaire droite a été effectué en préservant la coronaire gauche pour protéger la future coronarographie, puis l'artère pulmonaire. La moelle pulmonaire (0,5 x 1 x 0,5 cm) était extraite et adressée en biopsie pour faire le diagnostic du tissu pulmonaire éjecté dans le ventricule gauche. L'évolution était favorable avec un recul de 12 mois.
+
+La pointe d'hémorragie éjectée dans le ventricule gauche était d'aspect saignant à l'examen microscopique. Les cellules tumorales étaient atypiques, peu nombreuses et étaient entourées par des tissus fibro-hémorragiques et inflammatoires, le tout montrant un aspect favorable pour un lymphome (Figure 2).
+
+Le bilan immunohistochimique a été négatif pour les marquages CD3, CD20 et CD30, et positif pour les marqueurs CD15 et la protéine S100, ce qui est compatible avec un Lymphome Malakoplasique (Figure 3).
+
+L'évolution était favorable, avec une régression complète des lésions coronaires avec une récupération de la fonction systolique du ventricule gauche.
+
+La pointe d'hémorragie éjectée dans le ventricule gauche était d'aspect saignant à l'examen microscopique. Les cellules tumorales étaient atypiques, peu nombreuses et étaient entourées par des tissus fibro-hémorragiques et inflammatoires, le tout montrant un aspect favorable pour un lymphome (Figure 2).
+
+Le bilan immunohistochimique a été négatif pour les marqueurs CD3, CD20 et CD30, et positif pour les marqueurs CD15 et la protéine S100, ce qui est compatible avec un Lymphome Malakoplasique (Figure 3).
+
+L'évolution était favorable, avec une régression complète des lésions coronaires avec une récupération de la fonction systolique du ventricule gauche.
+
+Figure 2
+Figure 3
+
+Figure 1
+
+Figure 1: Pointe d'hémorragie de 0,5 cm de diamètre à l'intérieur du ventricule gauche (indicateur en croix).
+
+### Response:
+Il s'agit d'un patient âgé de 64 ans, tabagique et diabétique. Quatre jours avant son admission pour une IDM circonférentielle non thrombolysé, le patient se plaignait de douleurs thoraciques non radiationnelles. L'auscultation cardio-pulmonaire avait objectivé un souffle systolique et des râles crépitant à l'auscultation pulmonaire bilatérale, ainsi qu'une diminution de l'auscultation cardiaque à la paroi thoracique, sans syndrome effusif. L'échocardiographie montrait un cœur grand, une CIV musculaire et un ventricule gauche non dilaté et une akinésie apicale et inféroseptale avec une dysfonction systolique (VFPEM 50%, EF 45%). La coronarographie a révélé la présence de lésions bi-tronculaires du tronc et de la coronaire gauche, associées à la présence d'un anévrysme du ventricule gauche. Une fermeture chirurgicale de la CIV avec cure de l'anévrysme ventriculaire gauche a été pratiquée. Le monopontage aortocoronaire sur la coronaire droite a été effectué en préservant la coronaire gauche pour protéger la future coronarographie, puis l'artère pulmonaire (0,5 x 1 x 0,5 cm) était extraite et adressée en biopsie pour faire le diagnostic du tissu pulmonaire éjecté dans le ventricule gauche. L'évolution était favorable

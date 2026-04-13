@@ -1,0 +1,29 @@
+Il s´agit d´un patient âgé de 26 ans, nulligeste nullipare, musulman, célibataire, le dernier né d´une famille de 4 frères et sœurs: trois frères et une sœur (mère et sœur décédées d´un cancer du sein). Le diagnostic de cancer du sein a été posé sur une lésion massive du quadrant supéro interne du sein droit indolore de 6 cm de diamètre à consistance molle, évoluant depuis un mois ( Figure 1 , Figure 2 ) Le mammogramme est revenu en faveur d´un adénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche classés à BIRADS V, une microbiopsie des deux lésions cliniques des deux seins a été réalisée, elle a montré un carcinome canalaire infiltrant SBR III, les récepteurs hormonaux négatifs, le test de l'HER 2 négatif, la TDM a été en faveur d´un T3N1M0 ( Figure 3 ) Le bilan d´extension a montré un CA 15-3 à 81 mui/ml. Un traitement par chimiothérapie néoadjuvante à base de cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² a été réalisée sur quatre cures, après quoi il a reçu deux cures de docétaxel. Le patient a eu une chirurgie radicale type Patey bilatéral, suivi d´une chimiothérapie et radiothérapie post opératoires. Le patient a reçu quatre cures de docétaxel, puis la radiothérapie a été prolongée à 20Gy. Au 2ème mois de la fin du traitement le CA 15-3 est revenu à 13.3mui/ml, le patient a continué la chimiothérapie jusqu’à ce que le CA 15-3 soit négatif, puis la chimiothérapie adjuvante a été réalisée à base de docétaxel (75mg/m²) avec une réponse clinique et biologique. Le patient est en bon état général.
+
+### Response:
+Il s’agit de deux hystérectomies radicales totalisées chez deux sœurs de 50 ans (une épouse de 53 ans et la deuxième célibataire) qui sont accouplées, sans antécédents de cancer du sein ni de cancer du côlon.
+
+La patiente no 1, célibataire, mère de 5 enfants (4 filles et un garçon), était porteuse d’un adénopathie pulsatile au niveau de la loge axillaire droite (2cm de diamètre) et de deux nodules de 3cm de diamètre aux deux seins, totalement asymptomatique. L’examen clinique avait retrouvé une adénopathie axillaire (2cm de diamètre), sans un autre lésion palpable au niveau du sein.
+
+La patiente no 2, épouse, était porteuse d’un adénopathie axillaire droite et de plusieurs nodules sus et sous mammaires droits et gauches (un à 3cm de diamètre), à prédominance supérieure droite et à faible mobilité. Les autres examens clinique étaient sans particularités.
+
+Les bilans biologiques, le scanner et l’IRM n’avaient pas retrouvé d’autres localisations secondaires, ou d’extension osseuse ou hépatiques ou ganglionnaire.
+
+La patiente no 1 et la patiente no 2 ont bénéficié d’une lésion tumorale :
+
+• chez la patiente no 1 : du quadrant supéro interne droit, à consistance molle,
+• chez la patiente no 2 : du quadrant inféro interne gauche, de consistance molle, et mesurant 3cm.
+
+Au niveau anatomopathologique, il s’agit d’un carcinome canalaire infiltrant SBR III à différenciation modérée et récepteurs hormonaux négatifs et le test de l'HER 2 négatif.
+
+Les résultats étiologiques étaient normaux.
+
+Les résultats anatomopathologiques du bord (sans centre tumoral) étaient sans particularités.
+
+Le faible index mitotique a été confirmé.
+
+La patiente no 1 a été opérée en janvier 2008 d’une hystérectomie totale radicale (utérus bilatéral) avec curage ganglionnaire iliaque bilatéral, il n’y a pas eu de curage ganglionnaire axillaire.
+
+L’examen anatomopathologique des coupes était en faveur d’un adénopathie nodeuse de 2cm de diamètre à composition lobulée à contours bien définis, à structure myxoïde ou fibreuse, non encapsulée, l’examen immunohistochimique était compatible avec un carcinome mucineux à différenciation modérée.
+
+La patiente no 2 a été opérée

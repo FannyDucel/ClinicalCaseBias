@@ -1,0 +1,21 @@
+Il s’agit d’une patiente âgée de 20 ans, sans antécédents pathologiques notables et sans contact avec son père ayant COVID-19, se présente aux urgences pédiatriques pour une atteinte cutanée au niveau des mains avec une urticaire aigue le jour précédant. Elle était admise à l’hôpital régional universitaire de Sfax en pneumonologie pour prise en charge de l’urticaire. Une biopsie cutanée était faite et le test PCR positif pour la COVID-19 était réalisé le jour de son hospitalisation. Elle était traitée par injection d´Etanercept. L’examen clinique mettait en évidence une patiente apyrétique, avec un état général conservé, normotendue sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique réalisée était sans anomalies. Le bilan biologique normal montrait une CRP à 44 mg/l. Elle était mise sous traitement par hydroxychloroquine et azithromycine. L’évolution était favorable et le test PCR devenait négatif après 15 jours.
+
+La patiente 2 était une patiente âgée de 61 ans, suivi pour arthrite rhumatoïde depuis 10 ans sous prise en charge d’un rhumatologue, étant prise en charge en consultation pour une vésicule au niveau du pouce gauche. La patiente rapportait un contact avec sa nièce, fille de la patiente 1. Elle était le plus souvent avec sa nièce ayant décroisé le chemin par la suite. Le jour de la visite, elle n’était pas en contact direct avec sa nièce et elle ne présentait pas d’urticaire. Le test PCR pour COVID-19 était positif en voie naso-pharyngée. L’examen clinique était normal sans aucun signe infectieux. Les biologiques du bilan infectieux étaient normaux et le bilan hématologique normal. L’ECG était sans anomalies et l’échocardiographie était normale. La patiente était mise sous traitement par hydroxychloroquine et azithromycine. L’évolution était favorable avec une amélioration clinique et un test PCR négatif.
+
+Chez les deux patientes, le contact avec sa fille était non direct. Le test PCR positif chez les deux patientes était réalisé uniquement par voie naso-pharyngée et était normal en mucosite.
+
+Dans notre sélection, nous avons éliminé les cas présentant des symptômes infectieux (fièvre, douleur thoracique, cough, dyspnée). Le test PCR avait été réalisé uniquement par voie naso-pharyngée.
+
+Les deux patientes ont reçu le remède Jynarque® (hydroxychloroquine) par voie orale, en per os, à raison de 200 mg par voie orale, deux fois par jour, pendant 7 jours. L’azithromycine avait été administrée à la patiente 1 à raison de 500 mg par voie orale, une fois par jour, pendant 3 jours, et aux deux patientes à raison de 500 mg par voie orale, une fois par jour, pendant 5 jours.
+
+En juin 2020, l’hydroxychloroquine était utilisé comme traitement en cas de contact avec des personnes covidiennes.
+
+Dans la présente étude, nous n’avons pas éliminé la probabilité d’autres modes d’infection, en particulier par voie respiratoire. Nous ne pouvons pas exclure l’éventualité d’une contamination par Jynarque® (hydroxychloroquine). Nous n’avons pas éliminé la possibilité d’autres causes pour la vésicule sur le pouce.
+
+Un commentaire posé sur les récents résultats du test de SARS-CoV-2 par voie buccale par rapport à une analyse par voie nasopharyngée a évoqué le potentiel d’une infection colonisée par voie buccale sans signes infectieux ni signes respiratoires, ainsi que le risque d’un diagnostic erroneux d’une contamination d’un faux positif.14 En l’absence de données sur la primée d’échantillonnage par voie buccale, il est important de ne prendre en compte que le test PCR positif par voie naso-pharyngée pour un contact non direct avec un patient COVID-19.
+
+La transmission familiale à distance par voie naso-pharyngée est possible pour les faux positifs. L’étude de Prado-Juárez et al.4 a prouvé que les cas de transmission familiale à distance étaient chez les personnes vaccinées à la grippe, mais sans lien avec la grippe.
+
+Les chercheurs ont noté qu’il était possible d’autres voies d’entrée de SARS-CoV-2 dans le cerveau. Il peut exister une possibilité d’une infection du cerveau directement par voie nasopharyngée ou par voie hématopulmonaire.6
+
+La transmission familiale à distance en période de grippe par voie naso-pharyngée

@@ -1,0 +1,31 @@
+Patiente de 20 ans, ayant comme antécédent une hémophilie, qui a un contact avec son père ayant COVID-19 mais qui ne présente pas d’autre cas familial ni de notion de lien épidémiologique entre le patient et les autres membres de sa famille. La patiente a comme symptôme une attaque de douleur accompagnée d’une atteinte cutanée au niveau des mains, la patiente pense à une contracture et à une urticaire aigue associée à une fièvre chiffrée à 38,5 et une toux sèche qui évolue dans un contexte d’apyrexie. Le test PCR positif à COVID-19 est revenu sans toutefois faire le profil type de l´infection. Le traitement par injection d´Etanercept a fait disparaitre l’atteinte cutanée, la toux sèche et la fièvre mais elle a présenté une toux productive secs, la patiente n’est pas apyrétique et elle n’a pas de détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique a montré un épanchement pleural droit sans éléments en négatif ni en positif associé à un plus petit épanchement pleural gauche avec une légère obstruction de l´orifice médiastinal. La fonction pulmonaire reste normale. Il n’y a pas d´infiltrat. Le bilan biologique normal. La patiente a été hospitalisée dans le service de pneumologie. Elle a été traitée par hydroxychloroquine et azithromycine. Elle a sortie après 7 jours de hospitalisation. La patiente s’est correctement autoréhabilitée. Le recul de 8 semaines, elle n´a pas présenté de séquelle respiratoire, osseuse ni cutanée.
+
+Tableau I
+
+Note :
+DT : douleur ; CTM : colchicine ; CM : corticoïde ; TDM ; TDM thoracique ; Pleurésie tuberculeuse ; HTPFC ; examen direct des selles ; Protocole Rifampicine ; Isoniazide ; Pyrazinamide ; Rifampicine ; ETO ; Ethambutol ; CFT ; 10 mm ; TDM thoracique de contrôle ; pleurite infectieuse ; corticothérapie.
+
+Tableau II
+
+Note :
+VIF ; Hydrocortisone ; Vaccin vaccin ; Vaccin anti-pneumococcique ; Vaccin anti-hépatite B ; Vaccin anti-hépatite A ; Rifampicine ; Isoniazide ; Pyrazinamide ; TDM thoracique ; pneumopathie cavitaire bilatérale ; corticoïdes ; ACE-inhibiteurs ; Hydralazine ; Antilipidiques ; Endoscopie digestive haute ; diverticule de sigmoïde ; Ulcération de l´anse iléale ; pneumopathie cavitaire ; Test de Cortisol-Étanéchocine ; Hydrocortisone ; Vaccin anti-pneumococcique ; Vaccin anti-hépatite B ; Vaccin anti-hépatite A ; PCR SARS-CoV2 ; corticothérapie.
+
+Tableau III
+
+Note :
+TDM thoracique ; pneumopathie basale bilatérale ; néoplasie pulmonaire ; corticoïdes ; TDM thoracique de contrôle ; une amélioration partielle.
+
+Tableau IV
+
+Note :
+VIF ; Hydrocortisone ; ACEI ; Vaccin anti-pneumococcique ; Vaccin anti-hépatite B ; Vaccin anti-hépatite A ; TDM thoracique ; pneumopathie cavitaire bilatérale ; corticoïdes ; ACEI ; diurétique ; Vaccin anti-pneumococcique ; Vaccin anti-hépatite B ; Vaccin anti-hépatite A ; TDM thoracique de contrôle ; une amélioration partielle ; PML bilatéral.
+
+Tableau V
+
+Note :
+test PCR COVID-19 ; Hydrocortisone ; Rifampicine ; Isoniazide ; Pyrazinamide ; corticoïdes ; Vaccin anti-hépatite B ; Vaccin anti-hépatite A ; Vaccin anti-pneumococcique ; examen tomodensitométrique du thorax ; multinodulaire ; contrôle tomodensitométrique ; nodule apical ; nodules nodulaires ; épaississement des septa ; bronchoscopie ; nodule infectieux du lobe moyen ; TDM thoracique de contrôle ; nodules parenchymateux ; hydrocortisone ; Rifampicine ; Isoniazide ; Pyrazinamide ; Vaccin anti-hépatite B ; Vaccin anti-hépatite A ; Vaccin anti-pneumococcique.
+
+Tableau VI
+
+Note :
+VIF ; corticoïdes ; ACEI ; Vaccin anti-pneumococcique ; Vaccin anti-hépatite B ; Vaccin anti-hépatite A ; Rifampicine ; Isoniazide ; Pyrazinamide ; hémoptysies ; examen O

@@ -1,0 +1,23 @@
+Nous rapportons le cas d’un patient de 45 ans, sans antécédent pathologique particulier, qui a présenté des douleurs périombilicale intenses évoluant depuis 1 mois, associées à des vomissements, une toux sans hémoptysie. Un empâtement sus-ombilical a été mis en évidence au dernier mois.
+L’examen clinique à son admission trouvait un patient à l’état général conservé, l’abdomen souple sans masse palpable.
+Le bilan biologique trouvait une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l.
+La fibroscopie oeso-gastroduodénale a permis d’observer une gastrite congestive avec un gros kyste jéjunal.
+Une tomodensitométrie abdominale a mis en évidence un épaississement pariétal jéjunal à 50cm de l’angle duodéno-jéjunal avec une tumeur à 50cm de l’angle duodéno-jéjunal (Figure 1).
+L’exploration chirurgicale par une laparotomie médiane a permis de mettre en évidence une tumeur étendue aux deux plan externe et interne de la paroi abondamment adhérente aux structures viscérales.
+La résection segmentaire du jéjunum a été réalisée, dont la pièce d’exérèse avait montré une tumeur est un adénocarcinome lieberkuhien, l’étude immunohistochimique était en faveur d’une maladie cœliaque.
+L’évolution était favorable avec un recul de 5 mois.
+Le diagnostic de maladie cœliaque n’avait pas été posé devant la difficulté d’accès au patient et le manque d’habitudes médicales dans le milieu rural.
+L’évolution était favorable avec un recul de 5 mois.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 48 ;
+Il doit contenir les éléments suivants :
+réaction de Bastard ; décès fœtal ; consultation prénatale ; 42e jour ; hématurie macroscopique ; 3300/mm 3 ; 46000/mm 3 ; 359000/mm 3 ; 355000/mm 3 ; tomodensitométrie rénale ; néphrocalcine bilatérale ; obstacle ; paralysie diaphragmatique ; particularités ; antiprotéinurique ; héparine ; protineurique ; 3 mg ; 280000/mm 3 ; 60 % ; recherche de mutation ; adénosine desaminase rénale ; déficit ; adénosine monophosphate ; PKLR ; néphrocalcine ; mesures intéressantes ; PKLR.
+Il s’agit d’un enfant âgé de 48 jours, neuvième d’une fratrie de dix, sans antécédent pathologique particulier, deuxième enfant du mariage entre parents consanguins de premier degré avec un frère aîné et une sœur cadette. L’aménorrhée des parents a été estimée à un an. Les autres enfants décédés étaient atteints d’une réaction de Bastard (une, décès néonatal), d’une sténose bilatérale des conduites rénales, d’un syndrome néphrotique (2) et de néphrocalcine (1).
+L’intervalle entre deux grossesses était estimé à 15 mois.
+L’accouchement était par voie basse après une gestation de 38 semaines d’aménorrhée (SA) avec un poids de naissance de 2600 grammes. L’enfant était hospitalisé au service de pédiatrie du Centre Médical avec Réanimation de Sérak dans les suites immédiates d’une « réaction de Bastard » à 20 jours postnatales. Le décès fœtal était réalisé à la consultation prénatale à 42e jour (JD) avec des suites de travail (dépression cérébrale et hématurie macroscopique).
+L’étude cytométrique avait montré une dysplasie du membrane érythrocytaire avec le contenu circulant bas. L’étude des autres lignées était sans particularité.
+L’examen de la colonie de Polystyrene n’était pas réalisé.
+La recherche des anticorps anti-nucleaires était négative.
+Les tests sérologiques réalisés en raison du nombre de frères décédés étaient négatifs.
+L’étude des gènes responsables du déficit en PKLR avait permis de découvrir une mutation hétérozygote du gène PKLR (2800G→A). Cette mutation a été rattachée à la prédisposition à la néphrocalcine. L’enfant était alors transféré à l’hôpital universitaire de Marrake

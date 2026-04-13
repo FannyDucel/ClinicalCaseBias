@@ -1,0 +1,33 @@
+Monsieur M, âgé de 20 ans, sans antécédents notables est reçu aux urgences suite à une altération de l´état général, des céphalées, de douleurs d’hypochondre gauche avec une dyspnée, de toux et d’une atteinte cutanée au niveau des mains. Dans ses antécédents personnels, le patient a été diagnostiqué par PCR au COVID-19. Il a été reçu chez son père qui avait des symptômes de COVID-19 depuis un mois et demi. Il avait été testé positif par PCR à ce virus. Un contact avec son père ayant COVID-19 était donc établi. Il est actuellement traité par l’hydroxychloroquine (1000mg deux fois par jour) depuis quatre jours et l’azithromycine (500mg une fois par jour). Les céphalées et les douleurs abdominales durent une semaine. Une urticaire aigue liée à l’hydroxychloroquine est évoquée devant une rash au niveau des mains, du tronc et de la tête, soit à la suite de l’injection d´Etanercept qu’il a reçu les jours précédents. Ce qui n’a pas été confirmé par les soins médicaux qu’il a reçus. Par ailleurs, une TDM thoracique a été réalisée et montrait une consolidation épanchée du lobe supérieur droit (Figure 1).
+
+Le tableau clinique du patient avec un état vital apyrétique, sans détresse respidatoire ni hémodynamique, était suspect d’une pneumopathie associée à une épanchement pleural et de plus petites consolidations secondaires à la COVID-19. Une tomodensitométrie thoracique avait été réalisée. Elle avait montré une consolidation épanchée du lobe supérieur droit (Figure 1).
+
+Le bilan biologique montrait une inflammation systémique (CRP à 151mg/L et une protéine C réactive (PCR) à 181mg/L).
+
+Le patient est actuellement traité par injection d´Etanercept (25mg deux fois par semaine) et par un traitement antalgique. Il a été mis en isolation avec ses parents qui se sont également mis en isolation car eux aussi sont positifs par le test PCR au COVID-19. La quinzaine suivante, son état général a beaucoup amélioré. Le patient a pu être mis au repos chez lui.
+
+L’immunologie clinique avait montré:
+
+Etanercept pour faire une corticothérapie parenterale de faible dose (40 mg par jour).
+
+Une hydroxychloroquine associée à l’azithromycine, selon les protocoles actuels.
+
+Il a été mis en quarantaine dans une pièce isolée dans la maison de ses parents.
+
+On lui fait une BPDR toutes les 24 heures.
+
+On lui fait une TDM thoracique et une TDM cérébrale tous les deux jours.
+
+Il a eu une ICU après deux jours de soins.
+
+La déviation rétinienne s’est améliorée.
+
+Le patient a une HTA importante associée à une incontinence urinaire (urine impregnée d’hématies) pour laquelle une antécédent de lithiase urinaire a été retrouvé.
+
+Le patient est âgé de 52 ans et a une dépression persistante qui n’a pas été étudiée en détail.
+
+Ce cas clinique explique comment des patients peuvent être atteints d’une pneumopathie associée à une pleurésie au cours de la COVID-19. Ces symptômes ont été aussi signalés en Chine et en Écosse. Ainsi les PCR montrent une PCR positive au niveau respiratoire, et à la fois, un œdème et une consolidation parenchymateuse pulmonaire à l’imagerie pulmonaire. Il y a quelques difficultés à distinguer l’atteinte infectieuse, pulmonaire liée à la COVID-19 des autres causes telles que l’infection de pneumocoque et de légionella. Cela est en relation directe avec la défaillance de plusieurs organes au cours de la COVID-19. Par conséquent, il faut prendre en considération les bilans biologiques tels que le niveau du procalcitonine, la natrémie et la fonction rénale, bien que ces niveaux ne soient pas constamment décelés.
+
+Ainsi, le diagnostic des états critiques liés à la COVID-19 est très difficile, car les symptômes observés sont incohérents, et ces patients nécessitent souvent des soins intensifs avec une défaillance multiviscérale.
+
+Enfin, l’incidence de la COVID-19 en Afrique du Nord est basse par rapport à d’autres pays. Une solution pratique est que la détection du virus, les tests rapides, sont difficiles à obtenir en raison de leur coût élevé. En conséquence, il est nécessaire de prendre en considération les symptômes cliniques dans l’imm

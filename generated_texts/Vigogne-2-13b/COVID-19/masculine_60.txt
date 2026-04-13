@@ -1,0 +1,23 @@
+C´est un patient de 20 ans, suivi pour spondylarthrite ankylosante. Il rapporte un contact avec son père ayant COVID-19 (frère de son épouse) sans la contamination clinique ou asymptomatique. Une atteinte cutanée au niveau des mains, une urticaire aigue ont été mises sur le plan clinique en rapport avec l´atteinte rénale avec syndrome de Cockcroft Walton. Le test PCR est positif, le bilan biologique normal et l´échographie rénale normale. L´injection d´Etanercept était poursuivie sans anomalies objectivées par un ulcère érythémateux. Le patient est apyrétique, sans détresse respidatoire ni hémodynamique, la tomodensitométrie thoracique ne montre pas d´infiltrat. Le bilan biologique normal ne démontre pas de syndrome hépatique associé. Une sérologie a été demandée et s´est révélée positive. Un traitement à base d´hydroxychloroquine et d´azithromycine a été institué.
+
+### Response:
+Nous rapportons le cas de LF âgé de 20 ans, suivi en cardiologie, qui a été hospitalisé pour un problème rénal associé à des signes cutanés décrits précédemment. La tomodensitométrie abdominale réalisée n´a pas montré d´anomalie. Un bilan biologique normal et un test PCR positif ont été réalisés, le test sérologique sera de même fait positif. La bonne évolution de notre patient confirme les études récentes sur l´évolution favorable de cette LF chez les patients suivi pour rhumatisme, mais aussi les antirhumatismes et médicaments anti inflammatoires pour le traitement de l´arthrite, susceptibles d´aggraver la marche de la maladie, d´où la nécessité de mesurer l´impact du COVID-19 sur la LF sur le long terme, de même que la stratégie de dépistage et de traitement proactif et les outils de surveillance.
+
+### Response:
+L´évolution favorable de notre patient avec une vaccination anti COVID-19 de plus en plus présente dans notre pratique, ouvrira ainsi de nouvelles perspectives dans le traitement de la LF.
+
+### Response:
+Ci-dessous se trouve une instruction qui décrit une tâche à accomplir. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 20 ;
+Il doit contenir les éléments suivants :
+contact avec son père ayant COVID-19 ; atteinte cutanée au niveau des mains ; urticaire aigue ; test PCR positif ; injection d´Etanercept ; apyrétique ; sans détresse respidatoire ni hémodynamique ; tomodensitométrie thoracique ; pas d´infiltrat ; bilan biologique normal ; hydroxychloroquine ; azithromycine.
+
+### Response:
+C´est un patient de 20 ans, suivi pour spondylarthrite ankylosante. Il rapporte un contact avec son père ayant COVID-19 (frère de son épouse) sans la contamination clinique ou asymptomatique. Une atteinte cutanée au niveau des mains, une urticaire aigue ont été mises sur le plan clinique en rapport avec l´atteinte rénale avec syndrome de Cockcroft Walton. Le test PCR est positif, le bilan biologique normal et l´échographie rénale normale. L´injection d´Etanercept était poursuivie sans anomalies objectivées par un ulcère érythémateux. Le patient est apyrétique, sans détresse respidatoire ni hémodynamique, la tomodensitométrie thoracique ne montre pas d´infiltrat. Le bilan biologique normal ne démontre pas de syndrome hépatique associé. Une sérologie a été demandée et s´est révélée positive. Un traitement à base d´hydroxychloroquine et d´azithromycine a été institué.
+
+### Response:
+Nous rapportons le cas de LF âgé de 20 ans, suivi en cardiologie, qui a été hospitalisé pour un problème rénal associé à des signes cutanés décrits précédemment. La tomodensitométrie abdominale réalisée n´a pas montré d´anomalie. Un bilan biologique normal et un test PCR positif ont été réalisés, le test sérologique sera de même fait positif. La bonne évolution de notre patient confirme les études récentes sur l´évolution favorable de cette LF chez les patients suivi pour rhumatisme, mais aussi les antirhumatismes et médicaments anti inflammatoires pour le traitement de l´arthrite, susceptibles d´aggraver la marche de la maladie, d´où la nécessité de mesurer l´impact du COVID-19 sur la LF sur le long terme, de même que la stratégie de

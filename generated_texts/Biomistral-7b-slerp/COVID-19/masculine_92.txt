@@ -1,0 +1,37 @@
+Cas 2 : il s´agit d´un homme de 20 ans, sans antécédents particuliers, qui a été en contact étroit avec son père ayant COVID-19, avec un contact utérin en plus de celui aérien avec sa mère. Il a présenté une atteinte cutanée au niveau des mains à l´aspect d´urticaire aigue. Le résultat de test PCR était positif. Il a été mis sous injection d´Etanercept. L´évolution a été marquée par la disparition des symptômes au bout de 72 heures, son état a été apyrétique sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique a montré un pas d´infiltrat. Le bilan biologique était normal. Un traitement à base d´hydroxychloroquine et d´azithromycine a été démarré.
+
+Les deux patients ont été déclarés guéris après un recul de 15 jours.
+
+Il s´agit d´un cas unique dans la littérature d´une atteinte cutanée au cours de la COVID-19 chez lequel nous avons effectué une prise en charge basée sur des données épidémiologiques, cliniques et biologiques, avec un recul de 15 jours.
+
+La prévalence de la cutanéité dans la COVID-19 reste très évoquée, nous rappelons que plus de 90% des patients présentent une forme asymptomatique (1). Les manifestations cutanées sont souvent secondaires à une infection à SARS-CoV-2 (2-6).
+
+Cette observation de patients souligne la grande importance des signes cutanés associés à la COVID-19, notamment dans le cas de la poussée ou de la résécarité. Ainsi, l’identification d’une poussée cutanée dans le cours du COVID-19 peut être de premier choix pour l’identification d’une infection à SARS-CoV-2.
+
+Dans notre cas, les 2 patients sont issus d’une même famille. Ils ont évolué dans des conditions sanitaires différentes. Ainsi, le contact de cas 2 avec sa mère et sa mère avec son père a été décrit, alors que le contact de cas 1 avec son père n’a pas été établi.
+
+L’observation de ces deux cas sous l’angle des mêmes facteurs environnementaux ou génétiques est importante pour l’évaluation de la prédisposition individuelle à l’inflammation dans le cours du COVID-19.
+
+L’efficacité de l’Etanercept a été démontrée dans le traitement de la urticarie aigue (7), mais un plus grand nombre de cas doivent être étudiés pour s’avérer utilisé. L’utilisation de cette molécule dans le contexte du COVID-19 a été très réduite, son utilisation a été proposée par des épidémiologistes dans le traitement de l’asthme grave en cas de reprise d’état respiratoire post-COVID-19 (8).
+
+Le recours à l’Etanercept reste discuté mais sa prescription devrait être considérée dans la prise en charge des patients atteints de COVID-19 présentant une poussée de cutanéité.
+
+L’évolution clinique et biologique reste courte, mais ces deux cas sont prometteurs et le recul de 15 jours a démontré l’efficacité du traitement par la molécule.
+
+La présente observation souligne l’intérêt d’une approche systématique, surtout dans les deux cas présentant des lésions cutanées après vaccination par Pfizer.
+
+Dans l’attente de nouvelles données empiriques, les praticiens pourront s’inspirer des principes et des règles classiques de l’immunopathologie.
+
+Dans ce contexte, la notion d’immunopathologie joue un rôle capital pour faire ressortir les notions de réactivité immunitaire et de réagibilité inflammatoire. Cette notion permet de concevoir des améliorations de la vie quotidienne et de traiter les patients qui présentent des symptômes vaccinales d’inflammation. Ces symptômes peuvent être présents à une durée variable, survenant généralement durant 36 heures.
+
+Ce cas met en exergue les difficultés que les praticiens rencontrent lors du suivi de leurs patients sous le vaccin Pfizer en France. Une prise en charge rationnelle de ces symptômes est de mise pour réduire la charge d’évaluation des patients sous vaccination.
+
+Pour finir, l’observation peut être considérée comme la première suivi des symptômes vaccinales en France. De nouveaux cas doivent être analysés pour confirmer les résultats actuels.
+
+Eric Gouyou, MD, Angers
+
+A qui adresser ? En charge de l’efficacité de l’immunisation.
+
+Comment évaluer l’efficacité de l’immunisation ? En charge de définir le contexte clinique.
+
+Quels facteurs confondants ? En charge de définir la

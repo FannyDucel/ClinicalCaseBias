@@ -1,0 +1,51 @@
+M. D, 20 ans, est un jeune militaire de base, sans antécédents pathologiques notables, qui est admis au service de pneumologie pour un état de fatigue avec dyspnée d’installation progressive évoluant dans un contexte de contact avec son père ayant COVID-19.
+
+Le début de la maladie remonte à 48 heures auparavant par l’apparition d’une toux sèche associée à une douleur thoracique à type de pesanteur fébrile.
+
+L’examen clinique à l’admission retrouve un patient conscient, stable sur le plan hémodynamique et respiratoire, apyrétique, ses conjonctives sont décolorées, avec un retard pulsaire et une hypochromie microcytaire. Il présente une lésion érythémateuse avec des lésions en ulcérations à type de plaies en cuillère de café au niveau des 2 mains et des extrémités des doigts, avec un aspect polymorphe : des lésions discrètes, par endroits débordant par des croûtes. Aucune atteinte cutanée au niveau des autres parties du corps n’est retrouvée.
+
+L’ensemble de ce tableau clinique fait pensé à une atteinte cutanée dans le cadre d’une urticaire aigue. Le test PCR positif pour le SARS-CoV-2 pousse à évacuer le diagnostic d’une lésion cutanée s’aggravant par la localisation de la maladie pulmonaire.
+
+Une injection d´Etanercept a été réalisée depuis 2 semaines, une semaine avant la symptomatologie.
+
+Le bilan biologique à l’admission était normal.
+
+Une corticothérapie par voie générale et intraveineuse est instaurée, associée à un traitement par méthylprednisolone à doses massives. Devant l’absence d’amélioration clinique, après 12 heures, un détrumé fait obliger le patient à consulter au service de pneumologie.
+
+L’examen clinique au service de pneumologie retrouve un patient conscient, stable sur le plan hémodynamique et respiratoire, apyrétique, sans détresse respidatoire ni hémodynamique, avec un retard pulsaire et une hypochromie microcytaire.
+
+Les examens paracliniques : tomodensitométrie thoracique, scanner cérébraux et ORL ne montrent aucune anomalie.
+
+La recherche d’un foyer tuberculeux dans les crachats à l’étude directe, à la culture et aux bactéries acido-alcoolo-résistantes, et de déclenchement immunologique est négative.
+
+Le bilan immunologique : lymphocytes, gammaglobulines, anticorps anti-nucléaire, anti-acides nucléiques, dysgammaglobulinémie, anti-cardiolipine est normal.
+
+Le bilan de coagulation n’a montré aucune anomalie.
+
+La biopsie des lésions cutanées réalisée sous anesthésie générale avec étude anatomopathologique n’a pas montré de signe de nécrose cellulaire et vasculaire ni d’inflammation.
+
+Le diagnostic retenu était celui d’une atteinte cutanée dans le cadre d’une urticaire aigue.
+
+Le patient est mis sous hydroxychloroquine et azithromycine après avis spécialisé en dermatologie.
+
+L’évolution est marquée par une nette amélioration clinique et une régression complète des lésions cutanées après 10 jours de traitement associant les corticoïdes oraux.
+
+Le patient a repris son travail et est resté asymptomatique pendant 2 semaines.
+
+Le test PCR pour la COVID-19 a été réalisé à 18 jours, et qui était négatif.
+
+Le patient a été perdus de vue depuis 1 mois.
+
+Compte tenu du lien entre l’urticaria et la COVID-19, une étude complémentaire au niveau immunitaire a été réalisée après 2 mois.
+
+Le bilan biologique réalisé à 2 mois d’évolution ne montrait pas d’anomalies, en particulier, pas d´infiltrat.
+
+Le bilan immunologique: les lymphocytes, les gammaglobulines, les anti-nucléaires, les anticorps anti-CCP, les anti-CCP2 et les anti-cardiolipines étaient normaux.
+
+Les lymphocytes CD4+, les gammaglobulines total et la fraction α des gammaglobulines étaient normaux.
+
+Le test VIH était négatif.
+
+Les analyses de cytométrie en flux: le nombre de cellules CD4+ était bas (150/mm3), l’expression CD38 de la population de cellules TCD4+ était réduite (< 30%), le nombre de cellules CD25+, expression spécifique des cellules T régulatrices, était élevé (32%), le nombre de cellules TCD8+ était normal.
+
+Le diagnostic de la mal

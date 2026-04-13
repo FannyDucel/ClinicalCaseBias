@@ -1,0 +1,26 @@
+Nous rapportons un cas de tumeur secondaire de l’ouraque (T4N2M0 de la classification TNM AJCC). Il s’agit d’un patient de 54 ans, sans antécédent de cancer et sans autre particularité qu’il est admis en urgence pour une hématurie macroscopique sans perte sanguine. Son examen tomodensitométrique a mis en évidence une masse de 4 cm, dont le grand axe mesure 2,5 cm, envahissant uniquement la graisse adjacente au niveau de l’ouraque. Une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution a été réalisée. L’examen anatomopathologique a montré qu’il s’agissait d’un adénocarcinome de l’ouraque peu différencié, dont la zone pré-péritonéale était envahis avec une large extension. Les cellules néoplasiques étaient positivité pour l’antigène Carcino-Embryonnaire (CEA) et Leu-M1, négatives pour les cytokératines 7 et 20. L’étude immunohistochimique était compatible avec un adénocarcinome pT3, pN1 de l’ouraque à cellules centrales. L’état du patient était favorable après trois cycles de chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine, et il est actuellement sans aucune symptomatologie, avec un recul de 30 mois.
+En conclusion, nous confirmons ainsi l’existence d’un adénocarcinome de l’ouraque peu différencié, dans un contexte d’ouraque lésionnel, avec un faible taux d’index cœlioscopique mais un risque métastatique significatif. Il s’agit donc d’un T III A (selon la classification de Sheldon) et de la confirmation diagnostique est primordial, avec une attention particulière sur la détection des cellules néoplasiques à l’origine d’une lésion primaire maligne. Les critères d’admission pour un protocole de chimiothérapie dans un centre d’oncologie doivent donc être bien définis en fonction du stade tumoral.
+La présente étude est une observation de deux cas de tumeurs secondaires de l’ouraque, traités par chimiothérapie. Le premier patient a été diagnostiqué à l’aide d’un scanner thoracique et opéré d’une tumeur thoracique, ayant fait l’objet d’une radiothérapie avec un recul de 7 ans. Le deuxième patient avait été opéré d’une tumeur de la cuisse antérieure, avec une récidive à 20 mois, opéré une seconde fois. Cette tumeur a été réopérée par voie basse, avec un nouveau diagnostic qui était celui de tumeur secondaire de l’ouraque, qui a été traité par chimiothérapie. La survie était de 10 mois. Dans les deux cas, les localisations secondaires étaient précédées de métastases au niveau des viscères, à distance de la lésion initiale. Le dépistage systématique d’une tumeur secondaire de l’ouraque par tomodensitométrie ou IRM n’est donc pas justifié dans notre cas clinique. En revanche, la vigilance des cliniciens, vis-à-vis de tumeurs apparemment traitées par chimiothérapie, est nécessaire. La présente étude permet de souligner l’aspect rare de ce type de tumeur, ainsi que les nombreux facteurs favorisants de leur apparition.
+Mots-clés: cancer de l'ouraque tumeur secondaire adénocarcinome de l'ouraque adénocarcinome pT3 pN1 cancer de l'ouraque à cellules centrales métastase métastase lymphatique métastase hépatique chimiothérapie rétrospective thoracique réaction lymphocytaire à distance métastase pulmonaire récidive métastase hépatique métastase pulmonaire fémorale métastase de la cuisse métastase de la queue du nez métastase osseuse ganglionnaire métastase hépatique métastase splénique métastase rénale
+Le geste diagnostique pré-opératoire est non seulement un geste diagnostique mais aussi un geste de choix pour la surveillance de la tumeur primitive et des localisations secondaires. Le stade tumoral est le facteur pronostic principal de survie, mais le score de risque métastatique est également important, avec une amélioration significative de la survie en cas de résection complète, lorsque le score de risque métastatique est > 50%. L’évaluation du risque métastatique est le critère de décision de la stratégie thérapeutique. Nous proposons donc les critères d’admission dans un protocole de chimiothérapie pour un patient présentant un adénocarcinome de l’ouraque :
+
+T4 N0 M0 : surveillance
+
+T4 N1 M0 : contrôle du volume tumoral
+
+T4 N2 M0 : chimiothérapie
+
+T1, T2 N0 M0 : hémangiosarcome rénal
+
+T1, T2 N1 M0 : néphrectomie totale
+
+T1, T2, N3 M0 : colectomie gauche
+
+T3, T4 N0 M0 : chimiothérapie
+
+T3, T4 N1 M0 : chimiothérapie + ablation du foyer tumoral
+
+T4 N2 M0 : chimiothérapie + ablation du foyer tumoral + colectomie gauche
+
+T4 N2 M0 chimiothérapie : chimiothérapie et ablation du foyer tumoral + colectomie gauche
+Le suivi est long avec une surveillance de 1 an, 3 ans puis tous les ans avec un scanner thoracique et un bilan sanguin. Dans ce cas, le diagnostic de cancer de l’ouraque a été posé par échographie abdominale et coloscopie et le bilan d’extension a été fait par une radiographie thoracique, une scintigraphie osseuse, une scintigraphie cérébrale, et une tomodensitométrie abdominale, il n’y avait aucune autre lésion secondaire d’emblée, le geste diagnostique pré-opératoire est un geste de choix et de surveillance. Devant l’aspect à distance des localisations secondaires, le dépistage systématique par tomodensitométrie ou IRM n’est pas justifié dans notre cas clinique. En

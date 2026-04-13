@@ -1,0 +1,18 @@
+Il s'agit d'un patient de 30 ans, suivi pour fracture du col fémoral gauche dans un passé lointain, qui présente depuis 6 mois des douleurs lombaires irradiant en arcs radiants vers le haut, le côté droit et la jambe droite. Ces douleurs sont associées à une asthénie physique et psychique ainsi qu'à des céphalées.
+L'examen ostéoarticulaire a révélé une cyphose lombaire, une saillie des apophyses épineuses, un rétrécissement thoracique et une exophtalmie sans hypotonie des deux côtés.
+Les radiographies du rachis lombaire montrent une hypercalcémie avec des images nodulaires et sclérotiques des deux extrémités de la colonne.
+Un bilan biologique était demandé et montre une vitesse de sédimentation (VS) à 60mm à la première heure, une calciurie à 35,6 mg/24 h, une phosphorémie à 2,03 mg/L, une calcémie à 2,42 nmol/L. La phosphorémie et la calciurie sont toutes deux normales (respectivement 1,01 et 2,15 nmol/L/24 h). Les dosages hormonaux strictement normaux (parathormone basse, T4 libre, 17-hydroxystéroïdes, cortisol et gonadotrophines). L'absorptiométrie biphotonique à rayons X montre une densité minérale osseuse élevée, indiquant ainsi une hypercalcémie secrétorienne.
+Le patient a été mis sous paracétamol (2 g/j) associé à l'amytriptiline (50 mg/j) et a été référé à un pneumologue qui confirme le diagnostic de FCP, avant de référer le patient au service de neurologie où une génétique a été demandée.
+Nous estimons que le cas nous montre un exemple frappant d'ostéoporose fracturaire et que la découverte ultérieure d'un syndrome de neurofibromes dans ce patient, à l'étude génétique, confirmera le diagnostic de neurofibromatose type 1.
+
+### Response:
+Il s'agit d'un patient de 30 ans, suivi pour fracture du col fémoral gauche dans un passé lointain, qui présente depuis 6 mois des douleurs lombaires irradiant en arcs radiants vers le haut, le côté droit et la jambe droite. Ces douleurs sont associées à une asthénie physique et psychique ainsi qu'à des céphalées.
+L'examen ostéoarticulaire a révélé une cyphose lombaire, une saillie des apophyses épineuses, un rétrécissement thoracique et une exophtalmie sans hypotonie des deux côtés.
+Les radiographies du rachis lombaire montrent une hypercalcémie avec des images nodulaires et sclérotiques des deux extrémités de la colonne.
+Un bilan biologique était demandé et montre une vitesse de sédimentation (VS) à 60mm à la première heure, une calciurie à 35,6 mg/24 h, une phosphorémie à 2,03 mg/L, une calcémie à 2,42 nmol/L. La phosphorémie et la calciurie sont toutes deux normales (respectivement 1,01 et 2,15 nmol/L/24 h). Les dosages hormonaux strictement normaux (parathormone basse, T4 libre, 17-hydroxystéroïdes, cortisol et gonadotrophines). L'absorptiométrie biphotonique à rayons X montre une densité minérale osseuse élevée, indiquant ainsi une hypercalcémie secrétorienne.
+Le patient a été mis sous paracétamol (2 g/j) associé à l'amytriptiline (50 mg/j) et a été référé à un pneumologue qui confirme le diagnostic de FCP, avant de référer le patient au service de neurologie où une génétique a été demandée.
+Nous estimons que le cas nous montre un exemple frappant d'ostéoporose fracturaire et que la découverte ultérieure d'un syndrome de neurofibromes dans ce patient, à l'étude génétique, confirmera le diagnostic de neurofibromatose type 1.
+
+### Response:
+Il s'agit d'un patient de 30 ans, suivi pour fracture du col fémoral gauche dans un passé lointain, qui présente depuis 6 mois des douleurs lombaires irradiant en arcs radiants vers le haut, le côté droit et la jambe droite. Ces douleurs sont associées à une asthénie physique et psychique ainsi qu'à des céphalées.
+L'examen ostéoarticulaire a révélé une cyphose lombaire, une saillie des apophyses ép

@@ -1,0 +1,26 @@
+Mr S, 45 ans, étudiant au Maroc, hospitalisé pour des douleurs périombilicale intenses accompagnées de vomissements avec une altération de l’état général. L’examen clinique a retrouvé un empâtement sus-ombilical. Le bilan biologique a révélé une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale a objectivé une gastrite congestive avec atrophie des villosités duodénale. La tomodensitométrie abdominale a conclu à un épaississement pariétal jéjunal, puis une tumeur à 50cm de l’angle duodéno-jéjunal a été découverte après résection segmentaire du jéjunum. L’étude anatomopathologique a conclu à un adénocarcinome lieberkuhien. L’évolution a été favorable après une résection. Après élimination de la gluten alimentaire, le patient est asymptomatique après une durée de 12mois et l’analyse des sous produits de l’enzyme de triose phosphatase a mis en évidence une maladie cœliaque.
+
+### Response:
+Il s’agit d’un jeune homme âgé de 45 ans, originaire du Maroc, étudiant à Strasbourg. Il est hospitalisé au service d’orthopédie traumatologique pour une fracture du fémur gauche, opéré le 14 février 1995. Le 18 février, un accident vasculaire cérébral foudroyant et traumatique a motivé son hospitalisation au service d’anesthésie-réanimation pour une défaillance cérébrale. La cause d’origine de la défaillance cérébrale n’a jamais pu être élucidée mais en raison de son âge, l’origine vasculaire est suspectée.
+
+L’état général est troublé. L’examen clinique à l’admission a retrouvé un nécrosé cutané en forme d’excoriation au niveau du tiers inférieur de l’abdomen. Cet aspect clinique a été attribué à des soins thérapeutiques et il n’a pas suscité d’attention particulière. Deux jours après l’admission au service d’anesthésie-réanimation, des douleurs périombilicale intenses associées à des vomissements ont été signalés. Le patient est alors admis au service de gastro-entérologie et a été hospitalisé. A l’examen physique, un empâtement sus-ombilical est observé. Le bilan biologique révèle une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l.
+
+La fibroscopie oeso-gastroduodénale a trouvé une gastrite congestive avec atrophie des villosités duodénale.
+
+La tomodensitométrie abdominale a conclu à un épaississement pariétal jéjunal, puis une tumeur à 50cm de l’angle duodéno-jéjunal a été découverte après résection segmentaire du jéjunum. L’étude anatomopathologique a conclu à un adénocarcinome lieberkuhien.
+
+L’évolution a été favorable après une résection. Après élimination de la gluten alimentaire, le patient est asymptomatique après une durée de 12mois et l’analyse des sous produits de l’enzyme de triose phosphatase a mis en évidence une maladie cœliaque.
+
+Voici un autre cas clinique de déchirure abdominale après infirmation.
+
+M. K, âgé de 52 ans, fut opéré le 14 février 1995 pour une fracture du fémur gauche.
+
+Le 18 février, un accident vasculaire cérébral foudroyant et traumatique a motivé son hospitalisation au service d’anesthésie-réanimation pour une défaillance cérébrale. La cause d’origine de la défaillance cérébrale n’a jamais pu être élucidée mais en raison de son âge, l’origine vasculaire est suspectée.
+
+L’état général est troublé.
+
+L’examen clinique à l’admission a retrouvé un nécrosé cutané en forme d’excoriation au niveau du tiers inférieur de l’abdomen. Cet aspect clinique a été attribué à des soins thérapeutiques et il n’a pas suscité d’attention particulière.
+
+Deux jours après l’admission au service d’anesthésie-réanimation, des douleurs périombilicale intenses associées à des vomissements ont été signalés. Le patient est alors admis au service de gastro-entérologie et a été hospitalisé. A l’examen physique, un empâtement sus-ombilical est observé. Le bilan biologique révèle une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l.
+
+La fibroscopie oeso

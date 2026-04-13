@@ -1,0 +1,23 @@
+Nous rapportons le cas d´une patiente de 20 ans qui a été victime d´un contact avec son père ayant COVID-19, mais sans autre notion d´étiologie connue. Elle présentait une atteinte cutanée au niveau des mains au moment du contact, qui a évolué en urticaire aigue avec des poussées en casque d´un halo de 10cm autour des deux paumes avec des lésions érythémateuses et vesiculaires. Le test PCR positif a été retenu. L´injection d´Etanercept était faite le même jour que le contact avec le père. Elle a bénéficié d´un hydroxychloroquine 400mg/j et d´une azithromycine 500mg/j pendant 5 jours, avec un rapprochement des paumes au décours des 5 jours suivants. Le bilan biologique (hémogramme, CRP) était normal. La patiente était apyrétique et sans détresse respidatoire ni hémodynamique. Le scanner abdominal était normal. La tomodensitométrie thoracique a objectivé une nécrose pulmonaire légère avec un ventilage pulmonaire de 65% et l´absence d´infiltrat avec un bon aspect vasculaire. Elle est sortie 12 jours après l´évolution de l´urticaire. Elle a maintenu la hydroxychloroquine 400mg/j en cas de poussée cutanée.
+
+*
+
+Ce cas montre la fréquence de l´évolution vers un SARS Cov 2 chez la patiente ayant eu une exposition prolongée au contact avec un malade et de surcroît avec une éventuelle prise d´Etanercept qui pourrait avoir favorisé l´évolution.
+
+L´examen ophtalmologique était normal, ainsi que le bilan biologique. L´urticaire a disparu spontanément avec la tension artérielle et l´O2 désaturation. Le scanner pulmonaire a montré une nécrose pulmonaire légère. Le diagnostic d´un syndrome urticarien après contact avec un malade ayant COVID-19 et ayant comme complication une nécrose pulmonaire légère qui peut être infiltrat négatif sur le scanner pulmonaire.
+
+Le début rapide d´une urticaire après un contact avec un malade COVID-19 qui s´est amélioré rapidement peut être rapporté à des réactions allergiques d´immunoglobulines classiques dont la sérologie et la PCR sont négatives. Un scanner pulmonaire peut être indiqué pour éliminer un SARS Cov 2. La surveillance clinique et biologique n´a pas montré de poussées cutanées sur une année.
+
+*
+
+Après une année de suivi, nous n´avons pas rapporté de poussée cutanée ni de notion de récidive pulmonaire chez cette patiente. Un contrôle spécifique de l´anticorps anti-SARS-CoV-2 s´est révélé négatif. L´histoire, le tableau clinique et biologique, la radiologie pulmonaire, et l´évolution favorable de la patiente nous ont permis d´éliminer l´hypothèse d´un SARS Cov 2 à l´origine du syndrome urticarien.
+
+La notion de bactériose systémique est probablement à considérer ici en particulier l´Streptococcus anginosus.
+
+D´autres causes sont à retenir, notamment les allergiques, les déficiences en inhibiteur de la protéine convertase (ADIPC), le syndrome systémique de Felty, la lupus érythémateux systémique, la maladie de lupus connective, les fibroses interstitielles pulmonaires idiopathiques. L´injection d´Etanercept est une cause tout comme les autres immunosuppresseurs.
+
+Ce cas montre que les infections virales chroniques ou leurs complications peuvent évoquer le diagnostic de SARS Cov 2, avec des complications pulmonaires et cutanées surtout en présence d´une auto-antibodie. Les hypothèses d´une infection par des arbovirius et une allergie allergoïde d´hypersensibilité chronique immédiate sont à retenir en particulier chez les immunodéprimés.
+
+Nous concluons que la recherche d´un syndrome urticarien (SARS CoV2) ou d´une nécrose pulmonaire chez les immunodéprimés en raison d´une infection chronique, lors d´une exposition à un cas infecté du SARS CoV 2 est un signe de ralentissement de la réponse immunitaire chez l´infection chronique ou le diagnostic du SARS CoV 2.
+
+Les lésions urticariennes sont souvent localisées sur les sites d´injection et/ou d´administration de produits immunomodulant, soit lésion érythémateuse au niveau des mains 19 et 20, puis des lésions cutanées évoquent le diagnostic des virus virales et leurs complications, l´allergie

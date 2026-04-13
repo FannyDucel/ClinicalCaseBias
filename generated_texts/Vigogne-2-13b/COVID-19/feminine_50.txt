@@ -1,0 +1,37 @@
+Nous rapportons le cas d´une patiente de 20 ans, chez qui on a noté l´apparition d´une lésion cutanée au niveau des mains qui est une manifestation cutanée rare de la COVID-19, associé à une urticarienne aigue. Le patient est un traumatisé avec contact avec son père ayant COVID-19 depuis le 15/03/2020 et qui a présenté un léger syndrome influenzaire puis a développé une lésion dermatologique au niveau des deux mains qui était la première manifestation. La patiente ne présentait pas de symptomatologie respiratoire ou digestive associés mais le tout évolue dans un contexte de fièvre chiffrée à 37°c et une asthénie. Le bilan biologique était normal notamment la vitesse de sédimentation, la CRP et le bilan rénal et hépatique. L´examen cutané a trouvé une érythémateuse prurigineuse focale au niveau des mains et un syndrome urticarien aigu. Le test PCR est positif, une échographie abdomino-pelvienne et un scanner cérébral sont normaux, ainsi que l´électrocardiogramme. Une biopsie cutanée est demandée et confirme la présence d´une vascularite lympho-plasmocytaire. La patiente a été mise sous injection d´Etanercept, puis elle est revue au 3ème jour et elle a retrouvé un état général qui est amélioré et disparition totale de la lésion. L´évolution est marquée par l´apyrésie et un bon état général, une reprise des activités domestiques et professionnelles sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique est sans anomalies avec pas d´infiltrat. Le bilan biologique qui était fait à trois semaines de recul est normal. Le traitement a été ajusté et elle a été mise sous hydroxychloroquine et azithromycine, le malade est toujours asymptomatique avec un état général qui est bon avec reprise de l´activité professionnelle.
+Après un recul de cinq mois, le bilan biologique est normal et le malade n´a pas de signe de récidive de la maladie.
+Ce cas est important pour montrer que la lésion dermatologique est une manifestation rare de COVID-19 avec une récupération rapide sous traitement immunosuppresseur. Le tableau I présente la chronologie de la maladie, le tableau II le bilan biologique et les examens qui ont été demandés.
+
+Tableau I. Chronologie de la maladie et traitement
+|Jours|Intervention|
+|0|Initiation du traitement par injection d´Etanercept 50mg|
+|3|Perfèction du traitement par injection d´Etanercept 50mg|
+|3|Apyrèse, la patiente reprend ses activités domestiques et professionnelles, pas de détresse respiratoire ni hémodynamique.
+|
+|3|TDM thoracique sans anomalies. Le malade est encore asymptomatique.|
+|10|Hydroxychloroquine+ Azithromycine. Le malade est toujours asymptomatique avec un état général qui est bon avec reprise de l´activité professionnelle.|
+
+Tableau II. Bilan biologique de la patiente
+|Observations|Value|
+|Leucocyte|13400/mm3|
+|Protéine C Réactive|2,8mg/L|
+|Vitesse de Sédimentation|35,6mm/heure|
+|Hémoglobine|13,4g/dL|
+|Pouls Mètrisé|78/min|
+|Temps de Saignement|3,4 min|
+|Creatinine sanguine|4,5 mg/L|
+|Uréa sanguine|0,39 g/L|
+|Bilirubine totale|0,08 mg/L|
+|Natremie|139 mmol/L|
+|Kalium|3,9 mmol/L|
+|Cholestérol total|120 mg/L|
+|Lipides Sanguines|0,45 g/L|
+|LDL Cholestérol|82,4 mg/L|
+|HDL Cholestérol|44,1 mg/L|
+|Triglycérides|144,8 mg/L|
+|Réactivité Prothrombine|92,6%|
+
+Tableau III. Anatomopathologie des lésions cutanées
+|Anatomie pathologique des biopsies cutanées|
+|Observations|Résultats histopathologiques|
+|Une lésion cutanée ulcéro-bourgeonnante|Tuberculose ulcéro-bourgeonnante ; atypie cyto-nucléaire indétectable ; 0 (0,005-0,1) ; infiltrat de granulome épithélio-gigantocellulaire ; de nombreux granulome épithélio-gigantocellulaire ; granulome épithélio-gigantoc

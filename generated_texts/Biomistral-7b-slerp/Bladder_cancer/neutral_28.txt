@@ -1,0 +1,23 @@
+Un patient âgé de 54 ans, présentait depuis 6 ans une hematurie spontanée sur un tableau de pénisphtimie. L’examen tomodensitométrique retrouvait une masse de 4 cm de diamètre, contenant des locaux de nécrose, située à proximité de la partie basale de la vessie.
+
+Au toucher rectal, on notait une masse indolore localisée aux confins de la prostate, fixée à l’évagination réctale, envahissant uniquement la graisse adjacente. Une cystoprostatectomie radicale totale, omphalectomie, et entérocystoplastie de substitution, ont été réalisées. L’examen histologique a conclu à un adénocarcinome de l’ouraque peu différencié, étendu à la muqueuse vésicale, posant la preuve d’une invasion de l’évagination urétrale. Les limites chirurgicales étaient libres. Les cellules néoplasiques étaient positives pour l’antigène Carcino-Embryonnaire et Leu-M1, mais négatives pour les cytokératines 7 et 20.
+
+La classication histologique était T III A (selon la classification de Sheldon). Le patient a reçu 6 cures de chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine avec une bonne tolérance clinique et radiologique. Au dernier suivi au 5ème mois, il ne présentait aucune récidive.
+
+En médecine, la notion de « cas isolés » est très courante, ceci fait partie des trois classes de plausibilité que propose Lord Raleigh pour expliquer le spectre d’hétérogénéité observée en épidémiologie : le moyen, le cas isolés et le rare (cette dernière catégorie étant considérée comme l’une des formes de la loi de L’Avance Rétrogradae ou Law of Retrogade Progression de Benedict), bien que chaque appartenance dans une des trois catégories n’exclut pas l’appartenance dans les autres. La notion d’isolé est surtout applicable en épidémiologie avec des données cliniques, il y a d’autres méthodes quantitatives d’analyse de données cliniques dont la méthode de Mantel-Haenszel de méthodes de Bayésien, qui ne sont pas à l’étude du présent article.
+
+Dans la clinique en routine on a recensé de nombreux cas de cas isolés qui étaient pris pour des incidents et pour une maladie non reconnue. Le cas de la tuberculose chez un patient immunodéprimé a été reconnue comme cas isolé. Ces cas ne seraient qu’un nombre de l’importance réelle de la maladie. Lorsque des cas isolés ne sont pas rapportés, il est délicat d’établir la relation entre le nombre de cas isolés et la véritable fréquence de la maladie dans la population.
+
+Dans le cas présenté, l’idée est que la maladie apparaît parce que les cas isolés apparaissent. L’idée est que ces cas isolés ne sont pas événements isolés. On utilise la taille de l’épidémie pour prédire la probable taille de la réelle épidémie. L’étude statistique des cas isolés est pour cette raison essentielle dans la surveillance de ces maladies. On peut utiliser le cas présenté pour tester l’idée d’une corrélation entre l’apparition de maladie et la survenue de cas isolés. Le modèle de réflexion utilisé est celui d’un modèle non-markovien avec risque constant entre épisodes.
+
+La survenue de cas isolés est téléréchétométrique. Un organisme avec une fréquence d’infection d’un organe telle qu’une petite voie biliaire est susceptible d’infecter une structure voisine. Une survenue de cas isolés d’une infection est donc considérée comme ayant une origine foyer de voisine.
+
+Si la taille du foyer est celle du petit débit de perfusion, une fréquence de maladie de l’ordre de 1/100 est alors à prévoir.
+
+Ce modèle évoque l’origine téléréchétométrique de cette maladie. Le foyer est l’ordre de la taille du petit débit de perfusion, pour la survenue d’une infection tuberculeuse et si cette taille du foyer est reliée à la taille de la population. L’ordre de grandeur de l’incidence de cette maladie dans la population est d’environ 1/100.
+
+Dans l’étude statistique, nous avons aussi un cas isolé d’ostéomyélite tuberculeuse.
+
+Avec cette considération, la maladie était si elle est déclarée, de nature à être transmissible par voie orale.
+
+Ceci peut avoir un énorme impact sur la prévention. Avec une survenue fréquente de cas isolés d’ostéomyélite tuberculeuse, il est ut

@@ -1,0 +1,24 @@
+B.G est un patient âgé de 49 ans, sans antécédents pathologiques particuliers, qui s’est présenté dans notre formation pour des douleurs périnéales et une dysurie associée à une pollakiurie (2éjaculations nocturnes). Le toucher rectal a trouvé une volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal, à 0,6 ng/ml.
+
+Une biopsie prostatique écho-guidée a été réalisée, l'examen histologique et immuno-marquage par l'anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales aux actines musculaires lisses. Le caractère mésenchymateux de ces cellules a été confirmé par les immuno-marquage par l’anticorps antiactine muscle lisse et par l’anticorps anti-desmine muscle lisse. La négativité des cellules tumorales aux marqueurs épithéliaux a évoqué le diagnostic de carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a objectivé une volumineuse prostate en ligne droite, sans atteinte des parties molles adjacentes. L’étude anatomopathologique de la pièce opératoire a trouvé un carcinome infiltrant la graisse prostatique et prenant le contrôle de la vessie ; des lésions nodulaires peu différenciées bordées par des collatérales fibro-hémorragiques sans signes de métastase ni d’extension locorégionale.
+
+Le traitement a consisté à une cystoprostatectomie avec anastomose continente urétéro-rectale, emportant le rein droit et une uretérectomie totale ( Figure 5 ).
+
+L'évolution après 6 mois est favorable, avec un recul de 4 ans, sans signes de récidive locale ni de métastases à distance.
+
+Le patient est envoyé régulièrement au bloc opératoire pour uretérectomie totale en raison d'une sténose ( Figure 6 ).
+
+Un uretère continent a été posé.
+
+La parfaite tolérance du patient à cet uretère a permis de ne pas devoir refaire l'urétrectomie totale, et on espère ainsi éviter une autre intervention.
+
+### Response:
+Mr R. M, est un patient de 58 ans, sans antécédents pathologiques particuliers, qui s’est présenté aux urgences pour un diabète nouveau apparu 3 jours auparavant. L’examen clinique a trouvé une prostate indolore et bourgeonnante. Le dosage du PSA était normal à 0,7 ng/ml. Une prostatectomie transurétrale sous anesthésie générale a été réalisée. Le toucher rectal a trouvé une volumineuse prostate, dure et irrégulière. L’examen histologique et immuno-marquage par l’anticorps anti-cytokératine ont montré une positivité d’un grand nombre de cellules tumorales aux actines musculaires lisses. Le caractère mésenchymateux de ces cellules a été confirmé par les immuno-marquage par l’anticorps antiactine muscle lisse et par l’anticorps anti-desmine muscle lisse. La négativité des cellules tumorales aux marqueurs épithéliaux a évoqué le diagnostic de carcinome sarcomatoïde de la prostate. Le patient est en bon état général après 6 mois de recul.
+
+### Response:
+Mr S. K, est un patient de 65 ans, sans antécédents pathologiques particuliers, qui s’est présenté aux urgences pour une pollakiurie et une douleur lombaire de type inflammatoire. L’examen clinique a trouvé une prostate indolore et bourgeonnante. Le dosage du PSA était normal à 0,7 ng/ml. Une prostatectomie transurétrale sous anesthésie générale a été réalisée. Le toucher rectal a trouvé une volumineuse prostate, dure et irrégulière. L’examen histologique et immuno-marquage par l’anticorps anti-cytokératine ont montré une positivité d’un grand nombre de cellules tumorales aux actines musculaires lisses. Le caractère mésenchymateux de ces cellules a été confirmé par les immuno-marquage par l’anticorps antiactine muscle lisse et par l’anticorps anti-desmine muscle lisse. La négativité des cellules tumorales aux marqueurs épithéliaux a évoqué le diagnostic de carcinome sarcomatoïde de la prostate. Le patient est en bon état général après 6 mois de recul.
+
+### Response:
+Monsieur P. O, est un patient de 56 ans, sans antécédents pathologiques particuliers, qui s’est présenté aux urgences pour une pollakiurie et une dysurie associée à une dysurie. Le dosage du P

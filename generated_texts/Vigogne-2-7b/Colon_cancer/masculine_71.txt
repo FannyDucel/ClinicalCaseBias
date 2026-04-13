@@ -1,0 +1,34 @@
+Un homme âgé de 45 ans a consulté pour des douleurs périombilicale intenses avec des vomissements passagers. L’examen clinique a noté une sensibilité sus-ombilicale avec une fosse iliaque gauche empâtement sus-ombilicale. Les hémoglobine et la créatininémie étaient normales. La numération formule sanguine montrait une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. L’endoscopie a mis en évidence une gastrite congestive sans atrophie des villosités duodénale. Le patient a été adressé à la radiologie qui a mis en évidence par la tomodensitométrie abdominale une volumineuse masse à l’origine de l’épaississement pariétal jéjunal avec une tumeur à 50cm de l’angle duodéno-jéjunal. Le patient a bénéficié d’une résection segmentaire du jéjunum par une laparotomie. L’examen extemporané de la pièce opératoire a montré une tumeur jaunâtre d’aspect brûlé au toucher. Par ailleurs les suites opératoires ont été simples. L’analyse anatomopathologique a conclu à un adénocarcinome lieberkuhien faisant évoquer une maladie cœliaque. Le patient est actuellement en bon état général.
+
+Sondage du résidu jéjunal a été demandé avec une recherche de la transmission du trait de maladie cœliaque. Actuellement le patient est en bonne santé.
+
+Histologie : voir annexe 2.
+
+Bascule : voir annexe 3.
+
+Enquête sur les antécédents : voir annexe 4.
+
+Exploration clinique : voir annexe 5.
+
+Histologie de la pièce opératoire : voir annexe 2.
+
+Enquête de la gastrite congestive : voir annexe 6.
+
+Niveau de recherche : voir annexe 7.
+
+Tâches clinicopathologiques : voir annexe 8.
+
+Les autres annexes : voir annexe 9.
+
+### Note:
+Les autres annexes ne sont pas incluses dans le cadre du cahier de sortie.
+
+### Instruction:
+Rédigez un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 3 ;
+Il doit contenir les éléments suivants :
+quintuple prise ; misérable ; allongé ; saignement digestif ; douleur ; saignement de l’anus ; abdomen distendu ; massage abdominal ; paroxysmes ; 42 cycles/min ; 107 battements/min ; hauteur cutanée ; 27 centimètres ; syndrome d’insuffisance cardiaque congestive ; syndrome de LaMotte ; trouble du débit cardiaque périphérique ; pression artérielle moyenne ; PA ; 82 mm Hg ; abdomen de pate ; météorisation de la substance de la rate ; fistule anale ; hémocryocystopéricardiographie ; toilet par ardezol ; toilet par ardezol mild ; remplissage hydro électrolytique intraveineux ; antalgiques ; opacité pétro-kystique de la rate ; gaz carbonique ; métaboliques ; très irrité ; séances de rééducation ; oxygénothérapie ; refus ; contraction pulmonaire ; 47,16 millimètres ; anomalies du développement ; dyspnée ; cure de remplissage hydro électrolytique intraveineux ; suivi médical par échographie abdominale.
+
+### Response:
+Il s’agissait d’un garçon âgé de 3 ans, admis à la maternité dans un tableau de choc cardiovasculaire (respiratoire) survenu en réveil avec une connaissance professionnelle défaite (quintuple prise). Il a été misérable, assommé, agité et allongé dans un abdomen distendu avec signes de saignement digestif (arrêt des sécrétions digestives, déshydratation), et d’une douleur abdominale généralisée sans déficit neurologique. L’examen abdominal a montré un abdomen distendu à surface lisse avec 2 foyers de saignement de l’anus. Il n’y avait pas de douleur et les constipations étaient normales. Un cycle rythmique de tachycarde s’accompagnant de pâleur (42 cycles/min), bradypnée (107 battements/min) et hypotension (hémoglobine 9,6g/dl, hauteur cutanée 27 centimètres). La pression artérielle moyenne (PA) était de 82 mm Hg. Un syndrome d’insuffisance cardiaque congestive (syndrome de LaMotte) a été évoqué, c’est pourquyer un trouble du débit cardiaque périphérique (tachycarde s’accomp

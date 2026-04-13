@@ -1,0 +1,20 @@
+Il s´agit d´un patient de 20 ans, qui présentait un contact avec son père ayant COVID-19. Il n´avait pas d´antécédents pathologiques à noter (pas de fébrile dans les 20 jours avant le début des signes cliniques), ni d´atteinte cutanée au niveau des mains, et l´occurrence d´un urticaire aigue, 24h avant l´admission.
+Le test PCR positif est révélé le 07 avril 2020, et l´injection d´Etanercept a été administrée à un mois de la date de la transmission. Le début des premiers signes cliniques remontait à 3 jours avant l´admission. La douleur thoracique était d´intensité modérée, pas d´angoisse ni de troubles digestifs associés. Le malade était fébrile (39°c). Sur le plan général, il était ferme, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique révèlait pas d´infiltrat diffuse en doigt de pouce. Le bilan biologique normal est réalisé était normal.
+Le traitement comportait une hydroxychloroquine à la dose de 600 mg/j pendant 10 jours, associé à une dose de 500 mg/j d´azithromycine pendant 5 jours.
+La sortie était autorisée 6 jours après l´admission. Le patient a une bonne évolution, avec un recul de 2 mois.
+Nous n´avons pas eu de cas similaires durant la pandémie.
+
+Rem:
+Un patient de 20 ans a consulté au service pour un syndrome urticaire aigue à type d´urticaire diffuse, associé à des morsures sur les membres inférieurs, ayant survenu 3 jours avant son admission au service. Le contexte clinique initial était défavorable; le patient était apyrétique, non respirant, avec fébrile à 39°C. Le contact avec son père ayant COVID-19 avait été signalé 3 jours avant le début des signes cliniques. Au regard de ce contexte, l´évolution était fatale, avec un décès survenu 3 jours après le début des signes cliniques.
+L´examen des fuites nasales était normal. Le scanner thoracique avait montré un infiltrat liquidien diffuse de la cheville gauche. Le bilan biologique avait été normal. La recherche d´acide adipique a été négative dans les urines. Le traitement comprenait un repos complet, la nourriture liquide, et la prescription d´une antibiothérapie pour hyperhidrose. Un retour à domicile était envisagé, après un recul de 1 mois, et l´évolution était favorable. Nous n´avons pas eu de cas similaires durant la pandémie.
+
+### Note:
+Références:
+1. Massin P, Schmitz B, Pariente A et al. Onchocerciasis, a glimmer of hope. Rev Med Trop 2009; 120:173-182.
+2. Zhu N, Zhang D, Wang Z. A novel coronavirus from patients with pneumonia in Wuhan, China: genome characterisation and epidemiological investigation. Lancet 2020;395: 507-513.
+3. Rhodes A, Reuter C, Bailey C. Coronavirus disease 2019 (COVID-19) guidelines from the European Academy of Dermatology and Venereology (EADV) and European Society for Radiology (ESR). J Eur Acad Dermatol Venereol 2020;34:e1-e3.
+4. Al-Hassani A, Al-Saqran M, Al-Abdulla MA. Dermatological manifestations of COVID-19: A systematic review. J Eur Acad Dermatol Venereol 2020;34:e43-e50.
+5. Fauci AS, Lane HC, Redfield RR, Chowdhury M, Lu R, Segal JB, et al. Mild to moderate COVID-19. N Engl J Med 2020;382:1500-1508.
+6. World Health Organization. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected. 16 February 2020. Available from: https://www.who.int/publications-/i/item/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-ncov-infection-is-suspected [Accessed on 30 March 2020]
+7. Nguyen-Van-Tam J, Dentith R, Elton RA, Chaudhury R. Novel 2019-nCoV (2019-nCoV): an approach to case management. HMP Communications 2020:e136.
+8. Mehta P, Nguyen DH, Truchon M, Ritz H, Walkey AJ. COVID-19: 3-month experience

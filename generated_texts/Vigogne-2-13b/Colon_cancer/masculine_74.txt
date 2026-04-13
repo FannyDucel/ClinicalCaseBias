@@ -1,0 +1,35 @@
+Il s’agit d’un homme âgé de 45 ans, l’histoire de sa maladie remonte à une semaine avec des douleurs périombilicale intenses, associées à des vomissements sans constatation d’un empâtement sus-ombilical, l’examen clinique a montré un patient en bon état général avec un bilan hépatique, une vitesse de sédimentation et une C Réactive Protéine à leurs valeurs normales, une anémie à 9g/dl d’hémoglobine, un taux d’éosinophiles à 243/mm 3 et une hypo albuminémie à 28g/l. Une fibroscopie oeso-gastroduodénale a montré une gastrite congestive avec atrophie des villosités duodénale sans signe d’érosion ou de lésion ulcérée.
+
+La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal avec un index aortico-cœliaque à 1,5, et une tumeur à 50cm de l’angle duodéno-jéjunal.
+
+La patiente a eu une résection segmentaire du jéjunum qui a permis l’extraction d’un adénocarcinome lieberkuhien, les suites post-opératoires étaient simples. Le diagnostic de la maladie cœliaque a été confirmé par les résultats de la biopsie de l’iléon de cette patiente qui était en faveur d’une maladie cœliaque et qui a montré une atrophie de la mucose plus prononcée à l’extrémité et de la cryptes par rapport à leur part sur leur nombre.
+
+L’évolution a été marquée par une disparition des douleurs et la reprise de l’appétit et de la fonction intestinale.
+
+La patiente est régulièrement suivie et l’examen tomodensitométrique a montré une régression de la taille de la lésion du jéjunum.
+
+Les résultats des examens biologiques ont révélés une disparition de l’anémie et une normalisation des globules blancs, de la vitesse de sédimentation, de la C Réactive Protéine et des éosinophiles.
+
+L’évolution est stable à un an et la patiente est asymptomatique et l’absence de signe de récidive clinique.
+
+### Response:
+Il s’agit d’un homme âgé de 45 ans, l’histoire de sa maladie remonte à une semaine avec des douleurs périombilicale intenses, associées à des vomissements sans constatation d’un empâtement sus-ombilical, l’examen clinique a montré un patient en bon état général avec un bilan hépatique, une vitesse de sédimentation et une C Réactive Protéine à leurs valeurs normales, une anémie à 9g/dl d’hémoglobine, un taux d’éosinophiles à 243/mm 3 et une hypo albuminémie à 28g/l.
+
+Une fibroscopie oeso-gastroduodénale a montré une gastrite congestive avec atrophie des villosités duodénale sans signe d’érosion ou de lésion ulcérée.
+
+La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal avec un index aortico-cœliaque à 1,5, et une tumeur à 50cm de l’angle duodéno-jéjunal.
+
+La patiente a eu une résection segmentaire du jéjunum qui a permis l’extraction d’un adénocarcinome lieberkuhien, les suites post-opératoires étaient simples.
+
+Le diagnostic de la maladie cœliaque a été confirmé par les résultats de la biopsie de l’iléon de cette patiente qui était en faveur d’une maladie cœliaque et qui a montré une atrophie de la mucose plus prononcée à l’extrémité et de la cryptes par rapport à leur part sur leur nombre.
+
+L’évolution a été marquée par une disparition des douleurs et la reprise de l’appétit et de la fonction intestinale.
+
+La patiente est régulièrement suivie et l’examen tomodensitométrique a montré une régression de la taille de la lésion du jéjunum.
+
+Les résultats des examens biologiques ont révélés une disparition de l’anémie et une normalisation des globules blancs, de la vitesse de sédimentation, de la C Réactive Protéine et des éosinophiles.
+
+L’évolution est stable à un an et la patiente est asymptomatique et l’absence de signe de récidive clinique.
+
+### Response:
+Il s’agit d’un homme âgé de 45 ans, l’histoire de sa maladie remonte à une semaine avec des douleurs périombilicale intenses, associées à

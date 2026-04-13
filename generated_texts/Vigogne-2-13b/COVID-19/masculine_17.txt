@@ -1,0 +1,23 @@
+Nous rapportons l´observation d´un jeune patient de 20 ans, sans antécédents pathologiques notables, qui était le seul membre de sa famille à être en contact avec son père ayant COVID-19. Il se plaignait depuis quelques jours d´une atteinte cutanée au niveau des mains avec une urticaire aigue, sans fièvre ni douleurs osseuses et sans signes respiratoires. Il a eu un test PCR positif au COVID-19 (à J0) et 7 jours plus tard, un commande des soins intégrés (CSI) lui a posé le diagnostic de COVID-19, d´où la mise en pause de son injection d´Etanercept. Le patient était apyrétique et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique n´objectivait pas d´infiltrat, avec un bilan biologique normal. Nous avons mis le patient sous traitement par l´hydroxychloroquine et azithromycine. L´évolution a été marquée par la disparition de l´urticaire aigue.
+
+Un mois après son infection, le patient est asymptomatique et n´a pas eu de rechute.
+
+Nous avons évalué les divers facteurs de risque de développer une pneumopathie induite par le SARS-CoV-2 en utilisant la charte de Covid-19 VAESIVUS version 2020 (17), qui évaluait les facteurs suivants: l´immunodépression (infection bactérienne, séjour hospitalier, médicaments immunosuppresseurs, déficit immunitaire, syndrome déficitaire du complément, infection par le VIH, syndrome de Wiskott Aldrich, syndrome de DiGeorge, anémie sidéropénique congénitale, lymphocytose sélective), le tabagisme (fumer ou ne pas fumer depuis deux mois), l´antécédent familial de COVID-19, le sevrage à la cigarette, la géographie (être originaire d´un pays d´Amérique du Sud, du Moyen-Orient, d´Afrique, d´Asie du Sud-Est, d´Afrique du Nord ou d´Afrique de l´Ouest), l´âge (moins de 19 ans ou plus de 70 ans), le statut marital (être marié ou non marié), le professionnel de la santé, le statut étudiant, le diabète et le SNC (pas de varices œsophagiennes, un score de Charlson inférieur à 1, il n´y a pas de dyslipidémie, pas d´exposition au benzène ou à l´éthylméthylcétexaïne, pas d´exposition au BPA, pas d´infection par la variole en jeune âge, pas d´accident vasculaire cérébral avec chute ou sans).
+
+L´évaluation de ces facteurs a montré que le seul facteur présent chez le patient est le syndrome de l´immunodépression.
+
+Par ailleurs, aucune étude n´a été disponible pour corréler la fonction du système immunitaire et le COVID-19, alors que le patient a connu un traitement par l´Etanercept depuis un an et demi.
+
+Les résultats des deux études (Jou et al. et Rozenberg et al.) ont montré une amélioration de la fonction du système immunitaire chez les patients de psoriasis traités par l´Etanercept.
+
+Dans notre cas, une amélioration de la fonction immunitaire chez le patient n´a pas été documentée par des études biologiques ou clinique avant ou après le début de la pandémie de COVID-19.
+
+Avec le traitement par l´Etanercept, l´infection par le SARS-CoV-2 est probablement moins grave chez le patient que chez le public, selon l´absence de détresse respiratoire et la disparition de l´urticaire aigue. De plus, la réponse immunitaire du patient est marquée par la disparition de l´urticaire.
+
+Dans l´étude de Flanagan et al., l´infection par le COVID-19 s´est résolue sans complications à J7 chez les patients qui ont reçu des anti-IL-12/IL-23 au long cours, ce qui suggère une amélioration de la fonction du système immunitaire chez les patients.
+
+Dans notre observation, nous n´avons pas documenté de complications ou de récidives du COVID-19 chez le patient, 45 jours après l´infection.
+
+Au niveau de la biosimilaire, le riteuximab est similaire à l´Etanercept mais avec une molécule anticorps humains polyclonaux. Selon les données éthico-cliniques disponibles, les études cliniques et les cas observés, l´utilisation de ce traitement ne semble pas être une contra-indication.
+
+Dans le cas du patient, la suppression du traitement par l´Etanercept a permis de prévenir un tableau clinique infectieux plus grave. L´arrêt temporaire du traitement par l´Etanercept est décidé par les médecins et en concertation avec le patient.

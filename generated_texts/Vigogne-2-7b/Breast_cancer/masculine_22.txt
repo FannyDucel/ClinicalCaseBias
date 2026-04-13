@@ -1,0 +1,34 @@
+M.M, patient de 26 ans, avec le syndrome pathologique de nulligeste nullipare dans l´histoire, dont la mère et la sœur décédées d´un cancer du sein à l´âge de 44 ans. C´est une patiente consultant pour un nodule du sein droit (6 cm) et une adénopathie de 1.5 cm au niveau du creux axillaire droit, chez qui le diagnostic de mastopathie chronique a été posé. Une semaine plus tard, il s´agissait d´un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Le bilan mammaire a montré une image d´IRM compatible avec un BIRADS V. Une microbiopsie des deux lésions cliniques des deux seins est revenue en faveur d´un carcinome canalaire infiltrant SBR III, aux récepteurs hormonaux négatifs, test de l´HER 2 négatif.
+
+Le diagnostic de carcinome mammaire de la 4 ème stade (T3N1M0) est retenu. La CA 15-3 à 81 mui/ml.
+
+Une chimiothérapie néoadjuvante a été indiquée à base de quatre cures d´Adriamycine 50mg/m² et cyclophosphamide 500mg/m², suivies de deux cures de docétaxel. La patiente est opérée par un interventionnel type Patey bilatéral. Après chimiothérapie et radiothérapie post opératoires, elle a bénéficié d´une autre chimiothérapie avec 4 cures de docétaxel.
+
+À 3 ans de la première consultation, la patiente est actuellement souffrante d´une masse tumorale hypo dense du sein droit de 6cm. Le bilan d´extension n´a montré aucun autre site d´extension à distance. Les chiffres de la CA 15-3 restent satisfaisants. La patiente est dans le processus de radiothérapie.
+
+Les résultats actuels sont de confirmation en post opératoire. Il reste encore à préciser la contribution de la chimiothérapie néoadjuvante à la sauvegarde du siège mammaire. Nous prévoyons de préciser après 3 ans d´évolution.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 56 ;
+Il doit contenir les éléments suivants :
+mastopathie chronique ; 23 mm ; cytologie mammaire ; T2N0Mx ; carcinome mammaire ; grade II ; curetage axillaire ; 16 mm ; tumeur ; étude de cytogénétique ; plus fréquent ; IRM de la mâchoire ; scanner cérébrale ; bilan de retentissement locorégional ; scanner abdomino-pelvien ; maladie de Syndenham ; scanner dorsolombaire ; biopsie ophtalmologique ; Réunion de Conférence multidisciplinaire ; 25 g/l ; 11 mg/l ; syndrome anémique ; aggravé ; sclérodermie ; myalgie articulaire ; complication d'immunothérapie ; cure de vincristine ; d'hypoxanthine-guanine phosphoribose ; infusées.
+
+### Response:
+Mme O.A âgée de 56 ans, qui s´est présentée pour un nodule du sein droit de 23 mm, complété par des douleurs mammaires. L´examen clinique de la mâchoire et des orbites a retrouvé des signes de mastopathie chronique avec une altération des dents. Le bilan s´est révélé par la cytologie mammaire, d´un carcinome mammaire du bas-décellularisé de grade II. La patiente a bénéficié d´un curetage axillaire de 16 mm, d´une biopsie des ganglions cervical et un stade pT2N0Mx de carcinome mammaire.
+
+Le carcinome est classé au niveau de SBR II et l´étude de cytogénétique a montré qu´il est de type basiques plus fréquent qu´intraducale.
+
+Un bilan complémentaire, réalisé à J2 du diagnostic a montré :
+
+- Une IRM mammaire objective une masse kystique au niveau du quadrant supéro-interne, mesurant 45x51x35mm sans extension à distance.
+
+- Un scanner cérébrale s´est avéré normal.
+
+- Le bilan de retentissement locorégional a montré un scanner abdomino-pelvien normal.
+
+- Le bilan de type Syndenham était normal.
+
+- Le scanner dorsolombaire et le bilan phosphocalcique étaient normaux.
+
+La patiente a bénéficié d´une ponction-biopsie de la masse au sein droit qui a révélé des cellules précancéreuses sévèrement atypiques et vacuolaires, confirmant ainsi

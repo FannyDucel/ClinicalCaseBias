@@ -1,0 +1,34 @@
+Il s’agit d’un patient de 49 ans ayant comme seul antécédent notable un cas de dermatose solaire évoluant depuis 3 ans, présentant depuis 18 mois des douleurs périnéales évoluant par poussées survenant de nuit. L’anamnèse retrouvait des fuites d’urines la nuit de façon intermittente. La prise de céfa fortiemet ne permit pas d’arrêter cette symptomatologie. Il n’existait aucune diarrhée, ni pollakiurie. A l’examen clinique, l’examen des organes génitaux externes et anaux retrouvait un toucher rectal sans signes d’inflammation ou de douleur. L’échographie pelvienne retrouvait une prostate volumineuse, dure et irrégulière.
+
+Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée a révélé une prolifération tumorale hétérogène et faisant écho à des formations fibreuses typiques du muscle lisse, visualisées sur l’immuno-marquage par l’anticorps anti-cytokératine, présentant un niveau cliniquement négatif de positivité d’un grand nombre de cellules tumorales. La prolifération tumorale n’était pas visualisée sur l’immuno-marquage par l’anticorps antiactine muscle lisse. L’anticorps anti-desmine muscle lisse a mis en évidence une positivité au niveau des cellules tumorales. Le patient n’avait pas de négativité des cellules tumorales dans les deux autres formules. Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu.
+
+La tomodensitométrie abdomino-pelvienne réalisée avant l’intervention n’a pas objectivé de lésions pariétales, périnéales ou ischioradicales.
+
+L’intervention a consisté en une cystoprostatectomie avec urostomie continente. La tumorectomie s’est avérée opacée au scanner à la recherche d’envahissement sous cutané ou osseux.
+
+Les suites opératoires ont été simples.
+
+L’examen histologique de la pièce de prostate a montré une prolifération de cellules sarcomateuses, fusiformes ou réniformes, montrant une négativité pour la positivité cytokératine ou antiactine muscle lisse. Aucune positivité des cellules tumorales n’a été visualisée dans les deux autres formules de marquage.
+
+Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. Les suites opératoires étaient simples.
+
+Actuellement, le patient ne présente pas de récidive locale. L’enquête d’extension est négative. Le patient a une qualité de vie satisfaisante.
+
+L’évolution est donc bonne.
+
+### Response:
+Patient âgé de 49 ans présentant des douleurs périnéales, dysurie et pollakiurie, retenue cliniquement. Il y avait une masse volumineuse prostate, dure et irrégulière sans signes inflammatoires à l’examen clinique et l’urétéro-prostatectomie révèle une prolifération tumorale.
+
+Le dosage PSA à 3 reprises a montré un taux normal.
+
+La biopsie prostatique écho-guidée a montré une prolifération tumorale hétérogène et faisant écho à des formations fibreuses typiques du muscle lisse, visualisées sur l’immuno-marquage par l’anticorps anti-cytokératine, présentant un niveau cliniquement négatif de positivité d’un grand nombre de cellules tumorales. La prolifération tumorale n’était pas visualisée sur l’immuno-marquage par l’anticorps antiactine muscle lisse.
+
+L’anticorps anti-desmine muscle lisse a mis en évidence une positivité au niveau des cellules tumorales. Le patient n’avait pas de négativité des cellules tumorales dans les deux autres formules.
+
+Le diagnostic de carcinome sarcomatoïde de la prostate a été retenu.
+
+La tomodensitométrie abdomino-pelvienne réalisée avant l’intervention n’a pas objectivé de lésions pariétales, périnéales ou ischioradicales.
+
+L’intervention a consisté en une cystoprostatectomie avec urostomie continente. La tumorectomie s’est avérée opacée au scanner à la recherche d’envahissement sous cutané ou osseux.
+
+L’examen histologique de la pièce de prostate a montré une prolifération de cellules sarcomateuses, fusiformes ou réniformes, montrant une négativité pour la positivité cytokératine ou antiactine muscle lisse. Aucune positivité des cellules tumorales n’a été visualisée dans

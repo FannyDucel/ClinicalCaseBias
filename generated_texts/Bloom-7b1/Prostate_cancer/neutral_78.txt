@@ -1,0 +1,39 @@
+Le patient est un homme de 49 ans, sans antécédents pathologiques notables, qui a consulté pour des douleurs périnéales irradiant vers la région lombaire gauches et de dysurie et pollakiurie évoluant depuis 2 mois.
+
+L'examen clinique a trouvé un patient en bon état général, apyrétique avec un toucher rectal qui a mis en évidence une volumineuse prostate, dure et irrégulière.
+
+Le dosage PSA à 3 reprises a montré un taux normal et un bilan d'extension par un scanner et une scintigraphie n'a pas montré de localisations secondaires.
+
+Une biopsie prostatique écho-guidée a montré que la quasi totalité des cellules tumorales (cellules à noyaux hyperchromatiques et à chromatine non condensée) présente un immuno-marquage par l'anticorps anti-cytokératine et une majorité présente un immuno-marquage par l'anticorps anti actine muscle lisse.
+
+L'étude immunohistochimique ne mettait pas en évidence de cellules tumorales immuno-positives pour les anticorps anti-desmine muscle lisse. Les cellules tumorales ont été systématiquement immunonégatives.
+
+Le diagnostic retenu était celui d'un carcinome sarcomatoïde de la prostate. Un bilan d'extension à type de scanner et de scintigraphie ne retrouvait pas de localisations secondaires.
+
+Sur le plan chirurgical, le patient avait un score ASA 1, la prise en charge a été effectuée sous anesthésie générale en janvier 2007.
+
+Une cystoprostatectomie avec urostomie continente a été réalisée avec une bonne évolution à 3 mois.
+
+Le patient est toujours suivi au service et il a un recul de 3 ans avec un bon recul.
+Les données cliniques, biologiques et histologiques de notre cas sont les suivantes:
+
+L'âge au moment du diagnostic est de 49 ans, le délai écoulé entre le début des symptômes et le diagnostic est de 4 mois, le taux de PSA était normal à 3 reprises à 0,8ng/ml, la biopsie prostatique écho-guidée a montré que la quasi totalité des cellules tumorales (cellules à noyaux hyperchromatiques et à chromatine non condensée) présente un immuno-marquage par l'anticorps anti-cytokératine et une majorité présente un immuno-marquage par l'anticorps anti actine muscle lisse. Le diagnostic retenu est celui d'un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne de contrôle après un an n'a pas retrouvé de localisations secondaires.
+Les suites opératoires immédiates ont été simples, le patient est actuellement suivi au service avec un recul de 3 ans sans récidive ni localisations secondaires décelées à la tomodensitométrie et la scintigraphie abdomino-pelvienne.
+Il est toutefois important de faire état du fait que la localisation secondaire la plus fréquente (40 à 70%) à savoir les os a été révélée à la tomodensitométrie en cas de chirurgie et aux scintigraphies sans toutefois leur conférer un caractère systématique.
+Il ne doit pas être occulté non plus le fait que certains auteurs ont rapporté que des localisations secondaires pulmonaires ont été observées dans les suites de la chirurgie sur un patient présentant un carcinome sarcomatoïde de la prostate. Une localisation secondaire pulmonaire a été également retrouvée dans les suites d'une radiothérapie chez un patient présentant une localisation primaire dans la région rétropéritonéale, cela a été confirmé ultérieurement histologiquement. Ces deux cas cliniques, retrouvés dans la littérature ont donné lieu à l'hypothèse que les carcinomes sarcomatoïdes de la prostate puissent se développer dans les suites d'un traitement hormonal de la prostate, surtout chez le patient jeune qui présente une incidence clinique nulle.
+On ne doit pas non plus exclure la possibilité qu'il puisse s'agir de carcinomes sarcomatoïdes de la prostate spontanés avec l'évolution de la maladie dans les suites d'un suivi classique de la maladie.
+La chirurgie a été réalisée sous anesthésie générale, une attitude prudente est actuellement préconisée en raison du caractère agressif de cette tumeur et d'une notion de mauvais pronostic en ce qui concerne la survie.
+Le délai médian entre le début des symptômes et la date du décès était de 12 mois.
+Le fait qu'il s'agisse d'une tumeur si agressive et à si mauvais pronostic ne permet malheureusement pas de savoir si les douleurs périnéales ont pu être la conséquence des localisations secondaires au niveau osseux ou si elles avaient au contraire un caractère prostatique.
+Il ne doit pas être occulté non plus que certains auteurs ont rapporté que des localisations secondaires pulmonaires ont été observées dans les suites de la chirurgie sur un patient présentant un carcinome sarcomatoïde de la prostate. Une localisation secondaire pulmonaire a été également retrouvée dans les suites d'une radiothérapie chez un patient présentant une localisation primaire dans la région rétropéritonéale, cela a été confirmé ultérieurement histologiquement. Ces deux cas cliniques, retrouvés dans la littérature ont donné lieu à l'hypothèse que les carcinomes sarcomatoïdes de la prostate puissent se développer dans les suites d'un traitement hormonal de la prostate, surtout chez le patient jeune qui présente une incidence clinique nulle.
+On ne doit pas non plus exclure la possibilité qu'il puisse s'agir de carcinomes sarcomatoïdes de la prostate spontanés avec l'évolution de la maladie dans les suites d'un suivi classique de la maladie.
+La survie globale du patient était de 33% et de 0% à 3 ans. Ceci ne permet malheureusement pas de savoir s'il y a eu récidive locale, métastase locale ou dissémination locorégionale du carcinome sarcomatoïde de la prostate.
+Il est ainsi recommandé au malade de recourir à une surveillance active en raison du mauvais pronostic mais surtout du fait que les localisations secondaires osseuses ne sont pas rares et en raison des risques iatrogènes de l'opération sur la fonction respiratoire.
+Nous proposons en outre de faire un suivi clinique régulier de nos malades, la surveillance pourrait aussi être radiologique.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 25 ;
+Il doit contenir les éléments suivants :
+cancer du sein ; douleurs épigastriques gauches irradiantes ; 36,4 C° ; examen clinique des aires ganglionnaires ;

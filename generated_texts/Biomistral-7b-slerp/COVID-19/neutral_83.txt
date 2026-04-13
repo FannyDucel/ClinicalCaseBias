@@ -1,0 +1,21 @@
+Enfant de 20 ans, sans antécédent pathologique notable, avait fait un contact avec son père ayant COVID-19 confirmé par un test PCR positif et présentant une atteinte cutanée au niveau des mains avec un urticaire aigue.
+
+Le bilan a objectivé un test PCR positif, une CRP 15mg/l, une radiographie thoracique normale. Il était apyrétique, sans détresse respidatoire ni hémodynamique et la tomodensitométrie thoracique n´a pas montré de plage d´infiltration ni de nodule à type de bourgeon. Le bilan biologique était normal, ce qui a justifié la prescription de l´hydroxychloroquine associé à l´azithromycine pour une durée de 5 jours. L´évolution était favorable avec une disparition de la symptomatologie cutanée après 2 jours d´antibiothérapie.
+
+Le contact avec son père ayant COVID-19 aurait amené au développement de l’urticaire aigue chez l’enfant. Un traitement à base d’injection d´Etanercept, un anticorps monoclonal humanisé, dirigé contre le récepteur de la TNF alpha, a été administré en haute dose (20mg). L’enfant a rapidement réduit les lésions cutanées avec un recul de 5 jours.
+
+A ce jour, il n’existe pas de recommandations spécifiques concernant le traitement de l’urticaire aigue dans la COVID-19. L’expertise clinique est souvent nécessaire dans cette décision. Les cas de rencontre entre ces deux pathologies faisaient plutôt face à des urticarias idiopathiques associées à la COVID-19 et sont traités avec des corticoïdes topiques ou per os.
+
+Nous avons décrit ici l’interprétation clinique d’une atteinte cutanée aigue associée à une COVID-19 qui n’a pas été rapportée dans la littérature. Il faut savoir que le traitement du urticare aigu lié à la COVID-19 peut comprendre l’usage d’hydroxychloroquine, de corticoïdes topiques ou de l’injection d´Etanercept pour les patients présentsant une symptomatologie de grade I de la NHIAEC (National Health Insurance Administration of China) ou de grade II de la COCID (Centers for Disease Control and Prevention).
+
+Une deuxième survenue de urticaire a été rapportée chez l’enfant quelques jours plus tard, après avoir épuisé ses congés d’école, c’est-à-dire de 10 jours.
+
+Le présent cas illustre l’intérêt de l’usage d’Etanercept dans l’urticaire aigu lié à la COVID-19 associée à des surdens. Cette molécule est à l’étude pour son éventuel emploi contre la COVID-19. En effet, dans une étude préliminaire sur les données de patents publiées, les auteurs affirment que l’usage d’Etanercept pourrait être considéré comme une stratégie de prévention dans la COVID-19, notamment chez les patients ayant des facteurs de risque. Néanmoins, une étude thématique effectuée sur une population d’adultes ayant des facteurs de risque en Egypte n’a pas donné d’indication pour l’usage d’Etanercept dans la COVID-19. L’application de cette molécule à la COVID-19 est actuellement le sujet de plusieurs essais cliniques effectués dans le monde.
+
+A titre d’hypothèse, l’injection d’Etanercept a pu provoquer l’atténuation de l’inflammation cutanée associée à la COVID-19 et ainsi l’aggravation du tableau de la COVID-19. Il pourrait s’agir d’une double infection causée par l’hydroxychloroquine et le listeria mais cette dernière étape reste hypothétique.
+
+La découverte de ces hypothèses dans l’enfant devrait permettre l’établissement d’une relation directe entre l’injection d´Etanercept et l’aggravation de la COVID-19, ce qui pourrait aider les chercheurs à trouver le chemin de la thérapie optimale et efficace pour la COVID-19.
+
+Nous ne pouvons pas conclure à une exacerbation de la COVID-19 liée à l’injection d´Etanercept dans cet enfant en raison de l’absence d’une surveillance clinique stricte après l’injection, ainsi que de la survenue du deuxième épisode d’urticaire après l’épuisement des congés d’école, un nombre insuffisant pour bien évaluer une possible relation causale entre l’injection d’Etanercept et la survenue de l’urticaire.
+
+Il faut cependant noter que le recul de cette découverte est actuellement trop court pour être considéré comme définitif, et l’étude d’autres cas pourrait soutenir les hypothèses ém

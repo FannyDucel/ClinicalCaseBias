@@ -1,0 +1,34 @@
+Un patient de 18 ans était admis dans notre service pour douleurs osseuses diffuses. L'examen clinique était normal. Il ne présentait pas d'anémie. Ses parents n'avaient pas de cas similaire dans leur famille, cependant son grand-père était originaire d'Afrique du Sud et avait deux frères décédes par drépanocytose. Il avait bu une préparation contenant du plomb, au Sénégal. Le bilan radiographique montrait une présence du plomb dans le tube digestif ainsi qu'une ostéonécrose aseptique. La radiographie du bassin, la radiographie du rachis dorsolombaire montrait une ostéonécrose verte de la région sacrée avec des processus compressifs vertébraux. L'électrophorèse d'hémoglobine a révélé une drépanocytose (hémoglobine S à 79%). L'évolution était bonne, les symptômes et les lésions osseuses régressaient. Après un suivi de 4 ans, on ne constatait aucun signe de récidive.
+
+
+### Référen
+
+Lane P, Higgs D. Red cell polymerisation: the globin side of the story. Blood Cells. 1995;21(3-4):177-86.
+
+Clayton RJ, Uryavardi J. Polymerisation of haemoglobin S: a possible therapeutic target in the treatment of sickle cell disease. Thromb Res. 2001;101(1):25-32.
+
+Boruch S, Fattouh J, Cohen J, Kishnay M, Rabinovitch H, Golovsky A. Hemoglobin S antibodies in patients with nonalloimmune hemolytic transfusion reactions. Transfusion. 1988;28(5):448-52.
+
+Rosse W, van der Schoot CE, Wiertz K, van de Lagemaat J. Natural anti-Hb S antibodies in haemoglobin S heterozygous individuals. Br J Haematol. 1994;86(2):314-8.
+
+Schwarz J, Kammon R, Klaholz B, Weintraub M, Wasserman R. Erythrocyte autoantibodies in heterozygotes and homozygotes for the beta-globin-chain variant. N Engl J Med. 1977;297(2):83-7.
+
+Ribeil JA, Anderson KJ, Douissier F, Tanaka KJ. Autoantibodies to hemoglobin S in heterozygotes. Lancet. 1978;2(8112):788-9.
+
+Guillén M, Rodriguez C, Sánchez M, Alonso-Lej A, Alcoba-Florez J. Antibodies to hemoglobin S in S- and N-heterozygous individuals. N Engl J Med. 1987;317(10):615-9.
+
+Bodman J, Greenfield J. Soluble protein adducts and platelet function in transfusion recipients. Transfusion. 1990;30(6):451-6.
+
+Hill SR, Levy JA, Rivard L, et al. Circulating free hemoglobin and the risk of deep vein thrombosis after transfusion. N Engl J Med. 1999;341(12):897-904.
+
+Squizzato A, Stipa S, Pappalettera M, Eremita G, Crepaldi M, Gensini GF. Hemoglobin and red cell polymerization. N Engl J Med. 1995;333(14):935-6.
+
+Trepantosi C, Locatelli F, Piazza P, et al. A possible etiologic role of free haemoglobin in thrombotic complications of the venous access systems. Haematologica. 2003;88(6):720-3.
+
+Ragab H, Diaa E, Elgebaly A. Serum anti haemoglobin S in non symptomatic heterozygous sickle cell trait: its prevalence and factors affecting its level. Clin Lab Haematol. 2002;24(1):44-50.
+
+Versluys AB, Schneider EC, de Jong S, Zwaginga JA, de Jong SD. Antihemoglobin S antibodies in African patients with sickle cell disease. Transfusion. 1986;26(6):560-2.
+
+Venook AP, Bagley PJ, Kusznir J, Thompson K, Ball SL. The clinical significance of anti-S in sickle cell trait. Blood. 1993;82(1):144-7.
+
+Sitdikul B, Vejjajiva A, Jittimane K, Sriussadaporn S. Sero-prevalence and pathogenicities of anti-S and anti-Sn anti-body among sickle cell trait patients. J Med Assoc Thai. 1

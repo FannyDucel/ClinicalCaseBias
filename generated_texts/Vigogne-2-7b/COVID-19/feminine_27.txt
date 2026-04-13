@@ -1,0 +1,42 @@
+Cas n°2: il s’agit d’une patiente de 20 ans, suivie pour une allergie depuis l’enfance, qui a été contaminée par son frère et son père ayant récemment contact avec son père ayant COVID-19. Une urticaire aigue a été notée au niveau des mains à la 4 e jour du début de l’exposure à l’urée.
+Le test PCR positif a été réalisé le 20/04/2020 et le traitement par injection d´Etanercept a été démarré le 24/04/2020. Devant la progression de l’urticaire aigue, l’examen physique était sans particularité: une patiente apyrétique, avec un état général non altéré sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique réalisé le 27/04/2020 était sans pas d´infiltrat. Le bilan biologique était normal. L’évolution de la patiente était bonne avec une évolution clinique et radiologique simples à la suite de l’introduction de l’hydroxychloroquine et de l’azithromycine.
+Nous déplorons cependant la difficulté de prise en charge des patients atteints de COVID-19, car l’administration de référence des deux traitements pharmacologiques utiles est difficile.
+
+Il convient de noter que les contacts, les soins médicaux et l’installation en domicile de nos patients ce sont des éléments à préciser.
+
+L’auto-intéressement des médecins en contact avec les patients est essentiel au succès des thérapeutiques.
+
+Par ailleurs, il serait intéressant d’évaluer l’efficacité des traitements par injection d’Etanercept, ainsi que la prise en charge des effets secondaires de cette dernière.
+
+Enfin, une surveillance clinique et biologique prolongée et de type de recherche de la COVID-19 est nécessaire pour des raisons de sécurité ainsi que des aspects socio-psychologiques.
+
+Nous ne devons pas se contenter d’accepter les résultats de tests « PCR » qui sont encore très problematiques.
+
+Les données biologiques de la recherche d’agent pathogène sont alors maîtrisées par l’analyse de tests de culture et d’immunocardiolocalisation.
+
+En dehors de ce qui est en cours d’apprentissage scientifique et de recherche, la clarté et la précision de nos données seront toujours fondées sur des critères propres et en accord avec les recommandations standard de recherche.
+
+Les protocoles mis en place pour le traitement des patients atteints de COVID-19 sont :
+- Calamine, protocole RP2058 (https://www.mhc-fr.net/fr/guidances/rg-2020-16.pdf)
+- Moxifloxacine, protocole RP2059 (https://www.mhc-fr.net/fr/guidances/rg-2020-17.pdf)
+- Baytropine et Corticosteroïdes, protocole RP2057 (https://www.mhc-fr.net/fr/guidances/rg-2020-14.pdf).
+
+La recherche d’un virus 5 niveaux de la chaîne des transferts fut rendue négative par PCR.
+
+Le test d´identification d´antigénes de la Covid19 par immuno-développement par Elisa, rendit les résultats négatifs.
+
+Le bilan immunologique d´antigénes péroxydasiques, d’antigènes viraux et de l’hémogramme furent effectués en l’absence de signes cliniques et l’analogique fonctionnel d’une allergie est normale.
+
+La recherche d´anticorps dans le sérum était négative et l’immunofluorescence indirecte est négative.
+
+La recherche par protéinases de l’acanthocytes (PA) de la maladie de l’urticaire du fœtus et de l’infection par le Coxiella burnetii était négative.
+
+La recherche d’anticorps dans le liquide des amas macrophagiques était négative.
+
+L’examen ophtalmologique réalisé au sein du réseau Orphanet (Nantes, France) n’a pas mis en évidence de lésions maculaires associées à un anti P-ANCA positif.
+
+Le test de Reinke au scanner cérébral ne montre aucun signe d’hypertrophie des 2 otolithes (Puériformes et Sacciformes).
+
+Les dernières données de la recherche à large champ sur les otolithes (COVID19 Enquêtes ; Relance otologique 2020 ; Contact l’Auditoire) n’ont pas permis de mettre en évidence d’otites virales observées chez des patients hospitalisés pour COVID19.
+
+Les dépistage de toute l’examen ophtalmologique (biométrie du regard, réséculées binoculaires, irradiations au pays de la lumière, visite de l’angle, recherche de ré

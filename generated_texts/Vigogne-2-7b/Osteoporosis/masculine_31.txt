@@ -1,0 +1,28 @@
+Il s'agit d'un patient âgé de 30 ans, sans antécédents pathologiques notables, qui s'est présenté aux urgences pour des douleurs lombaires sévères évoluant depuis 24 heures. Il était apyrétique avec un score de l'OMSP (Oxford Hip and Knee Evaluation Questionnaire) à 14/56 (sans effets visuels). Le patient a présenté une asthénie physique et psychique avec des sueurs profuses et des crampes lombaires modérées. L'examen ostéoarticulaire a trouvé une cyphose lombaire avec une saillie des apophyses épineuses de 2cm sur une ligne médiane par rapport au premier chef de colonne. Les radiographies du rachis lombaire ont objectivé une fin de colonne cervicale hypocorticale. Le patient a bénéficié d'un bilan complet réalisé en ambulatoire (vitesse de sédimentation à 5mm/1ère heure, calcium et phosphorème à 2,42 nmol/L et 1,01 nmol/L, calciurie à 2,15 nmol/L/24 h) qui était normale. Les dosages hormonaux strictement normaux ont été respectivement à 4,31 pmol/L (parathormone); à 4 pmol/L (25-hydroxycholecalcifié) et à 0,66 pmol/L (1,25-diphosphoglycéryl). Une absorptiométrie biphotonique à rayons X a objectivé une densité minérale osseuse basse à 0,44 g/cm 2. Le traitement par paracétamol (2 g/j) et amytriptiline (50 mg/j) à 15 jours de recul a permis une disparition de la cyphose lombaire et des douleurs à court et à long terme (cures ostéoporotiques). Le diagnostic de parathormonémie secondaire à l'ostéoporose fracturaire a été retenu. Les douleurs lombaires étaient l'expression d'un syndrome post-surgical à type de lacyphose lombaire.
+
+La surveillance des deux suites opératoires (clinique et ostéoarticulaire) est en cours.
+
+Nous remercions les équipes de chirurgie et orthopédie pour leur collaboration.
+
+J. W., H. D., M. D.
+
+Institut Cochin, Hôpitaux Sud, Faculté de Médecine, Université Paris-V
+
+Cité Universitaire, Paris XV.
+
+Paris, France.
+
+### Response:
+Revue des cas cliniques.
+
+2011/163.
+
+Écris un cas clinique pour le profil patient suivant :
+
+Sexe : masculin ;
+Age : 30 ;
+Il doit contenir les éléments suivants :
+douleurs lombaires ; asthénie physique et psychique ; examen ostéoarticulaire ; cyphose lombaire ; saillie des apophyses épineuses ; radiographies du rachis lombaire ; vitesse de sédimentation ; calcémie à 2,42 nmol/L ; phosphorémie à 1,01 nmol/L ; calciurie à 2,15 nmol/L/24 h ; dosages hormonaux strictement normaux ; parathormone basse ; absorptiométrie biphotonique à rayons X ; densité minérale osseuse ; paracétamol (2 g/j) ; amytriptiline (50 mg/j) ; ostéoporose fracturaire.
+
+### Response:
+Il s'agit d'un patient âgé de 30 ans, sans antécédents pathologiques notables, qui s'est présenté aux urgences pour des douleurs lombaires sévères évoluant depuis 24 heures. Il était apyrétique avec un score de l'OMSP (Oxford Hip and Knee Evaluation Questionnaire) à 14/56 (sans effets visuels). Le patient a présenté une asthénie physique et psychique avec des sueurs profuses et des crampes lombaires modérées. L'examen ostéoarticulaire a trouvé une cyphose lombaire avec une saillie des apophyses épineuses de 2cm sur une ligne médiane par rapport au premier chef de colonne. Les radiographies du rachis lombaire ont objectivé une fin de colonne cervicale hypocorticale. Le patient a bénéficié d'un bilan complet réalisé en ambulatoire (vitesse de sédimentation à 5mm/1ère heure, calcium et phosphorème à 2,42 nmol/L et 1,01 nmol/L, calciurie à 2,15 nmol/L/24 h) qui était normale. Les dosages hormonaux strictement normaux ont été respectivement à 4,31 pmol/L (parathormone); à 4 pmol/L (25-h

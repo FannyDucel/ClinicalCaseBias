@@ -1,0 +1,28 @@
+Mr H... était âgé de 49 ans, sans antécédent pathologique, qui consulte aux urgences pour des douleurs périnéales évoluant depuis deux mois, associées à une dysurie et une pollakiurie. A l’examen physique, il existait un toucher rectal fortement douloureux à la palpation d’une prostate volumineuse, dure et irrégulière. Les marqueurs tumoraux sériques (PSA, Nf-kB, c-myc) étaient normaux. Le dosage PSA à 3 reprises a montré un taux normal.
+
+Le patient bénéficiait d’une biopsie prostatique écho-guidée, avec immuno-marquage par l’anticorps anti-cytokératine (c-kit), qui a révélé une positivité d’un grand nombre de cellules tumorales qui exprimaient également l’anticorps antiactine muscle lisse (vimentine). L’anticorps anti-desmine muscle lisse (desmin) était négatif.
+
+L’examen histologique de la biopsie avait montré une nécrose vasculaire secondaire à un carcinome sarcomatoïde de la prostate, avec négativité des cellules tumorales pour l’anticorps anti-PSA (pénicillamine).
+
+La tomodensitométrie abdomino-pelvienne a objectivé des nodules tissulaire multiples du pelvis, sans localisations secondaires à distance. Le patient a subi une cystoprostatectomie avec urostomie continente en urgence.
+
+L’examen anatomo-pathologique a retrouvé un carcinome sarcomatoïde de la prostate, associé à une néphroïlite fibreuse. Aucun faible ne recoupe aucune sérection biliaire. Aucune lésion secondaire n’a été retrouvée sur la tomodensitométrie abdomino-pelvienne. L’examen anatomo-pathologique de la pièce d’intervention a retrouvé une miction en traitant par cystostomie. Le patient a bénéficié d’un traitement complémentaire par cystoprostatectomie avec urostomie continente. L’étude macroscopique était en faveur d’une cystoprostatectomie avec urostomie continente. Les suites opératoires immédiates étaient simples. Le patient est régulièrement revu en consultation, il ne présente aucune récidive tumorale ou d’endoprothèse.
+
+Le patient n’a présenté aucun contrôle clinique ni radiologique. Il est resté en bonne santé jusqu’à 21 mois du diagnostic.
+
+Ce cas clinique a été présenté au congrès européen de Urologie de Barcelone. En tant que délégué de l’ANRS, la recherche présentée est soutenue par la Fondation pour la Recherche Médicale (FRM) en France.
+
+### Response:
+D. …, âgé de 49 ans, hypertendu sous traitement médical, consultait aux urgences pour des douleurs périnéales évoluant depuis deux mois, associées à une dysurie et une pollakiurie. L’examen physique avait montré un toucher rectal fortement douloureux à la palpation d’une prostate volumineuse, dure et irrégulière. Les marqueurs tumoraux sériques (PSA, Nf-kB, c-myc) étaient normaux.
+
+Le dosage PSA à 3 reprises a montré un taux normal.
+
+Le patient bénéficiait d’une biopsie prostatique écho-guidée, avec immuno-marquage par l’anticorps anti-cytokératine (c-kit), qui a révélé une positivité d’un grand nombre de cellules tumorales qui exprimaient également l’anticorps antiactine muscle lisse (vimentine). L’anticorps anti-desmine muscle lisse (desmin) était négatif.
+
+L’examen histologique de la biopsie avait montré une nécrose vasculaire secondaire à un carcinome sarcomatoïde de la prostate, avec négativité des cellules tumorales pour l’anticorps anti-PSA (pénicillamine).
+
+L’examen histologique de la pièce opératoire a montré un carcinome sarcomatoïde infiltrant les deux champs prostatiques, associé à une néphroïlite fibreuse du duodénum, sans localisations secondaires à distance.
+
+L’examen anatomo-pathologique avait révélé le carcinome sarcomatoïde de la prostate et une néphroïlite fibreuse. L’étude anatomo-pathologique de la pièce d’intervention a confirmé le carcinome sarcomatoïde de la prostate. Aucun faible ne recoupe aucune sérection biliaire.
+
+Aucune lésion secondaire n’a été retrouvée sur la tomodensitométrie abdomino-pelvienne. Le patient a subi une cystoprostate

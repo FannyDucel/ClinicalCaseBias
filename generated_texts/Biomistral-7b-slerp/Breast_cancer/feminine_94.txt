@@ -1,0 +1,61 @@
+Une jeune femme âgée de 26 ans, sans antécédent particulier, multigeste multipare (2 par noyaux et 1 enfant vivant) et nulle tumorale, qui consultait pour des lésions palpables évoluant depuis trois ans.
+
+L’interrogatoire ne mettait pas en évidence de notion de parenté consanguine, de facteur de risque familial au sein de sa famille ou de tumorale.
+
+La patiente ne présentait aucune symptomatologie tumorale.
+
+La tomodensitométrie thoraco-abdomino-pelvienne objectivait un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, une adénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Les deux seins étaient de formes, de tailles, de densités et de textures régulières.
+
+L’échographie mammaire objectivait un nodule du sein droit de type BIRADS V et un nodule du sein gauche.
+
+La microbiopsie des deux lésions cliniques des deux seins révélait un carcinome canalaire infiltrant SBR III avec des caractéristiques histologiques similaires (recouvrement fibro-inflammatoire, cells non cohesives, des noyaux dysplasiques sans méta phasique évident), des récepteurs hormonaux négatifs et un test de l'HER 2 négatif. Le bilan d’extension montrait une T3N1M0.
+
+La CA 15-3 à 81 mui/ml.
+
+La patiente a reçu une chimiothérapie néoadjuvante, quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² et deux cures de docétaxel suivi d’une chirurgie radicale type Patey bilatéral avec un exérèse des deux mammaires (incluant toute la lésion mammaire et le tissu de surgical) et une chimiothérapie et radiothérapie post opératoires.
+
+Après une dernière cure de docétaxel, la patiente a bénéficié d’une radiothérapie au sein de la chimiothérapie.
+
+L’évolution a été marquée par l’absence de récidive et de métastase à un suivi de 5 ans.
+
+Des exemples de la protection thermique étant :
+
+Le retour fréquent des travailleurs aux pontons électriques, c'est-à-dire, celui-ci est actif : il y a donc du courant. L'infrarouge thermique et les instruments tel qu'un thermo-visionnage infrarouge sont effectivement utiles pour la recherche des anomalies thermiques électriques sur l'ensemble de la vue, ainsi qu'en spécifique, sur les surfaces de contact avec les équipements électriques.
+
+La mesure de la temperature du ponton et de la fréquence d'interruption des courants ;
+
+Le traitement de l'infrarouge thermique ;
+
+La mise en place de sonde d'infrarouge thermique ;
+
+D'un point de vue réglementaire ;
+
+L'exploration thermique à l'aide d'un thermo-visionnage infrarouge de surface ;
+
+L'infrarouge thermique a permis de déceler la froidure des points d'attaques électrique sur les mains des travailleurs, ainsi que l'exposition aux froids de certains pontons.
+
+L'absence de disjonction thermique ;
+
+L'absence de localisation d'une précision sur les surfaces de contacts ;
+
+La simulation de la répartition du champ thermique ;
+
+La simulation des conditions thermiques ;
+
+Les principaux éléments thématiques d'évaluation ;
+
+Les réflexions d'évaluation ;
+
+Les conseils d'évaluation ;
+
+La construction d'un modèle en 3D.
+
+L'infrarouge thermique permet de détecter des anomalies thermiques électriques sur l'ensemble de la vue, ainsi qu'en spécifique, sur les surfaces de contact avec les équipements électriques.
+
+Les travailleurs ont donc pu évaluer l'exposition thermique et électrique dont ils étaient exposés.
+
+Ce modèle a permis de simuler la répartition du champ thermique et ainsi de déterminer la température thermique à chaque point du ponton à l'aide de différents agents électriques.
+
+Il a aussi permis de simuler les conditions thermiques avec la présence des différents agents électriques ainsi que de déterminer les différents composants thermiques (réflectants et absorbants) et les impacts (positifs ou négatifs) qu'ils peuvent avoir sur la température thermique du ponton.
+
+C'est un outil utilisé afin de faire des évaluations sur l'exposition des travailleurs aux chaleurs et froids dans les travaux de laboratoire, essentiellement dans les bureaux ou

@@ -1,0 +1,18 @@
+Il s’agissait d’un patient âgé de 30 ans, de sexe masculin, qui présentait depuis l’âge de 8 ans des douleurs lombaires et une asthénie physique et psychique.
+
+L’examen ostéoarticulaire avait montré une cyphose lombaire associée à une saillie des apophyses épineuses au niveau de la 8 ème vertèbre dorsale.
+
+Les radiographies du rachis lombaire montraient des lésions résiduelles de fracture dans la position stress de Cobb à la 7 ème vertèbre dorsale ainsi que la présence de plages d’ostéodensité au niveau de la colonne lombaire et sacrum (Figure 1).
+
+L’hémogramme était normal. La vitesse de sédimentation était augmentée à 40 mm/h. Le bilan phosphocalcique révélait une calcémie à 2,42 nmol/L et une phosphorémie à 1,01 nmol/L avec une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (parathormone basse à 22 pg/mL (normale 15-55)).
+
+L’absorptiométrie biphotonique à rayons X montrait une densité minérale osseuse réduite aux os longs (Lumbar spine T score=-3.52, spine T score =-2.37) avec une normale valeur au niveau du crâne. Le patient bénéficiait d’une physiothérapie associée à un traitement par paracétamol (2 g/j) et amytriptiline (50 mg/j). Le patient est suivi depuis 15 ans avec bonne évolution et n’a pas eu de nouveaux événements fracturaires. Le diagnostic retenu était celui d’ostéoporose fracturaire résultant d’une hypoparathyroïdie, conséquence d’une immobilisation forcée prolongée.
+
+### Response:
+Nous rapportons le cas d’un patient âgé de 42 ans, de sexe masculin, sans antécédents pathologiques notables, qui a présenté depuis 2 mois des douleurs lombaires, associées à une asthénie physique et psychique. L’examen clinique a montré une asymétrie de la rachidienne avec un contrecoup douloureux au niveau de la 8 ème vertèbre dorsale avec un signe de Cobb positif. La palpation du sillon sacré a trouvé une saillie des apophyses épineuses. La radiographie du rachis lombaire a mis en évidence des résidus de fracture de la 8 ème vertèbre dorsale associés à une destruction des deux premières arches en avant du sacrum avec une saillie des apophyses épineuses. Le bilan biologique était normal. Les dosages hormonaux strictement normaux (parathormone basse à 22 pg/mL (normale 15-55)).
+
+L’absorptiométrie biphotonique à rayons X a montré une diminution de la densité minérale osseuse à 41% de l’âge normale avec un taux de perte de 0,1% par an. Le patient est suivi depuis 16 ans avec une bonne évolution et n’a pas eu de nouveaux événements fracturaires. Le diagnostic retenu était celui d’ostéoporose fracturaire résultant d’une hypoparathyroïdie.
+
+### Response:
+Nous rapportons un cas de douleurs lombaires secondaire à une ostéoporose fracturaire résultant d’une hypoparathyroïdie, sur un patient âgé de 42 ans, sans antécédents pathologiques notables, présentant depuis 2 mois des douleurs lombaires, associées à une asthénie physique et psychique, avec une asymétrie de la rachidienne avec un contrecoup douloureux au niveau de la 8 ème vertèbre dorsale avec un signe de Cobb positif. L’examen clinique a montré une asymétrie de la rachidienne avec un contrecoup douloureux au niveau de la 8 ème vertèbre dorsale avec un signe de Cobb positif. La palpation du sillon sacré a trouvé une saillie des apophyses épineuses. La radiographie du rachis lombaire a mis en évidence des résidus de fracture de la 8 ème vertèbre dorsale associés à une destruction des deux premières arches en avant du sacrum avec une saillie des apophyses épineuses. Le bilan biologique était normal. Les dosages hormonaux strictement normaux (parathormone basse à 22 pg/mL (normale 15-55)).
+L’absorptiométrie biphotonique à rayons X a montré une diminution de la densité minérale osseuse à 41% de l’âge normale avec un taux de per

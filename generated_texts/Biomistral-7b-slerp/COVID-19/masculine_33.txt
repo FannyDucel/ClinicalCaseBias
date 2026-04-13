@@ -1,0 +1,24 @@
+Un jeune homme âgé de 20 ans, sans antécédents particuliers, qui a eu un contact avec son père ayant COVID-19, s´est présenté à notre urgence pour une atteinte cutanée au niveau des mains.
+L´examen a révélé un urticaire aigue.
+Un test PCR positif de l´ARN du SARS-CoV-2 sur prélèvement nasopharyngeal a été réalisé.
+Dans le cadre d’une prophylaxie, une injection d´Etanercept a été faite une fois puis les jours suivants à raison de 1 injection par jour (0,8 mg).
+Le patient est devenu apyrétique et sans détresse respidatoire ni hémodynamique après 5 jours d´hospitalisation.
+La tomodensitométrie thoracique (Figure 2) réalisée, n´a pas objectivé de tuberculose pulmonaire ni d´infiltrat au niveau des deux poumons.
+Un bilan biologique normal a été observé.
+Le patient a été mis sous hydroxychloroquine 400 mg deux fois par jour et azithromycine 500 mg une fois par jour pendant 10 jours.
+L’évolution a été favorable, et le patient a été mis sous surveillance à domicile.
+Au recul de deux mois, aucune récidive n’a été observée.
+Avec un consentement écris du patient, cette observation a été présentée à la réunion de consultation régionale du VIH et de la recherche.
+Devant une urticaire d´origine systémique, un traitement par des antihistaminiques de deuxième génération et des corticoïdes topiques a été préconisé.
+Il n´est pas nécessaire de répéter les examens paracliniques initialement demandés.
+Cette observation présente le cas d´un patient à risque pour développer une forme sévère de COVID-19, avec une atteinte cutanée probablement d´origine immunologique (urticaire aigue).
+Selon la numération de globules blancs, le risque de développer une infection grave est très faible et les anti-inflammatoires non stéroïdiens doivent être évités dans ce cas.
+L’hydroxychloroquine et l’azithromycine sont bien tolérés dans ce cas.
+Il existe plusieurs exemples de patients ayant développé une urticaire aigue comme conséquence de l´infection au SARS-CoV-2. Une observation publiée par l’American Academy of Dermatology consigne la présence d’un nodule ou d’une papule à un stade éarly de la maladie. Les lésions de taille plus importante sont généralement présentes à un stade avancé de la maladie. Le diagnostic est généralement basé sur l’examen clinique, le test PCR et le test IgG.
+En fait, notre patient était très jeune, donc il est peu probable de présenter des lésions à un stade éarly de la maladie. L’analyse des cas réels confirme une déformation des cellules tissulaires, une activité inflammatoire et des voies parallèles d´adhésion des cellules endothéliales. Le début du processus inflammatoire est souvent rapidement réversible et souvent réversible après l’arrêt de l’exposition.
+L’injection d´Etanercept a été effectuée une fois et les jours suivants à raison de 1 injection par jour (0,8 mg).
+En ce qui concerne la prise en charge de notre patient, le médicament d´utilisation la plus courante est le corticostéroïde et le bien que celui-ci soit utilisé pour la prise en charge de cette urticaire aigue, il ne supprime pas le processus immunologique qui est entraîné par l´exposition au virus. Les antihistaminiques ont une activité anti-inflammatoire modérée, surtout lorsqu’ils sont utilisés dans leur forme de seconde génération, mais ils ne sont pas spécifiques des formes inflammatoires entraînées par l´exposition au SARS-CoV-2. Les anticholinergiques et les antihistaminiques, ainsi que l’augmentation des niveaux de cytokines, se produisent également dans les formes inflammatoires (de l’urticaire aigue).
+Dans le cadre d’une prophylaxie, une injection d´Etanercept a été faite une fois puis les jours suivants à raison de 1 injection par jour (0,8 mg).
+Dans le cadre d’un traitement de urticaire aigue, l’hydroxychloroquine et l’azithromycine ont une activité immunosuppressive secondaire, mais il existe de nombreux effets indésirables qui sont associés.
+Devant la disponibilité des antiviraux anticoagulants, notamment l’hydroxychloroquine, l’intérêt d’une activité anti-inflammatoire à son côté s’estompe, en particulier dans ce cas-spécifique.
+Le mécanisme d´action anti-inflammatoire de l´azithromycine reste inconnu, même

@@ -1,0 +1,23 @@
+Il s´agit d´une patiente de 20 ans, sans antécédents médicochirurgicaux ni pathologies dermatologiques. Elle est admise aux urgences dans un tableau de fièvre et d´adénopathies cervicales multiples d’apparition brutale, suite à un contact avec son père ayant COVID-19 4 jours auparavant. Le début des signes cliniques se traduit par une atteinte cutanée au niveau des mains qui est suivie d’une urticaire aigue (érythème cutané généralisé et anaphylaxie cutanée aigue). Le test PCR positif est confirmé 4 jours après l’apparition des signes cliniques.
+
+L’évolution est marquée par la régression des adénopathies après 7 jours d’évolution, mais pas du rash cutané qui persiste. La patiente est alors mise sous injection d´Etanercept à raison de 50 mg deux fois par semaine.
+
+Admise aux urgences dans un tableau de fièvre et de douleurs articulaires avec des signes inflammatoires associés, elle est d´apyrexie et sans détresse respidatoire ni hémodynamique. Le bilan biologique est normal, la tomodensitométrie thoracique n’objective pas de lésions suspectes, et on n’a pas retrouvé de syndrome inflammatoire biologique (vitesse de sédimentation normale, une CRP à 1,2mg/l). Le bilan immunologique est négatif notamment la recherche de l’ANA. La sérologie de la syphilis, la leishmaniose et la malaria, ainsi que l´immunoglobuline G4 sont négatifs. Le traitement par hydroxychloroquine et azithromycine est entrepris sans amélioration.
+
+À J20 d’évolution on note l’apparition d’un syndrome pulmonaire avec râles pulmonaires aréflexiques, un syndrome inflammatoire biologique (CRP à 23mg/l) et une anémie hypochrome microcytaire mal tolerée. Une sérologie pour parvovirus B19 est demandée et retrouvée positive.
+
+Le traitement instauré par l’intensiviste et immunologue est : céftriaxone (1g x2/jour), hydroxychloroquine, azithromycine, prédnisone 2mg/kg x 1/jour, Ténocipran et supplémentation en vitamine B12. La patiente décède après un recul de 22 jours dans le service de réanimation d’un arrêt cardio-circulatoire brutal à J37 d’évolution.
+
+L’autopsie révèle des lésions inflammatoires méningo-encéphalitiques, un épaississement des vaisseaux de la racine du pénis avec une necrose, des lésions myocardiques inflammatoires sans infarctus, un syndrome diffuse de nécrose ischémique intestinale sans obstruction ou hémorragie, des articulations rouges avec nécrose des capsules, des lésions lympho-folliculaires multiples en casse sous épithéliale sur la muqueuse digestive sans présence de cellules malignes, avec une infiltration lympho-plasmo cyto-kératodermie diffuse avec des boules lymphoplasmocytaires et des thrombocytes sphéroïdes, et enfin des nodules tumoraux vasculaires diffus. L’étude bactériologique et mycologique des différents prélèvements s’est montrée négative et l’étude histologique a confirmé l’absence de toute lymphoplasmocyte et les cellules sphéroïdes. La sérologie pour viral EBV n’est pas réalisée.
+
+Le virus parvovirus B19 est détecté à l´étude virologique sur les tissus entourant le site de la leisho-folliculose sur le pancréas.
+
+Il s´agit du premier cas de LEF compliquant une COVID-19.
+
+L’évolution a été rapidement marquée par la mise en place du syndrome inflammatoire et la survenue d’un syndrome vasculaire rétro-orbitaire qui a pu être rapidement identifié avec le diagnostic du parvovirus B19. Il n’a pas été possible de préciser la relation entre la LEF et l’infection par le parvovirus B19.
+
+Cet épisode n’a pas pu être fait officiellement lié au syndrome infectieux de COVID-19 et il est peu probable qu’il ait un rapport avec la souche actuelle circulant.
+
+Le diagnostic d’infection à parvovirus B19 est cependant extrêmement suspect, il a en effet été mis en évidence dans une grande proportion des patients infectés par le COVID-19.
+
+Dans la réalité des observations nous avons une cascade d’infections secondaires à l’origine des signes cliniques observés en l’occurrence, et le PVB19 n’est sans doute qu’un évén

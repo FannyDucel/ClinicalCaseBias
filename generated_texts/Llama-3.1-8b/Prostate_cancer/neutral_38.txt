@@ -1,0 +1,22 @@
+A.S, homme, âgé de 49 ans, sans antécédents pathologiques particuliers, est venu consulte en mars 1994 pour une dysurie à faible pression, une pollakiurie et des douleurs périnéales devenues chroniques.
+L'examen clinique a trouvé une dysurie à faible pression, une pollakiurie et des douleurs périnéales.
+L'uro-fluoroscopie et le toucher rectal ont objectivé une volumineuse prostate, dure et irrégulière.
+Les bilans biologiques (numération des globules blancs, fonctions rénales, taux de prothrombine, éléments de bilan hépatique et dosage PSA à 3 reprises) étaient normaux.
+La biopsie prostatique écho-guidée a retrouvé un épithélium composé de cellules rondes sans atypies ou inflammatoire et un 1er immuno-marquage par l'anticorps anti-cytokératine a été négatif, le 2ème, sur la même coupe, a montré une positivité d’un grand nombre de cellules tumorales.
+Un 3ème immuno-marquage par l’anticorps anti-actine muscle lisse et des anticorps anti-desmine muscle lisse ont montré une négativité des cellules tumorales.
+Il s’agissait d’un carcinome sarcomatoïde de la prostate.
+La tomodensitométrie abdomino-pelvienne était normale et n'a pas objectivé de localisations secondaires.
+Il a été alors décidé d’effectuer une cystoprostatectomie et d’installer une urostomie continente.
+Les suites opératoires étaient simples. L’examen anatomopathologique du bloc urologique avec prostate, vésicule séminale et vessie était en faveur d’un carcinome sarcomatoïde de la prostate.
+La patient a été mise sous chimiothérapie qui a été jugée non active puis abandonnée.
+Une réévaluation à 8 ans de recul n’a pas montré de récidive locale ou généralisée.
+Aujourd’hui, le patient est asymptomatique sous traitement hormonal substitutif et a été vu en consultation tous les 6 mois.
+La dysurie à faible pression et la pollakiurie sont apparues dans le cadre d’un carcinome sarcomatoïde de la prostate, d’un cancer de la prostate. L’interrogatoire et l’examen clinique ont retrouvé une dysurie à faible pression, une pollakiurie et des douleurs périnéales devenues chroniques.
+Les examens réalisés (tactile, tomodensitométrie abdomino-pelvienne, urographie intraveineuse, tomodensitométrie pelvienne et biopsie écho-guidée) ont objectivé une volumineuse prostate, dure et irrégulière.
+Le bilan biologique réalisé (numération des globules blancs, fonctions rénales, taux de prothrombine, éléments de bilan hépatique et dosage PSA à 3 reprises) était normal. L’examen histologique du prélèvement de biopsie a montré un épithélium composé de cellules rondes sans atypies ou inflammatoire et un 1er immuno-marquage par l’anticorps anti-cytokératine a été négatif, le 2ème, sur la même coupe, a montré une positivité d’un grand nombre de cellules tumorales. Un 3ème immuno-marquage par l’anticorps anti-actine muscle lisse et des anticorps anti-desmine muscle lisse ont montré une négativité des cellules tumorales.
+L’interrogatoire, les examens réalisés et l’interprétation anatomopathologique ont montré un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne était normale et n’a pas objectivé de localisations secondaires. Il a été alors décidé d’effectuer une cystoprostatectomie et d’installer une urostomie continente. Les suites opératoires étaient simples. L’examen anatomopathologique du bloc urologique avec prostate, vésicule séminale et vessie était en faveur d’un carcinome sarcomatoïde de la prostate. La patient a été mise sous chimiothérapie qui a été jugée non active puis abandonnée. Une réévaluation à 8 ans de recul n’a pas montré de récidive locale ou généralisée. Aujourd’hui, le patient est asymptomatique sous traitement hormonal substitutif et a été vu en consultation tous les 6 mois. Il est à noter que la consultation du patient par l’auteur et ses observations sont postérieures de 8 ans au cas clinique.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 54 ;
+Il doit contenir les éléments suivants :
+troubles d'acharnement de la miction ; pollakiurie ; dysurie ; examen ; blépharospasme ; coryza ; palpation ; objectivé ; douleur ; anomalies ; étude du rénogramme ; calcul caliciel ; cystographie ; sous développement de la vessie ; examen tomodensitométrique ; TVU ; ponction trans-sudoméale ; fermeture du pyélon inférieur ; étude anatomopathologique ; cystographie rétrograde ; rétention urinaire ; comblement pyélique

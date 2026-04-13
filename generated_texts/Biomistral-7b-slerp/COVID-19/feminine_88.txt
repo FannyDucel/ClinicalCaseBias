@@ -1,0 +1,19 @@
+Cas 2: jeune fille de 20 ans hospitalisée pour atteinte cutanée au niveau des mains, apparue à J+13 d´une admission de son père ayant un COVID-19 sévère dont le contact fut électif. Ce résultat était confirmé par le test PCR à l´état pur de SARS-COV-2.
+La patiente a reçu 3 doses d´Etanercept chaque jour à J0 de son admission par voie périnéale. Elle était apyrétique et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était normale avec pas d´infiltrat (Figure 3).
+Un bilan biologique était réalisé notamment le bilan hépatique et le bilan rénal. Le résultat était normal.
+On a décidé d´arrêter la troisième injection et de lui prescrire une nouvelle cure d´hydroxychloroquine associée à l´azithromycine.
+Ce cas rejoint les cas de complications secondaires à l´injection d´Etanercept dans le cadre du COVID-19 dont le niveau de preuve est III [11, 13].
+Dans ces cas, la notion d´allergie à la pénicilline, le contexte des médicaments coadminisés, le début tardif de l´hypersensibilité, la durée de la durée du traitement sont des éléments suscitant de fortes suspicions d´allergie.
+Dans tous les cas, nous pensons qu´il faut être prudent et considérer comme possible l´existence d´une réaction de l´hypersensibilité aiguë. Les médecins ne devraient jamais pousser le dosage car ils sont exposés au risque de graves complications, parfois mortelles.
+Nous avons choisi d´arrêter le traitement par la suite.
+Nous avons pris une grande précaution pour cette patiente et sa famille, les dirigeants de l´hôpital et la commune.
+Nous avons cherché un terrain pour ce cas et nous avons finalement découvert le lien entre la récidive de l´urticaire et l’exposition à la pénicilline par le test d´immunofluorescence indirecte (IFI) de la SARS-CoV-2 qui a permis d’annuler le résultat de la test PCR et de réattribuer l’exposition à cette dernière.
+Il s´agit d´un cas isolé et sans retrouvailles directes.
+Nous avons eu du mal à comprendre le contexte de cette récidive de l´urticaire à l´Etanercept. Dans un premier temps, nous avons évoqué un contexte d´allergie à l´hydroxychloroquine (responsable de cette hypersensibilité). Mais les résultats biologiques et cliniques étaient négatifs.
+Nous avons alors évoqué un contexte d´exposition au SARS-CoV-2 alors que la patiente avait les symptômes d’urticaire à J+13 de sa première dégénérescence. Il est difficile d´avoir recul sur le temps et d’évoquer une exposition asymptomatique de la patiente à l’infection du SARS-CoV-2 à J+11.
+Ces éléments nous ont donné à penser à une récidive d’urticaire à l’Etanercept secondaire à une réinfection. Le test PCR positive, la persistance de l’exposition au virus sans développement d’une atteinte pulmonaire ni digestive, le mode de récurrence, le contexte des deux hospitalisations et le contexte familial, nous ont amenés à penser à une infection de la patiente au virus et de pratiquer un autre test au viral. Ce qui nous a confirmé une réinfection aiguë sévère au SARS-CoV-2 secondaire à un contact avec son père ayant COVID-19, ce dernier a été hospitalisé pour des dyspnée diffuse et des hépatite hémorragique.
+Ce cas rejoint le cas de Moorad-Shohayeb [12] qui est aussi étudiant et qui se serait infecté par un contact avec le même patient qui a présenté des troubles cardiorespiratoires.
+Nous avons conclu à une récidive d´urticaire à l´Etanercept secondaire à une réinfection à l´SARS-CoV-2 à J+11 à J+13.
+Cet épisode de récidive d´urticaire à l´Etanercept secondaire à une réinfection à l´SARS-CoV-2 à J+11 a fait penser à une réexposition secondaire à la pénicilline par le test IFI de la SARS-CoV-2. Le test a permis d’annuler le résultat de la PCR et de réattribuer l’exposition à cette dernière.
+Le cas 2 rejoint le cas de Falaha [14] et le cas de Bradley [15], il s’agit d’un cas isolé et sans retrouvailles directes.
+Ce cas rejoint aussi le

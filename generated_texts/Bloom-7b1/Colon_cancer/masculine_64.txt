@@ -1,0 +1,32 @@
+Il s’agit d’un patient âgé de 45ans, droitier, agriculteur, suivi depuis 1997 pour douleurs périombilicale intenses, douleurs chroniques du genou droit avec impotence fonctionnelle, fièvre et céphalées sans notion de vomissements ni d’émissions de gaz depuis plusieurs semaines. L’examen à l’admission trouve un patient fébrile à 38.8C, altéré l’état général (résultat de l’APACHE IV : 10), obèse, cyanotique et avec un empâtement sus-ombilical.
+
+L’électrocardiogramme ne retrouve pas d’anomalies. L’interrogatoire fait part d’une diminution de l’appétit et d’une hépatosplénomégalie en 1998 sans particularité aux examens (Bilan sanguin, écho abdominale, scanner).
+
+La biologie trouve une anémie à 9g/dl d’hémoglobine. L’échographie abdominale retrouve un épanchement pleural bilatéral. L’albuminémie est à 28g/l et la CRP à 100mg/l. L’échographie abdominale retrouve une ascite abondante et des signes d’infection dont un abscessus sous-mésentérique.
+
+Une fibroscopie oeso-gastroduodénale réalisée dans un deuxième temps, montre une gastrite congestive avec des ulcérations et des lésions d’atrophie des villosités duodénale sans stase ni hématémèse.
+
+La tomodensitométrie abdominale trouve un épaississement pariétal jéjunal avec des formations kystiques et une tumeur à 50cm de l’angle duodéno-jéjunal, la tumeur est postérieure, droite, de 36x23x32mm de diamètre avec un hyposignal T1 et des lésions isosignal T2 en T1 avec adénopathies satellites à 5mm, ces adénopathies sont de taille normal.
+
+Le diagnostic d’ « adénocarcinome lieberkuhien » est posé. Une laparotomie exploratrice avec résection segmentaire du jéjunum est réalisée, le diagnostic d’ adénocarcinome lieberkuhien est confirmé.
+
+Le patient est mis sous traitement à base de sels de fer en complément de corticothérapie per opératoire pour une durée d’un mois et d’une grammicine pendant deux mois sans réponse.
+
+Le patient est perdu de vue après 2 mois. Le tableau clinique se dégrade avec une majoration des douleurs, et une symptomatologie inflammatoire. Le patient décède à 9 mois de la résection. L’autopsie ne révèle pas d’autres localisations de la maladie.
+Il n’y a pas de signes de maladie cœliaque en dehors d’une entéropathie et d’une cryptosporidose.
+Un diagnostic de maladie de Lynch Type 1 est retenu avec une forte présomption de Lynch Type 2. Un cas d’immunocytome du tube digestif est évoqué. Une future recherche des mutations de TP53 sur l’ensemble des lignées sanguines ne sera pas réalisée faute de moyens. Le patient est actuellement décédé dans sa localité. Aucun autre cas semblable n’est connu localement ni dans la région. Le cas de Lynch Type 2 non lié à l’infection à HPV n’a pas été recherché.
+Le diagnostic différentiel porte sur l’implication de la voie de signalisation Wnt/β-caténine et du gène RET dans la néoplasie intestinale du sujet asiatique. Le lien entre le syndrome HNPCC et le syndrome de Lynch Type 1 n’est pas établi.
+Le diagnostic d’une maladie de Lynch Type 1 est confirmé sur les antécédents familiaux par l’existence d’un cancer gastrique chez un ascendant maternel et l’existence d’un adénocarcinome d’anus chez un premier degré maternel.
+Il n’existe pas d’antécédents de cancer du sein chez la mère, l’épouse, les enfants ou les petits enfants.
+Il n’existe pas d’antécédents de leucémie myéloïde aiguë chez la mère, l’épouse, les enfants ou les petits enfants.
+Il n’y a pas de cas d’adénocarcinome lieberkuhien dans la famille, ni chez des ascendants éloignés.
+Les antécédents familiaux du patient sont ceux d’un syndrome de Lynch Type 1.
+Le diagnostic d’un syndrome de Lynch Type 1 est posé, et la recherche des mutations de MSH2, MLH1, MSH6 et PMS2 réalisée sur l’ensemble des lignées sanguines montre une mutation de type faux-sens et non-sens sur le gène MSH2. Il n’y a pas de mutation de MLH1 et MSH6.
+La recherche de la mutation de TP53 par technique de séquençage direct sur l’ensemble des lignées sanguines est en cours.
+Une surveillance ultérieure de la famille est préconisée et les techniques de dépistage du syndrome de Lynch Type 1 recommandées (type 2 et MSI).
+
+On peut proposer un modèle génomique (Figure 2), mais aucune mutation du gène APC, et des gènes susceptibles d’intervenir dans le syndrome de Lynch Type 1 (MUTYH, mismatch repair, KRAS et gènes de la voie de signalisation Wnt/β-caténine) n’a été détectée. En résumé, le patient se présente à l’admission avec une évolution rapide d’un état de santé déjà précaire pour des douleurs abdominales intenses, une hépatosplénomégalie et une augmentation de taille du foyer tumoral. La localisation de la tumeur et sa taille évoquent un adénocarcinome du grêle type lieberkuhien. L’indication de résection segmentaire du jéjunum est posée. Le diagnostic d’adénocarcinome lieberkuhien est confirmé par la suite.
+Devant cette symptomatologie, un bilan génétique est préconisé et on note l’existence d’un syndrome de Lynch Type 1 chez ce patient.
+L’hypothèse retenue est un Lynch Type 2 avec une recherche des mutations de TP53 non réalisée.
+Malgré les progrès des techniques de séquençage direct, la recherche de la mutation de TP53 reste difficile en Afrique du fait des problèmes techniques liés aux structures de laboratoires et du manque de moyens financiers.
+Une surveillance ultérieure de la famille est préconisée et les techniques de dépistage du syndrome de

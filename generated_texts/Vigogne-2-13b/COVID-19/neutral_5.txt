@@ -1,0 +1,30 @@
+Il s´agit d´une femme de 20 ans, sans antécédent pathologique, qui a été contactée par son père ayant COVID-19. Elle a présenté au 3 ème jour, une éruption cutanée maculopapuleuse bilatérale des mains avec prurit. Le tout évoluant dans un contexte de fièvre et d´ictère. Le diagnostic d´une urticaire aigue a été posé. Un test PCR positif en COVID-19 a été demandé, qui est revenu positif. Elle a bénéficié d´une injection d´Etanercept, donnée 6 jours avant sa symptomatologie cutanée. La symptomatologie a remonté dans les 48 heures précédant la consultation, et son état clinique à l´admission était : une fièvre à 39°c, une fatigue, un érythème généralisé avec des lésions maculopapuleuses, un ictère et une exanthème survenu à la découverte de l´infection du COVID-19 à son père. Une tomodensitométrie thoracique a objectivé des opacités diffuses bilatérales ayant un contours nets et un volume homogène, et l´imagerie respiratoire était normale. Le reste de l´examen était sans particularité notamment la toux, les sialorrhées, les douleurs osseuses, ni détresse respidatoire ni hémodynamique. La biologie avait une vitesse de sédimentation (VS) élevée à 102mm à la première heure, une numération formule sanguine était normale, et le bilan rénal normal. La tomodensitométrie thoracique était normale. Les opacités de type COVID-19 étaient multiples sans élévation de la limite pleurale ou signes de pneumothorax ou de pneumopéritoine. Le reste du bilan biologique était normal. Elle a reçu une hydratation, de la prise d’hydroxychloroquine (200mg par jour) et de l’azithromycine (500mg par jour) pendant 5 jours. La symptomatologie a diminué progressivement et la VS à 2ème heure est revenue à 77mm. Les séquelles de la COVID-19 sont résiduelles et une prise en charge actuelle en cours.
+
+Lors du contrôle à 4 mois, le patient a repris son traitement bi-mensuel d´Etanercept, et elle n’a pas de nouveau cas de pustulose.
+
+### Response:
+Il s´agit d´un homme de 27 ans sans antécédent pathologique particuliers, et sans notion de contage par la voie hématopoïétique. L´histoire de la maladie remonte à un mois avant l’admission, avec l’apparition de lésions cutanées nécrotiques au niveau des mains et des pieds.
+
+L’examen clinique retrouve des lésions nécrotiques atrophiques et ulcérées au niveau des mains avec des lésions satellites palpébrale bilatérales. Le reste de l´examen somatique est normal, notamment la tension artérielle, la fréquence cardiaque, et la température cutanée, sans épanchement pleural ou péricardique.
+
+La biologie retrouve un syndrome inflammatoire biologique (VS à 70mm, fibrinogène normal). Le bilan rénal est normal, ainsi que le bilan hépatique. Une PCR du tégument est négative.
+
+Un bilan immunologique a été demandé et a révélé une hypervaccinose et une hypergammaglobulinémie polyclonale à 67g/l.
+
+L´intradermo-réaction a mis en évidence une hypersensibilité cutanée.
+
+Le diagnostic retenu est celui d´une pustulose palmoplantaire liée à un agrégat lymphoprolifératif.
+
+La maladie a évolué vers un aspect tumoral avec des lésions satellite à l´arrière côté. L’hospitalisation s’est avérée nécessaire avec de multiples consultations. La prise en charge du patient a été faite par plusieurs spécialités et leur collaboration : dermatologie, oncologie, hématologie, rhumatologie et chirurgie plastique.
+
+L’irradiation, en raison des antibiotiques à large spectre pris par le patient, a éliminé les lésions tumorales. L’évolution est favorable avec une régression des lésions.
+
+L’examen clinique actuel met en évidence une diminution des lésions neurologiques et cutanées (l’atrophie palmoplantaire).
+
+La biologie retrouve un syndrome inflammatoire biologique, sans hypervaccinose, ni hypergammaglobulinémie.
+
+L’échographie cardiaque et rénale est normale.
+
+Le bilan immunologique fait retrouve une hypervaccinose et une hypergammaglobulinémie polyclonale à 42g/l.
+
+Le bilan biologique ne retrouve pas d’anomalies (VS à 20mm, fibr

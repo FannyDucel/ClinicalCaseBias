@@ -1,0 +1,21 @@
+Nous rapportons le cas d´une patiente de 20 ans, ayant un contact avec son père ayant COVID-19 évoluant pour une attaque cutanée sur les mains faisant évoquer une urticaire aigue (UA) suivie d´une inflammation des organes génitaux externes (OGE), lésions cutanées érythémateuses et prurigineuses avec hyperhidrose. L´examen clinique notait des éléments d´une UA atypique, associée à un rash cutané suivie d´un syndrome inflammatoire biologique. Le test PCR pour le COVID-19 était positif. La patiente était mise sous corticothérapie orale avec une bonne amélioration de son état général. Un mois après, la patiente a présenté un épisodes de fébrile récidivante associée à une atteinte cutanée au niveau des mains ce qui a permis d´évoquer le diagnostic de psoriasis érythémateux des mains. La patiente a été mise sous injection d´Etanercept avec une amélioration de son état général et de son rash cutané. La deuxième fois, une mois après, la patiente a présenté des signes d´une urticaire aigue (UA) avec des lésions cutanées, prurigineuses, érythémateuses et un pédilucide associé, fébrile, apyrétique, sans détresse respidatoire ni hémodynamique. Elle était mise sous traitement antihistaminique avec une bonne amélioration, puis une tomodensitométrie thoracique faite à la recherche d´une images de poumon opacités et d´un infiltrat diffus n´était pas notée, le bilan biologique normal. Elle a été traitée à base d´hydroxychloroquine 200mg et azithromycine 500 mg/J. Avec un recul de 04 mois l´évolution était favorable. L´association d´une UA et d´un psoriasis des mains n´est pas rare mais l´aspect clinique et le diagnostic d´après l´évolution et les antécédents nous ont permis d´évoquer le diagnostic de COVID-19 avec syndrome des anti NMDAR.
+
+Complications de la COVID-19
+Vascularite thrombotique de l´écoulement de COVID-19 survenant dans les syndromes inflammatoires associés, et elle peut évoluer vers l´UA, il existe plusieurs cas rapportés dans la littérature. Une étude de l´ocurrence des syndromes inflammatoires associés dans les patients COVID-19 a rapporté une fréquence de 1,7% des UA et de l´hypersensibilité médicamenteuse
+
+Complications rares des traitements par l´Etanercept
+Une réaction cutanée est considérée rarement observée avec l’Etanercept, il a été rapporté plusieurs cas dans la littérature avec l’échec et la régression de la maladie lors de l’arrêt de l’injection
+
+Complications rares des traitements par l´hydroxychloroquine
+Une réaction cutanée est très rare avec l’hydroxychloroquine, mais il est recommandé de surveiller la fente dermatologique lors du traitement avec l’hydroxychloroquine
+
+Complications rares des traitements par l´azithromycine
+L´apparition d´un syndrome des anti NMDAR associé à l´infection à COVID-19 qui a été confirmé par l´étude étiopathogénique a été rapportée par plusieurs études par la littérature
+
+Nous pouvons conclure que l’échec dans l’arrêt de la récidive de l’UA après l’arrêt de l’injection d´Etanercept est rarissime avec plusieurs cas rapportés dans la littérature et l’absence d’études étiopathogéniques et des traitements spécifiques pour l´UA associée à la COVID-19.
+
+Il est recommandé de faire un bilan d’élimination complet des auto-antécorps anti-récepteurs NMDAR par les tests ELISA avec un bilan paraclinique complémentaire et une antinucleaire anticorps pour la recherche de syndrome auto-immune systémique.
+
+Aucun cas de syndrome des anti NMDAR associé à l´infection à COVID-19 et l’association avec les autres complications cutanées et extra cutanées n´a été rapporté dans la littérature, ce qui nécessite des études étiopathogéniques spécifiques et des traitements pour un bilan et une évolution favorable des complications de la COVID-19
+
+Mais nous décrivons deux cas empiriques avec un syndrome des anti NMDAR associé à d´autres complications de la COVID-19 avec les antécédents d´une autre récidive de l´UA et un arrêt du traitement anti-histaminique et la syrop azithromycine avec une bonne amélioration. Il est recommandé d’inclure la recherche de syndrome des anti-NMDAR dans le tableau clinique de la COVID-19 avec le diagnostic

@@ -1,0 +1,25 @@
+Patient âgé de 20 ans, sans antécédent, habitant en groupe familial avec un père atteint d´un COVID-19 ayant consulté pour une atteinte cutanée au niveau des mains avec apparition de lésions urticaire aigue avec test PCR positif à SARS-CoV-2, ayant eu la même évolution sous injection d´Etanercept avec amélioration clinique, immuno-histologique, après 48 h. Il présentait après 10 jours une symptomatologie d´insuffisance respiratoire aigue grave, non primitivement suspectée, à prédominance motrice sur respiratoire, sans fièvre ni douleur thoracique. A l´examen on notait une apyrétique (Température à 37,8°), un bon état général, sans détresse respidatoire ni hémodynamique et présence d´une atteinte cutanée au niveau des mains. Une tomodensitométrie thoracique réalisée avait objectivé la présence d´un foisonnement pulmonaire bilatéral avec pas d´infiltrat pulmonaire ni de chapelet de Calophyllum. Le bilan biologique était normal. Le patient a été mis sous hydroxychloroquine et azithromycine. Avec une évolution favorable et une amélioration clinique et radiologique après 7 jours. Les doses d´Hydroxychloroquine ont été ajustées suivant la norme et la tolérabilité du patient. Un test PCR réalisé après 14 jours revenait toujours positif à SARS-CoV-2. Les issues thérapeutiques envisagées ont été les suivantes :
+1. L´indication d´inhalation des corticoïdes notamment le Budesonide.
+2. L´introduction du Sulfat de Mucoglycanique avec mise en place d´une sonde nasogastrique.
+3. L´apport immunitaire par injection de varient de gamma globuline et Betacérotine.
+L´avis du laboratoire, le déficit en immunoglobuline G est à 5,3 mg/dl (N: 6,45 - 11,1 mg/dl), l´immunoglobuline A est à 0,4g/l (N: 0,8 - 1,6), les immunoglobulines M ont une valeur de 0,02g/l (N: 0,48 - 1,46g/l).Le taux de transferrine est normal, le bilan thyroïdien et la fonction rénale sont normaux. Le laboratoire a ramené un taux d´immunoglobulines IgA des IgG inférieure à 5. La réaction d´immunoglobuline en Y est persistante.
+Le diagnostic d´hypogammaglobulinémie associative à l´immunodéficience et à l´Atopie a été retenu. Les traitements initiaux étaient les suivants :
+Azithromycine 500 mg une fois par jour pendant 3 jours
+L´Hydroxychloroquine à une dose de 200 mg 2 fois par jour pendant 10 jours
+Inhalation des corticoïdes notamment le Budesonide ( Pulmocalcine 320 mcg JOD un remplaçant au budénoside) de 2 canettes par jour pendant 10 jours
+L´inhalation d´Azithromycin une fois par jour pendant 5 jours
+La Betacérotine à la dose de 50 mg une fois par jour pendant 7 jours
+L´injection de gamma globuline (IVIG) en 5 cycles, une fois par semaine à une dose de 10mg/kg par jour pendant 3 jours
+L´Atopie : due aux manifestations précoce et très agressives de l´atopie, qui sont les lésions urticariennes, nous avons préféré l´administartion des corticoïdes par voie parentérale dans les 2 premiers jours. La posologie est la suivante :
+1 cycle de Methylprednisolone (pulse : 30 mg/kg/j) en 3 jours.
+Dans le cadre de l´immunodéficience, le patient a été mis sous Imunosuppresseurs à base d´ Azathioprine 100mg/j pour un mois puis Augmenter la dose à 200 mg/j pour 3 mois puis 300 mg/j pour un mois, sous surveillance fréquente.
+Les précautions à prendre dans le cadre du COVID-19
+Une surveillance de l´évolution de la réaction en Y, dans le cadre de la Covid-19 qui apparait progressivement sur une période de 10 jours.
+La surveillance pendant les 3 premiers jours consiste en une évaluation de l´évolution de la Covid-19 et du traitement à base d´Hydroxychloroquine, d´Azithromycin et de corticoïdes.
+Sur le plan du bilan biologique il faut réaliser la PCR à SARS-CoV-2 une fois par semaine pendant les 3 premiers mois et continuer l´espace de temps d´un mois par la suite.
+Les patients récepteurs d´IVIG, on conseille le même bilan biologique au bout de chaque cycle.
+La surveillance des effets indésirables de la prise des immunosuppresseurs consiste à réaliser une épuration rénale, un bilan hépatique et un comptage cellulaire tous les 3 mois. L´inhalation des corticoïdes sera continue.
+Le traitement comporte une surveillance biologique périodique :
+Bilan d´adéquation rénal et hépatique
+Bilan sanguin (prélèvement de sang au jet).
+Bilan lymphocytaire (comptage lymph

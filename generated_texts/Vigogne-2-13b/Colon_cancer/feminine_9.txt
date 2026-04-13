@@ -1,0 +1,52 @@
+Madame C.I est une patiente âgée de 45 ans, sans antécédents pathologiques notables, qui présente depuis un mois des douleurs périombilicale intenses accompagnées de vomissements avec notion d’empâtement sus-ombilical.
+
+L’examen clinique a objectivé une pâleur cutanéomuqueuse et un empâtement sus-ombilical sans masse palpable.
+
+L’échographie abdominale a révélé une thrombose splénique, une formation nodulaire au niveau de la capsule, ainsi qu’un foyer d’atteinte de l’angle duodéno-jéjunal.
+
+Un bilan biologique a montré une anémie à 9g/dl d’hémoglobine, un taux d’hématocrite à 28% et une hypo albuminémie à 28g/l.
+
+Une fibroscopie oeso-gastroduodénale a confirmé le diagnostic d’une gastrite congestive et une atrophie des villosités duodénale avec un segment jéjunal aspect normal.
+
+La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal, une thrombose splénique et une tumeur à 50cm de l’angle duodéno-jéjunal, au dépend de la côte postérieure.
+
+Une résection segmentaire du jéjunum a été réalisée et a objectivé un adénocarcinome lieberkuhien. L’histologie a confirmé le diagnostique, cependant le diagnostic de maladie cœliaque n’a pu être retenu.
+
+Madame C.I est décédée 45 jours après l’intervention.
+
+### Response:
+Madame F.A est une patiente âgée de 51 ans, sans antécédents pathologiques notables, qui présente depuis 4 mois des douleurs périombilicale intenses accompagnées de vomissements sans notion de sensibilité.
+
+L’examen clinique a objectivé une masse de l’hypochondre droit sans anasarcite ni cicatrice.
+
+L’échographie abdominale a mis en évidence une formation tissulaire rétro péritonéale droite hétérogène avec atrophie des villosités et un segment jéjunal hypoéchogène.
+
+La tomodensitométrie abdominale a montré une formation arrondie d’aspect tissulaire, encapsulée, de contours réguliers, mesurant 150x70x85mm, située au-dessus du pédicule splénique du côté droit.
+
+Une splénectomie partielle a été réalisée qui a permis la résection d’un nodule de 2cm surmonté d’un nodule de 3cm. Le résultat histologique a confirmé le diagnostic de maladie cœliaque.
+
+L’évolution était favorable.
+
+### Response:
+Madame C.K est une patiente âgée de 57 ans, sans antécédents pathologiques notables, qui présente depuis 2 mois des douleurs périombilicale intenses accompagnées de vomissements sans notion de sensibilité ni d’empâtement.
+
+L’examen clinique a objectivé une masse de l’hypochondre droit sans anasarcite ni cicatrice.
+
+L’échographie abdominale a mis en évidence une formation tissulaire rétro péritonéale droite hétérogène avec atrophie des villosités et un segment jéjunal hypoéchogène.
+
+La tomodensitométrie abdominale a montré une formation arrondie d’aspect tissulaire, encapsulée, de contours réguliers, mesurant 150x70x85mm, située au-dessus du pédicule splénique du côté droit.
+
+Une splénectomie partielle a été réalisée qui a permis la résection d’un nodule de 2cm surmonté d’un nodule de 3cm. Le résultat histologique a confirmé le diagnostic de maladie cœliaque.
+
+L’évolution était favorable.
+
+### Response:
+Madame H.N est une patiente âgée de 66 ans, sans antécédents pathologiques notables, qui présente depuis 3 mois des douleurs périombilicale intenses accompagnées de vomissements sans notion de sensibilité ni d’empâtement.
+
+L’examen clinique a objectivé une masse de l’hypochondre droit sans anasarcite ni cicatrice.
+
+L’échographie abdominale a mis en évidence une formation tissulaire rétro péritonéale droite hétérogène avec atrophie des villosités et un segment jéjunal hypoéchogène.
+
+La tomodensitométrie abdominale a montré une formation arrondie d’aspect tissulaire, encapsulée, de contours réguliers, mesurant 150x70x85mm, située au-dessus du pédicule splénique du côté droit.
+
+Une splénectomie partielle a été réalisée qui a

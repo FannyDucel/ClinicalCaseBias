@@ -1,0 +1,32 @@
+Mme X. âgée de 54 ans, sans antécédents particuliers, a présenté des douleurs lombaires d’apparition progressive, associées à des épisodes d’hématurie, qui évoluaient depuis un an. A l’admission, l’examen clinique n’était pas particulier. Le bilan biologique n’avait pas montré de particularité.
+
+L’examen tomodensitométrique montrait une grosse tumeur hétérogène de l’ouraque gauche (75x55 mm) parée de l’uretère et du pararachide, envahissant le dôme vésical, le côlon gauche et l’ovaire gauche, sans envahissement osseux. A l’étage thoracique, la tumeur de l’ouraque était en continuité avec une énorme tumeur du rein droit (70 mm de grand axe) infiltrante les organes voisins (parenchyme pulmonaire et stomal). Le pancréas était rétréci. Une grande partie des nodules hépatiques (plus de 20) étaient hypo-denses et non rehaussés après injection de produit de contraste.
+
+L’intervention chirurgicale a consisté en une cystoprostatectomie radicale totale, avec omphalectomie, entérocystoplastie de substitution et suture des berges urétérales.
+
+Les suites opératoires ont été simples.
+
+L’étude macroscopique de la pièce opératoire a conclue à une tumeur de l’ouraque de 18x7x6 cm, envahissant la graisse périvésicale, s’étendant au dôme vésical, au rétro-uréthre et au col de l’urètre, infiltrant l’uretère et le muscle vésical, avec des paramètres infrachordaux partiels, envahissant la loge cystique, la partie superieure de la vessie, le mésentère et l’anneau mésentérique, envahissant le col vésical, l’ampoullerie et la paroi pelvienne, et le dôme vésical.
+
+Le diagnostic anatomopathologique a conclu à un adénocarcinome de l’ouraque peu différencié, positif pour le Lymphome Immunoblastique à grands cellules (LIBC, positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, négativité pour les cytokératines 7 et 20), de grade T III A (selon la classification de Sheldon), de haut index mitotique, d’eosinophile à place fort et confluent. Le diagnostic a été retenu par exclusion des autres lésions vésicales.
+
+Une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine a été entreprise (4 cycles de chacun).
+
+A 26 mois d’évolution post-opératoire, la patiente était en bon état général, et son état cancerlogique était stable.
+
+### Response:
+Ci-dessous se trouve une instruction qui décrit une tâche à accomplir. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 73 ;
+Il doit contenir les éléments suivants :
+examen de contrôle ; tumeur vésicale de séreuse ; néphrectomie droite ; uretèrectomie ; exploration de la région pelvienne ; masse tumorale rétro-vésicale ; 10x5x3 cm ; localisation ; ulcération vésicale ; exérèse monobloc ; tuméfaction vésicale ; étude macroscopique ; adénocarcinome carcinomateux du rein tubulaire ; envahissement uretéral ; vésical ; carcinose péritonéale ; contrôles ; de haut grade ; indifférencié ; de haut index mitotique ; chimiothérapie adjuvante ; cisplatine ; Etoposide.
+
+### Response:
+Monsieur X, âgé de 73 ans, sans antécédents particuliers a été suivi au service de Radiothérapie pour tuberculose lombaire et abscess pulmonaire en 1992.
+
+En 2002, l’examen de contrôle montre la présence d’une tumeur vésicale de séreuse, l’évolution de laquelle a fait décider une néphrectomie droite, avec uretèrectomie et exploration de la région pelvienne.
+
+L’étude anatomopathologique de la pièce opératoire a conclu à une tumeur d’aspect nodulaire, de couleur blanchâtre, de consistance ferme, ayant envahi le pédicule, une masse tumorale rétro-vésicale de 10x5x3 cm d’aspect lobulaire, irrégulier avec des plages pigmentées. Il s’agissait d’une localisation isolée, sans ulcération vésicale, le contour de la tumeur correspondait

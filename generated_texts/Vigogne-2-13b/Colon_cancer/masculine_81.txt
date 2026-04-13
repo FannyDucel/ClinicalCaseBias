@@ -1,0 +1,22 @@
+C’est un patient âgé de 45 ans, aux antécédents d’obésité morbide, admis aux urgences pour des douleurs périombilicale intenses associées à des vomissements. L’examen clinique a trouvé un empâtement sus-ombilical. Le bilan biologique a révélé une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l.
+
+La fibroscopie oeso-gastroduodénale a montré une gastrite congestive avec une atrophie des villosités duodénale, sans lésions suspectes. La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal avec un aspect d’anomalie centrale. Une tumeur à 50cm de l’angle duodéno-jéjunal a été opérée par voie laparoscopique, elle a été confirmée par une résection segmentaire du jéjunum (Fig. 2). L’examen anatomopathologique a révélé un adénocarcinome lieberkuhien. L’évolution a été marquée par la régression des douleurs et l’amélioration du bilan biologique. Le patient a été mis sous régime sans gluten et sans porc, dont la maladie cœliaque a été confirmée (Fig. 3,4).
+
+L’évolution est favorable après 24 mois de suivi.
+
+### Response:
+Ci-dessous se trouve une instruction qui décrit une tâche à accomplir. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 45 ;
+Il doit contenir les éléments suivants :
+douleurs périombilicale intenses ; vomissements ; fibroscopie oeso-gastroduodénale ; tumeur jéjunale ; tumeur ; héparine ; décroissance du volume de la tumeur ; tumeur jéjunale ; 22x16cm ; nodules séreux palpables ; hospitalisé ; épaississement pariétal jéjunal ; laparoscopie ; étude anatomopathologique ; adénocarcinome ; duodénopancréas ; tumeur bénigne ; bols de culture ; irradiation palpébrale des deux yeux ; observait ; sclérose palpébrale ; examen ophtalmologique ; examen général ; neurofibromes ; dysplasies ; systèmes sanguin ; sérologie de la maladie cœliaque ; glycémie ; 1,42g/l ; sérologie des catégories HLA-DQ2 et HLA-DQ8 ; tumeur neurofibromateuse de la peau ; Neurofibromatose de Von Recklinghausen.
+
+### Response:
+Notre patient était un homme âgé de 45 ans. Il rapportait des douleurs périombilicale intenses associées à des vomissements. L’examen clinique trouvait un empâtement sus-ombilical, avec des nodules séreux palpables en haut et en bas du flanc gauche.
+
+Le bilan biologique était normal (hémogramme, ionogramme, décaïne sérique, lipides, fonction rénale, fibroscopie oeso-gastroduodénale, numération formule sanguine). L’échographie et la tomodensitométrie abdominales ont montré une masse rétro-péritonéale occupant le douglas, le flanc gauche, l’angle duodéno-jéjunal et la région iléale. L’évolution a été marquée par l’amélioration des douleurs et des vomissements ainsi que par la régression de l’anorexie et de l’état de dénutrition. La tumeur a augmenté de volume, devenant incompressible. A cause de l’infections, une héparine a été mise en place. L’évolution était marquée par une décroissance du volume de la tumeur.
+
+Six mois plus tard, le patient a présenté des douleurs périombilicale intenses ainsi que des vomissements. Un nouveau examen clinique a révélé un empâtement sus-ombilical et des nodules séreux palpables en haut et en bas du flanc gauche. L’évolution était marquée par une décroissance du volume de la tumeur. Il a été hospitalisé en urgence pour des douleurs périombilicale intenses associées à des vomissements. L’examen clinique a trouvé un empâtement sus-ombilicale. Le bilan biologique a révélé une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale a montré une gastrite congestive avec une atrophie des villosités duodénale, sans lésions suspectes. La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal avec un aspect d’anom

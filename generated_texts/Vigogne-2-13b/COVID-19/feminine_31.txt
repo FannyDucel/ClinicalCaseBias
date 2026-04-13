@@ -1,0 +1,23 @@
+Femme âgée de 20 ans, diabétique depuis 8 ans sous canulisation sans problème et sans atteinte cutanée au niveau des mains, qui a présenté une urticaire aigue sèche puis des lésions érythémateuses sur le visage et les membres inférieurs lors du contact avec son père ayant COVID-19 le 18 avril 2020. La patiente a été admise au service de dermatologie pour érythème maculo-papuleux diffus, érythémateux et prurigineux, et pour prurit généralisé, avec des lésions au niveau du visage, des mains et du tiers postérieur du tronc, prurigineux et érythémateux sans érythème papuleux. Le bilan biologique était sans anomalie, les numérorésistance aux bacilles à gram positif (NRBGP) et les numérorésistance aux staphylocoques étaient négatifs. L´ensemble des signes cliniques a permis de conclure à un érythème de gravité ou d´hypersensibilité médicamenteuse, la patiente était mise sous corticoïdes à la posologie de 1 mg/kg/jour en voie intraveineuse puis par voie orale (V.O.). L´évolution a été favorable. Le 02/05/2020 la patiente a été mise sous injection d´Etanercept, ce qui a fait sortir les lésions le jour de la première injection. Par contre les lésions sont revenus et ont été de plus en plus étendues le jour de la deuxième injection. La patiente est demeurée apyrétique et sans détresse respidatoire ni hémodynamique, Le bilan biologique était normal. La tomodensitométrie thoracique était normale sans signe de pneumopathie associée. Le dénouement de cette éruption cutanée est arrivé au bout de 15 jours, soit après le 10/05/2020. L´examen clinique objectivait que les lésions étaient en voie de guérison et sont passées au statut d´écoulement de sérosité 7 jours après.
+Le bilan immunologique était normal.
+Cette patiente a été mise sous traitement à base d´hydroxychloroquine et d´azithromycine pendant 1 mois avec une bonne évolution et un dénouement à J5.
+Etude cas par cas de la réaction de la patiente à chaque médicament.
+Nature médicament Hypersensibilité cutanée à la cinétique médicamentelle
+Date de médicament Accident. Mediquement assisté. Posologie Médicament Administration Reaction Lésions
+15/04/2020 Oxandrolone 10 mg Par voie orale 1 tablet/ jour Diabète
+18/04/2020 Azithromycine 250 mg par voie orale 1capsule/ jour Médicament Prévention des infections de COVID19.
+19/04/2020 Amlodipine 10 mg Par voie orale 1 tablet/ jour Prévention d´hypertension artérielle
+20/04/2020 Propranolol 10 mg Par voie orale 1tablet/ jour Tension artérielle
+20/04/2020 Metformine 500 mg Par voie orale 1tablet/ jour Diabète
+20/04/2020 Vit.C 500 mg/24 h Par voie orale 2 comprimés/jour
+20/04/2020 Vit. D 400 UI/24 h Par voie orale 2 comprimés/jour
+20/04/2020 Vit. E 400UI/24 h Par voie orale 2 comprimés/jour
+20/04/2020 Zinc 50mg/jour Par voie orale 1 comprimé/ jour Médicament Prévention de la Covid 19
+20/04/2020 Médicament Prévention de la Covid 19
+21/04/2020 Hydroxychloroquine 200mg Par voie orale 1capsule/jour Médicament Prévention de la Covid 19
+21/04/2020 Ibuprofen 200 mg Par voie orale 1tablet/ jour Tension oculo-orbitaire
+22/04/2020 Etanercept 50mg Par voie sous-cutanée 1 injection /semaines Médicament déclencheur Médicament Prévention de la Covid 19
+22/04/2020 Medinol Par voie orale 1capsule/jour Médicament Dosage vitesse de sédation
+23/04/2020 Médicament Médicament Dosage vitesse de sédation
+23/04/2020 Médicament Médicament Prévention de la Covid 19
+23/04/2020 Médicament Méd

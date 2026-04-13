@@ -1,0 +1,37 @@
+Il s’agit d’une patiente de 26 ans, nulligeste nullipare, de milieu rural, de la rurale et avec un tabagisme passif chronique. La famille maternelle est marquée par la notion de cancer du sein avec deux décéde´s sur 4 générations, soit la mère et la sœur.
+
+La patiente a été prise en charge pour nodule de 6 cm au niveau du quadrant supéro interne du sein droit, une adénopathie de 1.5 cm au niveau du creux axillaire droit, et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Le bilan étiologique a révélé un stade IIIA pT1N1M0 (BIRADS V) vu la taille et l´état des deux nodules et la lésion ganglionnaire axillaire droite.
+
+Une microbiopsie des deux lésions cliniques des deux seins a conclu à un carcinome canalaire infiltrant SBR III, récepteurs hormonaux négatifs, test de l'HER 2 négatif et un GCN Mu+. Le bilan d’extension à distance a révélé une TDM thoraco-abdomino-pelvienne négative ainsi qu’un bilan d’hépatotoxicité négatif.
+
+La patiente a bénéficié d´une chimiothérapie néoadjuvante à base de quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² en chemothérapie intraveineuse, deux cures de docétaxel 100mg/m² en perfusion intraveineuse et a bénéficié par ailleurs d´une chirurgie radicale type Patey bilatéral.
+
+Elle a reçu une chimiothérapie et radiothérapie post opératoires à base de quatre cures de docétaxel 100mg/m² et une radiothérapie à la dose de 50Gy.
+
+A l’issue de ce traitement, la patiente est actuellement bien portante sous docétaxel 75mg/m² et déclaré par la radiographie thoracique une absence de récidive locorégionale et de métastase pulmonaire et une adénopathie axillaire droite et une induration cervicale bilatérale et quelques aphthous de type mucineux qui sont de façon isolée sans besoin de traitement avec une évolution favorable.
+
+La patiente est porteuse d’un polymorphismes CYP2D6*6, *7 avec un hybridation génétique ; la MDR1 (ABCB1) mutation C3435T est écartée par l´absence d´épreuve, le polymorphisme de CYP1A1*1C/A ; CYP2A6*7 ; CYP3A5*6/7 ; CYP3A5*1 ; CYP2C19*2 ; CYP2C9*1/2/3/6/7 ; CYP2C19*1/2/3/4 ; CYP2C9*3; CYP2C9*4 ; CYP2C19*27, CYP2C19*4 ; CYP2C19*17 ; CYP2D6*5, *6, *7, *10.
+
+Le caryotype FISH est normal vu la carence de l´épreuve. L´expression de l’ARNm de MDR1 est respectée. L´analyse des fragments Alu multi-copy ne montrent pas de mutation à caractère sanitaire ou classant comme suspect ou non significatif. La recherche d’ADN circulant de la cellule d’origine s’avère négative.
+
+L’analyse des séquences ARNs de 20 genes, mutés par le cancer du sein, ne révèle pas de mutation.
+
+Les séquences ARNm des 270 transcriptomes moléculaires de la cellule d’origine n’ont pas révélé de mutation, (les mutations notées par un U).
+
+Le séquençage de l’exome de l’ADN des cellules cancéreuses n’a pas révélé de mutation.
+
+Les amplifications de séquences nucléotidiques (AMS) n’ont pas montré de mutation.
+
+Le caryotype montre un chromosome p53.
+
+Le séquençage des exons des 65 gènes qui sont les principaux bénéficiaires des hormonothérapies n’a pas montré de mutation.
+
+L’analyse des profils de transcriptomes moléculaires de différents types de cancers des deux seins n’a pas révélé de mutation.
+
+La séquençage des régions du 8p11 et 8p21 ne montrent pas de mutation.
+
+La cytogénomique n’a pas montré de mutation.
+
+La recherche d’anomalie chromosomique par FISH n’a pas révélé de mutation.
+
+Les séquences ARNm de 12 transcriptomes

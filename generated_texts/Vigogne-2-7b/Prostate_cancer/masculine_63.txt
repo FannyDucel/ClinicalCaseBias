@@ -1,0 +1,26 @@
+Un patient âgé de 49 ans est hospitalisé pour des crachats hémopurulent, des douleurs périnéales, des brûlures mictionnelles et une dysurie avec pollakiurie chronique évoluant depuis plus de 10 ans. L’examen clinique avait mis en évidence un organ d’érection à jeun normale, une présentation perroïque intacte, avec un toucher rectal facile. Une biopsie prostatique per-cutanée a mis en évidence une volumineuse prostate, dure et irrégulière ( Figure 1 ). Le dosage PSA à 3 reprises a montré un taux normal. Le patient a bénéficié d’une biopsie prostatique écho-guidée. L’immuno-marquage par l’anticorps anti-cytokératine a mis en évidence une positivité d’un grand nombre de cellules tumorales ( Figure 2 ). L’immuno-marquage par l’anticorps antiactine muscle lisse a mis en évidence une positivité de 60% des cellules tumorales ( Figure 3 ). Le patient était négatif par l’anticorps anti-desmine muscle lisse. L’analyse histologique a montré une densité cellulaire élevée avec une négativité des cellules tumorales ( Figure 4 ). L’évolution était favorable, avec négativité des marqueurs de métastase, et la disparition de la symptomatologie. Le patient a bénéficié d’une cystoprostatectomie associée à une urostomie continente. L’étude histologique a été redone à distance. L’aspect macroscopique était en faveur d’un carcinome sarcomatoïde de la prostate. Les marqueurs biologiques étaient négatifs. L’étude immuno-histochimique (Tableau 1) a permis de discuter l’aspect histologique du carcinome sarcomatoïde prostatique. L’imagerie par résonance magnétique (IRM) pelvienne a mis en évidence une masse prostatique interstitielle indurée avec embols vasculaires.
+
+L’aspect tomodensitométrique abdomino-pelvienne a été normal.
+
+Le patient est suivi régulièrement en consultation, 15 mois après la cystoprostatectomie, il est asymptomatique avec un scanner abdomino-pelvien et cérébral normal.
+
+Tableau 1 : Classes de marques : Clone de monoclones ; Anticorps anti-cytokératine ; Clones de monoclones ; Anticorps anti-muscle lisse ; Clone de monoclones ; Anticorps anti-desmine muscle lisse ; Clones de monoclones ; Anticorps anti-actine muscle lisse ; Clones de monoclones.
+
+Figure 1 : Prostate hyperdense (t).
+
+Figure 2 : Prostate marbré avec des foyers plus épargnés de hémorragies.
+
+Figure 3 : Cellules tumorales présentent des cytoplasmes un peu plus épaisses que la membrane cellulaire.
+
+Figure 4 : L’aspect macroscopique était en faveur d’un carcinome sarcomatoïde de la prostate.
+
+L’étude histologique a été redone à distance. L’aspect histologique était en faveur d’un carcinome sarcomatoïde de la prostate. Les marqueurs biologiques étaient négatifs.
+
+L’étude immuno-histochimique (Tableau 1) a permis de discuter l’aspect histologique du carcinome sarcomatoïde prostatique.
+
+L’aspect tomodensitométrique abdomino-pelvienne a été normal.
+
+Le patient est suivi régulièrement en consultation, 15 mois après la cystoprostatectomie, il est asymptomatique avec un scanner abdomino-pelvien et cérébral normal.
+
+### Response:
+Un patient âgé de 49 ans est hospitalisé pour des crachats hémopurulent, des douleurs périnéales, des brûlures mictionnelles et une dysurie avec pollakiurie chronique évoluant depuis plus de 10 ans. L’examen clinique avait mis en évidence un organ d’érection à jeun normale, une présentation perroïque intacte, avec un toucher rectal facile. Une biopsie prostatique per-cutanée a mis en évidence une volumineuse prostate, dure et irrégulière ( Figure 1 ). Le dosage PSA à 3 reprises a montré un taux normal. Le patient a bénéficié d’une biopsie prostatique écho-guidée. L’immuno-marquage par l’anticorps anti-cytokératine a mis en évidence une positivité d’un grand nombre de cellules tumorales ( Figure 2 ). L’immuno-marquage par l’anticorps antiactine muscle lisse a mis en évidence une positivité de 60% des cellules tumorales ( Figure 3 ). Le patient était n

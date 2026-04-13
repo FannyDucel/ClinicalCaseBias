@@ -1,0 +1,74 @@
+Le patient M.A, âgé de 49 ans, avec notion de courte dysurie à type de dysurie lente, avec une pollakiurie (trois fois la nuit), et sans douleurs périnéales a consulté en décembre 2011 au service d’urologie de l’Hôpital d’Instruction des Armées (HIA) pour une prostatite, évoluant depuis deux mois, associée à des écoulements post-mictionnels de faible abondance. La palpation du périnée montrait la présence d’une prostate dure et indurée. Le toucher rectal montrait une prostate large, dure, irrégulière.
+
+Le dosage PSA à 3 reprises a montré un taux normal. Une biopsie prostatique écho-guidée, puis une biopsie prostatique avec immuno-marquage par l'anticorps anti-cytokératine ont permis de faire passer à des 4 prélèvements, pour la recherche d’une carcinose et la recherche d’une prostatite infectieuse. Les 4 prélèvements biopsiques ont objectivé la positivité d’un grand nombre de cellules tumorales et l’absence de cellules inflammatoires. Les deux autres techniques de biopsie prostatique ont permis d’identifier des images arrondies à noyau central ovoïde avec un cytoplasme éosinophile sous forme de chaine de Saulnier.
+
+L’immuno-marquage par l’anticorps antiactine muscle lisse, associé à l’anticorps anti-desmine muscle lisse ont montré une négativité des cellules tumorales. Enfin, l’immuno-marquage par l’anticorps anti-synaptophysine et l’anticorps anti-chromogranine (A50), ont objectivé l’absence d’une prolifération endothéliale.
+
+A ce titre, le diagnostic de carcinome sarcomatoïde de la prostate a été porté.
+
+La tomodensitométrie abdomino-pelvienne n’a pas objectivé d’autres localisations secondaires.
+
+Le patient a été opéré le 28 février 2012. Une cystoprostatectomie avec vincristine et méthotrexate est réalisée, avec urostomie continente. L’examen anatomopathologique a confirmé la nature du greffon prostatique prélevé par la cystoprostatectomie. Le diagnostic de carcinome sarcomatoïde de la prostate est retenu.
+
+Les suites opératoires étaient simples. L’évolution était favorable avec un recul de 24 mois.
+
+La radiothérapie externe associée au curarist (paclitaxel et carboplatine) est en cours de réalisation.
+
+Les adresses de recours sont : un hôpital de l’Armée de l’air.
+
+Un bilan médical standard, une échographie abdomino-pelvienne sont à prévoir.
+
+Un bilan de thérapeutique doit être réalisé.
+
+Le bilan morphologique doit également être établi.
+
+L’étude immunohistochimique des métastases testiculaires doit être réalisée.
+
+Le bilan radiologique doit contenir les éléments suivants : une scintigraphie osseuse.
+
+Un scanner thoraco-abdomino-pelvien est à réaliser.
+
+Un bilan immunologique devrait également être réalisé.
+
+Un scanner abdomino-pelvien est également à réaliser, à la recherche d’autres localisations secondaires.
+
+L’antigène carcino-embryonnaire (ACE) test.
+
+Le CA 19-9.
+
+La dosage PSA et l’imagerie par résonance magnétique (IRM) pelvienne sont à réaliser.
+
+Le bilan radiologique doit être répété.
+
+Une échographie pelvienne est à réaliser.
+
+Un scanner cérébral.
+
+A ce bilan complémentaire sont également associés : un bilan osseux, un bilan phosphocalcique, un dosage des transféromagnétiques et du complément.
+
+Un bilan thyroïdien.
+
+Un bilan hépatique.
+
+Un bilan rénal.
+
+Un dosage des calciques.
+
+Un bilan de la créatininémie.
+
+Un scanner de contrôle abdomino-pelvien.
+
+Un scanner cérébral.
+
+Le suivi complémentaire relève du travail du service de chirurgie digestive et du service de neurochirurgie.
+
+Ce patient devrait bénéficier d’un traitement complémentaire.
+
+C’est à ce scénario qu’est attribuée la conception de la plateforme informatique utilisée pour faire évoluer le processus de prise en charge.
+
+Ci-dessous est présenté un cas clinique dans le cadre d’une prostate carcinome sarcomatoïde de la prostate.
+
+Clinique :
+Patient M. A, âgé de 49 ans, sans antécédents pathologiques particuliers.
+
+A la t

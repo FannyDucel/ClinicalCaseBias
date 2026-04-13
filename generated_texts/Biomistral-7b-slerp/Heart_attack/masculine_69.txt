@@ -1,0 +1,26 @@
+Un homme de 64 ans, tabagique chronique (50pa/j), diabétique sous insuline, qui a présenté une épisode de céphalée, associé à une douleur thoracique d'installation progressive évoluant dans un contexte d'altération progressive de l'état général. L'examen clinique à l'admission retrouvait un patient conscient, stable sur le plan hémodynamique et respiratoire, l'auscultation cardio-pulmonaire mettait en évidence un souffle systolique sur l'aire cardiaque, au foyer mitral, sans râles crépitant. Le reste de l'examen somatique était normal.
+L'électrocardiogramme révélait un rythme régulier sinusal, un bloc de branche droit, et un infarctoide inaugurale. Le bilan biologique montrait une hyperlaxitude globale, une insuffisance rénale avec une créatininémie à 180m/l et un bilan cardiaque typique d'un IDM circonférentiel non thrombolysé.
+L'échocardiographie révélait un CIV musculaire, septal et apical avec un ventricule gauche non dilaté, avec une akinésie apicale et inféroseptale, une fraction d'éjection à 55% en diastole et un dysfonction systolique sévère.
+La coronarographie avait montré des lésions bi-tronculaires en rapport avec un anévrysme du ventricule gauche. L'anévrysme ventriculaire gauche a été fermé chirurgicalement par fermeture de la fente interventriculaire postérieure, en même temps cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite.
+L'évolution était marquée par une récupération partielle mais une persistance d'une dysfonction sévère du ventricule gauche avec un trouble conductif conduisant au décès du patient.
+En conclusion, l'infarctoide gauche est une entité rare avec un pronostic mauvais, compte tenu de l'anévrysme du ventricule gauche. Cette observation souligne l'intérêt d'une échocardiographie et une coronarographie pré-thoracique pour une surveillance plus fréquente des patients ayant présenté un IGM.
+L'IDM circulaire a causé un AVG par rupture ventriculaire gauche post-myocardique non compressif, des lésions coronaires postéro-latérales sous myocardiales, refoulant vers le haut et vers le milieu la conque gauche du ventricule gauche, donc conduisant à une rupture de la papille triangulaire postérieure du ventricule gauche.
+Il n'existe pas d'anomalie coronarienne ni cardiaque anatomique associée.
+La maladie a été découverte au cours d'une crise thoracique aiguë évoluant rapidement vers le choc cardiogénique.
+Le traitement est basé sur l'administration des nitroglycerines, une rénale et une antibiothérapie avec prise en charge des autres facteurs de risque cardiovasculaires.
+La surveillance était réalisée par échocardiographie et par une angiographie coronarienne montrant la persistance d'un AVG par rupture ventriculaire gauche, avec une lésion coronaire à distance.
+Un an après le diagnostic, une reprise d'épanchement aigu se fit sur le plan clinique et radiologique.
+La coronarographie montrait la persistance des lésions distales sans reprise des lésions initiales.
+La ponction biopsie myocardique n'a pas montré d'inflammation ou de tumeur.
+Le diagnostic est confirmé par une exploration endoscopique qui met en évidence des lésions vasculites dans les 2/3 distales des coronaires.
+L'état cardiaque a été stables.
+Une caryodéficientiel est réalisé et a confirmé l'absence d'aberration chromosomique.
+Le traitement se base sur le traitement d'une hypertension artérielle et sur l'administration de prednisone et de cyclophosphamide à la dose de 180 mg /m2 par mois.
+La surveillance par échocardiographie et par angiographie coronarienne n'a pas montré d'évoluation délétère.
+Avec un recul de 5 ans l'évolution était faveur à une stabilité de l'anévrysme.
+L'administration d'un bêta-blocateur est actuellement indiqué.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 63 ;
+Il doit contenir les éléments suivants :
+consulté ; douleurs du membre supérieur gauche ; diagnostiqué ; atteinte du nerf axillaire ; anesthésie du membre supérieur ; cystographie ; analyse biochimique du liquide de poche de la vessie ; localisation intraparenchymateuse ; biopsies t

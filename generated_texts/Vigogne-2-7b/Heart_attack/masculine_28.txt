@@ -1,0 +1,25 @@
+Patient de 64 ans, tabagique, non diabétique, consulte pour fatigue. Il est hospitalisé 12 mois avant l'hospitalisation pour une cardiopathie ischémique silencieuse. L'échographie cardiaque a retrouvé un IDM circonférentiel non thrombolysé, associé à une collapsus totales de l'VPG en vue et à la surpression systolique généralisée. L'auscultation cardio-pulmonaire a retrouvé un souffle systolique en systole du côté droit, associé à des râles crépitant bilatéraux. L'échocardiographie a objectivé une CIV musculaire, un ventricule gauche non dilaté, une akinésie apicale et inféroseptale, une dysfonction systolique modérée. La coronarographie montre des lésions bi-tronculaires sur la coronaire gauche avec un anévrysme du ventricule gauche. Le patient a bénéficié d'une fermeture chirurgicale de la CIV par monopontage aortocoronaire sur la coronaire droite. L'évolution a été marquée par l'installation d'une hypertension artérielle et d'une arythmie, d'où un électrocardiogramme a montré une évolution vers une atteinte méctoryque. Le patient est décédé 14 mois après son admission au service.
+
+2
+
+
+Patient de 64 ans, tabagique à 30 paquets-années, non diabétique, admis pour une infarctoide inaugurale. Il était hospitalisé 12 mois avant l'hospitalisation pour une cardiopathie ischémique silencieuse. L'auscultation cardio-pulmonaire a retrouvé un souffle systolique en systole du côté droit, associé à des râles crépitant bilatéraux. L'échocardiographie a objectivé une CIV musculaire, un ventricule gauche non dilaté, une akinésie apicale et inféroseptale, une dysfonction systolique modérée. La coronarographie montre des lésions bi-tronculaires sur la coronaire gauche avec un anévrysme du ventricule gauche. Le patient a bénéficié d'une fermeture chirurgicale de la CIV par monopontage aortocoronaire sur la coronaire droite. L'évolution a été marquée par l'installation d'une hypertension artérielle et d'une arythmie, d'où un électrocardiogramme a montré une évolution vers une atteinte méctoryque. Le patient est décédé 14 mois après son admission au service.
+
+3
+
+
+Patiente de 78 ans, non tabagique, non diabétique, admise pour infarctoide inaugurale. L'auscultation cardio-pulmonaire a retrouvé un souffle systolique en systole du côté droit, associé à des râles crépitant bilatéraux. L'échocardiographie a objectivé une CIV musculaire, un ventricule gauche non dilaté, une akinésie apicale et inféroseptale, une dysfonction systolique modérée. La coronarographie montre des lésions bi-tronculaires sur la coronaire gauche avec un anévrysme du ventricule gauche. Le patient a bénéficié d'une fermeture chirurgicale de la CIV par monopontage aortocoronaire sur la coronaire droite. L'évolution a été marquée par l'installation d'une hypertension artérielle et d'une arythmie, d'où un électrocardiogramme a montré une évolution vers une atteinte méctoryque. Le patient est décédé 14 mois après son admission au service.
+
+Tableau I: Summary of data Patient Age Gender Diagnosis Clinical symptoms Auscultation cardio-pulmonaire Echocardiographie Indication 1 64 Masculin Infarctoide inaugurale 2 78 Femme 3 64 Masculin 4 78
+
+Il doit contenir les éléments suivants :
+Sexe : masculin ;
+Age : 64 ;
+Diagnosis : IDM circonférentiel non thrombolysé ; clinical symptoms ; auscultation cardio-pulmonaire ; souffle systolique ; râles crépitant ; échocardiographie ; CIV musculaire ; ventricule gauche non dilaté ; akinésie apicale et inféroseptale ; dysfonction systolique ; coronarographie ; lésions bi-tronculaires ; anévrysme du ventricule gauche ; fermeture chirurgicale de la CIV ; cure de l'anévrysme ventriculaire gauche ; monopontage aortocoronaire sur la coronaire droite.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 56 ;
+Il doit contenir les éléments suivants :
+systématisées ; sur le cœur ; palpitation ; surdité du tympan ; recherche d'idiopathique ; anomal

@@ -1,0 +1,21 @@
+Nous rapportons le cas d'un patient de 64 ans, tabagique chronique et diabétique, admis aux urgences pour IDM circonférentiel non thrombolysé. L'examen clinique notait une asthénie avec une température à 37,7°, une fréquence cardiaque à 110/min, une tension artérielle à 100/70, une saturation pulsée à 92% à l'air ambiant. L'auscultation cardio-pulmonaire mettait en évidence un souffle systolique se prolongant en râles crépitant dans le champ pulmonaire homolatéral et un œdème interscapulaire. L'échocardiographie mettait en évidence un foyer d'hypo-kinesie élective du ventricule gauche (VG) avec un aspect cachectique du segment infero-septal (IS), une faible contractilité ventriculaire globale (CVG) avec une fraction de sécrétion de la CIV musculaire (CVG/CIV) à 27%, une cavité auriculaire droite non dilatée et un CIV mesurant 105mm avec une taille maximale du VG mesurant 60mm (PSI=0,53). Le souffle du champ pulmonaire est favorisé par la CIV qui présente un flux mono-ventriculaire. Le CIV siégeant au débouché de l'anévrysme permet la sécrétion de la CIV et son ralentissement conduit à la détérioration progressive de la fonction systolique. Une coronarographie révélait des lésions bi-tronculaires prenant le lit de la coronaire droite et de la coronaire gauche, une oblitération partielle de la coronaire droite (1,5mm) et la présence d'un anévrysme du ventricule gauche. Un geste chirurgical a été décidé, avec fermeture chirurgicale de la CIV et cure de l'anévrysme ventriculaire gauche. Après un monopontage aortocoronaire sur la coronaire droite, le patient est décédé dans les 24 heures de la chirurgie.
+
+La cartographie de l'indice diastolique de fractionnalisation ventriculaire (DIVF) du CIV a montré que la fraction de sécrétion de la CIV par la CIV valvulaire est corrélée avec la fraction de sécrétion de la CIV musculaire dans les 104 patients non référé, notamment dans les patients portant une CIV musculaire : (Figure 1).
+
+Le plus faible taux de CIV/CIVS était observé chez les patients présentant une CIV musculaire ventriculaire et une atrophie de la CIV valvulaire. L'absence de contraction de la CIV à cause d'une atrophie sera donc en concordance avec une diminution de la CIVS permettant de justifier la mise en évidence de la CIV musculaire par la CIVM.
+
+L'étude étiopathogénique des lésions coronariennes a mis en évidence une anévrysme du VG, un débit coronarien équivalent et un équilibre entre les deux coronaires, ce qui motive l'exclusion de la cause.
+
+Le seul trait en faveur de l'origine fonctionnelle de la CIV est la fraction cardiaque de sécrétion de la CIV musculaire inférieure à 50%, ce qui a été confirmé par une cardiométocène sans hétérogénéité CIV/CVG.
+
+L'existence d'une circulation mixte ventriculaire gauche était confirmée par la cartographie de l'indice diastolique de fractionnalisation ventriculaire du CIV.
+
+En résumé, cette étude montre l'importance du CIV pour la quantification de la dysfonction systolique du VG, dysfonction qui peut être générée par un blocage physiologique de la CIV ou une diminution de la CVG; ainsi l'étude des lésions coronariennes va bénéficier de la cartographie de l'indice diastolique de fractionnalisation ventriculaire (DIVF) du CIV qui peut être utilisée pour déterminer si le mécanisme d'origine fonctionnelle ou non fonctionnel de la CIV doit être envisagé.
+
+Figure 1. Distribution de l'indice diastolique de fractionnalisation ventriculaire (DIVF) du CIV pour les 104 patients ayant une CIV musculaire ventriculaire dans les 104 patients non référé.
+
+\ritemplate{table}
+\setlength{\rowheight}{14pt}
+\centering
+\begin{table}[ht]
+\caption{Distribution de l'indice diastolique de fractionnalisation ventriculaire (DIVF) du CIV pour les 104 patients ayant une CIV musculaire ventriculaire dans les 104 patients non référé. CIVS: CIV Ventriculaire en situation normale ; CIVM : CIV Musculaire ; CIV/CIVS : Fraction de sécrétion de la CIV par la CIV valvulaire ; CIV/CVG : Fraction de sécrétion de la C

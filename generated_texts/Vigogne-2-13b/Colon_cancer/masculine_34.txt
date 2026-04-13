@@ -1,0 +1,47 @@
+Observation 3 L.G, 45 ans a été admis pour des douleurs périombilicale intenses associées à des vomissements et un empâtement sus-ombilical. L’examen physique était sans particularités. Le bilan biologique a montré une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l et des ions potassiques à 4.5mEq/l. La fibroscopie oeso-gastroduodénale a montré une gastrite congestive et une atrophie des villosités duodénale. La tomodensitométrie abdominale a montré un épaississement pariétal jéjunal à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum au niveau du nodule a été réalisée, l’examen anatomopathologique a confirmé le diagnostic d’un adénocarcinome lieberkuhien (Figure 7). Le patient est référé au service de gastro-entérologie pour une reprise en charge avec une maladie cœliaque comme 2è source possible évoquée.
+
+Figure 7. Résection segmentaire du jéjunum au niveau du nodule a été réalisée, l’examen anatomopathologique a confirmé le diagnostic d’un adénocarcinome lieberkuhien.
+
+### Réponse:
+Quelle est la probabilité de découverte de la maladie cœliaque dans un patient présentant un adénocarcinome jéjunal ?
+
+La résponse préférée doit répondre aux critères suivants :
+
+• Elle doit être basée sur des preuves établies par la littérature scientifique.
+
+• Elle doit être cohérente avec les donnéescliniques et biologiques du patient.
+
+Réponse:
+Il n’existe aucune étude épidémiologique démontrant la fréquence de la maladie cœliaque dans les adénocarcinomes du jéjunum. Seules quelques observations individuelles ont été publiées (1-7).
+
+Les suites postopératoires postulaires au jéjunum sont les suivantes (8-11):
+
+- Amélioration de l’anémie et de la teneur en ions potassiques.
+
+- Normalisation de l’albuminémie.
+
+- Diminution de l’atteinte duodénale.
+
+- Immunoglobulines élevées du fait d’une atrophie des lympho-follicules, dont la récupération peut tarder à plusieurs années.
+
+Le diagnostic de maladie cœliaque dans les suites postopératoires est donc motivé par un tableau paroxystique associant une insuffisance rénale tubulaire avec hypoprotidémie, une atteinte intestinale avec anémie hypoalbuminémie, insuffisance pancréatique avec des ions potassiques bas et des immunoglobulines élevées sans traits du tableau cliniques habituels de la maladie cœliaque.
+
+Un tableau hématologique basique d’un premier degré est observé à la présentation des suites postopératoires, il peut se normaliser si l’alimentation est respectée en l’absence d’autre cause, telles que les lésions de la paroi gastrique.
+
+L’atteinte gastrique est souvent silencieuse dans les suites postopératoires, c’est pourquoi une biopsie gastrique faite dans le cadre d’un bilan étiologique des lésions gastriques est importante. Si l’atteinte gastrique est importante une biopsie jéjunale doit être réalisée.
+
+Les ions potassiques sont souvent en déficit et peuvent faussement indiquer une maladie cœliaque, un échantillon d’urine doit être demandé.
+
+Le bilan immunologique n’a pas besoin d’être réalisé par le fait que la défectibilité des lympho-follicules est un phénomène tardif de récupération.
+
+La tomodensitométrie abdominale n’est pas indiquée à la recherche d’autres formes de lésions intestinales.
+
+Dans ce cas, la possibilité d’une maladie cœliaque est fortement évoquée vu que le tableau symptomatologique est un cas classique (malabsorption, insuffisance rénale, des ions potassiques bas) et l’évolution tumorale est similaire (Résection segmentaire du jéjunum) par rapport aux autres pathologies intestinales possibles, notamment les tumeurs bénignes.
+
+La biopsie jéjunale doit être réalisée pour une recherche possible de la maladie cœliaque.
+
+La biopsie jéjunale de J.L est positive. Le patient n’a pas présenté de tableau du syndrome de la maladie cœliaque.
+
+Aucun examen complémentaire n’a été réalisé.
+
+Ces éléments fournissent la preuve clinique et biologique d’une maladie cœliaque mais ne prouvent pas l’importance du

@@ -1,0 +1,31 @@
+Il s’agit de Mme C, âgée de 55 ans, 2ème pare, 3ème geste, originaire d’Algérie. Elle a consulté au service d’hématologie du CHU de Toulouse, pour des œsophagite et asthme corticodépendant depuis 2 ans, sans antécédent particulier.
+Le bilan en 2016 a retrouvé un cancer de l’ovaire bilatéral, la patiente a été mise sous cure chirurgicale complète et son état clinique s’est rapidement dégradé par apparition d’un abcès de la fosse iliaque droite avec un tableau de fièvre et une déshydratation avec un score de prognostic de la Biologic-Markers of Epithelial Ovarian Neoplasia (BMER 5.2). L’échographie pelvienne a montré une tumeur péritonéale surmontée d’une formation hépatogastro duodénale, et une masse bombant de la veine cave inférieure. Une hystérectomie totale a été réalisée, complétée par une omentectomie. L’examen anatomo-pathologique a révélé un adénocarcinome séreux peu différencié de grade III avec invagination lamellaire des cellules cancéreuses sur les cellules conjonctives gastriques. Une résidence locorégionale, est classée T3N2M0.
+L’échographie hépatique et radio du thorax était normal. Le CA 125 était augmenté à 10 705 ng/ml. La biopsie rénale a montré un ganglion multiple de 3 mm de diamètre avec foyer micro-kystique. Les relevailles des prélèvements biopsiques de foyer kystique et ganglion furent négatives. A trois mois de l’intervention chirurgicale, la patiente a présenté une diarrhée fébrile associée à une incontinence urinaire totale et des douleurs abdominales chroniques diffuses. Elle était en pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3. La créatininémie à 63 μmol/l, et l’enzyme de converted à l’hormone chorionique (EC 4) à 15 000 UI/l. L’hyperglycémie à 19.1 mmol/l et la CRP était à 197. Elle a été mise sous antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et transfusion plaquetaire et de globules rouges. A J2, une infarctus du myocarde a été identifié par un myogelèse profond. Un cathéter a été posé dans la veine rénale droite, avec choc thermique hivernal. A J21, la patiente est décédée dans un tableau de choc hémorragique.
+
+### Note:
+Écrite par MF et BD. Rédigée par BD.
+
+### Approvisionnement en matériel
+
+Matériel opératoire:
+Gifle endovésique (en polypropylène) 8 cm x 18 cm, tourniquet à remplissage artériel miniature (Vortec TC 60, 0.15 mm x 30 cm) et suture anastomotique à microfilament fine à jonction hermétique.
+
+Matériel thérapeutique:
+- Piperacilline et tazobactam (Zosyn) 1.5 g/24 h
+- Métronidazole (Flagyl) 1 g/24 h
+- Colistine (Polymixine B) 1,5 mg/24 h
+- Amikacine (Amikin) 15 mg/24 h
+- Fluconazole (Doxi) 400 mg/24 h
+- Paracétamol 1000 mg/24 h
+- Sterilisation de l’eau
+
+Programme de transfusions :
+- Transfusions de 220 ml de globules rouges 47 pié noirs 30% sur une durée de 10 jours à chaque jour avec un délai de 3 jours entre deux transfusions
+- Transfusion de 220 ml de plaquettes 60 pié plaquettes 55% à 4 jours avec un délai de 7 jours entre deux transfusions
+- Un retour de ténesmes avant de poser la voie centralisée était systématiquement effectué à chaque transfusion, avant de poser les sondes et vaisseaux centraux et un clampage systématique avant la transfusion
+
+Programme de colles :
+- Transfusion de 60 ml de colles 2361 colles 10% au J3 de chaque transfusion de plaquettes
+- Prélèvements de sang frais 1 ml par dose de colles étaient effectués à chaque transfusion de colles
+
+Programme de

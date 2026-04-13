@@ -1,0 +1,42 @@
+Monsieur B.M, est un jeune homme âgé de 18 ans, qui est l'aîné d'une famille de deux frères décédés par drépanocytose.
+Il présente depuis l'âge de 8 ans, des douleurs osseuses diffuses et périarticulaires, dans un contexte d'amaigrissement.
+Il aurait bu une préparation contenant du plomb, pour laquelle il n'est pas possible de savoir pourquoi il a pris ce médicament.
+Après avoir consulté un médecin pour ses douleurs, le bilan radiographique a montré la présence du plomb dans le tube digestif et une ostéonécrose aseptique en faveur d'une drépanocytose dans le bassin, le rachis et les deux cuisses.
+La radiographie du bassin et du rachis dorsolombaire sont conformes à celles du rachis lombaire.
+La sérologie du drépanocytose par électrophorèse d'hémoglobine, a montré la présence de l'hémoglobine S à 79%.
+Après avoir retiré le plomb de l'organisme, le malade a présenté une nette amélioration clinique, avec le recul de 6 mois.
+Le diagnostic de drépanocytose s'est posé devant la résistance de la radiographie aux traitements anti-lead.
+Le début des douleurs osseuses a été fait à l'âge de 8 ans, soit 10 ans après le début de la drépanocytose.
+On pense que l'ostéonécrose a été causée par une réaction en chaîne non spécifique du corps à l'hémoglobine S.
+Ceci expliquerait pourquoi le plomb y est aussi associé.
+Le délai d'apparition des lésions osseuses a été variable.
+Après 6 mois d'évolution, nous n'avons pas constaté de retentissement du dépôt de plomb sur le reste de l'organisme et le patient ne se plaint pas de douleurs osseuses diffuses.
+On pense que ceci est dû à une dégradation ou à un déplacement du plomb, qui était originellement dans le squelette osseux.
+A l'âge d'un an, le patient n'a pas développé de lésions osseuses au niveau des extrémités distales de l'humérus et du fémur, qui ont été étudiés par radiographie et TDM.
+Aucune lésion n'a été observée.
+Cette situation pourrait être dû à une dégradation du plomb au niveau des différents os, dont les deux os longs.
+L'absence de lésion par rapport à la fente osseuse distale des deux os longs, pourrait être dû à la vascularisation de ces deux os.
+Le dépôt de plomb a pu également endommager la périoste et les cellules souches de l'endoste, expliquant la rareté des lésions osseuses au niveau des extrémités des deux os longs.
+La TDM, a également montré la présence de plusieurs lésions de calcifications kystiques, comme des nodules du parenchyme pulmonaire.
+Ceci, pourrait être dû à l'interaction plomb-hémoglobine S, les cellules hématopoïétiques pulmonaires captant le plomb dans leur cytoplasme et laissant des dépôts de calcifications.
+Trois ans après la pose du diagnostic de drépanocytose, le patient n'a pas présenté de complication métabolique ou neurologique.
+On a prévu une transfusion régulière à la dite dose de drépanocytose (20 g/l).
+L'évolution au long cours reste à voir.
+
+### Response:
+Monsieur S.D, est un jeune homme âgé de 21 ans, qui est le cadet de quatre frères, décédés tous par drépanocytose.
+
+Il présente depuis l'âge de 5 ans, des douleurs osseuses diffuses et périarticulaires, en faveur d'une drépanocytose, et une rétention urinaire de posture et une fièvre, dont il présente depuis l'âge de 14 ans.
+
+Le traitement à la dextran sodium has been given but its dose (20g/l) doesn't allow us to determine its responsibility in bone lesions.
+
+En dehors des douleurs osseuses diffuses, il présente aussi des douleurs périarticulaires associées à des pseudarthroses, sans chutes au sol.
+
+En dehors des douleurs osseuses, il présente aussi une déformation plastique de la dorsolombaire et des genoux, en faveur de fractures en déplacement, sans chutes au sol.
+
+L'examen clinique a objectivé une fièvre at 38°C.
+
+L'examen ophthalmologique n'a pas montré de rétinopathie.
+
+Le bilan radiographique a montré une ostéonécrose aseptique, au niveau des deux bras, du bassin, du rachis dorsal et des deux cuisses (Figure 3, 4, 5).
+

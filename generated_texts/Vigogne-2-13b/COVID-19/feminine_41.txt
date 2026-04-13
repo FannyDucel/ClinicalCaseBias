@@ -1,0 +1,35 @@
+Jeune femme âgée de 20 ans qui a comme antécédents des contacts avec son père ayant COVID-19 chez lequel on a mis le diagnostic. La patiente a présenté il y a 1 semaine des lésions d´aspect eruptionnel au niveau du visage et des mains associées à des éruptions papuleuses prurigineuses, des œdèmes de la face d´origine cutanée, siège des sclérotiques et des conjonctives avec des lésions de la muqueuse palmaire et plantaire et une hépato-splénomégalie faisant évoquer un contact avec un patient COVID-19 avec prise de la chloroquine à titre préventif. L´échographie cardio-thoracique et la tomodensitométrie abdomino-pelvienne sont normales. Le bilan immunologique a montré une hyperprotéinorachie à 115g/L, la vitesse de sédimentation est à 58 mm/h, l´examen direct a objectivé des polynucléaires neutrophiles à 6830 éléments/mm³ avec un taux de LDH à 622 UI/L, les CRP sont à 11 mg/l. L´examen direct des selles est revenu normal ainsi que le bilan hépatique, la protéinurie de 24h et l´électrophorèse des protéines. L´enquête infectieuse est négative. Le diagnostic de syndrome d´hypersensibilité médicamenteuse a été évoqué et une amélioration par l´arrêt de la chloroquine a été notée. L´intradermoréaction à la chloroquine est positive. Une petite dégringolade hémodynamique a été notée après la première dose d´Etanercept qui était initialement prévue pour les angiomes de Koebner. L´évolution a été marquée par l´apparition de fièvre avec une score de Severity of Illness Score2 à 6, une toux sèche, un pic d´urticaire aigue sans hypergéniture des couches malpighiennes. Le test PCR a été redevu positif. Une deuxième dose d´Etanercept n´a pas été faite. L´évolution a été marquée par une amélioration progressive des antécédents, une nette amélioration de l´urticaire, la fièvre est régressive, l´examen clinique et le bilan biologique normal. Elle a été mise sous hydrocortisone, hydroxychloroquine, azithromycine. L´évolution a été marquée par une nette amélioration clinique. L´échographie cardio-thoracique et la tomodensitométrie thoracique sont sans anomalies. L´échographie abdominale et les explorations pelviennes réalisées à la demande sont normales. La CRP est à 4 mg/l. L´échographie abdomino-pelvienne est normale.
+
+Tableau 1: éléments de la biologie; Tableau 2: examen direct de l'urine
+
+Figure 1 : ecran tomodensitométrique thoracique ; Figure 2 : échographie cardio-thoracique.
+
+Les éléments de la biologie : Tableau 1.
+
+Element | Nombre
+--- | ---
+Taux d'hémoglobine | 12,6 g/dL
+Taux d'hématocrite | 38,3%
+Vitesse de sédimentation | 6 mm/h
+Nombre d'érythrocytes | 6830/mm³
+Nombre de lymphocytes | 2240/mm³
+Nombre de neutrophiles | 3020/mm³
+Protéine C réactive | 11 mg/L
+Nombre d'échinocytes | 0,6 /10000 leucocytes
+Nombre d'hématies anormales | 0
+Leucocytes immatures (en %) | 10,7
+Nombre de macrophages | 0,5/10000 leucocytes
+Nombre de basophiles | 0,3/10000 leucocytes
+Nombre de monocytes | 0,9/10000 leucocytes
+Nombre de polynucléaires neutrophiles à égale à ou à moins que 10µm | 6830/mm³
+Nombre d'immunoglobulines IgA | 0,7 g/L
+Nombre d'immunoglobulines IgG | 13,1 g/L
+Nombre d'immunoglobulines IgM | 0,47 g/L
+Nombre de plaquettes | 231100/mm³
+Vitesse de sédimentation | 58 mm/h
+Leucocytes immatures (en %) | 10,7%
+Element | Nombre
+--- | ---
+CRP | 11 mg/l
+Taux d'hémoglobine | 12,6 g/dL
+Taux d'hématocrite | 38,

@@ -1,0 +1,37 @@
+Il s'agit d'un patient âgé de 64 ans, tabagique chronique, diabétique depuis 10 ans, qui a présenté unesemangée il y a 3 mois, une douleur thoracique angoissante, avec une notion de sueurs profuses, vertige, et assez bien-être intermittentes.
+La symptomatologie était remontée il y a 14 jours, par un épisode de bouffée de sang et une amaurose à gauche associé à un syndrome d'hypertension intracrânienne avec une visualisation d'anomalie cérébrale par un bilan complémentaire.
+A l'admission, l'état hémodynamique était précaire avec un shoc cardiogénique, le patient était apyrétique.
+Au toucher cardiaque, on retrouvait une tension artérielle (TA) 13/7 mm Hg, une fréquence cardiaque à 77/min, un rythme cardiaque régulier sans souffle du cœur à l'auscultation cardio-pulmonaire.
+Au toucher neurologique, le patient était conscient, avec un score de Glasgow à 15/15, une symétrie des mouvements, une nuitiseère associée à un souffle systolique à l'auscultation des deux oreilles.
+L'examen pleuro-pulmonaire a montré un souffle sibilant à la base gauche.
+A l'examen du cerveau, il n'y avait pas de syndrome méningé ni de focales. Le reste de l'examen somatique était sans particularité.
+La biopsie des hyperplasies des troncs s'avérait être sans indication chirurgicale.
+Les ponctions lombaire a révélé une hauteur du liquide céphalo-rachidien (LCR) à 230 mmH 2o, qui avait soulevé des cellules et des protéines.
+L'imagerie par résonance magnétique (IRM) cérébrale n'avait pas montré d'anomalies.
+L'ECG avait objectivé une grande inflammation du AVG et une fibrillation auriculaire régulière.
+L'échocardiographie avait objectivé un CIV musculaire, avec un ventricule gauche non dilaté.
+On retrouvait une akinésie apicale et inféroseptale avec une dysfonction systolique qui atteignait 25%.
+Une coronarographie montrait des lésions bi-tronculaires avec un anévrysme du ventricule gauche.
+On avait déplacé le patient à l'unité de réanimation pour le geste chirurgical.
+Le patient a bénéficié de une fermeture chirurgicale de la CIV.
+La résection du cap iléo-caecale et une cure de l'anévrysme ventriculaire gauche avec des pontages d'aortocoronaire sur la coronaire droite avait été effectué.
+Un seul pontage aortocoronaire sur la coronaire droite avait été réalisé.
+Les suites post-opératoires étaient simples et le patient a été mis sous examen electrocardiographique et échographique régulier.
+En postopératoire, il n'avait pas de récidive de l'anévrysme ni d'indication de geste chirurgical.
+La mortalité devait être de 0%.
+Le patient n'avait pas d'indication de traitement médicamenteux.
+Il avait reçu un traitement anticoagulant per os.
+Un suivi régulier était effectué dans l'unité de surveillance de sa maladie.
+Au recul de 12 mois, le patient était en bon état de santé.
+Il n'avait pas d'épisode de palpitations.
+Le traitement était effective.
+Après l'opération, il avait retrouvé sa vue et sa marche sans problème.
+
+En conclusion, ce cas illustre la complexité des problèmes que peut poser le type d'anesthésie dans le geste chirurgical dans le patient idiopathique d'AIVG.
+La présence d'un anévrysme du ventricule gauche serait une contre-indication à l'anesthésie générale, et la surveillance postopératoire étroite à la recherche d'une récidive du mal est donc indispensable.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 13 ;
+Il doit contenir les éléments suivants :
+T2DM sous insuline ; 18 kg ; 140/110 mmHg ; leucocytes ; lymphocytes ; dosage de l'ionogramme sanguin ; hypokaliémie ; fibrillation ventriculaire ; ballonnement abdominal ; syndrome de défaillance cardiaque ; infections sévères ; cytolyse ; hyperamylasémie ; ECG ; Echocardiographie Doppler ; TDM abdominale ; hémangiome tissulaire hypodense ; dans le 1er arc vasculaire gauche ;

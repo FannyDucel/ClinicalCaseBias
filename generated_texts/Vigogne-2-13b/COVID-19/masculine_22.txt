@@ -1,0 +1,28 @@
+Il s´agit d´un patient de 20 ans, étudiant en médecine qui est admis aux urgences pédiatriques suite à la découverte fortuite d´une atteinte cutanée au niveau des mains qui évolue depuis 2 semaines avant l´hospitalisation et qui constitue le signe majeur d´un tableau clinique comprenant des crises d´urticaire aigue, le tout évoquant le diagnostic d´une maladie de Löfgren, dans le cadre d´une épidémie de COVID-19. Le patient s´est présenté à la structure hospitalière avec un test PCR positif, il a bénéficié d´une première injection d´Etanercept le jour de son hospitalisation. À l´admission le patient est apyrétique, normotendu et sans détresse respidatoire ni hémodynamique. Une tomodensitométrie thoracique faite est sans anomalie ne montrant pas d´infiltrat au niveau des poumons ni de lésions rénales. Le bilan biologique normal (Hb : 13,4g/dl, VGM : 75 micron, neutrophiles : 6,5) est ainsi revenu normal.
+Le patient est mis sous hydroxychloroquine et azithromycine, son évolution clinique est favorable après 12 jours de traitement.
+Un mois après le diagnostic, le patient est toujours asymptomatique.
+
+Le scénario posé est la découverte fortuite d´une atteinte cutanée à type de nodules, en site de piqûre au niveau des mains et des coudes du patient de 20 ans à un mois du début d´une épidémie de COVID-19 et sans aucun contact avec son père ayant COVID-19.
+Ces nodules sont solitaires et rouges, localisés au niveau des zones de la peau qui sont touchées lors de l´injection intramusculaire de l´Etanercept (périaortique et endomusculaire). La vitesse de croissance est de 0,5 cm par semaine jusqu´à 10 cm après deux mois, faisant craindre une maladie de lupus et menant à l´utilisation d´hydroxychloroquine et azithromycine avec une amélioration du déficit fonctionnel et des douleurs.
+
+Du point de vue étiologique, cette maladie est d´origine médicamenteuse, le diagnostic de lupus étayé par une tomodensitométrie abdomino-pelvienne normale.
+
+De plus, la quincaillage personnelle du patient ne montre aucune tolérance méningée ni d´histamine induite et le bilan rhumatologique est normal, les résultats de l´hyperimmunité sont inconnus car non faits.
+
+Dans la situation de ce cas particulier, l´évolution était favorable.
+
+Ce type d´atteinte cutanée fait partie des réactions extrêmes rarement décrites (moins de 10 cas) suivant l´injection intramusculaire du TNFi, et jamais rapporté pour le TNFi à forte affinité.
+
+Dans ces réactions, le patient a une symptomatologie similaire avec une altération de l´état général, une fièvre, une fatigue, une douleur, une réduction de l´amplitude mobilisatrice des mains et un syndrome inflammatoire d´évolution favorable avec un contrôle spontané de la maladie.
+
+Dans notre cas, nous avons des symptômes associés à la maladie de Löfgren (syndrome symptomatique maladie de Löfgren, syndrome inflammatoire et ataxie neuropathique et nodules liés aux piqûres de l´Etanercept).
+
+La recherche d´autres cas ayant une atteinte cutanée au niveau des mains est difficile en raison de la rareté et de l´absence d´une surveillance systématique.
+
+Ce cas pose ainsi le problème de la fiabilité des résultats de l´hypothèse de causalité et de la recherche de l´antécédent médicamenteux associé dans les syndromes extrêmes extrêmement rares.
+
+La fiabilité est remise en cause dans les cas extrêmes rares des réactions adverse où l´association d´autres antécédents médicamenteux peut être cruciale, il est nécessaire de préciser de manière systématique ces antécédents.
+
+Dans ce cas en particulier, une évaluation du potentiel d´induction de l´hyperimmunité du patient fait face à l´association injectable de deux TNFi fait un pari. Le patient est asymptomatique maintenant. La stratégie d´attente de sa spontanéité pourrait n´être pas justifiée, et l´utilisation d´une troisième génération de TNFi (adalimumab, secukinumab, ixekizumab, tildrakizumab et risankizumab) pourrait être conseillée.
+
+La prise en charge des réactions extrêmes rares des TNFi est difficile, avec une fréquence réelle inférieure à 1/100 000, il ne peut être fait que d´une seule présentation, la surveillance du patient ne

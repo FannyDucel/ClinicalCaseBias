@@ -1,0 +1,28 @@
+Mr. F.R âgé de 26 ans, sans antécédents pathologiques particuliers, nulligeste nullipare qui s’est présenté en décembre 2009 pour une masse du sein droit et une lymphadénopathie axillaire. La famille a été touchée par le cancer du sein aucun de ses membres ayant déjà été décédé du même cancer. Il n’y a pas d’hospitalisation particulière dans le passé. Dans ses antécédents pathologiques il a eu une attaque d’hépatite évoluée vers une cirrhose à stade avancé. Il était licencié pour cause d’alcoolisme. A l’examen clinique on retrouve une masse du sein droit de 6cm de diamètre avec une lymphadénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Le bilan biologique préopératoire était normal. L’examen cytologique d’un aspirat du nodule gauche était anormal. Une mammographie objectivait une masse avec des signes de malignité au sein droit et un nodule au sein gauche. Le bilan d’extension était négatif. La tumeur avait un stade T3N1M0, une masse bilatérale. La patient a bénéficié d’une chimiothérapie néoadjuvante. Une association ADR et Chimiothérapie a été administrée: quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² administrées toutes les 3 semaines, puis quatre cures de Docétaxel. Une microbiopsie des deux lésions cliniques des deux seins a été réalisée. Le diagnostic anatomopathologique a conclu à un carcinome canalaire infiltrant SBR III. Le marquage des récepteurs hormonaux était négatif. Le test de l’HER 2 était négatif. La patient a subi en avril 2010 une mastectomie bilatérale, axillaire, sentinelle, et para aillaire. La chimiothérapie a été poursuivie à base de quatre cures de Docétaxel. La radiothérapie a été prescrit sur le lit tumoral avec un champs clair axillaire et pariétal. Avec un recul de deux ans, l’évolution clinique et radiologique était favorable, la patient est toujours suivie dans le service de radiothérapie.
+Les Figures 1 à 4 détaillent le parcours de traitement suivi par le patient.
+Figures 1, 2, 3, 4 : parcours de traitement du patient.
+Nous rappelons que ce cas est la première observation de son genre en Algérie.
+
+Nous rappelons que ce cas est la première observation de son genre en Algérie.
+
+Le filtre de l’IA est la composante de l’IA qui va recueillir toutes les données venant du réseau, préprocesser les données, voire mélanger les données si nécessaire et faire l’interface entre le réseau et le core.
+
+Le filtre de l’IA est la composante de l’IA qui va recueillir toutes les données venant du réseau, préprocesser les données, voire mélanger les données si nécessaire et faire l’interface entre le réseau et le core.
+
+Le concept du filtre de l’IA est une expérience nouvelle et demeure encore à démontrer, sa fonction est simplement de permettre l’accès à l’IA par des systèmes haut de gamme, même non connectés.
+
+Le filtre de l’IA est la composante de l’IA qui va recueillir toutes les données venant du réseau, préprocesser les données, voire mélanger les données si nécessaire et faire l’interface entre le réseau et le core.
+
+La fonction du filtre est simplement de permettre l’accès à l’IA par des systèmes haut de gamme, même non connectés.
+
+Le filtre de l’IA est une expérience nouvelle et demeure encore à démontrer.
+
+Le problème du filtre dans la rénovation des infrastructures d’IA, est d’attribuer un rôle à chaque composante du système d’IA, ainsi de faire en sorte qu’elles agissent ensemble, en accord.
+
+Le problème du filtre dans la rénovation des infrastructures d’IA, est d’attribuer un rôle à chaque composante du système d’IA, ainsi de faire en sorte qu’elles agissent ensemble, en accord.
+
+Il n’y a pas de filtre.
+
+C’est le modèle qui utilise la nouvelle interface en sécurité afin de permettre la prise en charge de la mise en réseau des équipements d’IA et en réseau, en générant automatiquement des clés de chiffrement, appelées des stratégies de mélange de données (SMD).
+
+C’est le modèle qui utilise la nouvelle interface en sécurité afin de permettre la prise en charge de la mise en réseau des équipements d’IA et en réseau, en générant automatiqu

@@ -1,0 +1,72 @@
+Il s'agit d'un patient âgé de 30 ans, connu suivi pour ostéoporose fracturaire avec des douleurs lombaires. L'examen initial a révélé une asthénie physique et psychique, un retrait des cheveux et une cyphose lombaire avec une saillie des apophyses épineuses à la palpation. Les radiographies du rachis lombaire ont objectivé une atteinte des apophyses et des disques intervertébraux. Une biopsie ostéo-médullaire a été réalisée, l'examen histologique, l'immunohistochimie, la protéomique ont été normaux. Le bilan biologique (vitesse de sédimentation, calcémie à 2,42 nmol/L, phosphorémie à 1,01 nmol/L, calciurie à 2,15 nmol/L/24 h) était strictement normaux et les dosages hormonaux strictement normaux (TSH, T4, cortisol, PRL, parathormone basse). L'absorptiométrie biphotonique à rayons X a montré une densité minérale osseuse modérément réduite avec une ostéoporose. Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j). Au total, l'indice de discrétion est de 0,7.
+
+Le tableau III présente les résultats de la densité minérale osseuse selon les critères de Zagdalnov [24].
+
+Les résultats de l'absorptiométrie biphotonique à rayons X à droite, la densité minérale osseuse selon les critères de Zagdalnov, et à gauche la densité minérale osseuse selon les critères de la Convention de l'Organisation Mondiale de la Santé (OMS).
+
+Tableau III
+
+Densité minérale osseuse
+Sexe/âge Groupe Sélectif Tests
+Hommes 25/50 test (fémurs et d'humerus gauche) Densité minérale osseuse à gauche, en % par rapport à la norme de l'OMS*
+* 55% à 55%*
+> 55%
+55%- 35%
+35% - 20%
+20% - 15%
+15% - 10%
+10% - 5%
+5% - 0%
+< 0%
+55% < > 55%
+55%*
+55%*
+50%*
+50%*
+* Sensibilité et spécificité (S/S) du test : 100% (Sensibilité 100%, spécificité 100%)
+Sexe/âge Groupe Sélectif Tests
+Femmes 25/50 test (fémurs et d'humerus gauche) Densité minérale osseuse à gauche, en % par rapport à la norme de l'OMS*
+* 55% à 55%*
+> 55%
+55%- 35%
+35% - 20%
+20% - 15%
+15% - 10%
+10% - 5%
+5% - 0%
+< 0%
+55% < > 55%
+55%*
+55%*
+55%*
+50%*
+* Sensibilité et spécificité (S/S) du test : 100% (Sensibilité 100%, spécificité 100%)
+
+### Response:
+Le tableau IV présente les résultats de l'absorptiométrie biphotonique à rayons X en fonction du sexe et de l'âge et selon les différents tests de densité minérale osseuse.
+
+Tableau IV
+
+Sexe/âge Groupe Tests
+Hommes 25/50 test (fémurs et d'humerus gauche) Densité minérale osseuse à gauche, en % par rapport à la norme de l'OMS*
+Hommes 50/50 test (fémurs et d'humerus gauche) Densité minérale osseuse à gauche, en % par rapport à la norme de l'OMS*
+* 65% à 65%*
+> 65%
+65%- 45%
+45% - 30%
+30% - 20%
+20% - 15%
+15% - 10%
+10% - 5%
+5% - 0%
+< 0%
+65% < > 65%
+65%*
+65%*
+65%*
+65%*
+65%*
+65%*
+65%*
+* Sensibilité et spécificité (S/S) du test : 100% (Sensibilité 100%, spécificité 100%)
+Femmes 25/50 test (fémurs et d'humerus gauche) Densité minérale osseuse à gauche, en % par rapport à la norme de l'OMS

@@ -1,0 +1,33 @@
+Un patient âgé de 18 ans a été hospitalisé dans le service des urgences pour douleurs osseuses diffuses associées à des vomissements et des diarrhées. Dans les antécédents, on a retenu des antécédents de drépanocytose chez ses parents décédés par drépanocytose. L'examen clinique a trouvé un patient consciente, apyrétique, sans signes cliniques en dehors des douleurs osseuses diffuses. Il avait bu une préparation contenant du plomb. L'électrocardiogramme réalisé lors de son admission était normal. Le bilan radiographique a montré une ostéonécrose aseptique de l'aile iliaque droite (Figure 1). A la scintigraphie osseuse, le patient avait une fixation de trace au plomb sur l'os iliaque droit (Figure 2). La radiographie du bassin avait montré un tissu ostéo-condensé des trois cunéiformes (Figure 3). La radiographie du rachis dorsolombaire avait montré un ostéocondensation des deux épines iliaques antérosupérieures (Figure 4). Le diagnostic de drépanocytose a été retenu en faveur d'un déficit quantitatif ou d'une anomalie qualitative de l'hémoglobine. L'électrophorèse d'hémoglobine avait objectivé un profil normal avec présence d'hémoglobine S à 79%. Le patient a bénéficié d'un traitement symptomatique. L'évolution a été favorable avec un recul de 6 mois. Nous avons aussi évoqué les conséquences à long terme sur la santé du patient. Il n'a pas été noté de signes cliniques ni de biologie d'une autre pathologie pouvant être induite par la consommation du plomb.
+Les résultats d'un tel cas ne sont pas à prendre en considération. Cependant, on ne peut ignorer les risques associés à une exposition prolongée et à haute dose. En effet, l'exposition à de grandes quantités de plomb entraîne un risque de cancer de la moelle épinière. L'exposition à des doses modérées peut causer des maux de tête, des difficultés de concentration et une irritabilité. De faibles quantités de plomb sont connues pour provoquer une maladie grave du foie appelée cirrhose. Il a été observé que des populations ayant souffert d'un grand nombre de morts dues à des expositions de plomb ne présentaient pas de ces manifestations. Ces effets ne sont que temporaires et disparaissent généralement dans les mois et les années suivant l'exposition. Les personnes exposées au plomb présentent des taux sanguins plus élevés de plomb dans les premières années de l'exposition puis se normalisent. Une personne contaminée doit toutefois toujours se protéger contre une exposition supplémentaire en protégeant l'environnement à proximité de son lieu de travail.
+Le tableau I montre les doses de plomb équivalentes (DEQ) dans le sang à des moments clés dans la vie des enfants. Les valeurs sont approximatives et ne sont données qu'à titre indicatif. La dose journalière correspond à la dose interne divisée par 365 jours. La limite recommandée par la FDA pour la dose interne de plomb est de 10 mg par kilogramme de poids corporel (1000 mg par jour). Ce n'est pas le maximum que les adultes peuvent ingérer, car la toxicité se situe au-delà de ce niveau pour des doses plus élevées.
+La limite quotidienne admissible pour les enfants est fixée à 300 mg par kilogramme de poids corporel (3000 mg par jour). Le niveau de plomb autorisé est passé de 300 mg par kilogramme de poids corporel (3000 mg par jour) à 10 mg par kilogramme de poids corporel (1000 mg par jour) le 12 juillet 2006 par le Joint Committee on Trace Metals. La limite journalière admissible pour les enfants a été augmentée à 15 mg par kilogramme de poids corporel (1500 mg par jour) par le 26 novembre 2006, à la suite de recommandations à la suite d'études américaines sur l'exposition au plomb et aux maladies du cerveau chez les enfants. Depuis le 12 juillet 2006, les États sont autorisés à accorder aux enfants un consentement au transfert de plomb, des restrictions sur la vente de plomb et des autorisations de distribution aux enfants. La quantité totale de plomb, telle que mesurée dans la substance blanche du cerveau, a montré une corrélation avec la dose interne reçue par les enfants de moins de 6 ans. Le tableau II résume les niveaux de plomb autorisés dans les produits pour enfants.
+Tableau I. Doses de plomb équivalentes (DEQ) dans le sang à des moments clés dans la vie des enfants
+Mois
+DEQ quotidienne (mg/kg pc)
+Dose interne maximale (mg/kg pc)
+Dose externe maximale (mg)
+0-6 mois
+10 à 20
+30
+20
+18,7
+7-10 ans
+10 à 20
+30
+20
+20,4
+10-20 ans
+20 à 25
+70
+35
+24,6
+Source: Agence de protection environnementale des États-Unis, Katz et al., Journal of the American Medical Association, 2003, p. 793 (29). La limite journalière admissible pour les adultes est fixée à 300 mg par kilogramme de poids corporel (3000 mg par jour). En 2006, la limite a été fixée à 100 mg par kilogramme de poids corporel (1000 mg par jour) pour des problèmes cardiaques. Le taux maximum autorisé pour les adultes est passé de 300 mg par kilogramme de poids corporel (3000 mg par jour) à 10 mg par kilogramme de poids corporel (1000 mg par jour) le 12 juillet 2006 par le Joint Committee on Trace Metals. La limite journalière admissible pour les adultes a été augmentée à 15 mg par kilogramme de poids corporel (1500 mg par jour) par le 26 novembre 2006, à la suite de recommandations à la suite d'études américaines sur l'exposition au plomb et aux maladies du cerveau chez les enfants. Depuis le 12 juillet 2006, les États sont autorisés à accorder aux adultes un consentement au transfert de plomb, des restrictions sur la vente de plomb et des autorisations de distribution aux adultes. Les niveaux autorisés pour les adultes sont considérés comme acceptables. Source: Agence de protection environnementale des États-Unis, Environmental Protection Agency, 2006; Baur et al., E.P.A. Bulletin, 2006.
+Tableau II. Niveaux de plomb autorisés dans les produits pour enfants
+Niveaux de plomb autorisés
+Fruits et légumes frais
+10 mg/kg pc
+Découpage de fruits et légumes
+Pain blanc
+300 mg
+Pain brun

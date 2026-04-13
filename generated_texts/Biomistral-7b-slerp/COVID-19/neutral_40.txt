@@ -1,0 +1,31 @@
+Cas 2: un homme de 20 ans a présenté une atteinte cutanée au niveau des mains. L´étiologie a été une éruption urticaroïde aigue (EAU) suite à un contact avec son père ayant COVID-19. Une échelle d´évaluation visuelle de l´urticarie a été utilisée, avec un score d´EAU à 3,5, et les éruptions ont disparu sans traitement. Un test PCR positif au SARS-CoV-2 à 7 jours du début des éruptions a motivé le patient à faire une immunothérapie par injection d´Etanercept (25mg) une fois par semaine pendant 2 mois.
+Au 4ème mois, l’atteinte cutanée était absente, le patient était apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était normale et le bilan biologique normal. L’hydroxychloroquine (200mg 2fois par jour pendant 10 jours) et l’azithromycine (1 g 1fois par jour pendant 5 jours) ont été administrés comme prophylaxie. Les éruptions cutanées avaient récidivé à 11 jours de la fin du traitement, et l´Etanercept a été administré en cas de récidive pour faire des épisodes de courte durée, mais qui ont persisté pendant 2 mois.
+Ce tableau représente 2 cas de malades hospitalisés dans le service de dermatologie et de vénéréologie pour éruption cutanée aiguë avec positivement leur test PCR positif au SARS-CoV-2. Le traitement inflammatoire systémique par injection d´Etanercept fait le renforcement de l´innate et adapte le traitement de la maladie aigue en évitant un autre prélèvement bronchique et la persistance d´une inflammation systémique après avoir retiré l´hydroxychloroquine et l´azithromycine.
+
+Rétrospectivement, ces 2 patients ont été enquêtés pour la présence d´une autre atteinte respiratoire ailleurs, d’où l’arrêt du traitement anti-viral à 5 jours, le diagnostic de urticaire aiguë provoquée et notre choix de traitement pour cette atteinte cutanée. La persistance d’une inflammation systémique après avoir retiré les deux traitements anti-viral a motivé la consultation de dermatologue et du chirurgien thoracique. Le patient a présenté des difficultés pour transporter ses medicaments en cas d’admission au service. Le traitement a été modifié. Le choix de la durée du traitement est basé sur les critères d’inclusion du COVIDSCORE. Les effets secondaires du traitement, soit les antiviraux soit le traitement anti-inflammatoire, notamment les troubles du métabolisme du lipide, l’hypo-calciémie, les crises hypoglycémiques, l’arrêt du rythme cardiaque et les troubles de l’hémostase, ont motivé les prises de décision du praticien de base qui a renvoyé les patients vers le service de dermatologie et de vénéréologie.
+
+Le patient a été reçu à l’hôpital à 25 jours du début des symptômes, avec des symptômes en attente de l’administration des traitements anti-inflammatoires, notamment une toux hémoptysique et dyspnée à la moindre effort.
+
+Le dosage de la transaminase auparavant était à 32 UI/l (54 UI/l). Le dosage a été répété à 60 UI/l (54 UI/l) après 5 jours de traitement.
+
+Le dosage de l’ASAT après 7 jours d’Etanercept était à 70 UI/l (54 UI/l).
+
+Le dosage de l’ASAT après 3 mois d’Etanercept était à 36 UI/l (54 UI/l).
+
+Le dosage de la CPK avant l’immunothérapie était à 56 UI/l (71 UI/l). Le dosage a été répété à 130 UI/l (71 UI/l) après 7 jours de traitement.
+
+Le dosage de la CPK après 3 mois d’Etanercept était à 67 UI/l (71 UI/l).
+
+Les éléments cliniques sont résumés dans le Tableau I.
+
+Nous n’avons pas noté de trouble du comportement psychiatrique, hormis l’angoisse du patient.
+
+Le bilan de base et le bilan immunologique pour l’évaluation de la lupus erythematosus étaient normaux.
+
+Le bilan infectieux était négatif, à l’exception de la PCR positive au SARS-CoV-2.
+
+Le patient a été mis sous vérapamil pour le syndrome de libération de calcium.
+
+Le traitement est résumé dans le Tableau II.
+
+Le patient a été transféré au service de soins intensifs pour une pneumopathie à

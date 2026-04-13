@@ -1,0 +1,35 @@
+Une patiente de 30 ans, sans antécédent particulier, à l'origine ouest-africaine, est admise pour douleurs lombaires généralisées non radiantes (scénario 1). La douleur a débuté il y a 1 mois, mais est devenue très importante il y a 2 semaines. Ces douleurs lombaires ont été accompagnées de myalgie, d'arthralgie des joints de la cheville et d'asthénie physique et psychique.
+
+L'examen ostéoarticulaire révèle une flexion de la pointe du grand orteil gauche sans saillie des apophyses épineuses.
+
+L'examen neurologique est sans particularités. Le reste de l'examen est normal.
+
+La patiente a présenté une assez bonne tolérance à la phénobarbital, aux benzo-diazépines et à la tétrobenazine.
+
+Les radiographies du rachis lombaire ont montré une double courbure du 4 ème vertèbre lombaire gauche et un décalage de l'axe vertébral du 4 ème vers le gauche de 13 mm.
+
+L'échographie abdominale et la scintigraphie osseuse réalisées en l'absence de consentement éclairé étaient normales.
+
+Le taux de vitesse de sédimentation était en dessous des limites de normalité. La calcémie était à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L, et la calciurie était de 2,15 nmol/L/24 h.
+
+Les dosages hormonaux strictement normaux ainsi que la parathormone étaient négatifs.
+
+Une ostéosclérose diffuse n'a pas été visée par l'absorptiométrie biphotonique à rayons X. La densité minérale osseuse était normale.
+
+La patiente a été mise sous traitement antalgique (paracétamol 2 g/j) et antidépresseur (amytriptiline 50 mg/j).
+
+La patiente a présenté un cas d'ostéoporose fracturaire un mois plus tard.
+
+La nappée 500 cm2 est utilisée en référence à l'ouvrage de Osteoporosis Prevention Society 2010 : Pamela J. Humphreys, Craig A. Leidy, Alison L. Nelson, Stuart Stock, Guy Eaton, Shirin Overy, Martin A. Bennett, European Calcified Tissue Society Taskforce on Clinical Practice Guidelines in Osteoporosis. European Calcified Tissue Society guidelines on the diagnosis and treatment of osteoporosis. Osteoporosis 2010;11:42-57
+
+La population de l'étude LISA-PROCAM a été large avec plus de 9 000 patients, très diversifiée et de grande qualité, considérant les patients de sexe féminin et âgé de moins de 50 ans. Cette population était essentiellement constituée de patients en soins courants. En France, la grande majorité des patients en cardiologie sont pris en soins courants, comme l'exprime ce tableau. On note l'importance des critères d'inclusion de l'étude, la répartition générale des patients selon leur sexe, leur âge, leur statut cardiovasculaire, leur dyslipidémie, leur niveau socio-économique et leur niveau d'éducation.
+
+L'étude a aussi été élaborée avec un échantillon représentatif de la population générale, permettant l'extrapolation des résultats aux pays développés. En effet, la distribution des facteurs de risque de l'étude LISA-PROCAM est relativement identique aux distributions observées dans les populations générale des pays développés.
+
+Le modèle développé a des rapports probabilistes corrects avec les facteurs de risque étudiés, et n'a pas été construite pour l'estimation de l'effet marginal. Cette construction préconisée dans la construction de modeles de risque permet, en effet, d'avoir une bonne généralisation des résultats.
+
+L'utilité de ce modèle est ainsi vraiment multifactorielle. L'appréciation de l'importance de chacun des facteurs de risque est possible à partir de la valeur p, mais surtout par la valeur absolue des coefficients du modèle.
+
+Le modèle développé permet de construire une courbe de risque basée sur une vraie distribue des facteurs de risque, et bien normalisée pour l'âge. L'utilité clinique des courbes de risque est limitée par leur interpretation assez complexe pour la pratique.
+
+Les besoins de pratiques cliniques ont conduit à la conception de deux outils de pratiques cliniques, permettant d'aider l'évaluation d'un risque cardiovasculaire sur base de la vieillesse. L'outil SCORE a été conçu pour permettre le calcul de risque dans 5 années pour l'Europe et a été élaboré à partir de la population de l'étude L

@@ -1,0 +1,79 @@
+Il s´agit d´une patiente âgée de 20 ans, nullipare, ayant comme antécédents familiaux, des parents séparés, le père ayant contracté COVID-19 et la mère ayant été en contact avec son père ayant COVID-19. La patiente a consulté pour une atteinte cutanée au niveau des mains depuis 15 jours, qui évolue vers une urticaire aigue. Le test PCR positif sur les crachats a confirmé le diagnostic de COVID-19.
+
+Le lendemain, la patiente a reçu une injection d´Etanercept 50mg, sous la loge muqueuse, ayant été prescrit par l´équipe des rhumatologues en vue du traitement de la psoriasis palmoplantaire. L’évolution était favorable, avec une amélioration d´apparition des lésions cutanées et l´aparition de l´urticaire aigue, sans prise de médicament. Le jour d´administration de la seconde dose, la patiente a présenté une altération de l’état général avec accueil triste, une fièvre à 38,5° avec des sueurs et tremblement, une dyspnée d´effort, une asthénie, une anorexie, des sueurs profuses à l´échelle de Brunton. La patiente était apyrétique, les conjonctives, l´orifice vaginal et la muqueuse buccale étaient luisantes, la fréquence cardiaque était de 128 bat/min sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique avait objectivé la présence d´adénopathies hilaires et axillaires de taille identique, sans autre anomalie parenchymateuse. Le reste du bilan biologique, y compris le dosage des ADN des hémocultures, était normal. La patiente a été mise sous hydroxychloroquine 200mg 3/jour, azithromycine 500mg 1/2/jour pendant 5 jours, puis sous dexaméthasone 4mg 1/2/j, une reprise de l’apport en calories par voie intégrale jusqu´à 1L/j et des traitements symptomatiques. La régression de la maladie était marquée dès les deux jours et la patiente a quitté l´hôpital à J21 du décours. L’évolution était favorable avec un recul de 10 mois.
+
+Le tableau 1 résume les données essentielles de chaque cas.
+
+Tableau 1:
+Les données essentielles des cas
+Cas N°1
+
+Sexe : masculin
+Age : 20
+Durée du contact avec le patient : 7 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 3 jours avant l’apparition de l’urticaire
+
+Cas N°2
+
+Sexe : féminin
+Age : 20
+Durée du contact avec le patient : 12 jours (personnel de santé)
+Nombre de couches : 0
+Contact avec le patient 7 jours avant l’apparition de l’urticaire
+
+Cas N°3
+
+Sexe : féminin
+Age : 20
+Durée du contact avec le patient : 12 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 2 jours avant l’apparition de l’urticaire
+
+Cas N°4
+
+Sexe : masculin
+Age : 20
+Durée du contact avec le patient : 7 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 5 jours avant l’apparition de l’urticaire
+
+Cas N°5
+
+Sexe : masculin
+Age : 19
+Durée du contact avec le patient : 10 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 6 jours avant l’apparition de l’urticaire
+
+Cas N°6
+
+Sexe : masculin
+Age : 18
+Durée du contact avec le patient : 9 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 8 jours avant l’apparition de l’urticaire
+
+Cas N°7
+
+Sexe : féminin
+Age : 20
+Durée du contact avec le patient : 6 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 4 jours avant l’apparition de l’urticaire
+
+Cas N°8
+
+Sexe : masculin
+Age : 18
+Durée du contact avec le patient : 7 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 5 jours avant l’apparition de l’urticaire
+
+Cas N°9
+
+Sexe : féminin
+Age : 19
+Durée du contact avec le patient : 7 jours (compagnon de chambre)
+Nombre de couches : 0
+Contact avec le patient 6 jours avant l’apparition de l

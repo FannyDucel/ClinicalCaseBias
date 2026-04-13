@@ -1,0 +1,90 @@
+Un jeune patient de 30 ans, sans antécédents pathologiques, a consulté dans un hôpital de la capitale pour des douleurs lombaires d'aggravation progressive évoluant depuis une année et seompliquant par l'apparition de douleurs en bas de l'épaule droite et de frissons. Ces douleurs étaient accompagnées d'une asthénie physique et psychique avec une augmentation du temps de réponse au miroir.
+
+L'examen clinique trouvait un patient en bon état général. L'examen ostéoarticulaire ne trouvait aucune cyphose lombaire avec saillie des apophyses épineuses, ni rotation de l'arc lombaire. Les radiographies du rachis lombaire étaient normales. Les calcémies, phosphorémies et calciuriémies étaient respectivement à 2,42 nmol/L, 1,01 nmol/L et 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (adrenarénine à 4,7 pg/ml, cortisol (en cascade de stimulation par la pression artérielle et par l'adrenarénine) à 394 nmol/l, testostérone à 3,4 nmol/l, parathormone à 69 pg/ml). Une absorptiométrie biphotonique à rayons X avait objectivé une densité minérale osseuse au niveau du dos à 0,49 g/cm 2. L'histologie osseuse n'avait pas été réalisée.
+
+Ce patient a été mis sous traitement médical à base de paracétamol (2 g/j) et d'amitriptyline (50 mg/j). Une analyse approfondie de l'évolution clinique a permis de poser le diagnostic de syndrome de Cushings d'origine pituitaire. Les séances d'hémodialyse ont été régulées sur les valeurs sanguines du patient.
+
+A 3 mois, le patient avait récupéré totalement et ses antécédents cardiovasculaires et endocrinopathiques avaient été mis en évidence. Depuis, il est adopté une régularité des traitements et la durée de survie du patient est actuellement à 3 années et demi.
+
+Le tableau I présente l'évolution clinique du patient. Le tableau II présente les résultats d'hémogramme et de transfusion sanguine.
+
+### Response:
+Évolution clinique et biologique
+
+Age
+Masse corporelle
+Peu importants
+Lumière oculaire
+Mort subite
+Critique
+Fébrile
+Hémoglobine
+5,8 g/l
+Voie de recharge
+Acide férri-sodique
+Calciurie
+2,15 nmol/l/24 h
+Parathormone basse
+Calcémie
+2,42 nmol/l
+Phosphorémie
+1,01 nmol/l
+Phosphaturie
+24,9 mg/l
+Densité minérale osseuse
+0,49 g/cm 2
+Fractures osseuses
+Test de stimulation de la production d'érythropoïétine
+Sels de régénération osseuse
+Rechute
+Beta-bloquant
+Calciurie
+2,07 nmol/l/24 h
+Phosphorémie
+1,00 nmol/l
+Phosphaturie
+24 mg/l
+Calcémie
+2,52 nmol/l
+Normochromie 136 mg/l
+75 mg/l
+76 mmol/l
+Densité minérale osseuse
+0,58 g/cm 2
+Parathormone augmentée
+Réduction des doses de paracétamol
+Bilan osseux (absorption minérale osseuse)
+Calcémie
+2,5 nmol/l
+Normocalcémie
+78 mg/l
+Normochromie
+132 mg/l
+Diurèse osseuse par des radio-isotopes de calcium
+Calcémie
+2,31 nmol/l
+Calciurie
+1,55 nmol/l/24 h
+Diurèse osseuse par des radio-isotopes de calcium
+Calcémie
+2,16 nmol/l
+Calciurie
+1,12 nmol/l/24 h
+27 mg/l
+Calcémie
+2,30 nmol/l
+Diurèse osseuse par des radio-isotopes de calcium
+Calcémie
+2,33 nmol/l
+Calciurie
+1,11 nmol/l/24 h
+Calcémie
+2,58 nmol/l
+Calciurie
+1,33 nmol/l/24 h
+Diurèse osseuse par des radio-isotopes de calcium
+Calcémie
+2,25 nmol/l
+Calciurie
+1,36 nmol/l/24 h
+Diurèse osseuse par des radio-isot

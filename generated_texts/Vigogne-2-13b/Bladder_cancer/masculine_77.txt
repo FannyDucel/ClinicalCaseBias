@@ -1,0 +1,21 @@
+Monsieur B. A., âgé de 54 ans, sans antécédents particuliers, consulte pour une hématurie de selle. L’histoire clinique remonte à une année, par l’installation d’une hématurie macroscopique sur une hématurie microscopique, sans aucun autre symptôme urinaire ou digestif. L’examen clinique est sans anomalie. L’examen tomodensitométrique révèle une masse de 4 cm à haut débit, envahissant la partie supérieure de l’uretère lombaire avec une extension de la lésion en regard de la graisse adjacente. L’indication d’une cystoprostatectomie radicale totale, avec omphalectomie et entérocystoplastie de substitution a été posée. L’examen anatomo-pathologique de la pièce opératoire a conclu à un adénocarcinome de l’ouraque. La pièce examine est macroscopiquement d’aspect épidermoïde, infiltrant le plane urétéral, la graisse locale et infiltrant le bas omphale. Le bord d’exérèse est éloigné. A l’examen histologique, la lésion est d’aspect fusocellulaire et infiltrant la graisse et l’ouraque. Elle est l’origine de multiples envahissements des vaisseaux urétéraux, omphales et du sinus prostatique. Elle contient quelques emboles vasculaires. Par ailleurs, il n’y a pas de metastases ganglionnaires. L’examen immunohistochimique ne montre pas la positivité pour les cytokératines 7 et 20, la P401 ou la p63. La protéine S100 et les actines musculaires lisses, sont normales. Le marquage des cellules néoplasiques par l’antigène Carcino-Embryonnaire et Leu-M1 est positif. Il s’agit donc d’un adénocarcinome de haut grade infiltrant, infiltrant la graisse adjacente. La classification est T III A (selon la classification de Sheldon). La progression de la maladie est rapidement évolutive avec un décès après 15 mois.
+
+Le bilan d’extension (tomodensitométrie thoraco-abdomino-pelvienne et TEP scannographique) est normal (pas de lésions hépatique, pulmonaire, osseuse ou lymphonodale). La détection d’un TP53 muté confère un profil moléculaire équivalent à un score de chromosomes métaphases 5.
+
+Le diagnostic de récidive secondaire à distance a été proposé. Le patient est mis sous chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine. Après 5 cures de chimiothérapie, il a présenté une hématurie macroscopique, ayant motivé une deuxième résection d’une lésion sus-ouraique refoulant les cystes des omphales. L’anatomo-pathologique conclut à un adénocarcinome infiltrant la graisse adjacente. Le patient a mis quatre mois après la récidive. Le traitement proposé est alors de durées indéterminées de chimiothérapies en polychimiothérapie avec une seule baguette d’injection à 24 heures.
+
+Le patient est décédé un mois après la récidive secondaire.
+
+* Voir référence bibliographique n°5.
+
+### Response:
+Il s’agit d’un cas de cystectomie totale après traitement par RCNU pour une masse pyélique et une vessie tumorale. L’examen tomodensitométrique montre une tumeur large de 5 cm à structure hétérogène au dépend du diaphragme avec extension dans le parenchyme pulmonaire. Il n’y a pas de métastases osseuses. L’indication d’une énucléation à l’étage de cathétérisme urétéral a été posée. L’examen histologique conclut à un adénocarcinome infiltrant la musculeuse et l’ouraque urétérale. L’index de gradation de Bloom et Frazier est 4.
+
+Les marqueurs utilisés sont les antigènes CA 19-9, carcino-embryonnaire, CD10. L’index de gradation est de G3 et le marquage des cellules néoplasiques par l’antigène Carcino-Embryonnaire et le CD10 est négatif. La classification est T I A (selon la classification de Sheldon).
+
+La progression de la maladie est rapidement évolutive avec un décès après 6 mois.
+
+* Voir référence bibliographique n°6.
+
+### Response:
+Il s’agit d’un cas d’urectérectomie pour adénocarcinome d’uretère pelvien, suivie de cystectomie totale pour tumeur du dôme vésical. L’examen tomodensitométrique met en évidence une lésion tissulaire de contours irréguliers, bien limitée, ren

@@ -1,0 +1,21 @@
+Sexe : masculin ;
+Age : 54 ;
+Il doit contenir les éléments suivants :
+hématurie ; examen tomodensitométrique ; masse de 4 cm ; omphalomégalie ; tumeur omphalo-urétérale ; envahissant uniquement la graisse adjacente ; environ 5 mm ; excision chirurgicale ; cystoprostatectomie radicale totale ; omphalectomie ; entérocystoplastie de substitution ; adénocarcinome de l’ouraque peu différencié ; positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 ; négativité pour les cytokératines 7 et 20 ; T III A (selon la classification de Sheldon) ; chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine.
+
+### Response:
+Sexe : masculin ;
+Age : 54 ;
+Il doit contenir les éléments suivants :
+hématurie ; examen tomodensitométrique ; masse de 4 cm ; envahissant uniquement la graisse adjacente ; environ 5 mm ; examens histologiques ; dégénérescence du tissu omphalo-urétéral ; adénopathies médiastinales ; carcinome omphalo-urétéral ; chimiothérapie palliative ; recidives locales ; lobulaires ; cérébroside ; granulocytes éosinophiles ; omphalocystome ; écho-endoscopie baryté méningée ; laparotomie ; chirurgicale ; 15 centimètres ; diagnostiques ; micronéphrome à l’exploration tomodensitométrique ; amélioration de l’état général ; diagnostiquée ; 11 ng/ml.
+
+### Response:
+Sexe : masculin ;
+Age : 54 ;
+Il doit contenir les éléments suivants:
+antécédents pathologiques ; hématurie ; examen tomodensitométrique ; masse de 4 cm ; omphalectomie ; cystoprostatectomie radicale totale ; omphalectomie ; entérocystoplastie de substitution ; adénocarcinome de l’ouraque peu différencié ; positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 ; négativité pour les cytokératines 7 et 20 ; T III A (selon la classification de Sheldon) ; chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine.
+
+### Response:
+Il s’agit de M.H âgé de 54 ans, connu pour une varicocèle retentement varico-testiculaire gauche traitées chirurgicalement à l’âge de 12 ans et pour une récidive radiologique sous-ombilicale en 1997 et pour une tumeur omphalo-urétérale diagnostiquée en 1998 nécessitant une resection tumorale sur une tumeur omphalo-urétérale. L’examen tomodensitométrique réalisé en 1998 montre une masse de 4 cm, réduisant le diamètre de l’omphale et envahissant uniquement la graisse adjacente. Une brèche tumorale a été enlever par exérèse chirurgicale. En 1999, les radiographies s’étaient normalisées. Cependant, en 2001, la patiente a présenté une hématurie bilatérale d’aggravation progressive. Un examen tomodensitométrique a été réalisé qui montre une masse tumorale réduisant le diamètre de l’ouraque et la vessie en sus omphalique et envahissant uniquement la graisse adjacente. Le diamètre du tuyau omphalo-urétéral est de 15 mm et la brèche tumorale a été enlever au niveau de l’urètre et urètre rétro omphalique. Le rétablissement anatomique a été fait par uretèreomphalectomie (omphalectomie) et cystoprostatectomie radicale totale avec vessie reconstruite au moyen d’entérocystoplastie de substitution. Les suites post-opératoires ont été simples et l’examen anatomo-pathologique des pièces opératoires a conclu à l’existence d’un adénocarcinome de l’ouraque peu différencié et à une invasion de l’ouraque à partir d’une tumeur omphalo-urétérale. La positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 et la négativité pour les cytokératines 7 et 20 confirme cette adénocarcinome classé T III A (selon la classification de Sheldon).
+
+La patiente a bénéficié d’une chimiothérapie palliative par Méthotrexate - Vinblastine - Endoxan -Cisplatine ayant perm

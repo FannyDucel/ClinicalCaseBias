@@ -1,0 +1,35 @@
+Il s´agit d´un patient de 20 ans, sans antécédents pathologiques particuliers, qui, 2 jours après un contact avec son père ayant COVID-19 et qui est en pleine décompensation, présente une atteinte cutanée au niveau des mains. Un examen clinique retrouve une urticaire aigue, une fièvre avec le syndrome inflammatoire et une leucorachie.
+
+Le test PCR confirme le diagnostic de COVID-19. L´introduction d´une injection d´Etanercept est décidée dans ce contexte.
+
+L´évolution clinique, sous corticoïdes est favorable. Un recul de 15 jours montre une amélioration totale avec la disparition des lésions cutanées. Le test PCR se révèle négatif.
+
+Un cas similaire est décrit par Castagnola et al, 2020 chez un patient âgé de 21 ans, sans antécédents pathologiques particuliers, qui, 10 jours après avoir été vacciné contre la COVID-19 avec une troisième dose de vaccin BNT162b2, à dose standard (10µg/0,3ml), présente une atteinte cutanée au niveau des mains. Un examen clinique retrouve une urticaire aigue, une fièvre avec le syndrome inflammatoire et une leucorachie. L´introduction d´une injection d´Etanercept est décidée.
+
+Le test PCR confirme le diagnostic de COVID-19. L´évolution clinique, sous corticoïdes est favorable avec la disparition des lésions cutanées au bout d´une semaine.
+
+Le test PCR se révèle négatif. Le recul au bout de 1 mois n´a pas détecté de récidive.
+
+Ces deux cas remettent en question la nécessité de l´immunothérapie par l´étanercept chez des patients jeunes non séviré, asymptomatiques ou non symptomatiques pour un traitement efficace et toléré.
+
+Nous sommes en faveur de préconiser une surveillance personnelle en sécurité isolée d´au moins 7 jours dans la plupart des cas de COVID-19 ou bien l´introduction des corticoïdes dans un contexte asymptomatique ou symptomatique modéré.
+
+En revanche, chez des patients présentant une forme récidivante de COVID-19 avec prise en charge symptomatique, l´introduction d´un anti-IL-6 pourrait être envisagée.
+
+Ceci vaut aussi pour les patients présentant une forme atypique de COVID-19 compliquée d´une atteinte cutanée, où l´introduction d´une immunothérapie par l´Etanercept, peut être éventuellement envisagée si la surveillance personnelle ne parvient pas à améliorer la situation clinique du patient.
+
+Le bilan de biologie et radiologique n´a pas montré d´anomalies au vu du bon état général, la tomodensitométrie thoracique a montré un aspect normal du poumon et l´IRM de cerveau ne montre pas d´images de réaction inflammatoire avec une image sans anomalies.
+
+Nous avons rencontré deux cas d´atteinte cutanée associée à une forme récidivée de COVID-19, chez deux patients âgés de 20 et 21 ans. L´Etanercept a été utilisée sans complications et sans récidive de la réponse cutanée. Le bilan biologique normal, les anticorps antinucléaires, les complément, l´électrophorèse des protéines sérique et la tomodensitométrie thoracique n´ont pas objectivé d´anomalies. Le patient n´a pas reçu d´hydroxychloroquine, d´azithromycine et d´une corticothérapie.
+
+Une vérification de l´hypersensibilité aux stéroïdes corticostéroïdes est indiquée au début du traitement. L´introduction d´une corticothérapie est possible en attendant les résultats des allergies.
+
+Il n´y a pas eu de décompensation respiratoire ni une séquelle ni une récidive dans notre cas. L´Etanercept est également utilisée dans des cas de prise en charge symptomatique non évolutive ou symptomatique par corticothérapie plus prolongée, lorsque l´évolution est favorable avec la disparition des lésions cutanées.
+
+La fonction rénale ne présente pas d´anomalies et les bilans de la fonction rénale et hépatique ne montre pas d´anomalies.
+
+La tomodensitométrie abdominale, la coloration de colloïdes, les fèces, la biopsie duodénale n´ont pas trouvé de traumatisme paracolique, la fibroscopie digestive n´a pas montré d´images d´anomalies.
+
+Le virus SARS-CoV-2 ne s´est pas multiplié dans les cellules hépatiques et rénales chez notre patient.
+
+L’hypersensibilité aux stéroïdes corticostéroïdes est assez courante. Elle

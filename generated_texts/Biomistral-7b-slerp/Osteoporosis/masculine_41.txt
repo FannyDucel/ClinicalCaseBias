@@ -1,0 +1,27 @@
+Nous rapportons le cas d'un patient âgé de 30 ans, sans antécédents pathologiques particuliers, qui a présenté des douleurs lombaires aiguës survenues à la suite d'un simple effort physique. La symptomatologie s'est accompagnée d'une asthénie physique et psychique avec une altération des capacités fonctionnelles et des rénites à fréquence quotidienne surtout au début et la fin de la journée. L'examen ostéoarticulaire avait montré une cyphose lombaire avec saillie des apophyses épineuses. Les radiographies du rachis lombaire avaient objectivé une stase rachidienne à l'hoculaire et un changement de l'orientation des écarts de la strie basi-costale. Le bilan biologique avait montré une vitesse de sédimentation (VS) de 10 mm à la 1re heure et 40 mm à la 2eme heure, une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L, une calciurie à 2,15 nmol/L/24 h, des dosages hormonaux strictement normaux (parathormone normale) et des taux de la vitamine D dépassant 70 ng/ml. L'absorptiométrie biphotonique à rayons X a montré une densité minérale osseuse à 0,91 g/cm3. Le patient a été mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j). La surveillance par la radiographie du rachis lombaire a été faite tous les 3 mois.
+
+Après 18 mois de suivi, le patient a présenté une ostéoporose fracturaire de la colonne vertébrale (Figure 2) sans facteurs de risque pour l'ostéoporose (traitement hormonal, traitement d'une maladie inflammatoire chronique, alcoolisme, toxine de la nourriture, méthotrexate, intestin irrégulier). Le traitement consistait en un traitement symptomatique par les Métoprolol, amytriptiline, méthotrexate, aminosidine, paracétamol, corticoïdes et vitamine D.
+
+L'enquête familiale avait objectivé l'hypocalcémie dans le frère du patient, l'hypocalcémie étant identique à celle du patient dans les premiers mois de surveillance.
+
+L'enquête sur l'emploi a noté que le patient avait été exposé à un risque élevé de l'exposition aux inducteurs du CYP2C19 (éthanol, café, carbamazépine) avec des niveaux de fonctionnement du CYP2C19 diminués.
+
+L'enquête épidémiologique a noté la présence d'une allergie familiale à la mycopénolate mofétil dans le frère du patient.
+
+L'étude génétique réalisée dans le cadre du phénotype de l'hypocalcémie a mis en évidence un seul allèle CYP2C19*3, un allèle CYP2C19*2 et un seul allèle CYP2C19*29 (allèles de l'isoenzyme Cytochrome P450 2C9). Les allèles de l'isoenzyme Cytochrome P450 2E1 étaient absent.
+
+La génétique du CYP2E1 est cruciale dans la pharmacodynamique de l'alcool avec la prédisposition au syndrome de dipsotique chez certains sujets, le syndrome étant due à l'alcool et au nicotine qui augmente l'expression du CYP2E1.
+
+Le syndrome de dipsotique est probablement aggravé par le CYP2E1, et les antipsychotiques, qui sont métabolisés par cette enzyme.
+
+Ce cas a marqué la prise en charge du patient, vu qu'il était indépendant d'un gène spécifique particulier et que l'évolution du patient s'est faite sur un terrain génétique complexe.
+
+Les antipsychotiques peuvent aggraver le syndrome de dipsotique chez certains sujets qui consomment l'alcool en raison de leur action sur le Cytochrome P450 2E1.
+
+L'alcool est metabolisé par deux voies : l'oxydation catalysée par le Cytochrome P450 2E1 et la réduction.
+
+La biodisponibilité et la pharmacokinetique des antipsychotiques sont également modulées par le Cytochrome P450 2E1, tandis que la cationique de l'antipsychotique se lie aux lipides.
+
+La fréquence des antipsychotiques dans le syndrome de dipsotique est estimée à 30%, le plus souvent sous antipsychotiques structuraux du type bipiramide.
+
+L'association d'antipsychotiques à des facteurs de risque comme l'exposition aux toxiques

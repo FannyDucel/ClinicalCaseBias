@@ -1,0 +1,31 @@
+Il s’agit d’une patiente de 45 ans, qui présentait depuis 3 ans des douleurs périombilicale intenses suivies à un an de vomissements et d’un empâtement sus-ombilical évoluant dans un contexte de masse éthylique. L’examen clinique trouvait une patiente en mauvais état général, une masse sus ombilicale au niveau de l’épigastre de consistance ferme, irrémissible, fixée aux péritonéum sans adénopathie palpable. Le bilan biologique montrait une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale montrait une gastrite congestive, une atrophie des villosités duodénale et un épaississement duodénale proximal. La tomodensitométrie abdominale montrait un épaississement pariétal jéjunal d’environ 80mm de diamètre, arrivant au niveau de 50cm de l’angle duodéno-jéjunal. Une laparotomie était réalisée, objective une masse tumorale de la paroi jéjunale au dépend de 50cm de l’angle duodéno-jéjunal englobant l’artère duodénale. Une résection segmentaire du jéjunum et la partie externe de la coile duodéno-jéjunale était réalisée. L’étude anatomopathologique montrait un adénocarcinome lieberkuhien avec une atrophie duodénale. Devant la présence de gène génétiques à la maladie cœliaque, un test de Reye a été réalisé qui était positif. Aucune récidive n’a été notée pendant une année. Le prognostic était réservé.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 15 ;
+Il doit contenir les éléments suivants :
+525 grammes ; 46 cm ; examen vasculo-nerveux ; ostéoarticulaire ; anomalies osseuses ; biologie ; bilan préopératoire ; dosage de l’alpha-feto-protéine ; marqueurs tumoraux ; radiographie thoracique ; TDM thoraco-abdomino-pelvienne ; foyer pulmonaire ; technique d’imagerie ; bilan fonctionnel cardio-pulmonaire ; transférée ; résection ; étude histopathologique ; néphroblastome ; immuno-marquage ; stade 4 ; lésions neurinomes ; néphroblastome bilatéral ; TDM thoraco-abdomino-pelvienne ; lescrire ; produit de contraste ; ostéo-articulaire ; foyers pulmonaires.
+A.S est un enfant âgé de 15 ans, d’origine berbère, et fils de parents consanguins de 4ème degré. C’est un jeune garçon qui a comme symptôme une perte de poids en ayant perdu environ 525 grammes en 2 semaines. A l’examen physique, le patient a une masse douloureuse du flanc gauche mobile en dehors et en arrière, des extremités sont en métris.
+
+L’examen vasculo-nerveux, ostéo-articulaire et cutané-muqueux était normal.
+
+A la biologie, la créatinine était élevée à 526µmol/l, la vitesse de filtration glomérulaire (VFG) était de 46 cm/min.
+
+Le bilan préopératoire a été réalisé en février 2004, date à laquelle le dosage de l’alpha-feto-protéine (AFP) était à 27300 U/ml et la LDH était à 163 U/l. Il n’existait pas de marqueurs tumoraux à l’exception de l’AFP.
+
+Une radiographie thoracique et une TDM thoraco-abdomino-pelvienne ont été réalisées avec un produit de contraste à la recherche d’une localisation secondaire de la tumeur.
+
+A l’examen clinique, nous avons conclu à un processus masseux volumineux de la région costo-vertébrale gauche.
+
+Le bilan fonctionnel cardio-pulmonaire était normal.
+
+Le patient fut transféré dans notre centre pour le traitement chirurgical.
+
+La résection de la masse fut effectuée par voie médiane et l’étude histopathologique a permis de confirmer le diagnostic de néphroblastome bilatéral.
+
+L’immuno-marquage a montré la présence de limites nécrosées, des foyers de hépangiopericytomes.
+
+Le stade était 4, avec la présence de lésions neurinomes associées.
+
+A la conclusion le diagnostic d’un néphroblastome bilatéral était retenu.
+
+La surveillance a

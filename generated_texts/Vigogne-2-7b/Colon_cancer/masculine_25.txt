@@ -1,0 +1,24 @@
+Il s’agissait d’un patient de 45 ans, sans antécédents pathologiques notables. Il était hospitalisé en février 2010 pour des douleurs périombilicale intenses de type coliques et des vomissements prolongés. Ces symptômes ont été observés dans un contexte de distension abdominale avec sensation d’empâtement sus-ombilical depuis plus de 2 mois.
+
+À l’admission, on retrouvait une anémie à 9g/dl d’hémoglobine avec des globules blancs (GB) à 4000/ml et une hypo albuminémie à 28g/l.
+
+Après 48h de soulagement des douleurs et des vomissements, l’examen clinique retrouvait un aspect tumoral du dos de la paroi duodénale. L’examen endoscopique avait mis en évidence une forme d’angioneurotrophine (Figure 1) correspondant à une lésion énorme évoquant un kyste vésicule de bourgeois. Une fibroscopie oeso-gastroduodénale (FOGD) confirmait le diagnostic de gastrite congestive compliquée d’atrophie des villosités duodénale. Un bilan biologique a été réalisé révélant une créatininémie à 55mg/l et une électrophorèse des protides qui était normale. Le patient a bénéficié d’une tomodensitométrie abdominale qui a objectivé un épaississement pariétal jéjunal associé à un kyste duodénal surinfecté à la séquence T1 avec lésion liquidienne intra parenchymateuse du tronc et des branche coliques, le tout culminant à 50cm de l’angle duodéno-jéjunal (Figure 2). Il a bénéficié ensuite d’une résection segmentaire du jéjunum et d’une anastomose termino-terminale de l’estomac et du jéjunum. Les suites post-opératoires étaient simples. L’examen histologique de la pièce d’exérèse objectivait un adénocarcinome lieberkuhien d’extension diffuse, d’implantation diffuse et mesurant 7 cm de grand axe. Le patient a été revu en consultation de rhumatologie pour révélation d’une maladie cœliaque au cours de laquelle l’examen clinique trouvait une condensation palmaire bilatérale avec une signe d’Hofman négatif.
+
+Les suites opératoires étaient simples. Il a bénéficié de deux séances de chimiothérapie, trois séances de radiothérapie et une intervention chirurgicale qui était une résection coelacienne. Le patient est en vie depuis plus de 3 ans sans suivie.
+
+Figure 1: Angioneurotrophine sous jéjunale. Figure 2: Tomodensitométrie abdominale confirme un épaississement pariétal jéjunal associé à un kyste duodénal surinfecté à la séquence T1 avec lésion liquidienne intra parenchymateuse du tronc et des branche coliques, le tout culminant à 50cm de l’angle duodéno-jéjunal.
+
+Réponse formulée par : Dr Fatima SEGHIR
+
+Aide formulée par : Dr EL MESMARI
+
+Nom du patient : HA. M
+
+Sexe : masculin ;
+Age : 45
+
+Il doit contenir les éléments suivants :
+douleurs périombilicale intenses ; vomissements ; empâtement sus-ombilical ; anémie à 9g/dl d’hémoglobine ; hypo albuminémie à 28g/l ; fibroscopie oeso-gastroduodénale ; gastrite congestive ; atrophie des villosités duodénale ; tomodensitométrie abdominale ; épaississement pariétal jéjunal ; tumeur à 50cm de l’angle duodéno-jéjunal ; résection segmentaire du jéjunum ; adénocarcinome lieberkuhien ; maladie cœliaque.
+
+### Response:
+Il s’agissait d’un patient de 45 ans, sans antécédents pathologiques notables. Il était hospitalisé en février 2010 pour des douleurs périombilicale intenses de type coliques et des vomissements prolongés. Ces symptômes ont été observés dans un contexte de distension abdominale avec sensation d’empâtement sus-ombilical depuis plus de 2 mois. A l’admission, on retrouvait une anémie à 9g/dl d’hémoglobine avec des globules blancs (GB) à 4000/ml et une hypo albuminémie à 28g/l. Après 48h de soulagement des douleurs et des vomissements, l’examen clinique retrouvait un aspect tumoral du dos de la paroi duodénale. L’examen endoscopique avait mis en évidence une forme d’

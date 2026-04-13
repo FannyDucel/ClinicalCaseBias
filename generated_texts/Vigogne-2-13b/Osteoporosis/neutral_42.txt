@@ -1,0 +1,34 @@
+Une femme de 30 ans, qui a présenté depuis plus d’un mois des douleurs lombaires d’allure névrologiques avec asthénie physique et psychique. L’examen ostéoarticulaire a révélé une cyphose lombaire avec saillie des apophyses épineuses. La rachite basse était sans anomalie. Les radiographies du rachis lombaire étaient incomplètes mais ont montré un aspect d’ostéolysis des corps vertébraux antérieurs et arriérés, en association avec une déminéralisation totale de la corticale parendoste de l’épiphyses supra et inférieures. Le bilan biologique était sans anomalie à part une vitesse de sédimentation accélérée à 42 mm/h. La calcémie à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h étaient normales. Les dosages hormonaux strictement normaux étaient une parathormone basse, une épaississement corticaux (chondrocalcinose) et une ostéocalcinémie. La sérologie HIV, le bilan malaltie osseuse (absorptiométrie biphotonique à rayons X) et la densité minérale osseuse étaient sans anomalie. Une réhydratation intraveineuse a été entrepris avec un traitement symptomatique (paracétamol (2 g/j) et amytriptiline (50 mg/j)). Le contrôle radiologique et clinique (paracétamol (2 g/j) et amytriptiline (50 mg/j)) a montré un recul des douleurs lombaires sans régression de l’ostéolysis. La conclusion de cette étude a été en faveur d’une ostéolysis de bas grade sans la preuve d’un cas de mono-ostéodensite maligne.
+
+### Response:
+Deux cas de lombosciatique révèlent en fait un cas de tuberculose ostéo-articulaire. L’échographie rachidienne montre une zone de hypersignal T1 hétérogène en hyposignal T2 de la région inter-vertébrale. Il s’agit d’un segment vertébral infecté par une tuberculose myositaire. L’âge, le diagnostic d’ostéoporose fracturaire, l’absence d’anomalies systémiques, les antécédents personnels et familiaux de Tuberculose myositaires, et le retrait de la douleur avec recul des radiographies a confirmé ce diagnostic.
+
+### Response:
+Les dosages de la vitamine D, des hormones parathyroïdiennes (parathormone et ouatrium glandulaire 1 et 2) et l’absorptiométrie osseuse ne sont pas nécessaires et non disponibles. L’absorptiométrie biphotonique à rayons X peut être considéré comme non utile dans ce type de cas.
+
+### Response:
+En cas de lombosciatique de type TDM, l’échographie vertebrale doit être réalisée devant la possibilité d’une tuberculose ostéo-articulaire en particulier en milieu de tuberculose endémique.
+
+### Response:
+En gériatrie, il est particulièrement important de toujours suspecter la tuberculose ostéo-articulaire en raison d’un âge avancé, et d’un terrain prédisposé. Le bilan doit être complété par l’échographie vertebrale en cas de lombosciatique, le dosage de l’antigène CMI, un complément de bilan direct (culture des urines, gouttes sputiées, tinc index, radiographie pulmonaire, TDM thoraco-abdomino-pelvienne) et une recherche active de BK dans le sputum.
+
+### Response:
+L’ostéoporose fracturaire doit être susceptible devant l’âge, le retentissement fonctionnel et morbide.
+
+### Response:
+La compression médullaire sous l’apophyse vertébrale est particulièrement suspecte en cas d’ostéoporose fracturaire.
+
+### Response:
+Le traitement anti-tuberculeux doit être prescrit dans un premier temps, associé à une orthopédie avec protection brachiale et une rééducation physique pendant six semaines.
+
+### Response:
+L’ostéoporose fracturaire doit être traitée par des vitamines D, calcium, bisphosphonates dans le but de stopper l’ostéolyse.
+
+### Response:
+La rééducation physique en ce cas doit être très progressive, avec éviter les heurts et impacts sur la région.
+
+### Response:
+L’immobilisation antérieure de 6 semaines sans surcharge musculaire.
+
+### Response:
+Le traitement antituberculeux en intraveineux pendant 6 mois (4 rifampicine, 2 isoniazide, 2 ethambutol et 2 pyrazinamide) + prise orale de pyrazinamide pendant 3 mois

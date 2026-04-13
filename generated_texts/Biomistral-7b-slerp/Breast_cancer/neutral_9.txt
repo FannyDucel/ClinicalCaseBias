@@ -1,0 +1,40 @@
+Mlle B L, âgée de 26 ans, sans antécédents particuliers à l'exception d'un frère décédé pour un cancer du sein à 50 ans, est adressée pour prise en charge d'un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche et une adénopathie de 1.5 cm au niveau du creux axillaire droit, trouvés au bilan d'une mammographie du sein droit susdit.
+
+L'examen clinique trouvait une lésion tumorale de 6 cm de diamètre au niveau du quadrant supéro interne du sein droit ferme, régulière, fixée à la peau, sans signes inflammatoires locorégionaux et la présence d'une adénopathie de 1.5 cm au niveau du creux axillaire droit. L'examen du sein gauche objectivait un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche.
+
+Le bilan d'extension comprenant une tomodensitométrie thoraco-abdominale, la recherche d'ADN circulante par brachy diaryrénurie était négatif.
+
+Le cancer était de type BIRADS V (MCBIII-IV) et la mastectomie totale bilatérale était indiquée.
+
+Une microbiopsie des deux lésions cliniques des deux seins, effectuée par prélèvements à partir de chaque nodule et de l'adénopathie, avait permis de confirmer le diagnostic de carcinome canalaire infiltrant SBR III, de type lobulaire sans atteinte axillaire. Les récepteurs hormonaux étaient négatifs et le test de l'HER 2 était négatif.
+
+En reason du stade T3N1M0, la patiente a bénéficié d'une chimiothérapie néoadjuvante comprenant quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m², deux cures de docétaxel.
+
+Au terme de la chimiothérapie, l'échographie retrouvait une augmentation de la taille des deux lésions tumorales de 7 et 4mm respectivement. Le bilan d'extension comprenant une tomodensitométrie thoraco-abdominale, la recherche d'ADN circulante par brachy diaryrénurie était négatif. La patiente a bénéficié d'une mastectomie totale bilatérale suivie d'une chimiothérapie et radiothérapie post opératoires et de quatre cures de docétaxel à raison de 90 mg tous les 3 semaines. Après 15 cures de chimiothérapie, une nouvelle échographie mammaire révélait une disparition des deux lésions tumorales et de l'adénopathie.
+
+L'évaluation du niveau de compression ou de l'invasion artérielle par l'aire de chimiothérapie, et la compression du cœur du patient ont été pris en compte. Le chirurgien a décidé une chimiothérapie et radiothérapie post opératoires dans la mesure où il n'y avait pas de nombre important de cellules tumorales dans la masse mammaire.
+
+L'échographie mammaire montre des images régressives. Les thérapeutes ont décidé de ne pas poursuivre le traitement.
+
+En 19 mois de recul, la patiente n'a pas d'examen clinique, une mammographie n'objective pas de récidive tumorale. La CA 15-3 à 81 mui/ml était négative.
+
+La patiente reste à suivi au service d'oncologie.
+
+Une surveillance périodique a été préconisée.
+
+Nous avons eu un grand plaisir à traiter ce cas car il nous permet de confirmer les théories et principes de traitement des cancers du sein.
+
+H.A, MD, CSPF
+H.G, MD
+E.T, MD
+A.B, MD
+
+Le travail a été réalisé et publié dans des conditions éthiques et de confidentialité.
+
+L'objectif de notre étude était de tester si les résultats obtenus sont statistiquement significatifs en fonction du nombre de l'échantillon étudié.
+
+Nous estimons le nombre d'échantillons à 66, échantillonnage aléatoire simple. Le test exact de la proportion permet d'établir un intervalle de confiance à 95% dans le cas de proportion = 0,50 (3,86%). L'écart-type est estimé à 2. Les données obtenues sont exposées sur le tableau II.
+
+Le seuil de signification α= 0,05 est adopté.
+
+La probabilité de rejeter l'hypothèse nulle H0 pour p = 0.027 < 0.05 est de 4.78%, c'est-à-dire que la différence entre les deux groupes est considérée comme significative

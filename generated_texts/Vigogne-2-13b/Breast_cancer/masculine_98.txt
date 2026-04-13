@@ -1,0 +1,48 @@
+Il s´agit d´un homme de 26 ans, sans antécédent pathologique notable, nulligeste nullipare, issu d´un mariage consanguin non consanguin, neveu d´une patiente qui nous a été envoyée pour être traitée pour un cancer du sein héréditaire et dont la mère et sœur décédées d´un cancer du sein. L´examen clinique a objectivé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, dure, fixé au plan profond, présentant un aspect d´excroissance du quadrant avec adénopathie de 1.5 cm au niveau du creux axillaire droit et au niveau des groupes vasculaires sus et sous cutanés, ainsi qu´une réduction du territoire ganglionnaire axillaire droite. A droite également une adénopathie suspecte de 2 cm au niveau du quadrant supéro externe du sein gauche. Le reste de l´examen était normal, notamment la fosse iliaque droite et la région sacrée. Les images de mammographie étaient suspicieuses avec un BIRADS V. Une microbiopsie des deux lésions cliniques des deux seins a été faite, en montrant un carcinome canalaire infiltrant SBR III, non récepteurs hormonaux négatifs, test de l'HER 2 négatif, bilan d´extension: T3N1M0. Le CA 15-3 à 81 mui/ml. Le patient a eu une chimiothérapie néoadjuvante à base de quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m², suivie de deux cures de docétaxel (75mg/m²). La chirurgie radicale type Patey bilatéral a été faite 14 jours après la chimiothérapie, accompagnée d’une curage ganglionnaire avec un bloc ganglionnaire axillaire et un curage ilio-inguinal bilatéral. Suivie d’une chimiothérapie et radiothérapie post opératoires à base de quatre cures de docétaxel, deux par la voie intrathécal et quatre par la voie intraveineuse, et 20 fractions de radiothérapie.
+A l´évaluation post-thérapeutique: l´examen clinique retrouve un nodule suspendu du quadrant supéro interne du sein droit et une adénopathie au niveau du creux axillaire et du curage axillaire droite et gauche. Le dosage des CA 15-3 est diminué à 17mui/ml, les analyses cytobactériologiques sont stériles, la radiographie pulmonaire est normale. Les résultats du bilan d´extension sont négatifs. Une chimiothérapie à base de docétaxel (100mg/m², en 6 cures) a été commencée. Les suites post-thérapeutiques ont été simples. Après une évolution clinique et paraclinique favorable, le patient a quitté l’hôpital. Il est suivi en consultation, avec une surveillance régulière. Actuellement, il est en bon état général, sans aucun signe de récidive locale ou métastase.
+
+Le recul actuel est de 4 ans et demi et le patient est toujours en vie.
+
+Le résumé des données cliniques et paracliniques est énuméré ci-dessous:
+
+Date:
+10 Juin 2014;
+30 septembre 2014;
+30 Juin 2015;
+25 Juin 2016;
+08 Septembre 2016;
+01 Février 2017;
+01 Novembre 2017;
+01 Août 2018;
+08 Janvier 2019.
+
+Gravité:
+Normal;
+Normal;
+Normal;
+Normal;
+Normal;
+Normal;
+Normal;
+Normal.
+
+Génotypage:
+01 Juin 2014;
+Sanger;
+FRG 382del11/del11;
+H1047R;
+H845Y;
+G175R;
+G175R;
+H845Y/H1047R;
+Sanger-NGSP, ;
+H845Y/H1047R, ;
+T790M exon 10.
+
+Phénotype:
+01 Juin 2014;
+sensitivé: docetaxel, gemcitabine, vincristine, pemetrexed, dactinomycine, etoposide, docetaxel, gemcitabine, cisplatine, capecitabine ;
+résisté: cisplatine, capecitabine, vinorelbine, paclitaxel ;
+sensitivé: docetaxel, vinorelbine, gemcitabine, dacarbazine ;
+résisté: vinorelbine, dacarbazine, etoposide ;
+sensitivé: docetaxel, cisplatine, gemcitabine, vinorelbine, dacarb

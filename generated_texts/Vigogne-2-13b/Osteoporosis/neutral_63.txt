@@ -1,0 +1,39 @@
+C’est une patiente de 30 ans. Elle est obèse avec un poids de 84 kg pour une taille de 1,65 m et un indice de masse corporelle à 32,2 kg/m2. La patiente est à J3 de sa dernière menstruation.
+
+Ses antécédents sont marqués par la survenue en 1994 d’une scoliose dorsale, ainsi que par l’évolution d’une hyperplasie fibro-osseuse de l’humérus gauche et des métaphyse fémorales.
+
+Depuis trois ans, la patiente présente des douleurs lombaires, une asthénie physique et psychique, des cataractes sous tétoniques.
+
+L’examen ostéoarticulaire révèle une cyphose lombaire (12° de cyphose à gauche), une saillie des apophyses épineuses et une déformité scoliotique.
+
+Les radiographies du rachis lombaire, du rachis cervical, du coude gauche, du fémur gauche, des métaphyse fémorales et de la colonne vertébrale démontrent une hyperplasie fibro-osseuse avec agénésie des corps vertébraux de l’arc fémoral gauche, de l’arc sacré, des corps vertébraux dorsaux des deux côtés, et une agénésie de la plupart des corps vertébraux cervicaux.
+
+La radiographie pulmonaire, la tomodensitométrie abdomino-pelvienne et la vitesse de sédimentation, la calcémie à 2,42 nmol/L et la phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h, les dosages hormonaux strictement normaux sont normaux.
+
+La scintigraphie osseuse est sans anomalie. La radiographie de la tête ainsi que l’absorptiométrie biphotonique à rayons X montrent une densité minérale osseuse correspondant à une normale de contraste.
+
+La détermination du taux de PTH (parathormone) est de 10,2 pg/mL, une parathormone basse.
+
+Le diagnostic retenu est celui d’un syndrome de Laron-Sprung-Gilliam-Dawson.
+
+La patiente est mise sous paracétamol (2 g/j) et amytriptiline (50 mg/j) avec une bonne amélioration des douleurs lombaires, de l’asthénie et de la dépression.
+
+Le diagnostic de l’ostéoporose fracturaire a été évoqué, mais la patiente a refusé le traitement antioestrogénique et calcique.
+
+La progression de la cyphose lombaire et de la scoliose et la découverte d’une ostéoporose fracturaire nécessiteront une nouvelle consultation.
+
+Tableau I
+|Observation |Valeur |
+|Age |30 ans |
+|Masse corporelle |32,2 kg/m2 |
+|Calciurie |2,15 nmol/L/24 h |
+|Phosphorémie |1,01 nmol/L |
+|Vitesse de sédimentation |20 mm à la 1ère heure |
+|Parathormone |10,2 pg/mL (diminuée) |
+|Dosage de l’ostéocalcine (détectable) | 56 ng/L |
+|Dosage de la parathormone (polypeptide de 88-91aa) | 12,3 pg/mL (normal) |
+|Mise en évidence de deux copies du gène codant le receptor de l’hormone parathyroïdienne |
+|Sérologie HLA (B15, B35, B38, B39, DR4, DR5, DR14, DR15) |
+|Mononucléose infectieuse (spécifique, sérologique et génétique) |
+|Sérologie tuberculeuse |
+|Investigations immunologiques (détectables) : anticorps anti-phospholipides ; anti-cyctoplasme des polynucléaires neutrophiles ; anti-nucléosome ; anti-nucléaires ; anti-intronucléaires ; antiproteines anti-phosphatides ; anti-SSB-A ; anti-SSB-B ; anti-DNA ; anti-SS-A ; anti-SS-B ; anti-ribosomales ; anti-cyctoplasme des polynucléaires ; anti-CCP ; anti-CCP2 ; anti-HNP-1 ; anti-M2 ; anti-nativité spécifique des polynucléaires neutrophiles ; anti-phosphatases plaquettaires ; anti-α-1-antitrypsine ; anticorps anti-muscles lisses ; anti-c-ANCA ; anti-p-ANCA ; anti-CCP-MCP-2 ; anti-PEP1 ; anti-peptides citrullin

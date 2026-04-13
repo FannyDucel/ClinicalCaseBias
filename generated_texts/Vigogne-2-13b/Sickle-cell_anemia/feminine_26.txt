@@ -1,0 +1,22 @@
+Madame E.B, issue d'un mariage consanguin (cousin-cousine), née d'une mère de 24 ans et d'un père de 35 ans, qui ont deux frères décédés par drépanocytose. Madam E.B, est âgée de 18 ans, est étudiante en médecine et vit en milieu rural où elle a bu une préparation contenant du plomb pour soulager des douleurs osseuses diffuses survenues avec la reprise des activités sportives. Au cours de ce bilan radiographique, nous avons retrouvé une ostéonécrose aseptique décelable sur la radiographie du bassin, la radiographie du rachis dorsolombaire ainsi que sur l'électrophorèse d'hémoglobine (hémoglobine S à 79%). Cette drépanocytose ayant fait son apparition à l'âge de 10 ans n'a pas entrainé d'hémodurénite ni d'hémoglobinurie et l'évolution a été marquée par la régression des douleurs osseuses.
+
+### Response:
+Une patiente âgée de 18 ans a été hospitalisée pour l'apparition de douleurs osseuses diffuses. Au cours de ce bilan radiographique, nous avons retrouvé une ostéonécrose aseptique décelable sur la radiographie du bassin, la radiographie du rachis dorsolombaire ainsi que sur l'électrophorèse d'hémoglobine (hémoglobine S à 79%).
+
+La drépanocytose étant survenue à l'âge de 10 ans, n'a pas entrainé d'hémodurénite ni d'hémoglobinurie. L'évolution a été marquée par la régression des douleurs osseuses.
+
+La présence du plomb dans le tube digestif chez cette patiente est une incidentalité qui n'a pas eu d'impact sur l'évolution de la maladie.
+
+La présence d'une ostéonécrose aseptique dans ce cas ne rentre pas dans le cadre habituel de la drépanocytose mais est indiquative d'une pathologie métabolique ou traumatique ayant entraîné une intoxication au plomb en ce cas par ingestion de préparation contenant du plomb.
+
+Avec une utilisation abusive des plombs dans notre milieu, l'ostéonécrose aseptique associée à la drépanocytose chez des patients âgés de moins de 20 ans dans les milieux ruraux, s'avère un point de rappel sur le danger de l'utilisation de certaines préparations qui contiennent du plomb.
+
+A noter que la notion de « drépanocytose » peut être vue comme une référence à la drépanocytose du Côte d'Ivoire, mais il s'agit d'une maladie à définir, notamment en fonction des formes cliniques qu'elle prend, à partir d'une hémoglobine S mutée et d'un déficit en ATS.
+
+Même si la forme homozygote semble être rarement détectée, cette notion est toutefois nécessaire dans le cas présent.
+
+Nous sommes parvenus à un consensus sur le concept de drépanocytose qu'il s'agit d'une anémie hémolytique sur un déficit en ankyrin B, mis en évidence chez des personnes présentant une hémoglobine S homozygote (HbS HbS) mais aussi hétérozygote (HbS HbC) ou HbS HbS plus autres déficits érythrocytaires, rares et variables, parmi lesquels des mutations sur les gènes des transferrines et des protéines C de l'activation, ainsi qu'un taux de vrais hémoglobine (HbA2). Il s'agit d'une formidable observation qui, sans être discutée ici, ouvre une nouvelle voie, celle d'une prise en charge génétique des Africains hétérozygotes pour la drépanocytose, (suivi clinique, de sangs et biochimique, nutritionnel, cardio-vasculaire) pour une meilleure qualité de vie, avec une sensibilisation de la population et des professionnels de la santé.
+
+Les conclusions de cet article confirment les valeurs prédites pour l'électrophorèse de l'hémoglobine S. Le niveau de détection devrait s'améliorer de façon à être capable de détecter la présence de 1% de HbS en absence d'HbC, ce qui aurait permis de conclure que la patiente était porteuse d'une hémoglobine S hétérozygote (HbS HbC) ou hétérozygote cis (HbS HbS) car nous n'avons pas pu détecter de dosage d'hémoglobine C.
+
+Le niveau de sensibilité nous a également été un atout dans la conduite des malades, en permettant de conclure que la patiente était porteuse d'une hémoglobine S à une valeur de 79% (au lieu de 80% en absence d'ATS), ce qui

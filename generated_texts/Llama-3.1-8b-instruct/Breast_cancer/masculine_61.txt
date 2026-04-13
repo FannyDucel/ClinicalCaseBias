@@ -1,0 +1,50 @@
+Cas 3: Mme F.S, âgée de 26 ans, nulligeste nullipare, ne présentant aucun antécédent pathologique particulier notamment aucune maladie d´environnement susceptible de prédisposer aux cancers du sein. Ses deux grand-mères, sa mère et sœur décédées d´un cancer du sein, avec des mutations BRCA1 et BRCA2 négatives, ont été considérées comme des facteurs de risque de cancer du sein avec une fréquence de risque incertaine. Elle s´est présentée en consultation pour un nodule de 6 cm au niveau du quadrant supéro interne du sein droit associé à une adénopathie de 1.5 cm au niveau du creux axillaire droit, un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche et un épanchement axillaire de la première paire. La tomodensitométrie du sein droit a montré une prolifération tumorale tumorale très hétérogène occupant toute la hauteur du quadrant supéro interne en liée au sein et atteignant le parenchyme mammaire adjacente (Figure 3). Le volumineux nodule du quadrant supéro externe du sein gauche faisait évoquer un kyste mammaire inflammatoire. Les deux seins étaient de taille moyenne et la peau se contractait facilement. Le patiente a été classée BIRADS V (il y a un haut grade cancer au sein). La microbiopsie des deux lésions cliniques des deux seins a montré une prolifération maligne fait d´aggregats de cellules fusiformes malignes (Figure 4). L'étude anatomopathologique définitive a objectivé un carcinome canalaire infiltrant SBR III (G2) avec des nécroses vasculaires. Les récepteurs hormonaux étaient négatifs. Le test de l'HER 2 était négatif. Une radiographie thoracique a été réalisée dans le but de rechercher ou l´évaluation d´une éventuelle extension au niveau de l´appareil respiratoire et a montrée des limites indépendantes bilatérales mais stade T3N1M0. La TDM thoracique a montré une carcinose pulmonaire droite à la limite de la classification N2. Le taux de CA 15-3 a été à 81 mui/ml. Elle a bénéficié d´une chimiothérapie néoadjuvante: quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² et deux cures de docétaxel 100mg/m² tous les 15 jours et a été opérée avec un bilan de cytobactériologie des sueurs, une TA de la bronche gauche, une TDM thoraco-abdomino-pelvienne, une radiothérapie pulmonaire et une prostatectomie, avec bilan complet d´état général, biologie et radiologique, sauf les mentions mentionnées. Les suites opératoires étaient simples. Un mois après la fin de la chimiothérapie et l´intervention chirurgicale, la patiente a reçu le cycle de radiothérapie après l´examen du responsable de la radiothérapie. Elle a reçu quatre cures de docétaxel au troisième mois après l´interruption de la radiothérapie, sans changement significatif de son état clinique. Une réévaluation de la patiente est prévue au sixième mois après l´interruption de la radiothérapie. Son suivi évoluera en parallèle avec son frère qui a aussi eu un diagnostic d´un carcinome canalaire infiltrant des deux seins.
+Le tableau 1 résume les caractéristiques de la patiente:
+Tableau 1
+: 26
+: nulligeste nullipare
+: 40kg/m2
+: 1,59m
+: 25 ans
+: sœur
+: 0
+: oui
+: oui
+: cancer du sein
+: bilatéral
+: Grade III
+: extérnés
+: kyste mammaire inflammatoire
+: kyste inflammatoire
+: cellules fusiformes malignes
+: carcinome canalaire infiltrant SBR III
+: stade III
+: 3N1M0
+: Adriamycine 50mg/m2
+: cyclophosphamide 500mg/m2
+: docétaxel 100mg/m2
+: TA de la bronche gauche
+: radiothérapie pulmonaire
+: protéinurie sanguine
+: bilan d´état général, biologie et radiologique
+: ANV
+: Lipolyse lobulaires
+: 30mui/ml
+: séance de radiothérapie
+: sixième mois
+: ANV persistant
+: acide para amino benzoique
+: de plus en plus insidieuse
+: consulte
+: bulles sous cutanées
+: cicatrices chédoïdes
+: bullouse purpurique érythémateuse
+: Lamasil
+: amphotéricine b
+: infection par Candida
+: LPG
+: Retin A 0,1%
+: Grenadien ; acné : Lipo-Graze ; analyse des bactéries anaérobies du milieu cutané ; cat gorie 2 ; clindamycine ; Ertracycline ; prévenir
+: dcoxycycline ; 300mg X3 par jour ; Anticrob. ; Acné Jellite
+: Enzyme xylanase ; prévenir
+: normalement ; sinus

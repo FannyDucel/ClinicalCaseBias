@@ -1,0 +1,78 @@
+Il s'agissait d'un patient âgé de 64 ans, sans antécédents pathologiques notables, qui présentait depuis 1 mois des douleurs thoraciques diffuses, évoluant avec dyspnée d'effort et d'augmentation des ténseurs, avec pas d'hémoptysie ou d'insuffisance cardiaque. Dans ce contexte clinique, un épisode d'IMI a été expérimenté. L'examen clinique trouve un patient en bon état général, avec un état hémodynamique stable.
+L'examen cardio-vasculaire trouve un pouls rachidien complet, un pouls dito-méridien perceptible à gauche. Le pouls brachial est absent. Le péristaltisme cardiaque est absent.
+Le patient était absenté une vaccination anti-ciguatera et n'avait pas été traité pour le syndrome des crampes de selles de longue date.
+L'échocardiographie a objectivé une CIV musculaire et une systole ventriculaire normale associés à un défaut d'épanchement pericardique, sans dilatation des cavités cardiaques.
+Le bilan biologique (BGL, créatinémie, glycémie, créatinine, L'ionogramme, phospho-calcique, phospho-magnésium, LDH, Lactate des Mougères, hémogramme, théromique, électrophorèse sanguine, immunologie sanguine, prothrombine, fibrinogène, PTT), a montré une légère hyperleucocytose à 13000/mm3 à prédominance polynucléaires neutrophiles.
+L'échographie transthoracique a objectivé un anévrysme du ventricule gauche.
+Le patient a été opéré. A l'examen anatomopathologique de la pièce opératoire il n'a pas été noté d'anomalie ou de remaniement myocardique.
+Les suites post opératoires ont été simples.
+La patiente est devenue diabétique, à jour pour sa glycémie, et elle est traité pour le syndrome des crampes de selles.
+L'évolution a été marquée par une récupération complète de sa fonction cardiaque. La patiente est toujours en bon état de santé. Elle est toujours diabétique mais traitement à la Metformine et à la Thiazolidinedione.
+L'appellation est: Madame C, âgée de 64 ans, ayant pour antécédents le tabagisme à 25 paquets-années, diabétique, ayant présenté depuis 6 mois des douleurs thoraciques diffuses, évoluant avec dyspnée d'effort et d'augmentation des ténseurs, avec pas d'hémoptysie ou d'insuffisance cardiaque, faisant évoquer la notion d'infarctoide inaugurale (IDM circonférentiel non thrombolysé), avec une auscultation cardio-pulmonaire une dyspnée péristaltique de type ventriculaire gauche (souffle systolique) avec râles crépitant à gauche.
+La fonction systolique est normale. L'echocardiographie est en faveur d'une CIV musculaire et une systole ventriculaire normale associés à un défaut d'épanchement pericardique, sans dilatation des cavités cardiaques.
+La coronarographie montre des lésions bi-tronculaires de l'OMM interventriculaire droite d'extension gauche.
+L'intervention chirurgicale est réalisée par monopontage aortocoronaire sur la coronaire droite. L'évolution est favorable sans complications associées.
+L'évolution après 3 ans n'a pas montré de signes de récidive d'anévrysme ventriculaire gauche ni de complications métaboliques associées à la diabète.
+L'évolution après 2 ans du décès est « vivante » avec une surveillance mensuelle de la glycémie.
+Madame C n'a pas présenté d'évolution pathologique en post opératoire.
+Le tableau I ci-dessous résume les chiffres cliniques des chirurgicaux de la patiente, Madam C.
+
+### Response:
+Tableau I :
+Madame C
+2
+74
+M
+Sexe
+M
+Il
+1
+F
+64
+Patiente
+Suivi
+3
+< 24 mois
+= 3
+< 40
+Materne
+27
+74
+10
+F
+140 cm
+Patient
+1,70 m
+< 15 kg
+< 12
+Observation
+3 mois
+40
+< 38
+< 16
+1,52 m
+< 65
+< 13
+Observation
+3 mois
+250
+200
+2,20 m
+< 21
+Patient
+1,58 m
+< 12
+< 11
+Observation
+3 mois
+53
+32
+< 35
+< 34
+< 24
+Patient
+< 15
+< 5
+Observation
+3 mois
+<

@@ -1,0 +1,21 @@
+Cas 2 Il s’agit d’une patiente de 30 ans, d’origine marocaine, hospitalisée au service de pneumo-rhumatologie pour douleurs lombaires et une asthénie physique et psychique, accentuées depuis 6 mois, dans un contexte d’amaigrissement non chiffré et de frilosité des os. L’examen ostéoarticulaire a montré une cyphose lombaire et une saillie des apophyses épineuses, sans déformation ni tuméfaction ni déformation des parties molles. Le reste de l’examen clinique est normal. La patiente a été admise et admise aux soins du service de radiologie, où l’examen du rachis lombaire a montré une lombosciatalie droite et une très importante de la courbure du rachis dorsal. Les radiographies du rachis lombaire ne sont pas concluantes en raison de leur prise à l’apogée de la cyphose. Devant cette acuité et l’âge de la patiente, le bilan d’ostéodensitométrie a été réalisé, révélant une vitesse de sédimentation accélérée à 30 mm/h à droite, une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L et une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux, y compris parathormone basse à 36,7 pg/ml sur 111,100-554,000 (valeurs de normes: [70-460]). Le bilan biologique a été complété par une absorptiométrie biphotonique à rayons X qui a montré une densité minérale osseuse (DMO) correspondant à la density of the femoral neck (DFN) à 0,580 g/cm 2 et à celle de l’interosseux supérieur du crâne à 0,594 g/cm 2 (valeurs de normes: [0,768-0,794], ce qui est significativement plus bas que la normale pour un patient de son âge. Devant ce tableau d’ostéoporose sévère avec fracture et cyphose lombaire, une voie thérapeutique à base d’association paracétamol (2 g/j) et amytriptiline (50 mg/j) a été entreprise, permettant à la patiente la reprise de son activité quotidienne et une progression favorable de sa croissance staturale. Le suivi régulier avec un recul de 10 ans a montré une cicatrice non visible, une reprise de la croissance staturale à 12 cm (entre l’âge de 20 et 30 ans). Le recul actuel est de 30 ans.
+
+Les cas 1 et 2 démontrent bien que le diagnostic de rickets est à considérer étiologiquement lorsqu’il est posité devant l’association d’une déformation de l’axis lombo-sacrée, de douleurs lombaires et de frilosité des os.
+
+Le diagnostic de rickets s’appuie sur le tableau clinique, l’ostéodensitométrie et les résultats biologiques, tout particulièrement le dosage de la vitamine D. La radiographie des parties molles ne peut être que complémentaire.
+
+Le diagnostic étiologique de la rickets seuls se fait au laboratoire par les dosages des 25(OH)D et des phosphatases alkalines (PAL) en cas de rickets primaire, et par les dosages de la vitamine D et de la PTH en cas de rickets secondaire.
+
+Le traitement aux débuts de la déformation osseuse permet l’arrêt de l’évolution des symptômes ainsi qu’une augmentation de la croissance osseuse, sans douleur, ni signes inflammatoire. Le traitement des cas plus avancés comporte l’arrêt de la progression de la déformation et la chirurgie pour réduire la douleur et atténuer les déformations.
+
+Les dosages de la PTH sont normaux en cas de rickets primaire.
+
+Le bilan biologique doit être complété par un dosage de la vitamine D, un dosage des PAL (sous forme libre), de la calcémie et de la phosphorémie et la vitesse de sédimentation.
+
+Les traitements du rickets secondaire sont plus divers. Ils visent à remédier soit à l’avitaminose soit à l’hyperphosphaturie.
+
+Les sujets asymptomatiques doivent être surveillés par un dosage des 25(OH)D et des PAL à un mois d’introduction d’un traitement par vitamine D.
+
+Le traitement par vitamine D chez les adultes est la norme. L’examen clinique n’est ni utile ni assez sensible pour discriminer les rickets hypercalcémiques et hypophosphatémiques.
+
+Il est déconseillé d’administrer du phosphate à la fois en raison des effets

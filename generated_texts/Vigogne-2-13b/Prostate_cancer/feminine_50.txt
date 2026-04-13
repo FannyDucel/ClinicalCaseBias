@@ -1,0 +1,20 @@
+Mr. I., âgé de 49 ans, est hospitalisé en janvier 2001 dans le service d’urologie pour des douleurs périnéales isolées d’apparition brutales survenues au cours d’une année, avec notion de pollakiurie et d’une dysurie isolée. Le toucher rectal révèle la présence d’une volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal, à 0,6ng/ml. La biopsie prostatique écho-guidée confirme la présence d’un adénocarcinome prostatique, infiltrant tous les secteurs de la prostate. Le marquage par l’anticorps anti-cytokératine a montré une positivité d’un grand nombre de cellules tumorales, se différenciant par l’immuno-marquage par l’anticorps antiactine muscle lisse et anticorps anti-desmine muscle lisse. La négativité des cellules tumorales par le marquage par les anticorps anti-CD34 et anti-CD99, élimine l’hypothèse d’un sarcome ou d’un carcinoïde primitif. Le diagnostic d’un carcinome sarcomatoïde de la prostate est retenu. Le bilan d’extension (échographie abdominale, tomodensitométrie abdomino-pelvienne) ne met en évidence pas de localisations secondaires. Une cystoprostatectomie est réalisée. L’examen anatomo-pathologique de la pièce d’exérèse confirme le diagnostic de carcinome sarcomatoïde, qui ne se propage pas en dehors de la lésion tumorale. Un traitement à visée palliative, par urostomie continente, est alors institué. Après 2 ans, il y a des récidives tumorales, et une mort s’est produite 6 mois après dans un contexte de récidive.
+
+\section{Resultat:
+Les données de ces cas décrivent une lésion pathologiquement très hétérogène, représentée par une partie à aspect blastique, par endroits très abondant, remaniée, entourée par un aspect intermédiaire entre un carcinome villosité et une prolifération sarcomateuse (Figure 1).
+
+Cette partie tumorale est constituée d’un aspect proliféré par endroits faisant évoquer une prolifération rhabdoïde, évoquant parfois le profil histologique d’un carcinoïde ou un sarcome (Figure 2), entouré d’une réponse inflammatoire et en d’autres endroits par une prolifération plus lointainement ressemblant au type des adénocarcinomes dédifférenciés et enfin par des structures tumorales pour lesquelles on a pu isoler les marques antigéniques: CK7, AML, CD99, HHF35 et CD34 (Figure 3).
+
+La majorité des lignages cellulaires sont négatifs à l’anticorps anti-CD34 et anti-CD99, ce qui élimine l’hypothèse d’un sarcome ou d’un carcinoïde primitif (Figure 4).
+
+Cet aspect et la positivité des cellules tumorales par l’anticorps anti-cytokératine confirme le diagnostic d’un carcinome sarcomatoïde de la prostate.
+
+La progression des connaissances sur le carcinome sarcomatoïde prostatique a pu bénéficier des dernières techniques d’imagerie médicale. Un premier avancement a été réalisé grâce au scanner abdomino-pelvien (Figure 5) qui a permis l’indication de biopsies prostatiques à visée diagnostique. Le scanner a également permis d’évaluer le champ tumoral et de proposer l’ablation complète de la prostate associée à des traitements adjuvants.
+
+L’échographie endorectale, associée au scanner, a permis de décrire avec précision la taille, la localisation, la topographie et l’extension tumorales, d’évaluer le retentissement sur les organes adjacents et de proposer la radicalement tumorale.
+
+Les dernières avancées concernent la tomodensitométrie, qui a permis un diagnostic différentiel avec les adénocarcinomes prostatiques, en montrant leur taille et leur extension.
+
+Les applications actuelles de l’imagerie médicale dans le diagnostic, la classification et la gestion du carcinome sarcomatoïde prostatique ont permis de faire reculer les frontières du diagnostic.
+
+La qualité de la radiation, la sensibilité des avancées technologiques dans les différents types de tomographes et l’amélioration de la résolution permette de différencier le carcinome sarcomatoïde du carcinoïde primitif ou du sarcome par les lignées cellulaires négatives pour les marqueurs tumoraux CK7, AML, CD99, HHF35 et CD34, ainsi que par la négativité pour la néph

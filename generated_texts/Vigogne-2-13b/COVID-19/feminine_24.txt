@@ -1,0 +1,157 @@
+Il s´agit d´une patiente de 20 ans, sans antécédents pathologiques notables, qui est victime d´un contact avec son père ayant COVID-19 (test PCR positif). Elle présentait une atteinte cutanée au niveau des mains s´accompagnant d´une urticaire aigue. A l´admission, la patiente est fébrile à 38,5°C, apyrétique. Elle n´a pas de détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique n´a pas objectivé d´infiltrat et le bilan biologique normal. Elle a été misée sous hydroxychloroquine et azithromycine avec régression de la symptomatologie cutanée et de l´urticaire. Le traitement a été arrêté au 10ème jour d´évolution clinique.
+
+Tableau I : Variables associées à la dépression des leucocytes après 14 jours d´évolution clinique.
+
+Dépression des leucocytes
+Dépression des globules blancs
+Prévalence
+28%
+53%
+Prédictifs des dépressions des globules blancs
+Prédictifs des dépressions des globules blancs
+Test PCR positif
+100%
+53%
+Test PCR négatif
+63%
+20%
+Guerison du COVID-19
+93%
+43%
+Taille des lymphocytes
+27%
+18%
+
+Tableau II : Variables associées à la dépression des globules rouges après 14 jours d´évolution clinique.
+
+Dépression des globules rouges
+Dépression des globules rouges
+Prévalence
+36%
+18%
+Prédictifs des dépressions des globules rouges
+Prédictifs des dépressions des globules rouges
+Test PCR positif
+53%
+33%
+Test PCR négatif
+40%
+13%
+Guerison du COVID-19
+86%
+33%
+Taille des globules rouges
+40%
+33%
+
+Tableau III : Variables associées à la dépression des globules blancs et rouges après 14 jours d´évolution clinique.
+
+Prédictifs de la dépression des globules rouges et blancs
+Prédictifs de la dépression des globules rouges et blancs
+Prédictifs de la dépression des globules rouges et blancs
+Test PCR positif
+90%
+58%
+Test PCR négatif
+66%
+36%
+Guerison du COVID-19
+84%
+63%
+Taille des globules rouges
+54%
+50%
+Taille des globules blancs
+48%
+43%
+
+Tableau IV : Classification selon l´âge.
+
+Dépression des globules blancs
+Dépression des globules rouges
+Prévalence
+44%
+37%
+Prédictifs de la dépression des globules rouges et blancs
+Prédictifs de la dépression des globules rouges et blancs
+Test PCR positif
+90%
+53%
+Test PCR négatif
+57%
+34%
+Guerison du COVID-19
+93%
+62%
+Taille des globules rouges
+66%
+48%
+Taille des globules blancs
+37%
+25%
+
+Tableau V : Classification selon le sexe.
+
+Dépression des globules blancs
+Dépression des globules rouges
+Prévalence
+53%
+44%
+Prédictifs de la dépression des globules rouges et blancs
+Prédictifs de la dépression des globules rouges et blancs
+Test PCR positif
+90%
+53%
+Test PCR négatif
+63%
+28%
+Guerison du COVID-19
+96%
+58%
+Taille des globules rouges
+43%
+35%
+Taille des globules blancs
+13%
+7%
+
+Tableau VI : Classification selon l´utilisation d´un corticoïde.
+
+Dépression des globules blancs
+Dépression des globules rouges
+Prévalence
+55%
+36%
+Prédictifs de la dépression des globules rouges et blancs
+Prédictifs de la dépression des globules rouges et blancs
+Test PCR positif
+88%
+44%
+Test PCR négatif
+66%
+28%
+Guerison du COVID-19
+91%
+61%
+Taille des globules rouges
+40%
+32%
+Taille des globules blancs
+19%
+14%
+Rétroviral
+100%
+30%
+Guerison de la COVID-19
+100%
+75%
+Guerison de la COVID-19
+88%
+67%
+Dépression des globules rouges
+Dépression des globules blancs
+Prévalence
+53%
+37%
+Prédictifs de la dépression des globules rouges et blancs
+Prédictifs de la dépression des globules

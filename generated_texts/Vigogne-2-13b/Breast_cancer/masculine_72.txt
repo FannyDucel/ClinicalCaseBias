@@ -1,0 +1,32 @@
+Un patient de 26 ans, sans antécédent pathologique notable, marié à une femme de 24 ans, nulligeste nullipare, et père d’un enfant de 5 ans, était admis pour une tumeur de grande taille du sein droit. Sa mère et sa sœur décédées d´un cancer du sein, la mère à 46 ans, et la sœur à 29 ans. Le patient n´avait pas d´antécédents familiaux de tumeurs du sein ni chez la mère ni chez la sœur. L´examen clinique a trouvé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit et une adénopathie de 1.5 cm au niveau du creux axillaire droit. Une autre tumeur de 2 cm au niveau du quadrant supéro external du sein gauche. L’échographie mammaire a montré une image hypoéchogène de 7,5cm de diamètre en faveur d’un cancer avec une adénopathie axillaire et une autre image hypoéchogène de 2cm en faveur d’un autre cancer. Le scanner thoraco-abdomino-pelvien a objectivé un foyer tumoral du sein droit et du sein gauche, refoulant la trachée et l’artère pulmonaire droite, un signe de spicules vasculaires péri tumoraux, et un emphysème bulleux. L’index tumoral a été estimé à 27 (25mm et 37mm). La résection partielle type QI du sein droit et résection complète type modified mastectomie type Patey du sein gauche. Le dossier est classé BIRADS V.
+
+Les deux résultats anatomo pathologiques ont confirmé un carcinome canalaire infiltrant SBR III. Les récepteurs hormonaux négatifs, test de l’HER 2 négatif, sans marges de carcinome normale, stade pT3N1M0. La CA 15-3 à 81 mui/ml.
+
+Le patient a été adressé dans notre unité de chirurgie pour l’extension des traitements locorégional. Après l’étude du dossier, nous avons eu à nous poser le problème d’ajouter ou non une chimiothérapie néoadjuvante. Le patient a reçu une chimiothérapie néoadjuvante de 4 cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m², suivies de 2 cures de docétaxel. Une chirurgie radicale type Patey bilatéral a été indiquée avec ajout d’une adénopathie axillaire droite d’une taille de 3,5cm. Une chimiothérapie et radiothérapie post opératoires.
+
+Le patient a reçu une chimiothérapie type de 4 cures de docétaxel, et une radiothérapie sur le site tumoral avec dose totale de 36,50Gy.
+
+Les résultats anatomo pathologiques du contrôle n’ont pas montré de récidive locorégionale.
+
+Le patient est actuellement suivi dans le service de gynécologie oncologie. Il est asymptomatique. Il n’a pas d’altération de l’état général ni des paramètres biologiques. Il est classé en rémission partielle complète.
+
+Tableau 1: Note chirurgicale Note médicale Note radiothérapie totale
+| Volume du nodule tumoral du sein droit | 112g | 16cm | | Volume du nodule tumoral du sein gauche | 11g | 16cm | | Lentiginose | 1 | 1 |
+| Localisation emphysémateuse | 1 | 1 |
+| BIRADS V | 5 | 5 |
+| Tumorologique | 5 | 5 |
+| Groupe clinique (classification TNM) | T3N1M0 | T3N1M0 |
+| Carcinome infiltrant canalaire du sein droit | SBR III | SBR III |
+| Ataxie kinésique du nerf radial gauche | 2 | 2 |
+| Adénopathie du seins droit | 1,5cm | 1,5cm |
+| Adénopathie axillaire droite | 3,5cm | 3,5cm |
+| CA 15-3 à 81 mui/ml | 81 | 81 |
+| Test de l’HER 2 négatif | 0 | 0 |
+| Grade de nécrose tumorale du sein gauche | 0 | 0 |
+| Grade de nécrose tumorale du sein droit | 1 | 1 |
+| Groupe clinique (classification TNM) | T2N1M0 | T2N1M0 |
+| Chirurgie du sein droit | Résection partielle | Résection partielle type QI |
+| Chirurgie du sein gauche | Mastectomie complète type QI | Mastectomie complète type Patey |
+| Exérèse de la glande séreuse postérieure | 0 | 0 |
+| Exérèse du foie postérieur | 0 | 0 |
+| Remplacement de

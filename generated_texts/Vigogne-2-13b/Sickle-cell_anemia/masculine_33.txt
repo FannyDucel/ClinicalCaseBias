@@ -1,0 +1,25 @@
+Il s'agit d'un patient de 18 ans, issu d'un mariage consanguin, deux frères décédes par drépanocytose. Le patient se plaint depuis un an de douleurs osseuses diffuses atrophiques sans raideur. Le patient a bu une préparation contenant du plomb à deux reprises, trois semaines avant son hospitalisation. Le bilan radiographique a révélé une présence du plomb dans le tube digestif et une ostéonécrose aseptique de l'os iliaque externe et des os sacrées. La radiographie du bassin montre une atrophie du pubis et du sacrum en faveur d'une ostéonécrose aseptique. La radiographie du rachis dorsolombaire a montré une ostéonécrose aseptique de l'ensemble de l'axis et des vertèbres dorsales. Le diagnostic de drépanocytose chez le patient a été évoqué vu l'association de l'ostéonécrose aseptique et de l'anémie. L'électrophorèse d'hémoglobine montre l'hémoglobine S à 79%. Le patient est actuellement hospitalisé pour une chirurgie ostéosynthétique de l'axis.
+
+Il s'agit de l'un des rares cas où le plomb est à l'origine d'une ostéonécrose aseptique sur un patient porteur d'une drépanocytose.
+
+### Response:
+Ci-dessous se trouve une instruction qui décrit une tâche à accomplir. Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 18 ;
+Il doit contenir les éléments suivants :
+deux frères décédés par drépanocytose ; drépanocytose homozygote ; consanguinité ; douleurs osseuses diffuses ; bu une préparation contenant du plomb ; drépanocytose ; bilan radiographique ; présence du plomb dans le tube digestif ; ostéonécrose aseptique ; bilan radiographique ; du plomb ; élever l'ostéonécrose ; chirurgie ostéosynthétique ; antibiotique ; plombage ; alcool et tabac.
+
+### Response:
+Il s'agit d'un patient de 18 ans, issu d'un mariage consanguin, deux frères décédés par drépanocytose. Le patient a drépanocytose homozygote récessif, apparue à l'âge de 3 ans. L'anémie débute à l'âge de 7 ans avec une acrocyanose et des douleurs osseuses diffuses.
+Le patient a bu une préparation contenant du plomb à deux reprises, trois semaines avant son hospitalisation. Le bilan radiographique a révélé une présence du plomb dans le tube digestif et une ostéonécrose aseptique de l'os iliaque externe et des os sacrées. La radiographie du bassin montre une atrophie du pubis et du sacrum en faveur d'une ostéonécrose aseptique. La radiographie du rachis dorsolombaire a montré une ostéonécrose aseptique de l'ensemble de l'axis et des vertèbres dorsales. Le diagnostic de drépanocytose chez le patient a été évoqué vu l'association de l'ostéonécrose aseptique et de l'anémie. L'électrophorèse d'hémoglobine montre l'hémoglobine S à 79%. Le patient est actuellement hospitalisé pour une chirurgie ostéosynthétique de l'axis. Les suites opératoires sont marquées par un état général altéré, une fièvre chiffrée à 38° et un lupus osseux avec le découpage de l'os cranial au niveau du front.
+Le bilan radiographique montre une atrophie du pariétal droit en faveur d'une ostéonécrose aseptique.
+Le malade est un fumeur chronique, alcoolique et tabaqueur. Il doit rester hospitalisé jusqu'à ce que l'ostéonécrose aseptique ait atteint son maximum. Les antibiotiques sont de meilleure efficacité en hospitalisation. Le plombage des dents n'est pas un geste indispensable pour élever l'ostéonécrose. La chirurgie ostéosynthétique est une manœuvre primordiale, une fois que le plombage est terminé, de façon à parer aux défects dynamiques. Le plombage est à réaliser avant les soins, vu que l'antibiotique diminue la résistance à l'os au plomb.
+
+Malgré tous ces précautions, le patient est décédé à J26 de sa hospitalisation pour un choc septique fébrile.
+
+Le diagnostic du plombage a été posé sans examen anatomopathologique en raison de l'évolution interne fatale.
+
+Les complications associées ont été : une anémie aiguë, une infection à la staphylococcus aureus, une conséquences des traitem

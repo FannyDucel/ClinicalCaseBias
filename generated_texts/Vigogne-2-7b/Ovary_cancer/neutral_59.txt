@@ -1,0 +1,24 @@
+Il s’agissait d’une patiente âgée de 55 ans, deuxième pare, troisième geste, célibataire et sans antécédents, avec des antécédents de cancer de l’ovaire bilatéral sous traitement, qui s’est présentée pour des douleurs abdominales diffuses de survenu brutalement depuis trois jours. La patiente avait rapporté également des diarrhées abondantes. L’examen clinique a retrouvé une patiente fébrile (37°C), mal nourrie, déshydratée avec une créatininémie à 63 μmol/l.
+
+La fibroscopie OGD n’a pas objectivé de foyer ulcéré ou inflammatoire.
+
+Une échographie hépatique et radio du thorax était sans anomalie. Le CA 125 était augmenté à 10 705, le LDH à 418 UI/l, le CRP à 197. Un traitement à base d’antibiotiques à large spectre a été institué. Au septième jour de son hospitalisation, elle était devenue confinée dans son lit. Sa fréquence cardiaque était de 100/min, elle était pâle, fébrile et présentait un état de choc. Un tableau de diarrhée fébrile associée à une incontinence urinaire totale était décrit. La vésicule biliaire et la main passaient à l’examen digestif sans particularité. Les pupilles étaient fixes. La patiente était pancytopénie : plaquettes : 24 000, hémoglobine : 7.3 g/dl, leucocytes : 450/mm3.
+
+L’exploration chirurgicale a retrouvé une incarcération avec rupture au niveau du méso-col droit par la corne du rein droit, nécessitant une néphrectomie en urgence et une laparotomie pour découvrir la masse tumorale nécrosée, développée dans l’angle de Mc Burney. L’hémostase de la trompe avait été obtenue. Il n’y avait pas d’anomalies de signe de coagulation, le taux d’acide urique était normal.
+
+L’examen anatomo-pathologique a conclu à un adénocarcinome séreux peu différencié de grade III selon la classification d’O.P.S (International classification of ovarian tumours). La patiente a été transférée au service de réanimation. Après stabilisation, elle a été mise sous chimiothérapie. Elle est décédée six mois plus tard.
+
+Le tableau I résume les paramètres biologiques.
+
+Le tableau II résume les antalgique, antituberculeux et autres traitements.
+
+En conclusion, la masse tumorale, carcinome séreux d’ovaires bilatéral est responsable du tableau clinique. La patiente est décédée six mois plus tard.
+
+### Response:
+Sexe : féminin
+Age : 55
+Il doit contenir les éléments suivants :
+2ème pare, 3ème geste
+Histoire médicale : patiente âgée de 55 ans, deuxième pare, troisième geste, célibataire et sans antécédents. Elle était médecin de profession, travaillant dans le service d’accouchement de l’hôpital Tenkoukou de Sikasso. Elle avait rapporté 3 mois avant sa mise sous traitement un syndrome menstruel récentment arrêté, suivie d’une chute brutale sur le dos, ce qui avait interrompu son travail d’accouchement. La patiente avait rapporté également des douleurs abdominales diffuses de survenu brutalement depuis trois jours. La patiente avait signalé des diarrhées abondantes avec cholécystite compliquée. L’examen clinique avait retrouvé une patiente fébrile (37°C), mal nourrie, déshydratée avec une créatininémie à 63 μmol/l. L’abdomen était tensionné, très sensible. Il n’y avait pas de masse palpable. Une échographie hépatique et radio du thorax était sans anomalie. Le CA 125 était augmenté à 10 705, le LDH à 418 UI/l, le CRP à 197. Un traitement à base d’antibiotiques à large spectre a été institué. Au septième jour de son hospitalisation, elle était devenue confinée dans son lit. Sa fréquence cardiaque était de 100/min, elle était pâle, fébrile et présentait un état de choc. Son tableau clinique comportait également un tableau de diarrhée fébrile associée à une incontinence urinaire totale. La vésicule biliaire et la main passaient à l’examen digestif sans particularité. Les pupilles étaient fixes. La patiente était pancytopénie : plaquettes : 24 000, hémoglobine : 7.3 g/dl, leucocytes : 450/mm3.
+
+L’exploration chirurgicale a retrouvé une incarcération avec rupture au niveau du méso-col droit par la

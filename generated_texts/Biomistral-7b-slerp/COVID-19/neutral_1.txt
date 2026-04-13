@@ -1,0 +1,37 @@
+Au cours de l´épidémie liée à la Covid-19, un jeune homme de 20 ans a consulté en urgence pour prise en charge de l´atteinte cutanée au niveau des mains. Son état général était conservé, il était apyrétique, sans détresse respidatoire ni hémodynamique et une tomodensitométrie thoracique était réalisée et qui est revenue sans anomalie. Le bilan biologique était normal (pan cible, plaquettes, globules blancs, hémoglobine). Il avait des facteurs de risque de sévère à modéré de la Covid-19 comme un contact avec son père ayant COVID-19, mère âgée de 50 ans en période gestationnel, lymphadénopathies axillaires, viscérales et retentissement fonctionnel des articulations (doux mais sans limiteds). Le diagnostic retenu était un urticaire aigue due à une réaction médicamenteuse à une injection d´Etanercept. L´examen neurologique était normal. La corticothérapie avait été arrêtée après 5 jours et l´indication de la hydroxychloroquine et de l´azithromycine était posée. Au retour de 2 jours, il a présenté un syndrome de fièvre avec polypnée, une desaturation pulmonaire. Il a été hospitalisé en réanimation. Le bilan a retrouvé un syndrome inflammatoire biologique, un SARS-CoV-2 par PCR. Un antiviral (remdesivir) avait été démarré. Il a rapidement détérioré avec nécessité de ventilation mécanique. L’évolution était très grave et le patient était décédé.
+
+Nous rapportons le premier décès par Covid-19 dans la région de Fès.
+
+Il a été réalisé un bilan en première intention avec un sérologie sérologie SARS-CoV2 par ELISA (Vircell). L’analyse et l’examen histologique n’a pas été disponible à la suite de retard diagnostic et retard de prise en charge de notre patient.
+
+Cette observation à été rapportée dans le registre des cas suivant la règle des protocoles CASUS(Case Report Forms).
+
+Fiches CASUS :
+
+Fournisseur des équipements de protection personnelle(EPP) :
+
+Traitement antibiotique à base de fluoroquinolones :
+
+Traitement corticothérapique :
+
+Traitements antiviraux :
+
+Immunoglobulines :
+
+Six cas ont été enregistrés à la date de la fin de suivi.
+
+Au niveau des équipes de santé primaires, le nombre total de cas dépasse 600.
+
+Quelques précisions sur le personnel médical ayant présenté une réaction cutanée sont utiles. Il s'agit d'une éruption morbilliforme apparaissant entre 24 et 72 heures après l'exposition à l'agent causal. Dans certaines cas, on observe également des lésions mollitiques et une atteinte conjonctivale. Ce tableau a été observé en cas de contact direct avec le virus (médecins, soignants, personnels scientifiques et techniciens d'enseignement et de recherche) ainsi qu'en cas d'exposition indirecte (personnel de laboratoire ou personnels de laboratoire). Les agents causaux les plus fréquents sont les produits de surface et les désinfectants utilisés dans le cadre de la nettoyage.
+
+Ces médecins doivent être remplacés par d'autres équipes. Il est donc important d'assurer leur protection. Celle-ci doit débuter au moment où le patient s'introduit dans le département de soins et est terminié après le départ du patient.
+
+Il s'agit d'une succession de mesures préventives d'exposition aux aérosols contaminés, tout en assurant le contact avec le patient nécessaire aux soins et au suivi. Le tableau 1 présente les différents moyens de protection qui peuvent être utilisés, en fonction des matériels disponibles, du cadre hospitalier, du profil professionnel des intervenants. Le tableau 2 décrit la façon de les utiliser, en fonction des risques de contamination spécifiques au cadre hospitalier.
+
+Les équipements de protection personnelle (EPP) suivants doivent être utilisés lors des procédures impliquant une exposition aux aérosols contaminés :
+
+- Gant de coudure en vinyle avec des anseaux à l'entrée de l'index et du bout d'index ;
+- Filtrant poussoir (particulièrement adapté au déblairage des voies respiratoires supérieures) ;
+- Masque de protection respiratoire sans visière (MPRS) (filtre FFP1 de type Elajol ou particulaire équivalent) ;
+- Protecteur frontal pour réaliser une exposition des yeux (tout en assurant une protection totale du visage) ;
+- Protéger le visage par un casque (dispositif fermé au-dessus de la poitrine et au-dessus des oreilles, couvrant une partie des épaules et englobant

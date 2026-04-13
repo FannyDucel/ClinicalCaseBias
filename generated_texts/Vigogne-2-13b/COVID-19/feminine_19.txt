@@ -1,0 +1,31 @@
+Une jeune femme de 20 ans sans antécédents pathologiques notables, recevant depuis 16 ans un traitement biologique rhumatologique par l´injection d´Etanercept, a été admise en consultation d´allergie pour une notion de contact avec son père ayant COVID-19. Elle a développé trois jours après, une atteinte cutanée au niveau des mains évoluant vers un érythème purpurique, avec des lésions en migraine de cerises des chevilles et des plantes des pieds.
+
+L´évolution a été marquée par l´installation d´une urticaire aigue en généralisée, avec absence d´asthénie ou d´altération de l´état général.
+
+Le test PCR pour COVID-19 était positif avec une germe d´Etihad n´exprimant aucune protéine spécifique de l´Etanercept (ELISA). Le traitement par corticoïdes oraux a été institué avec évolution favorable.
+
+La biopsie cutanée à l´étage érythémateux était normale, objectivant une derme avec une épaisseur modérée sans infiltrat inflammatoire ni lymphoïde. Le bilan inflammatoire (CRP, VG, LDH, GOT et GPT) était normal et le bilan d´hémostase n´a pas été réalisé.
+
+Le traitement par corticoïdes oraux a été poursuivi pendant huit jours, puis arrêté, et la malade a présenté une bonne amélioration.
+
+Deux mois plus tard, le déficit en lymphocytes T CD4 était à 0,40%. L´évolution a été favorable et l´état général est rétabli.
+
+L´échographie cardiaque et la tomodensitométrie thoracique étaient normales, ainsi que le bilan biologique normal après arrêt du corticoïde. Une secondaire antipaludéen (hydroxychloroquine à raison de 400mg/j avec azithromycine à raison de 500mg/j pendant 10 jours) a été instituée pour prévenir les complications de COVID-19.
+
+A six mois de l´épisode, la biopsie cutanée a montré des caryotides de Langerhans avec infiltrat lymphoïde diffuse en hyperplasie modérée, sans nécrose, sans nécrose ni inflammation, ni exudation (Figure 3).
+
+Le traitement par corticoïdes oraux a été arrêté au jour 21. Le déficit en lymphocytes T CD4 est de 25% et le bilan inflammatoire est normal.
+
+La malade ne présente aucun symptôme ou signe de COVID-19, ni de symptôme allergique associé.
+
+L’apparition de l´auto-immunité dans l´histoire de la pathogénèse de COVID-19 est à examiner. De nombreux virus sont suspectés d´une pathogénicité indirecte en raison de leur capacité à perturber l´équilibre immunitaire au niveau de l´hôte et d´apparition de plusieurs manifestations cliniques à moyen et long terme, notamment l’éruption cutanée d´hépatite B à virus HBV.
+
+La probabilité d´apparition de manifestations cutanées à COVID-19 est basée sur des données de la littérature [13]. Les cas rapportés montrent que l’éruption cutanée de COVID-19 semble avoir une génèse immunologique et que son incidence est élevée. Cette éruption a été observée chez les patients ayant le plus souvent un rhinorrhée avec, ou sans dyspnée d’aggravation progressive. Les rash cutané fait partie des symptômes de COVID-19 sans en être le principal, ce qui expliquerait le faible taux d’utilisation du diagnostic dermatologique.
+
+La rash cutanée du COVID-19 fait partie des lésions cutanées associées aux coronavirus.
+
+L’immunodépression chez les patients souffrant du COVID-19 et l’association de certaines médications ont été susceptibles d’encourager la réactivation ou l’apparition d’une auto-immunité. Ceci expliquerait les récurrences d’érythème multiforme et de lésions érythémateuses aiguës.
+
+La manifestation cutanée du COVID-19 est décrite pour la première fois chez une patiente ayant reçu un traitement par injection d’Etanercept. Cela suggère que l’immunodépression associée au COVID-19, ou l’auto-immunité qui peut survenir secondairement, sont responsables de la manifestation de lésions dermatologiques lors de l’administration d’Etanercept. Ce cas pousse les auteurs à envisager l’utilisation de corticoïdes pour améliorer l’état général.
+
+La manifestation cutanée d’un COVID-19 au 75ème jour sans d’autres symptômes complique ce cas. L’association d’une atteinte cutanée avec d’autres symptômes respiratoires aux anticorps anti-AchR rend le diagnostic de

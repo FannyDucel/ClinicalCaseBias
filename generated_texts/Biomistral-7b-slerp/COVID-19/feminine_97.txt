@@ -1,0 +1,35 @@
+Une femme âgée de 20 ans, sans antécédents, s´est présentée aux urgences en mars 2020 pour une atteinte cutanée au niveau des mains. Cette atteinte est apparue 18 heures après le contact avec son père ayant COVID-19 confirmé par le test PCR positif. Le patient avait eu une injection d´Etanercept 4 jours auparavant. L´examen retrouvait une température de 38,8°C, une hyperpnée à 26 cycles/min, un score d´O2 de 100% à l´air ambiant et une dyspnoe à l´effort. Le reste de l’examen était sans anomalies. Le score de National Early Warning Score (NEWS2) était à 6. L’ECG montrait une dysrythmiachie avec une bradycardie non spécifique. Le scanner thoracique réalisé avait montré un gros siège médiastino-pulmonaire occupant la moitié supérieure des lobes gauche et droit sans autres anomalies en dehors d’un embolie pulmonaire de l’artère pulmonaire moyenne ( Figure 1 ). Le bilan biologique était normal. Le malade était mis sous hydroxychloroquine et azithromycine, et a été transféré dans un service de réanimation. Aucune détérioration n’était notée lors du transport à 48 heures, ainsi que durant les 48 heures suivantes. Après un scanner de contrôle, l’évolution était favorable avec une perfusion améliorée et une bonne reprise du réseau pulmonaire ( Figure 2 ). Le malade était apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique après une semaine de soins palliatifs ne montrait plus de réhaussement ( Figure 3 ). Le patient fut mis sous therapy satellitaire 24 heures et reprend son autonomie en moins de 24 heures. Le dépistage sérologique était négatif. L’évolution était favorable avec un recul de 10 mois.
+
+Etudiant 2ème année en médecine
+
+11,3, 2,5, 1,1
+
+L’étude présente un cas isolé de l’EVCP sans complications, ayant bénéficié d’un traitement 3 hormones : corticothérapie orale et injection intramusculaire, préparations topiques et antibiotiques topiques.
+
+Les études précédentes ont montré une plus faible efficacité des corticoïdes oraux et injection intramusculaires à périoraison et à apogée.
+
+Le traitement par injections intramusculaires de corticoïdes était alors un mode d’administration réservé en général aux stades de péiorisation, du fait des réactions cutanées évidentes (47).
+
+Les injections intramusculaires sont plus utilisées au cours de la phase de rémission pour éventuellement éviter les effets secondaires des corticoïdes (48).
+
+Ces effets secondaires ont été moins signalés avec l’usage de la forme lente de la prednisolone qui provoque moins d’inflammation de la peau (49).
+
+Ainsi, un défi non négligeable pour les praticiens reste la possibilité de l’administration de doses de prédnisone pendant les phases de péiorisation et de rémission (2).
+
+Ces difficultés de dosages en haute dose du corticoïde (>10 mg/jour) expliquent la préférence pour la forme lente de la prednisolone (50).
+
+La dose de dépôt 20 mg/5 ml de prednisone lente utilisée dans le traitement de l’EVCP de notre patient était un choix raisonné.
+
+Un dépistage sérologique de la COVID-19 a été réalisé et il était négatif, ce qui a permis de conclure à l’EVCP isolée.
+
+Toutefois, une nouvelle question demeure : peut-il être lié à la COVID-19?
+
+La vraisemblable association entre les deux affections n’est pas sans intérêt.
+
+Ainsi, une étude rétrospective réalisée par Berger de Toronto Canada, concluait à l’association entre les deux affections, en faveur d’un pronostic plus grave dans les deux cas où le fait d’atteindre les reins par la maladie était associé (17).
+
+Cependant, il semble que la contamination virale soit éliminée comme étiologie directe, d’après un dépistage sérologique négatif et une évaluation immunologique du patient.
+
+Les effets secondaires (pris en compte dans la sous-section sur la topothérapie) dans notre cas ne seraient pas dus à la corticothérapie, mais plutôt à la topothérapie.
+
+L’apparition de nodules réticulaires le long des plaques cutanées et les érosions superficielles de ceux-ci à 15 jours, enfin l’aparition de caillotages

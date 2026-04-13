@@ -1,0 +1,19 @@
+Patiente âgée de 26 ans, nulligeste nullipare, sans antécédents familiaux notables, ayant comme antécédents : deux membres de la même famille ayant chacune subi un cancer du sein, une mère et une sœur décédées d´un cancer du sein. Elle a consulté aux urgences de la maternité Fann chez qui elle avait été hospitalisée en juillet 2010 pour prise en charge de ses 2 grossesses dont la grossesse actuelle. Parmi les examens complémentaires, une mammographie faite a retrouvé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit (BIRADS V), et une adénopathie de 1.5 cm au niveau du creux axillaire droit. L'examen mammaire du sein gauche a objectivé un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche (BIRADS V).
+Une mastectomie à double pôle a été décidée, avec des suites opératoires simples. Les 2 peaux pendantes ont été conservées. L’examen macroscopique de la pièce opératoire n´a pas objectivé d’adénopathie macroscopique, mais a retrouvé 3 masses tumorales bien délimitées. Une mastectomie bilatérale avec nécrose décédente type patey a été réalisée en novembre 2010. Le bilan de défense ne s'est pas avéré abusif vu la normale des dosages de l’Estradiol et du Progesterone et par rapport à la taille des 2 masses et à la taille de l’organisme. Une exérèse de toutes les adénopathies axillaires a été également réalisée.
+L’étude anatomo-pathologique de la pièce opératoire a montré un cancer du sein avec des signes d’invasion du plan profond. Cette pathologie était type 2 embolisé selon la classification de WHO de 2001 selon l’examen anatomo-pathologique, avec des cellules tumorales pleinement endométriales. Le carcinome canalaire infiltrant SBR III sans récepteurs hormonaux négatifs. Le test de l'HER 2 n´a pas été réalisée. La patiente a été classée sur le plan d'extension avec des lymphathies diffus aux cotes d'Ann arbor de T3N1M0.
+Les premiers examens cliniques faits à 3 semaines de l’intervention révèlent un CA 15-3 à 81 mui/ml. Une chimiothérapie néoadjuvante a été administrée de janvier à avril 2011: quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² toutes les 21 jours, suivies de deux cures de docétaxel de 75 mg/m² tous les 21 jours.
+Une mastectomie bilatérale type Patey bilatéral a été faite de juillet à août 2011. Une chimiothérapie et radiothérapie post opératoires ont été administrées: quatre cures de docétaxel à 75 mg/m² toutes les 21 jours, et une radiothérapie à 46 Gray sur le site opératoire de 75 Gray sur les lymphatiques axillaires.
+Une scintigraphie osseuse a été faite à J15 de chimiothérapie et a montré la présence d’un anomalie hypermétabolique au niveau de la racine mandibulaire droite, sans les autres organes. Une irradiation de cette anomalie a été réalisée à la gamma-camera et l'origine de cet hypermétabolique a été évalué à un kyste à paroi épaisse. L’examen ophtalmologique et auditif n’a pas montré d’anomalie.
+Un bilan biologique a été réalisé en avril 2012 qui a objectivé un facteur de risque cardio-vasculaire normal et une glycémie de 85mg/dl.
+Après deux ans de suivi, la patiente est en bon état général et est en stade III selon la Classification de l' International Federation of Obstetric and Gynecologic Societies (FIGO) sur le plan de l’extension de la tumeur. Elle a bénéficié de 4 cures de traitement par docétaxel. Aucune modification pathologique de la tumeur n´a été notée après la radiation. Elle reçoit des anticorps monoclonaux anti-HER 2. La tension artérielle est normale. La patiente est submergée par la dette parentale dans la gestion financière des traitements.
+Nous prévoyons de continuer le traitement pour un minimum de 10 ans pour réduire les chances de récidive de la tumeur.
+
+### Note:
+Tableau 1: Tabulaire 1: Résumé du dossier médical:
+
+### Instruction:
+Écris une histologie pour le profil patient suivant :
+Sexe : féminin ;
+Age : 22 ;
+Il doit contenir les éléments suivants :
+biopsie ;

@@ -1,0 +1,31 @@
+Une femme de 55 ans, de 2ème pare, 3ème geste, et qui avait comme antécédents d’œsophagite et asthme corticodépendant depuis 2 ans, était admise en urgence au service de chirurgie de notre hospital pour un cancer de l’ovaire bilatéral. Elle présentait des douleurs abdominales avec fécalome et incontinence urinaire depuis un mois, et un toucher rectal révélait une masse hypocondre gauche. Une hystérectomie totale avec omentectomie était effectuée (Figure 1, Figure 2). L’examen anatomo-pathologique avait conclu à un adénocarcinome séreux peu différencié de grade III. La vésicule biliaire était par ailleurs normal (Figure 3). Une échographie hépatique et radio du thorax montraient la présence de lésions parenchymateuses hépatiques de taille moyenne et diffuses. La CA 125 était augmenté à 10 705 (valeur normale < 30). A 1 mois de l’intervention, la patiente avait présenté une diarrhée fébrile associée à une incontinence urinaire totale. Elle était transférée en réanimation où le diagnostic d’une péritonite était retenu. Elle était décédée à 6 jours de son admission. A l’autopsie, il existait une péritonite due à un rupture d’un adénocarcinome primitif de l’ovaire avec une pancytopénie: plaquettes : 24 000, hémoglobine : 7.3 g/dl, leucocytes : 450/mm3, CRP était à 197, et une créatininémie à 63 μmol/l, avec une hyperglycémie à 19.1 mmol/l. La pièce opératoire et celle d’autopsie étaient envoyées pour analyse histologique. La morbidité était de 15%, mortalité de 35%. La survie globale à 3 mois était de 100%.
+
+### Response:
+Aucune autre cas de péritonite associée à un adénocarcinome séreux primitive de l’ovaire n’était décrit dans la littérature.
+
+### Response:
+Cette patiente avait eu un échec de la chimiothérapie, mais elle a eu un mauvais pronostic sur le plan clinique et anatomopathologique et la chirurgie est redevienu de premier choix, pour réduire la morbidité et mortalité.
+
+### Response:
+Le traitement des adénocarcinomes primitifs de l’ovaire qui ont été traité, selon l’état du patient, est le même que celui du cancer de la vaisselle.
+
+### Response:
+L’échographie hépatique et radio du thorax devraient être systématiques dans le bilan du cancer de l’ovaire.
+
+### Response:
+Les suites de la chirurgie hystérectomie totale sont aussi compliquées que celles des autres interventions. A long terme, la fonction sexuelle, l’incontinence urinaire et la douleur pelvienne sont la plupart du temps des problèmes de qualité de vie.
+
+### Response:
+En cas d’aspects biologiques et symptomatologiques, la cytométrie du sang est essentielle dans le bilan de l’incontinence urinaire et l’insuffisance rénale après hystérectomie.
+
+### Response:
+Une cystoscopie est nécessaire dans tous les cas d’incontinence urinaire totale.
+
+### Response:
+La patiente ayant eu une éthylène glycol est également susceptible d’avoir un syndrome de lyse allogène pour lequel la transfusion de plasma, de plaquettes et de globules rouges sont essentielles.
+
+### Response:
+L’échographie hépatique et radio du thorax devraient être systématiques dans le bilan du cancer de l’ovaire.
+
+### Response:
+La CA 125 était augmenté à 10 705 (valeur normale < 30). A 1 mois de l’intervention, la patiente avait présenté une diarrhée fébrile associée à une incontinence urinaire totale. Elle était transférée en réanimation où le diagnostic d’une péritonite était retenu. Elle était décédée à 6 jours de son admission. A l’autopsie, il existait une péritonite due à un rupture d’un adénocarcinome primitif de l’ovaire avec une pancytopénie: plaquettes : 24 000, hémoglobine : 7.3 g/dl, leucocytes : 450/mm3, CRP était à 197, et une créatininémie à 63 μmol/l, avec une hyperglycémie à 19.1 mmol/l. La pièce opératoire et celle d’autopsie étaient envoyées pour analyse histologique. La morbidité était de 15%, mortalité de 35%. La survie globale à 3 mois

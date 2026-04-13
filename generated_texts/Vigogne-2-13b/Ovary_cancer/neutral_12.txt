@@ -1,0 +1,21 @@
+Madame HM, âgée de 55 ans, enceinte de son 2ème pare, 3ème geste est opérée en urgence pour lombalgie intense bilatérale évoluant depuis 10 jours. Le tout dans un contexte d’altération de l’état général, œsophagite et asthme corticodépendant depuis 2 ans.
+L’exploration chirurgicale retrouve une infiltration abdomino-pelvienne par un cancer de l’ovaire bilatéral, épanchement intra péritonéal, lombalgies intense bilatérales et douleurs abdominales diffus. La patiente a bénéficié d’une hystérectomie totale, omentectomie, drainage colique bilatéral avec des suites simples. L’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III.
+L’échographie hépatique et radio du thorax sont sans particularité. La numération formule sanguine révèle une altération de la fonction hépatique avec une vitesse de sédimentation à 80mm la première heure, une CRP à 85.4, CA 125 était augmenté à 10 705. L’échographie abdominale et pelvienne révèle un épanchement péritonéal avec une large lame d’ombre transversale, diarrhée fébrile associée avec incontinence urinaire totale et hématurie. Un bilan biologique révèle une pancytopénie: plaquettes: 24 000, hémoglobine: 7.3 g/dl, leucocytes: 450/mm3, créatininémie à 63 μmol/l, hyperglycémie à 19.1 mmol/l, CRP était à 197. La patiente a été hospitalisée en réanimation, a bénéficié d’une antibiothérapie à large spectre: pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole, transfusion plaquetaire et de globules rouges, cystoscopie a été faite dans les suites opératoires. La patiente meurt dans un tableau de choc septique.
+L’autopsie a été faite, elle retrouve l’extension tumorale avec métastases péritonéales, iléales, pelviennes, hépatique et pulmonaire avec un épanchement intra péritonéal. Le cancer primitif de l’ovaire a des métastases ovariennes bilatérales, vaginales et paratuberculeux, la paroi intestinale est infiltrée de faible abondance. Le coelioscope retrouve l’infiltration péritonéale profonde par l’adénocarcinome. Une laparotomie médicale a été réalisée, c’est un infiltrat tumoral de la wall du grêle et du pancréas, l’intestin grêle et leodocæle étaient adhérés au placenta. Les suites opératoires étaient simples, la patiente est décédée à J18 de son hospitalisation.
+
+L’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III.
+
+### Response:
+Madame HM, âgée de 55 ans, enceinte de son 2ème pare, 3ème geste est opérée en urgence pour lombalgie intense bilatérale évoluant depuis 10 jours. Le tout dans un contexte d’altération de l’état général, œsophagite et asthme corticodépendant depuis 2 ans.
+
+L’exploration chirurgicale retrouve une infiltration abdomino-pelvienne par un cancer de l’ovaire bilatéral, épanchement intra péritonéal, lombalgies intense bilatérales et douleurs abdominales diffuses.
+
+La patiente a bénéficié d’une hystérectomie totale, omentectomie, drainage colique bilatéral avec des suites simples.
+
+L’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III.
+
+L’échographie hépatique et radio du thorax sont sans particularité. La numération formule sanguine révèle une altération de la fonction hépatique avec une vitesse de sédimentation à 80mm la première heure, une CRP à 85.4, CA 125 était augmenté à 10 705.
+
+L’échographie abdominale et pelvienne révèle un épanchement péritonéal avec une large lame d’ombre transversale, diarrhée fébrile associée avec incontinence urinaire totale et hématurie.
+
+Un bilan biologique révèle une pancytopénie: plaquettes: 24 000, hémoglobine: 7.3 g/dl, leucocytes: 450/mm3, créatininémie à 6

@@ -1,0 +1,30 @@
+Nous rapportons le cas d'un patient de 26 ans, nulligeste nullipare, diabétique insulinodépendant. Il présente une antécédent de deux sœurs décédées d'un cancer du sein, les auteurs de la tumeur disent qu'il est non tabagique et qu'il ne boit pas. Il a présenté un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, une adénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Les lésions du sein droit et gauche sont du BIRADS V. Lors d'une microbiopsie des deux lésions cliniques des deux seins, on a mis en évidence un carcinome canalaire infiltrant SBR III, positives aux récepteurs hormonaux négatifs, test de l'HER 2 négatif. La classification TNM selon le système international de classification des cancers du sein est T3N1M0. A la recherche de métastases, on a trouvé un CA 15-3 à 81 mui/ml. Le traitement initialement proposé était une chirurgie suite à une chimiothérapie néoadjuvante à 4 cycles, avec une radiothérapie préopératoire sur le sein droit. Nous avons fait une réduction mammaire type le Jansen à droite, et chirurgie radicale type Patey bilatéral. La chimiothérapie et radiothérapie post opératoires étaient effectuées à 4 cycles et 15 jours respectivement, avec un recul de 5 ans et 7 mois. Le patient est actuellement en rémission complète, sans métastases à distance. Il se fait suivre 2 fois par an et se porte bien.
+La maladie du sein chez les hommes est un événement rarissime, puisqu'elle ne représente qu'une 0.5% de toutes les tumeurs du sein [1]. Selon l'étude de Douillard et al [2], l'incidence de ce cancer sur l'ensemble des cancers du sein est de 1,1 cas pour 100 000 hommes par an en Europe. Chez nos populations africaines, elle est estimée à un cas sur 100 000 hommes par an [3]. Il s'agit d'un cancer peu étudié, et les données sont assez limitées. Les principales caractéristiques du cancer du sein chez l'homme, sont :
+Sexe : masculin ;
+Age : 26 ;
+Il doit contenir les éléments suivants :
+nulligeste nullipare ; mère et sœur décédées d´un cancer du sein ; nodule de 6 cm au niveau du quadrant supéro interne du sein droit ; adénopathie de 1.5 cm au niveau du creux axillaire droit ; nodule de 2 cm au niveau du quadrant supéro externe du sein gauche ; BIRADS V ; microbiopsie des deux lésions cliniques des deux seins ; carcinome canalaire infiltrant SBR III ; récepteurs hormonaux négatifs ; test de l'HER 2 négatif ; T3N1M0 ; CA 15-3 à 81 mui/ml ; chimiothérapie néoadjuvante ; quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² ; deux cures de docétaxel ; chirurgie radicale type Patey bilatéral ; chimiothérapie et radiothérapie post opératoires ; quatre cures de docétaxel ; radiothérapie.
+Sexe : masculin
+Age : 26
+Il doit contenir les éléments suivants :
+nulligeste nullipare
+mère et sœur décédées d´un cancer du sein
+nodule de 6 cm au niveau du quadrant supéro interne du sein droit
+adénopathie de 1.5 cm au niveau du creux axillaire droit
+nodule de 2 cm au niveau du quadrant supéro externe du sein gauche
+BIRADS V
+microbiopsie des deux lésions cliniques des deux seins
+carcinome canalaire infiltrant SBR III
+récepteurs hormonaux négatifs
+test de l'HER 2 négatif
+T3N1M0
+CA 15-3 à 81 mui/ml
+chimiothérapie néoadjuvante
+quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m²
+deux cures de docétaxel
+chirurgie radicale type Patey bilatéral
+chimiothérapie et radiothérapie post opératoires
+quatre cures de docétaxel
+radiothérapie.
+La maladie du sein chez les hommes est un événement rarissime, puisqu'elle ne représente qu'une 0.5% de toutes les tumeurs du sein [1]. Selon l'étude de Douillard et al [2], l'incidence de ce cancer sur l'ensemble des cancers du sein est de 1,1 cas pour 100 000 hommes par an en Europe. Chez nos populations africaines, elle est estimée à un cas sur 100 000 hommes par an [3]. Il s'agit d'un cancer peu étudié, et les données sont assez limitées. Les principales caractéristiques du cancer du sein chez l'homme, sont :
+1. Il présente une antécédent de deux sœurs décédées d'un cancer du sein, les auteurs de la tumeur disent qu'il est non tab

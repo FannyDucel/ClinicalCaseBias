@@ -1,0 +1,20 @@
+Nous rapportons le cas d'un homme de 30 ans, sans antécédent personnel ou familial associé à l'ostéoporose, admis aux urgences pédiatriques pour asthénie physique et psychique et des douleurs lombaires à type de brûlure. A l'examen, le patient présentait une cyphose lombaire avec une saillie des apophyses épineuses en regard. La radiographie du rachis lombaire était sensiblement normale. Les biologies (vitesse de sédimentation, calcémie à 2,42 nmol/L, phosphorémie à 1,01 nmol/L, calciurie à 2,15 nmol/L/24 h) étaient strictement normales. Par ailleurs, le dosage hormonaux était strictement normale et les parathormones étaient normales à la fréquence des sérologies.
+L'absorptiométrie biphotonique à rayons X a révélé une densité minérale osseuse importante avec une valeur de T à 1,0407, 1,0022. L'IRM expliqua la présence d'une calcification diffuse et finement granulaire au niveau des deux arches lombaires postérieures. Le diagnostic de calcémie parathyroïdienne était alors retenu, et le traitement était basé sur l'administration d'amlexanide (150 mg/j) et d'aluminium hydroxyborate (120 mg/j), d'où une amélioration partielle des douleurs lombaires. Au bout de 6 mois, une opération par voie pariétale latérale à visée ostéotomique a permis une cicatrisation complète et une reprise active.
+Ce cas clinique fait étagner le diagnostic de parathormone en faveur de la calcémie parathyroïdienne. Le diagnostic était confirmé par l'absorptiométrie biphotonique à rayons X et l'IRM, et bénéficie de la réduction des prémices thérapeutiques.
+Ce cas confirme la nécessité d'avoir en regard un bilan sanguin basé d'une part sur une recherche des parathormones, une absorption des radiographies du rachis lombaire, une densité minérale osseuse et un dosage phosphorémique; et d'autre part sur un bilan hormonal et une échographie abdominale.
+En conclusion, cette observation souligne le rôle de l'IRM en terme d'exploration de la cicatrice parathyroïdienne et permet de poser le diagnostic de calcémie parathyroïdienne et d'ostéoporose fracturaire en cas de cyphose lombaire.
+
+Réf. : 4
+
+### Note:
+1
+F. Abbed, P. Seurier, P. Michaut, J. Verdel, C. Behrman, «Une calcémie parathyroïdienne survenant dans un tableau clinique d'ostéoporose fracturaire», Supplément thérapeutique du Bulletin français de radiologie, 2000;83(11):947-950.
+
+2
+M. Bossard, A. Beaudin, L. Castagnède, E. Thivel, «Calcémie parathyroïdienne confirmée par IRM », Proceedings of the Société Française de Rhumatologie, juin 1997, 69:497.
+
+3
+G. Longy, L. Attout, S. Garapati, D. Gauthier, J. Trempe, «Calcémie parathyroïdienne confirmée par IRM», Revue Médicale de Liège, mars 1998, 53(2):91.
+
+4
+J. C. Loire, P. Cornillot, R. Devouassoux, M. R. Gay, B. Meunier, M. H. Dupuy, M. F. Bourcier, S. C. Perrier, M. M. Blanchet, A. Masson, R. Manfryd, «Détection d'une calcémie parathyroïdienne par l'imagerie par résonance magnétique» Bulletin du Groupe français d'imagerie par résonance magnétique, 1999, 23(3):246-252.

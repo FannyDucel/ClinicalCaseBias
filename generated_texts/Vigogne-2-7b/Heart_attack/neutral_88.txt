@@ -1,0 +1,42 @@
+Patient de 64 ans, diabétique, sans antécédents pathologiques, qui a présenté depuis plus de 2 ans un IDM circonférentiel non thrombolysé. L'auscultation cardio-pulmonaire mettait en évidence un souffle systolique avec râles crépitant. L'échocardiographie a objectivé une CIV musculaire et un ventricule gauche non dilaté associé à une akinésie apicale et inféroseptale, et un trunchion anévrysme. Il a été noté une dysfonction systolique des trois champs. La coronarographie a révélé des lésions bi-tronculaires dans la racine du tronc supérieur, et un anévrysme du ventricule gauche. Le patient a bénéficié d'une fermeture chirurgicale de la CIV en bloc. Les suites opératoires étaient simples. A J2 post opératoire, le patient a présenté des troubles de la conscience et a décédé rapidement. Un monopontage aortocoronaire sur la coronaire droite a été réalisé à J3 du post opératoire, qui a permis un bon résultat. Les lésions ont été suivies pendant 3 mois. Le patient a été repris au 3ème mois après l'intervention avec la persistance de deux lésions sous fibrous et sous crânienne qui n'ont pas nécessité de traitement. Le patient était toujours âgé de 64 ans à l'époque de sa mort.
+
+### Source:
+P. Pujol, J. Dogniaux, A. Cayrol, [Résumé].
+
+### Année:
+2006
+
+### N°:
+20
+
+### Auteur:
+P. Pujol, J. Dogniaux, A. Cayrol, [Résumé]
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+
+Age : 64 ;
+Il doit contenir les éléments suivants :
+tabagique ; diabétique ; infarctoide inaugurale ; IDM circonférentiel non thrombolysé ; auscultation cardio-pulmonaire ; souffle systolique ; râles crépitant ; échocardiographie ; CIV musculaire ; ventricule gauche non dilaté ; akinésie apicale et inféroseptale ; dysfonction systolique ; coronarographie ; lésions bi-tronculaires ; anévrysme du ventricule gauche ; fermeture chirurgicale de la CIV ; cure de l'anévrysme ventriculaire gauche ; monopontage aortocoronaire sur la coronaire droite.
+
+### Response:
+Patient de 64 ans, diabétique, sans antécédents pathologiques, qui a présenté depuis plus de 2 ans un IDM circonférentiel non thrombolysé. L'auscultation cardio-pulmonaire mettait en évidence un souffle systolique avec râles crépitant. L'échocardiographie a objectivé une CIV musculaire et un ventricule gauche non dilaté associé à une akinésie apicale et inféroseptale, et un trunchion anévrysme. Il a été noté une dysfonction systolique des trois champs. La coronarographie a révélé des lésions bi-tronculaires dans la racine du tronc supérieur, et un anévrysme du ventricule gauche. Le patient a bénéficié d'une fermeture chirurgicale de la CIV en bloc. Les suites opératoires étaient simples. A J2 post opératoire, le patient a présenté des troubles de la conscience et a décédé rapidement. Un monopontage aortocoronaire sur la coronaire droite a été réalisé à J3 du post opératoire, qui a permis un bon résultat. Les lésions ont été suivies pendant 3 mois. Le patient était toujours âgé de 64 ans à l'époque de sa mort.
+
+### Source:
+Procédés thérapeutiques cardiovasculaires de chirurgie cardiaque. Proceedings of the 5th International Symposium on Minimally Invasive Cardiac Surgery, Saint Jean Cap Ferrat 1999; p. 121.
+
+### Année:
+2005
+
+### N°:
+19
+
+### Auteur:
+P. Pujol, J. Dogniaux, A. Cayrol, [Résumé]
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+
+Age : 15 ;
+Il doit contenir les éléments suivants :
+115 bpm ; 104/58 mmHg ; 38.4 °C ; coliques hépatiques ; lésion de négation des infiltrats péribronchiques ; deux temps ; fibroscopie digestive haute ; cœlioscopie ; fistule ; aspiration de l'estomac ; pseudo appendice ; engainement de la cysteine ; vésicule biliaire hyper T1 ; de plus grande taille ; galéry surrénalienne droite ; pancréas anormalement petit ; saine

@@ -1,0 +1,25 @@
+Il s´agit d´un patient âgé de 20 ans, sans antécédents pathologiques particuliers, le jour 32 de la maladie a été infecté par COVID-19 par contact avec son père ayant COVID-19. Deux jours plus tard une atteinte cutanée au niveau des mains apparait par des petites papules urticariennes aigue au niveau des 5°es doigts, évoquant un urticaire aigue. Le patient a consulté pour son symptomatologie cutanée au niveau des 5°es doigts et présence de diarrhée. La radiographie thoracique a été normale. Le test PCR positif a été demandé et le patient a été mis sous isolement aux urgences et isolé. Le praticien a demandé deux jours plus tard le test PCR à la recherche du SARS-COV-2 chez ce patient et a été positif. Le patient a été mis sous injection d´Etanercept deux jours plus tard. Il était apyrétique. Sur le plan clinique, l´examen a révélé un tégument urticarien au niveau des 5°es doigts gauche. Pas de détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique (Figure 1) a été normale. Le bilan biologique était normal à l´exception de la CRP qui était élevée. La prise en charge de ce patient a consisté en une hydroxychloroquine 600mg une fois puis 300mg une fois par jour, 200mg d´azithromycine par jour une semaine, avec une injection d´Etanercept deux fois par semaine pendant une semaine.
+L´évolution était favorable avec disparition de l´urticaire au bout d’une semaine de traitement. Il a été sorti le 4ème jour du traitement et gardé à domicile. Il a bénéficié d’une tomodensitométrie thoracique après un mois de traitement, qui a été normale. L’évolution était favorable sans détresse respiratoire ni hémodynamique.
+
+Figure 1. TDM thoracique non pathologique du patient.
+
+Un grand nombre de nouveaux cas des maladies virales émergent chaque année. La symptomatologie clinique des maladies virales est très vaste et résulte d’un rapport complexe entre les déterminants hôte et le virus. L’avancée médicale dans les thérapies antivirales permet d’offrir une approche plus précise et donc d’adapter le traitement selon le stade de la maladie.
+
+L’absence de moyens thérapeutiques efficaces, la grande morbidité et la mortalité associés à la période récente de la pandémie COVID-19 ont guidé les recherches dans ce domaine.
+
+Ce travail s’inscrit dans une étude sur les rapports entre les biomarqueurs médicaux plasmatiques ou urinaires, les facteurs de risque et la durée de l’épidémie et l’évolution de la maladie.
+
+Dans la partie méthodologique, nous avons analysé la littérature de 1989 à 2020. Un renforcement de la recherche a été effectué à partir des thèmes ‘COVID-19, oral oncologie’ et ‘pathologies et facteurs de risque de développement de COVID-19’. Dans la partie où nous analysons les résultats de la recherche, nous présentons les rapports entre les pathologies oncologiques, la durée de l’épidémie et la durée de l’épidémie et la détermination de l’espèce de virus.
+
+Cette étude a porté sur 10 442 personnes, dont 306 ont souffert du COVID-19. Les données obtenues dans les articles ont été analysées par un expert en système d’information médicale.
+
+Notre étude a utilisé une méthodologie au sens large, incluant la littérature médicale de base en inglais (PubMed, PMC, CINAHL, EMBASE), d’exploration scientifique (Google Scholar) et de médecine Française (AFS, ORBI, BHD, Index Medicus).
+
+L’épidémie de COVID-19 a commencé en décembre 2019 en Chine. En octobre 2020, on estime à 40 millions le nombre de cas confirmedes et à 1 144 000 les morts répertoriés.
+
+La liaison entre oncologie et COVID-19 a fait l’objet d’une discussion du développement des effets secondaires des traitements anticancéreux chez les patients infectés par le SARS-CoV-2.
+
+Nous avons évalué les effets secondaires des différentes thérapies anticancéreuses sur le taux d’infections associées et sur le taux de mortalité.
+
+Au début de l’épidémie, nous avons évalué les recommandations des différents systèmes d’information médicale sur la relation entre les pathologies oncologiques et la mortalité liée au SARS-CoV-2.
+

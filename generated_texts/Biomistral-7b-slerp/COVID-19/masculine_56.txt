@@ -1,0 +1,22 @@
+Il s’agit d’un patient âgé de 20 ans, sans antécédent pathologique qui a présenté une dyspnée d´effort évoluant depuis 2 jours dans un contexte de fièvre à 38°c. Il est issu d’une famille de 8 enfants dont un frère aîné porteur d´une pneumopathie interstitielle idiopathique diagnostiquée en décembre 2019 et d´un autre frère âgé de 16 ans qui a été diagnostiqué positif au COVID-19 il y´a deux semaines par le test de PCR, sans manifestation clinique. Le patient présente depuis 2 jours une dyspnée d´effort avec un contact avec son père ayant COVID-19, des râles crépitant bilatéraux, des sueurs nocturnes, une myalgie, une arthralgie. Dans les antécédents: il a été hospitalisé en mars 2020 dans le service d´allergie pour une atteinte cutanée au niveau des mains évoluant depuis 2 ans, avec un diagnostic d´urticaire aigue probable, et un test PCR positif fait à son demande après que son père a été diagnostiqué positif au COVID-19. Il a été traité par 1mg d´Etanercept 3fois par semaine en ambulatoire.
+Après admission dans notre service, le patient a été mis sous oxygénothérapie à 6L/min, une antalgie, une antibiothérapie (Clarithromycine 2g /j et Doxycycline 100mg /j), une anti-inflammatoire non stéroïdien, un corticoïde par voie buccale, un support respiratoire en oxygénothérapie en oximétrie transcutanée avec une Spo2 à 97% à 15L/min et une hydroxychloroquine en association avec l´azithromycine. Après un mois, le patient a eu une improvement avec une normo-thermie et une amélioration de l´examen somatique et respiratoire sans corticothérapie avec un bilan biologique normal. Il est maintenant suivi en consultation.
+La famille a demandé à l´étude des échantillons virologiques de tous ses membres; le patient, ses parents et son frère qui porte un test PCR positif mais l’étude du frère a trouvé une PCR négative. Les parents ont été infectés par le SARS-COV2, avec 2 frères positifs par le PCR, mais le patient a pu quitter l’hôpital avec un test PCR positif. Une injection d´Etanercept lui a été prescrite, mais elle ne sera pas transmise. Le patient sera suivi par un pneumologue. Aucune transfusion de sang sanguine n’a été effectuée à partir de ce patient hospitalisé.
+
+Commentaires du rédacteur:
+La documentation et la représentation des données cliniques s’avère insuffisante. En effet, il n’y a pas de bilan immunologique par ex. Une édition de ce cas clinique a permis de corriger ces lacunes.
+
+Monsieur A. M., âgé de 32 ans, est admis en service de médecine intensive pour prise en charge de une crise épileptique rétentionnale suivie d’une hémiparésie droite. Ce patient est arrivé avec un retard de 10 minutes par rapport à son prélèvement, ce qui ne nous permet pas d’éliminer la possibilité de bacillome cérébral surtout que le bilan radiologique ne révèle pas d’image évocatrice.
+
+L’histoire naturelle de cette maladie est caractérisée par une incubation clinique de 2 à 4 semaines, puis une phase d’infectiosité.
+
+La sérologie des fièves hémorragiques et typhoïde est négative, ainsi que la sérologie VIH, le syndrome de moine et la recherche d’acinocystis à la bronchoscopie.
+
+Après une lutte contre la fièvre, ce patient se met à mérguler. Les examens biologiques sont négatifs pour SARS-CoV2; une prise en charge antigrippale est instaurée avec une corticothérapie à haute dose.
+
+Les échocardiographies sont sans anomalies. Un bilan immunologique n’a pas été réalisé.
+
+Ce patient bénéficie d’une prise en charge médicale en s’appuyant sur l’évolution clinique et les données épidémiologiques et l’écart électrique entre les échocardiographies.
+
+Le déroulement de cette histoire et les événements précédents l’intéressent par l’apparition d’une hémiparésie droite évoluant sur un fond de fièvre. Le patient est intubé sous ventilation assistée.
+
+Une tomodensitométrie médiastinale est réalisée en urgence, ce qui révèle une légère atrophie pulmonaire et des adénopathies médiastinales bilatérales profondes.

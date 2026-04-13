@@ -1,0 +1,28 @@
+Monsieur H... âgé de 54 ans, sans antécédent particulier, est hospitalisé pour des douleurs lombaires droites irradiant vers l’abdomen, associées à une hématurie.
+
+L’examen clinique ne trouvait pas de tumeur pelvienne. L’examen tomodensitométrique montrait une masse de 4 cm, compressive de la tête et du bulbe urinaire et des reins droits. Cette masse était disposée sur le plan profond et envahissant uniquement la graisse adjacente.
+
+Monsieur H... bénéficie d’une cystoprostatectomie radicale totale suivie d’une omphalectomie. L’examen anatomo-pathologique montrait une tumeur à cellules carcinomateuses multicentriques sans nécrose en situation ganglionnaire et envahissant la graisse surrénalienne. Les limites de la cystectomie étaient saines. Il était décrit également une omphalectomie pour éliminer toute carcinose et une entérocystoplastie de substitution pour pallier la commissure cystotomique.
+
+L’examen anatomo-pathologique de cette pièce conclut à un adénocarcinome de l’ouraque peu différencié (positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1), négativité pour les cytokératines 7 et 20 (T III A (selon la classification de Sheldon)). Une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine est indiquée.
+
+Après 5 cures de chimiothérapie, l’exploration par tomodensitométrie a révélé la persistance de plusieurs nodules hypodenses, de taille variable, séparés par une membrane tissulaire, organisés en anneaux et enroulés autour du rein droit, symétriquement sur le flanc droit. Le rein gauche est indemne et la prothèse urinaire est fonctionnelle. Le patient bénéficie d’une néphrectomie droite, avec anastomose terminale urétéro-vésicale et réséquée par le plan pilôris antérieur du rein droit.
+
+Au niveau de l’examen macroscopique de la pièce de néphrectomie, on a retrouvé un rein avec un parenchyme hétérogène, une omphalectomie multinodulaire. Une prothèse urétrale de silicone bioprosthétique de 15 mm a été placée et les suites postopératoires ont été simples.
+
+L’examen histologique a conclut à un adénocarcinome de l’ouraque de stade T3A selon la classification de Sheldon. Les limites de la néphrectomie sont saines.
+
+Actuellement, le patient est suivit tous les 3 mois pour surveillance. Il est en bon état général et ne présente pas de récidive néoplasique.
+
+D.S. et L.B.
+
+### Response:
+Il s’agissait d’un patient de 54 ans, avec des antécédents d’hématurie (de 2/10 à 6/10) et de pollakiurie. L’examen clinique n’a pas trouvé de tumeur pelvienne. L’examen tomodensitométrique montrait une masse de 4 cm, compressive de la tête et du bulbe urinaire et des reins droits. Cette masse était disposée sur le plan profond et envahissant uniquement la graisse adjacente.
+
+L’anatomo-pathologie a conclu à un adénocarcinome de l’ouraque peu différencié, envahissant la graisse surrénalienne. Le bilan d’extension était négatif.
+
+L’examen anatomo-pathologique montrait une tumeur à cellules carcinomateuses multicentriques sans nécrose en situation ganglionnaire et envahissant la graisse surrénalienne. Les limites de la cystoprostatectomie radicale totale suivie d’une omphalectomie étaient saines. Il a été décrit également une omphalectomie pour éliminer toute carcinose et une entérocystoplastie de substitution pour pallier la commissure cystotomique.
+
+L’examen anatomo-pathologique de cette pièce conclut à un adénocarcinome de l’ouraque peu différencié (positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1), négativité pour les cytokératines 7 et 20 (T III A (selon la classification de Sheldon)).
+
+Une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine est indiquée. Après 5 cures de chimiothérapie, l’exploration par tomodensitométrie a révélé la persistance de plusieurs nodules hypodenses, de taille variable, séparés par une membrane tissulaire, organisés en anneaux et enroulés autour du rein droit, symétriquement sur le flanc droit

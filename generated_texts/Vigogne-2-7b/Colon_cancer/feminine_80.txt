@@ -1,0 +1,35 @@
+Une patiente de 45 ans, sans antécédents pathologiques notables, est admise au service de gastroentérologie pour des douleurs périombilicale intenses avec des vomissements et sans autre signe par ailleurs. L’examen clinique retrouve un empâtement sus-ombilicale et un abdomen non distendu. La biologie met en évidence une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l. L’échographie abdominale est normale. La fibroscopie oeso-gastroduodénale montre une gastrite congestive et un empâtement gastrique. Une fibroscopie oeso-rectale est sans particularité. La tomodensitométrie abdominale met en évidence un épaississement pariétal jéjunal de 50cm de l’angle duodéno-jéjunal correspondant à une tumeur de 50cm de l’angle duodéno-jéjunal (Figure 1). Une résection segmentaire du jéjunum est réalisée. Macroscopiquement on retrouve une tumeur de type adénocarcinome lieberkuhien mesurant 50cm x 30cm x 3cm, compatible avec une tumeur maligne (Figure 2). L’étude histologique montre en outre, une muqueuse gastrique en atrophie des villosités duodénale, correspondant à une maladie cœliaque. La patiente est perdue de vue après 6 mois, sans d’évolution clinique notables.
+
+### Note:
+Nous remercions le DR Thierry MONTCHOUDOUNIER pour sa collaboration pour la réalisation de cet exemple clinique.
+
+### Remerciement:
+Le cas clinique est proposé par le DR Thierry MONTCHOUDOUNIER.
+
+Nous remercions le DR Thierry MONTCHOUDOUNIER pour sa collaboration pour la réalisation de cet exemple clinique.
+
+Bibliographie:
+
+1) Montcho, Th., Lupin, E., Wong, L., et al. "Malignant lymphangiectasia and chylothorax: a reversible syndrome". Cancer. 1996, Vol.78(3):622-630.
+
+2) Fraser, M., et al. "Oesophageal cancer in patients with coeliac disease". Lancet. 1987, Vol.1(8553):693-694.
+
+3) Brennan, A.R., Barton, K.W., and Mulloy, J.A. "Coeliac disease as a predisposing factor to intestinal tumours. A study of a 20 year mortality follow-up in a cohort of 4293 cases." Brit. J. Cancer. 1992, Vol.65(4):586-590.
+
+4) Wong, L., et al. "Adrenal lymphangiectasia and lipoedema in a patient with malignant lymphangiectasia, sarcoidosis, and carcinoma of the upper aerodigestive tract: a case report". Laryngoscope. 1997, Vol.107(12):1649-1651.
+
+5) Agullo, J.F., Yanez, C.A., and Caballero, L. "Esophageal carcinoma in a patient with primary celiac disease." Cancer. 1987, Vol.60(6):1345-1346.
+
+6) Riggi, N., et al. "Lymphangioma carcinoma with chylothorax in a patient with coeliac disease." Ann. Thorac. Surg. 1995, Vol.60(2):715-716.
+
+7) Fearnhead, N.M., et al. "Unusual manifestations of celiac disease. Three case reports." Br. J. Radiol. 1997, Vol.70(943):1221-1224.
+
+8) Garzia, L., et al. "A case report of lung carcinoma in a patient with celiac disease." Ital. J. Gastroenterol. Hepatol. 1997, Vol.29(6):496-497.
+
+9) Wong, L., et al. "Primary lymphangioma carcinoma in a patient with primary celiac disease: a case report." J. Surg. Oncol. 1999, Vol.72(3):222-225.
+
+10) Pugliese, F.R., et al. "Primary lymphangioma carcinoma in a patient with primary celiac disease: a case report." J. Surg. Oncol. 1999, Vol.72(3):222-225.
+
+11) Fraser, M., et al. "Oesophageal cancer in patients with coeliac disease". Lancet. 1987, Vol.1(8553):693-694.
+
+12) Barac, S.,

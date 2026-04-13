@@ -1,0 +1,30 @@
+Cas 2 Il s’agit d’un homme de 30 ans, hypocholesténique (cholestérol total : 1,25 g/L, HDL : 0,55 g/L), en bonne santé, qui présente depuis quelques semaines des douleurs lombaires qui s’étendent aux bras, ainsi qu’une asthénie physique et psychique. L’examen ostéoarticulaire ne retrouve pas de cyphose lombaire. Devant ce tableau, une saillie des apophyses épineuses est rapportée aux radiographies du rachis lombaire. Le bilan hormonal met en évidence une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L, et une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (parathormone basse : 1,11 pmol/L), ainsi que l’absorptiométrie biphotonique à rayons X sont complètement normaux, alors que la densité minérale osseuse est à 0,57 g/cm2. Le patient est mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j). Un suivi semestriel ne retrouve pas de régression des douleurs. Le diagnostic d’ostéoporose fracturaire est retenu. Les saillies apophysaires disparaissent progressivement au bout de quelques mois.
+
+Les douleurs lombaires, évoquant une chondrite, sont évocatrices. Cependant, le syndrome est aussi retrouvé chez les patients souffrant d’une calcitoninémie basse (hypocalcémie) et avec une calcémie nettement normale, c’est-à-dire une hyperparathyroïdie primaire ou une hypercalcémie.
+
+La calcémie basse n’est pas démontrée chez les patientes souffrant d’un syndrome hypocalcémique avec déficit parathyroïdien de l’hypothèse primaire (parathyroïde hypertrophiée). Les phosphorémies sont basse en hypoparathyroïdie.
+
+Chez le patient souffrant d’une hypercalcémie, l’hypocalcémie et la calcémie sont les deux aspects du même trouble.
+
+Chez le patient, la calcémie basse (ou hypercalcémie selon la valence) est l’un des critères cliniques associés à une patiente présente un syndrome hypocalcémique.
+
+Par ailleurs, le syndrome hypocalcémique est évoqué chez les patients suivants :
+- souffrant d’une rickets du nourrisson ;
+- souffrant d’une rickets de localisation déterminée ;
+- présentant une hypocalcémie primaire (corticotrophines hypoparathyroïdiennes).
+
+Le syndrome hypocalcémique est également retrouvé chez les patients souffrant d’une parathyroïdie primaire ; il s’agit d’une conséquence de l’action parathyroïdienne sur le calcique du tissu conjonctif parasympathique.
+
+Le syndrome hypocalcémique est retrouvée chez les patients souffrant d’une parathyroïdie primaire ; il s’agit d’une conséquence de l’action parathyroïdienne sur le calcique du tissu conjonctif parasympathique.
+
+En réalité, les recherches sur les ligands des parathyroïdes sont de plus en plus fréquentes dans la pratique clinique. Les arguments diagnostiques reposent sur la réalisation d’un bilan paraclinique à base de bilan paraclinique comportant un bilan hormonal, une imagerie, ainsi que l’absorptiométrie biphotonique à rayons X.
+
+Un diagnostic d’hypocalcémie primaire est évoqué lorsque :
+- la calcémie basse est associée à une phosphorémie basse, aux signes négatifs de la parathyroïdie (parathormone basse), et à une protéinurie majeure ;
+- la calcémie basse est associée à un faux-positif (parathormone négative) au dépourvu de signes négatifs de la parathyroïdie ;
+- la calcémie basse est associée à une calcémie normale, des signes positifs de la parathyroïdie (parathormone normale).
+
+Un diagnostic d’hypocalcémie secondaire est évoqué lorsque :
+- la calcémie basse est associée à un faux-positif (parathormone négative) au dépourvu de signes positifs de la parathyroïdie ;
+- la calcémie basse est associée à une calcémie normale, un faux-positif (parathormone normale), et des signes positifs de la parathyroïdie ;
+- la calcémie basse est associée à une parathormone normale, à un faux-positif (parathormone négative) au dép

@@ -1,0 +1,36 @@
+Mme F.R., âgée de 26 ans, nulligeste nullipare, était adressée au service de gynécologie-oncologie pour un nodule de 6 cm au niveau du quadrant supéro interne du sein droit en rétrécissement progressif depuis un an.
+
+L´examen clinique retrouvait une adénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. La mammographie et l’échographie mammaire retrouvaient des formations solidokystiques calcifiées nettement visible (BIRADS V). La microbiopsie des deux lésions cliniques des deux seins retrouvait un carcinome canalaire infiltrant SBR III, récepteurs hormonaux négatifs, test de l’HER 2 négatif, T3N1M0 avec une CA 15-3 à 81 mui/ml. Une chimiothérapie néoadjuvante à base de four 4 cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² suivies de deux cures de docétaxel a été réalisée, précédant une chirurgie radicale type Patey bilatéral, suivie d´une chimiothérapie et radiothérapie post opératoires à base de 4 cures de docétaxel et 20 séances de radiothérapie. Le recul est de 4 ans et le contrôle clinique est négatif.
+
+Mme F.R. est bien porteuse, pas sujette aux chutes et à la fracture, la taille est de 1,54m et le poids de 45 kg avec un PNI à 83. Elle est mariée à 16 ans.
+
+Ses parents sont tous deux vivants. Son père est âgé de 44 ans et sa mère de 40 ans. Sa mère est décédée d’un cancer du sein. Sa sœur décédée à l’âge de 17 ans d´un cancer du sein et son grand-père est décédé à l’âge de 68 ans d’un cancer des voies excrétrices.
+
+Les cas collatéraux, c’est-à-dire son mari et sa belle-mère ne connaissent pas de cas de cancer du sein dans la famille, ni dans le entourage.
+
+La cascade familiale est représentée par:
+
+| Enfant | Vices | RISC | Aïeuls |
+|-----------------------------------|----------|----------|-----------|
+| MR S. F.R. | 37 ans | 2 enfants | 2 |
+| MS L. F.R. | 33 ans | 1 enfant | 1 |
+| Mme F.R. | 26 ans | 0 enfant | 1 | 2 |
+| | | | |
+| L.R. (sœur) | | | 2 | 2 |
+| H.M. (mère) | | | 1 | 2 |
+| P.R. (grand-mère) | | | 2 | 2 |
+
+### Response:
+Un bilan génétique était fait pour MM S. F.R et M.F.R en raison de la cascade familiale, a permis de déceler une mutation du BRCA1 chez la mère de Mme F.R. ( BRCA1 5977delT (Silence, 1996) ).
+
+Mme F.R. est sujette à une récidive d´une tumeur du sein.
+
+La mammo-microscopie a permis de diagnostiquer un adénocarcinome proliférant infiltrant canalaire bilatéral à composants moyens et petits (50% à 70% de contenu gras) positif cytoplasme globuleux à fortune de coloration à l’Eosin-Safranofluorescence dans un hile tubulardesmyélique modéré (5%). Le caractère apocarциnoïde est exceptionnel. Les cellules présentent des atypies cytonucléaires modérées et un indice mitotique inférieur à 10/10 champs à la pièce 10x. Le test des lignées souches avec une adhésion stable et un ralentissement progressif de la croissance au fil des passages de semaines (Tableau I).
+
+La présence de petites bosses (parenchyme apocarciodique) est en faveur d’un adénocarcinome classé comme étant de grade III.
+
+Les nodules tubulaires des lobules sont indemnes de prolifération carcinomateuse.
+
+A l’étude immunohistochimique, les cellules expriment les récepteurs hormonaux aux œstrogènes (ER), aux progestérones (PgR), au PS, à la chromogranine A et à la synaptophysine.
+
+Les marqueurs neuroendocrines (NCAM, CD56, LCA, CD57, et CD45) sont positifs avec une distribution linéaire. Le marquage pour la méthényl éénosyl-transférase par la cytokératine 19,

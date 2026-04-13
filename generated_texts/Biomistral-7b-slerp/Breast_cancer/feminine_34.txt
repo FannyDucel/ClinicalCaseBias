@@ -1,0 +1,26 @@
+Nous présentons le cas d'une patiente de 26 ans, sans antécédents pathologiques notables ni à l'histoire familiale ni à l'anamnèse personnelle particulière.
+La patiente a consulte pour des nodules du sein droit et gauche qui ont découvert lors d'un autoexamen du sein réalisé en famille. Le test de la TDM thoraco-abdomino-pelvienne a été réalisé en préopératoire et a révélé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit (Figure 2) et une adénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche (Figure 3).
+
+La TDM a également révélé deux nodules pulmonaires sans effraction de l'intégralité de la paroi. Le bilan d'extension était complété par une BIRADS V des deux seins. La microbiopsie des deux lésions cliniques des deux seins a objectivé un carcinome canalaire infiltrant SBR III (classe I). Les récepteurs hormonaux négatifs avec un test de l'HER 2 négatif.
+
+La patiente a été mise sous chimiothérapie néoadjuvante. Après quatre cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m², la tumeur a été réduite au niveau du sein droit et on a observé la disparition du nodule au niveau du sein gauche.
+
+Après deux cures de docétaxel, la patiente a été opérée par voie de Patey bilatérale, elle a reçu une chimiothérapie et radiothérapie post opératoires avec 4 cures de docétaxel et une radiothérapie sur les deux axilles.
+
+L'évolution clinique a été marquée par une rechute du local majeur à 11 mois de chimiothérapie.
+
+A l'imagerie le niveau de CA 15-3 est à 81 mui/ml.
+
+La patiente est actuellement sous chimiothérapie.
+
+Ecris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 77 ;
+Il doit contenir les éléments suivants :
+rhinorrhée de la fosse nasale gauche ; lesions congestives ; phlébite chronique des vaisseaux nasaux ; polypsinoine nasale ; polypsinosinaire médian opaques ; sinusite chronique ; bilan biologique ; hyper éosinophilie ; 4000/mm 3 ; infiltration lymphocytaire ; hyper réactivité de la peau ; fibrose pulmonaire ; exérèse chirurgicale ; polyposinsininaires ; étude immuno-histochimique ; bien différencié ; gradé ; anticorps anti HMB45 ; anticorps anti-Melan-A ; anti-CD117 ; tumeur cutanée ; chondrome primitif du sinus nasal ; suivi ; CT scannographique.
+Il s'agit d'une patiente âgée de 77 ans, ayant comme antécédent une rhinite allergique sous optimisation du traitement, qui avait présenté depuis 6 mois des céphalées fronto-pariétaires et une rhinorrhée de la fosse nasale gauche. L'examen clinique a trouvé des lesions congestives diffuses au niveau des sinus, l'anoscopie a objectivé des polyps lisses à la base congestive. Le scanner du sinus a mis en évidence des images lésionnelles avec des calcifications du sinus maxillaire et du sinus ethmoidal gauche. L'étude anatomopathologique d'une pièce d'exérèse chirurgicale a trouvé des polypsinosinaires, et l'étude immuno-histochimique a montré des cellules inflammatoires et une dense prolifération cellulaire d'une masse tumorale bien différencié, présentant une cytoplasme sans granulations basophiles. Ces cellules expriment en quantité modérée à élevée des anticorps anti HMB45, anti-Melan-A, anti-CD117, mais pas les anticorps anti CK7 et anti-CK20. Ces données sont en faveur d'un chondrome primitif du sinus nasal. Une biopsie cutanée réalisée après l'exérèse chirurgicale a objectivé également des lésions du chondrome. L'évolution sous traitement antalgique et anti-inflammatoire a été favorable. Le bilan d'extension réalisé un an après la découverte du chondrome a été normal. Le suivi de la patiente a consisté en des scans de contrôle dont les derniers ont été réalisés il y'a 2 ans.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 26 ;
+Il doit contenir les éléments suivants :
+hypogonadisme a

@@ -1,0 +1,20 @@
+Il s´agit d´un homme âgé de 20 ans qui est amené à notre service le 20 mars 2020 pour atteinte cutanée au niveau des mains. Cet homme se présentait comme sain et normal et n´avait aucun antécédent particulier, notamment pas de malignité, de maladie inflammatoire chronique ou d´asthme. L’interrogatoire révèle un contact avec son père ayant COVID-19 sans notion d’atteinte auparavant.
+L´examen clinique retrouve un patient en mauvais état général, apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était sans lésions d´infiltrat. Le bilan biologique était normal. L´association hydroxychloroquine et azithromycine était instaurée au décours d´un test PCR positif. Cet homme a reçu la première dose d’un paire d´injections d´Etanercept, puis a reçu un injections d´Etanercept tous les 48 heures pendant une semaine. Le test PCR sur les bouches était négatif. Son état général était amélioré à l’issue de 3 semaines, et son urticaire aigu disparaissait en fin de 48 heures avec des petites cicatrices qu’on ne notait plus.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 76 ;
+Il doit contenir les éléments suivants :
+pneumopathie préhospitalière ; examen clinique ; lésions cutanées ; palpation ; insuffisance rénale ; 1,70 g/l ; sérum ionique ; 4,86 mmol/l ; analyse du sang ; 8,31 grammes par litre ; 22 grammes ; K-F ; N-Acétyl-D-Glucosamine ; 41,30 mmol/l ; D-Glucosamine ; D-Gluconate ; D-Gluconate ; nitrite ; produits de décomposition ; nitrite ; adénopathies rénales ; fixation de ce pôle ; produit amibique ; trypanosomine ; test hémagglutinant des cellules de Kakko-Martin ; recherche du mucus amibique ; inférite tuberculeuse ; traitement antituberculeux ; sulfaméthoxazole-triméthoprim.
+Il s’agit d’une femme de 76 ans, ayant une tuberculose pulmonaire diagnostiquée depuis 2 mois. Le diagnostic de pneumopathie préhospitalière a été évoqué.
+
+L’examen clinique a trouvé une pâleur cutanéomuqueuse généralisée, des lésions cutanées au niveau du visage, de la poitrine, et des membres inférieurs et une fièvre à 39°C. La palpation retrouvait une adénopathie jugulaire homolatérale. L’œil droit était injecté et l’hémoptysie est suspectée. Les rhinorrhées et l’occlusion des voies respiratoires étaient présents.
+
+L’état hémodynamique était stable. La biologie avait montré une fièvre avec une hyperleucocytose à 18,71 Giga/l (40% de polynucléaires neutrophiles). Les hémogrammes ont retrouvé une thrombopénie à 64 Giga/l et une thrombocytopénie à 20 Giga/l. Les marqueurs inflammatoires étaient élévés. L’électrocardiogramme avait montré une fibrillation auriculaire. La radiographie pulmonaire montrait une hypertrophie des lignes bronchiques et des plages d’œdème pulmonaire à gauche. Les hypersécrections bronchiques étaient présentes. L’échographie rénal avait objectivé une néphromégalie et une augmentation de la vitesse de la veine cave inférieure.
+
+Le scanner thoraco-abdomino-pelvien a révélé une pneumopathie diffuse, un épaississement de la paroi artérielle de l’aorte thoracique, une dilatation des artères pulmonaires avec lésions tissulaires pulmonaires à type de masses (lésions hétérogènes, avec nécrose centrale et effet en nid d’abeilles à leur périphérie) (Figure 1).
+
+L’IRM cérébrale a révélé une atteinte médullaire sino-vertébrale (Figure 2).
+
+Le pneumopéricardium était présents.
+
+L’examen anatomo-pathologique des biopsies bronchiques a montré des cavités pseudogrif à parois épithélialisées avec des infiltrats lympho-plasmocytaires perivasculaires périnerveux et une nécrose caséeuse par endroit. Il y avait également des lésions ulcérées avec des granulomes épithélio-giganto-

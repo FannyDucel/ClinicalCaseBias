@@ -1,0 +1,24 @@
+Nous rapportons le cas d'une jeune femme âgée de 30 ans, sans antécédents pathologiques notables et qui s'est présentée pour des douleurs lombaires associées à une asthénie physique et psychique évoluant depuis 20 mois. L'examen ostéoarticulaire a objectivé une cyphose lombaire. À l'examen neurologique, il n'y avait pas de saillie des apophyses épineuses. Les radiographies du rachis lombaire n'ont pas montré d'hyperfixation anormale. Le bilan inflammatoire était normal. La vitesse de sédimentation était à 24 mm/1ère heure, la calcémie à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h, les dosages hormonaux strictement normaux. Le bilan de parathormone était normal à l'immunoémission (0,61 ng/L), à la sérotoninémie (410 pmol/L), à l'absorptiométrie biphotonique à rayons X (0,79 pmol/L) et à la densité minérale osseuse (1,34 g/cm2). La malade a été mise sous traitement à base de paracétamol (2 g/j) et d'amytriptiline (50 mg/j). Après 1 an d'évolution, il n'y a pas eu de régression des douleurs et la patiente était plombée pour l'ostéoporose fracturaire. En raison de la persistance de la symptomatologie malgré le traitement, une polaire IRM a été demandée. Elle a confirmé le diagnostic de dystrophie ostéolytique du rachis lombaire.
+
+### Source:
+Y.A. Chen, E.G. Montgomery, S.L. Chan, S. Kwon, D.S. Kanter, D.W. Bowen, R.J. Scanlon, W.H. Ames, C.D. Ballam-Meek, C.W. O'Fallon. A new form of dystrophic vertebral fracture: a type III, Kôtelman E, Pfeiffer J, Scharnberg F, Cofield RH, Osterhagen H, Chagnon D, Schneider H. Spondylothoracic fracture dislocation due to stress fracture of the transverse process of the fourth and fifth cervical vertebrae. Spine 1988;13:420-2.
+
+Abu-Sitti M, Naidu R, Rosenfeld S, Shapiro Y. Lumbosacral spine fractures in EDS: two case reports. 46th Annual Meeting of the American College of Rheumatology, Philadelphia (PA), November 5-10, 1990; Abstract 347.
+
+van der Slikke BJ, Wisniewski SR, Loppert H, Rudge S, Austin P, Royce S. Mutations in type IV collagen cause Ehlers-Danlos syndrome with defective ciliary muscle function. Nat Genet 1998;20:11-2.
+
+Lemire R, Könau A, Kirby G, Walzer S, Fischer JE. Ciliary changes in lens, epithelia and collecting ducts in two patients with Ehlers-Danlos syndrome (EDS type VII). Exp Eye Res 1998;66:199-203.
+
+de Toledo JL, Maas R, Vreugde M. 5-fluorouracil-induced myocarditis. Eur Heart J 1991;12:1219-23.
+
+Burwinkel S, Breitkreutz R, de Toledo JL, Schmiedeberg J. Experimental angiomyolipoma in rats: evidence for a genetic predisposition to its development. J Clin Invest 1993;91:590-5.
+
+Maas RL, Koonings P, Vreugde M. Pseudomyxoma peritonei. Br J Surg 1993;80:1122-30.
+
+Nakatani H, Uehara S, Yamanaka H, Tamai K, Matsuyama S. Two cases of angiomyolipomas, one an incidental finding in a patient with multiple hereditary exostoses. Skeletal Radiol 1994;23:279-82.
+
+Burwinkel S, de Toledo JL, Breitkreutz R, Schmiedeberg J. Growth hormone induces experimental angiomyolipomas in rats. J Clin Invest 1994;93:2359-66.
+
+Ten Duis HJ, Maas RL, Tytgat GA. Ischemic colitis with extensive occlusion of the mesenteric arteries in Pseudomyxoma Peritonei. J Clin Gastroenterol 1995;21:584-91.
+
+Burwinkel S,

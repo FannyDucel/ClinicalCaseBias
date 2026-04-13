@@ -1,0 +1,21 @@
+Femme âgée de 18 ans, de descendance africaine, issue d'un mariage consanguin, le père et la mère sont parents cousins, avec deux frères décédes par drépanocytose. Elle s'est plainte de douleurs osseuses diffuses, rétro-odontalgies et articulaires évoluant depuis 10 mois et plus marquées depuis 3 mois, le début de ces symptômes était marqué par des douleurs, l'apparition d'une déglutition difficile. L'examen clinique révèle une patiente en mauvais état général, avec un amaigrissement chiffré à 15% du poids, un enfant asthénique avec 3 cm d'écartement interomoplate, à la palpation de la colonne lombaire les vertèbres de T9 à T12 sont saillantes, en regard de la rachiscérie elle présente une effraction et une lithesciurie. La tomodensitométrie (TDM) a confirmé l'existence de déminéralisation osseuse en rapport avec une ostéonécrose aseptique de l'échine, l'abdomen et la tête de fémur, la radiographie du bassin et la radiographie du rachis dorsolombaire de face ont confirmé le diagnostic d'ostéonécrose aseptique. Le patient a été adressé par la suite au service d'hématologie, le diagnostic de drépanocytose a été retenu, l'électrophorèse d'hémoglobine a montré une hémoglobine S à 79%. Nous avons noté par la suite que cette patiente a bu une préparation contenant du plomb en vente libre par un des grands groupes pharmaceutiques. Il n'y a pas de consanguinité directe dans le cas.
+Il est important de noter que cette maladie n'était pas connue dans le service d'hématologie. Il a été réalisé un recueil de données sans instruction formelle.
+En cas de suspicion clinique ou radiologique d'une intoxication chronique au plomb, il est important de rechercher le plomb dans les mémélales de squelettes, les tissus osseux, l'urine, les selles et le sang. En cas de suspicion de drépanocytose une électrophorèse de l'hémoglobine doit être demandée.
+Devant le suspect de consanguinité, une recherche de consanguinité doit être demandée.
+Le mécanisme d'action du plomb sur l'ostéonécrose aseptique a été suspecté et reste à éclaircir.
+La participation du plomb a été confirmée dans cette maladie, elle peut être une cause importante dans les pays où l'intoxication au plomb est fréquente et où la drépanocytose n'est pas étiologique bien connue.
+La recherche et l'identification de ce lien de causalité, permet de recommander le dépistage du plomb dans les cas de suspicion de drépanocytose, et de mettre en évidence les cas d'intoxication chronique au plomb chez les patients porteurs d'une drépanocytose.
+Il est ainsi possible de débuter le traitement précoce, voire, de réaliser un dépistage familial. La collaboration entre l'hématologue et le radiologiste est nécessaire pour mieux dépister le plomb et confirmer le diagnostic.
+Nous exprimons notre gratitude envers la fille au personnel hospitalier, notamment à ceux de la DR et du RHA de Hraoua pour leur soutien et leur aide qui ont permis la réalisation de ce cas.
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Entreprise} & \textbf{Rapport no} & \textbf{Titre} & \textbf{Auteur/s} \\
+\hline
+Pharmafine & R3 & Une nouvelle mutation de l'allèle causal de la drépanocytose dans une famille négro-arabophone: première observation de la Tunisie et étude complémentaire de l'épistasie de l'Hb S par hépargénèse chromosomique. & S.Maalej, F.Charif, M.Sghaier, R.Lamti, M.Mouna, R.Elabidi \\
+\hline
+UNLP & R1 & La drépanocytose en Tunisie : aspects cliniques et génétiques de l'hémoglobine S & B.Khelef, E.Sassi, A.K.Kahwaji \\
+\hline
+UNLP & R2 & Rôle des facteurs de transcription p53 et p63 dans la prolifération des cellules drépanocytaires malades de la drépanocytose traitée par Hydroxyurée. & K.Khaldi \\
+\hline
+CTH & R3 & Le médiateur de l'action des proliférateur de plaques (MEK) inhibiteur de la tyrosine kinase (TKI) : retour sur quelques expériences menées chez des hématopoïétiques non dégénérés et des cellules drépanocytaires dans le but de favoriser la prolifération cellulaire & H.Yacoubi \\

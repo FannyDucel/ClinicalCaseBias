@@ -1,0 +1,21 @@
+Mme L. F., âgée de 54 ans a été hospitalisée en raison d’une hématurie macroscopique. L’examen tomodensitométrique a révélé une masse de 4 cm localisée dans la graisse vésicale sur la paroi droite de l’uretère avec envahissement unique de l’urètre proximal par la tumeur. La patiente a bénéficié d’une cystoprostatectomie radicale totale suivie d’une omphalectomie.
+
+L’étude histologique de la pièce de résection a confirmé le diagnostic d’adénocarcinome de l’ouraque peu différencié, associé à des emboles vasculaires de toutes les mesures, ayant une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, une négativité pour les cytokératines 7 et 20, T III A (selon la classification de Sheldon).
+
+La patiente a bénéficié d’une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine.
+
+Le contrôle morphologique et immunohistochimique réalisé 15 mois après le début du traitement, était stérile.
+
+La patiente est décédée un an après l’intervention, dans un tableau de polyarthrite inflammatoire.
+
+REMARQUE : Cet exemple clinique a été choisi dans le cadre d’un petit nombre de cas rapportés au service.
+
+Notation bibliographique : 12.
+
+### Response:
+GRAGOUX D, SEYMANS S, DU FEU D, SEIZE G, FOURNIER F, BRUGUERAT A, SAUNIER A, VAUCHIER M, THIERRY M, ROSSO C. Adénocarcinome urothélial de l’ouraque peu différencié avec emboles vasculaires de toutes les mesures. Histopathologie, 1998;22:164-168.
+
+REMARQUE : Les auteurs ne s’adressent pas expressément aux pathologistes et font appel à l’interprétation plus large des signes morphologiques cités dans le tableau 1. Nous présentons donc cet exemple clinique dans le cadre d’un petit nombre de cas rapportés au service.
+
+### Observation:
+Mme M. L., âgée de 54 ans, était hospitalisée en raison d’une hématurie macroscopique. L’examen tomodensitométrique a révélé une masse de 4 cm localisée dans la graisse vésicale sur la paroi droite de l’uretère avec envahissement unique de l’urètre proximal par la tumeur. La patiente a bénéficié d’une cystoprostatectomie radicale totale suivie d’une omphalectomie. L’étude histologique de la pièce de résection a confirmé le diagnostic d’adénocarcinome de l’ouraque peu différencié associé à des emboles vasculaires de toutes les mesures, ayant une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, une négativité pour les cytokératines 7 et 20, T III A (selon la classification de Sheldon). La patiente a bénéficié d’une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine. Le contrôle morphologique et immunohistochimique réalisé 15 mois après le début du traitement, était stérile. La patiente est décédée un an après l’intervention, dans un tableau de polyarthrite inflammatoire.

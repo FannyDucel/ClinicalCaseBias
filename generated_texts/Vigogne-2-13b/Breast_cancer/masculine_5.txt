@@ -1,0 +1,34 @@
+Il s’agit d’un patient âgé de 26 ans, il est nulligeste nullipare, diabétique de type 2 depuis 6 ans.
+Le patient ne rapportait pas d´antécédents familiaux. Sa mère et sa sœur décédées d´un cancer du sein.
+Il était adressé en oncologie pour un nodule de 6 cm au niveau du quadrant supéro interne du sein droit découvert lors d’une consultation médicale. L’échographie a montré un hétérogène tumoral du quadrant supéro interne du sein droit mesurant 5.2 x 4.2 cm à contours réguliers hypoéchogènes. Le sondeur a par ailleurs objectivé une adénopathie de 1.5 cm au niveau du creux axillaire droit, une autre de 1cm au niveau du creux axillaire gauche ainsi qu´un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche.
+Le résultat du BIRADS V était de category 6.
+Une microbiopsie des deux lésions cliniques des deux seins a été réalisée objectivant un carcinome canalaire infiltrant SBR III avec oncogénes hormonaux négatifs. Le test de l'HER 2 était négatif. Le diagnostic a été retenu: une tumeur invasive, maligne, double primaire mammaire droite et gauche, de T3N1M0. Le CA 15-3 était à 81 mui/ml.
+La chimiothérapie néoadjuvante a consisté en quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² et deux cures de docétaxel.
+La chirurgie radicale type Patey bilatéral a été réalisée. Une chimiothérapie et radiothérapie post opératoires ont été indiquées. La chimiothérapie a consisté en quatre cures de docétaxel et la radiothérapie n’a pas pu être réalisée en raison de la difficulté à suivre le patient par suite de son diabète.
+Le contrôle a été négatif et le CA 15-3 était à 2.1.
+Le patient est décédé à 1 an et demi de la fin de la chimiothérapie néoadjuvante en raison d´une pneumopathie à prédominance alvéolaire mal tolérée.
+Le patient ne avait pas d´antécédents personnels ou familiaux de sensibilité aux docétaxel ou à l´hydroxyurée.
+Le patient n’était pas diabétique mais était diabétique depuis 6 ans sous antidiabétiques oraux.
+Il a été accès de décompte et munition avec dose d´hydroxyurée sur les balles de haute dose.
+Un rechute n’a pas été noté en raison du décès du patient.
+Le traitement a été arrêté 18 jours après la fin du traitement.
+La cause la plus probable était la pneumopathie mal tolérée par le patient à cause de son diabète non optimisé.
+Le temps de reconstitution rénale a été long mais il n´a pas dépassé 30 jours.
+Il n’y a eu aucune aldéhyde des lécithines pendant le traitement.
+Les analyses de laboratoire ont montré une anomalie des enzymes hépatiques.
+Le patient avait un bilan hépatique normal avant le traitement.
+Le patient n´était pas alité.
+Le patient n’a pas été transféré dans une unité de soins intensifs pour cette complication.
+Les équipes de santé étaient au courant de cette complication.
+Il n’y avait pas eu d’autres complications.
+L’hématurie n’a pas été observée et il n’y avait pas d’autres cystites chez les patients.
+Le diabète n’était pas d’origine chimique mais le patient était diabétique depuis 6 ans.
+La notion d’aplatissement du cuir chevelu n’était pas évoquée avant la première infusion de docétaxel.
+Le tableau III résume le traitement, la qualité du traitement, les complications observées ainsi que les facteurs de risque.
+
+Le tableau IV résume le traitement, la qualité du traitement, les complications observées ainsi que les facteurs de risque.
+
+Le tableau V résume le traitement, la qualité du traitement, les complications observées ainsi que les facteurs de risque.
+
+Tableau III
+| MEDICAMENT | DATE DU TRAITMENT | PERMIS DU CENTRE HOSPITALIER | INSTRUCTIONS DU CENTRE HOSPITALIER | MODE DE GERMINATION | TEMPS DE GERMINATION | PROBLEMES D’INSTRUCTIONS | PERMIS INFUSIONNELS PERSONNELS | PERMIS INFUSIONNELS TECHNIQUES | GERMINATIONS INFUSIONNELS | CREATION DE PROTOCOLES INFUSIONNELS | CREATION DE PROTOCOLES INFUSIONNELS BUCCAULCÉRÉIENS | ADMINISTRATION

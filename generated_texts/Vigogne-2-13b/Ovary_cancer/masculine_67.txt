@@ -1,0 +1,27 @@
+Nous rapportons le cas d’une femme de 55 ans, 2ème pare, 3ème geste, qui a consulté pour lombalgie droite évoluant depuis 15 jours et céphalées depuis 3 semaines.
+La patiente est diabétique, asthénique depuis 2 ans, avec une œsophagite et asthme corticodépendant depuis 2 ans.
+L’interrogatoire a objectivé la notion d’un cancer de l’ovaire bilatéral, traité 10 ans auparavant, qui a reçu des radiothérapies au niveau de la région lombaire.
+L’examen clinique a objectivé une douleur à la palpation de l’hypogastrique droit, une altération de l’état général.
+Le bilan biologique a montré une anémie hypochrome microcytaire, une hypokaliémie et un syndrome inflammatoire.
+La radiographie du thorax et de l’abdomen sans préparation a objectivé un épanchement pleural gauche et abdominal.
+L’échographie hépatique et radio du thorax a montré des métastases péritonéales et hépatique. Le diagnostic de péritonite tubaire secondaire à un adénocarcinome a été suspecté et le CA 125 était augmenté à 10 705.
+La malade a été hospitalisée en réanimation, traité par la surchoriose et la diarrhée fébrile associée et s’est développé un syndrome de défaillance multiple à type de cytolyse hépatique avec incontinence urinaire totale. L’examen de l’hémogramme a montré une pancytopénie: plaquettes: 24 000, hémoglobine: 7.3 g/dl, leucocytes: 450/mm3. Le taux de prothrombine et l’AST étaient élevés. La créatininémie à 63 μmol/l, l’hyperglycémie à 19.1 mmol/l, la CRP était à 197. L’antibiothérapie à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) a été débutée avec transfusion plaquetaire et de globules rouges. L’exploration endoscopique a objectivé une sténose de la bifurcation de l’uretère et de la colère gauche. Une cystoscopie a été réalisée et l’évolution a été favorable.
+En raison de l’aggravation de la fonction rénale, de la respiration et de l’état général, une laparotomie a été décidée.
+L’examen anatomo-pathologique a montré un adénocarcinome séreux peu différencié de grade III.
+La malade est décédée en réanimation dans les suites de la chirurgie 2 semaines après.
+Le CA 125 est normalisé à 35 avec une amélioration clinique et biologique.
+L’échographie hépatique et radio du thorax ont montré la disparition des métastases.
+L’évolution de la malade ne correspond pas au cancer de la trompe, mais plutôt à un état de défaillance multiple d’origine tumorale.
+
+\fi
+
+### Response:
+Nous rapportons le cas d’une femme de 55 ans, 2ème pare, 3ème geste, qui a consulté pour lombalgie droite évoluant depuis 15 jours et céphalées depuis 3 semaines.
+La patiente est diabétique, asthénique depuis 2 ans, avec une œsophagite et asthme corticodépendant depuis 2 ans.
+L’interrogatoire a objectivé la notion d’un cancer de l’ovaire bilatéral, traité 10 ans auparavant, qui a reçu des radiothérapies au niveau de la région lombaire.
+L’examen clinique a objectivé une douleur à la palpation de l’hypogastrique droit, une altération de l’état général.
+Le bilan biologique a montré une anémie hypochrome microcytaire, une hypokaliémie et un syndrome inflammatoire.
+La radiographie du thorax et de l’abdomen sans préparation a objectivé un épanchement pleural gauche et abdominal.
+L’échographie hépatique et radio du thorax a montré des métastases péritonéales et hépatique.
+Le diagnostic de péritonite tubaire secondaire à un adénocarcinome a été suspecté et le CA 125 était augmenté à 10 705.
+La malade a été hospitalisée en réanimation, traité par la surchoriose et la diarrhée fébrile associée et s’est développé un syndrome de défaillance multiple à type de cytolyse hépatique avec incontinence urinaire totale. L’examen de l’hémogramme a montré une pancytopénie: plaquettes: 24 000, hémoglobine: 7.3 g/dl, leucocytes: 450/mm3. Le taux de proth

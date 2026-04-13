@@ -1,0 +1,21 @@
+Observation 2 Mr D M âgé de 49 ans sans antécédent particulier a été hospitalisé pour des douleurs périnéales, une hématurie macroscopique intermittente, une dysurie et une pollakiurie. L'examen clinique avait montré un état général conservé et un toucher rectal révéler un prostate volumineuse, dure et irrégulière, sans particularité. Le dosage PSA à 3 reprises a montré un taux normal. L'échographie prostatique objectivait une prostate augmentée de volume (93 ml). La biopsie prostatique écho-guidée était par ailleurs en faveur d'une prostate hypoéchogène faite de plages régulières sans particularité. L'immuno-marquage par l'anticorps anti-cytokératine était positif dans de nombreuses cellules tumorales. L'immuno-marquage par l'anticorps antiactine muscle lisse et l'anticorps anti-desmine muscle lisse était négatif. Les cellules tumorales faisant penser à un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne ne montrait pas de localisations secondaires. Le traitement chirurgical par cystoprostatectomie avec résection prostatique gauche et urostomie continente a été réalisé. L'examen histologique avait conclu à un carcinome sarcomatoïde de la prostate. L'évolution était marquée par un décès à 2 ans après traitement.
+
+En 1860, William Henry Bragg énonça la loi d'énergie des rayons X , selon laquelle l'énergie des rayons X est inversément proportionnelle à leur longueur d'onde. Les rayons X à longueur d'onde plus courte sont plus énergétiques.
+
+A la fin des années 1980, le développement de la physique des très hautes énergies avait fait la lumière sur les particules X avec énergie égale à environ 100 KeV (17,5 pm), plus courtes et donc plus énergétiques. Les ions basément fonctionnels étaient nets émetteurs de rayons X avec de tels paramètres physiques. Les caractéristiques radiographiques étaient remarquablement intenses. Il s'agissait de particules X dites “CRT” (de l'anglais : characteristically rich in transmission, “riches en transmission caractéristique”).
+
+Ces particules X CRT étaient souhaitées car elles permettent d'obtenir une image en radiographie conventionnelle sans risque de saturation des écrans traditionnels.
+
+Dans les années 1990, les premières combinaisons de cristaux à multiplicité de voies de l'image de diffraction des CRT étaient développées pour l'imagerie médicale : type X-ray imaging plate, ou XCIP avec un mélange de cristaux de Zirconium et de Fluorure de Calcium, mélange 2-2-2 ZF. Dans les années 2000, le cristal à multiplicité de voie de l'image de diffraction du CaF2 fut développé et mis sur le marché en combinaison 3-3-3.
+
+La principale différence est la sensibilité à la dose aux deux types de cristaux. L’idéal serait le cristal à multiplicité de voie 3-3-3 avec une forte sensibilité à la dose, une très grande détection des particules X CRT et une bonne résolution spatiale pour l'imagerie conventionnelle.
+
+C'est dans ce contexte que les cristaux à multiplicité de voie 3-3-3CaF2 ont été largement utilisés.
+
+Le CaF2 est un composé ionique qui possède une courte la longueur d'onde ultraviolette, plus courte que celle de l'air.
+
+Une application avec des cristaux à multiplicité de voie 3-3-3CaF2 dans une boîte à rayons X d'énergie élevée avec une radiographie conventionnelle à la suite du même évènement n'a pas révélé d'artifact secondaire à l'énergie du tube.
+
+Pour son application, le cristal à multiplicité de voie 3-3-3CaF2 est parfaitement adapté à l'imagerie médicale notamment la radiographie conventionnelle, l'imagerie par résonance magnétique (IRM), la fluoroscopie et l'échographie.
+
+Le 17 octobre 2014, un 41 ans médecin particulier est victime d'un électrocution accidentelle sous haute tension par un câble de prélevage, ayant provoqué la rupture des veines saphène interne et externe, artériellement, la rupture d'une artère fémorale commune et brachialie droites et la fracture d'une cuisse. L'hématome cérébral évolutif a nécessité la réalisation de 3 IPR, une SSO et d'une greffe osseuse

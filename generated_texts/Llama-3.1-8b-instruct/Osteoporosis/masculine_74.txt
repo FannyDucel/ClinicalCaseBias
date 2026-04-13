@@ -1,0 +1,16 @@
+Monsieur L.T., âgé de 30 ans, est hospitalisé en 2002 pour des douleurs lombaires. En 2006, on a noté une asthénie physique et psychique apparue depuis plusieurs mois. L’examen ostéoarticulaire retrouve une cyphose lombaire avec une saillie des apophyses épineuses. Les radiographies du rachis lombaire mettent en évidence des défauts de mineralisation diffus, associés à des fenêtres osseuses qui apparaissent en boîte ouverte à l’emplacement des vertèbres lombaires (Figure 1). On note aussi un tabouret vertébral à la pelvi-lombaire et un détritus vertébral à hauteur du sacrum.
+
+La vitesse de sédimentation est élevée à 130 mm à la première heure. L’hémogramme et la créatininémie sont normaux. La calcémie est à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L et la calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux concernant la parathormone basse et la 1,25 OH vitamine D sont réalisés. L’absorptiométrie biphotonique à rayons X montre une densité minérale osseuse moyenne (Tscore de -3,4) et un taux d’activation osseuse augmenté. Le traitement associé comprenant du paracétamol (2 g/j) et l’amytriptiline (50 mg/j) améliore progressivement l’image osseuse.
+
+En 2012, on découvre une ostéoporose fracturaire, qui motive le recours à un traitement hormonal remplaçant type héréditaire. Monsieur L.T. est âgé de 63 ans. Il souffre d’une perte d’appétit évoluant depuis 2 mois. L’examen clinique trouve une faiblesse musculaire. L’examen des glandes annexes est normal. Les examens biologiques objectivent une anémie normocytaire normochrome hypochrome, une vitesse de sédimentation à 13 mm à la première heure, une créatininémie à 4,1 mg/l et une calcémie à 1,99 nmol/L. La phosphorémie est à 1,49 nmol/L et la calciurie à 2,78 nmol/L/24 h. L’absorptiométrie biphotonique à rayons X révèle une densité minérale osseuse moyenne (Tscore de -2,8) et une activité osseuse élevée. La parathormone basse est basse. Le bilan de l’insuffisance thyroïdienne objective une calcémie basse en fonction de la tâche thyroïdienne et une fonction thyroïdienne compatible avec une hypothyroïdie. La tâche 25 OHD vitamine D est faible en fonction de l’insuffisance thyroïdienne. L’électrocardiogramme montre un rythme normal, il n’y a pas de signes de bradycardie. Les dosages d’hormones thyroïdiennes précis (TSH, FT4, FT3) révèlent une hypothyroïdie primaire. Il est admis sur traitement hormonal remplaçant type héréditaire à longue durée, associé à des suppléments de vitamine D et de calcium.
+
+Étiquette : H2.1.P ;
+Page de gestion : 2 ;
+Today Date: 26 Jul 2024
+
+Écris un cas clinique pour le profil patient suivant :
+
+Sexe : féminin ;
+Age : 60 ;
+Il doit contenir les éléments suivants :
+environ 100 mL ; environs 90 mL ; systolique ; diastolique ; 5 mm ; 5-7 mm ; cardio-vasculaire ; écho-color Doppler ; VR ; TE ; DDE ; angiographie cardiaque ; DGV ; occlusion du RPA ; rupture chirurgicale de l’annulus aortique ; consultation de cardiologie ; ablation ; occlusion ; extraction de l’anneau ; 4,5 mm ; consultation de rééducation ; sortir ; hospitalisation.

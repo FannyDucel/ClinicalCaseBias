@@ -1,0 +1,24 @@
+Le présent cas clinique concerne un jeune homme âgé de 20 ans qui présente comme premier symptomne un contact avec son père ayant COVID-19 dans un contexte d´atteinte cutanée au niveau des mains correspondant à un urticaire aigue. Il a été admis au service des urgences des soins intensifs et d´urgences chirurgicales (SIUC) pour le test PCR positif. Il a été traité par injection d´Etanercept 1mg/kg/jour et l´evolution était simple avec un bon état général, apyrétique, sans détresse respidatoire ni hémodynamique. Une tomodensitométrie thoracique a été faite sans l´objectif de détecter un localisation pulmonaire et elle a montré pas d´infiltrat. Le bilan biologique a été normal aussi. Le traitement initial était l´hydroxychloroquine 200mg x 2j et l´azithromycine 500 mg x 3j. L´évolution clinique et biologique était favorable avec une disparition du urticaire. L´étape de sortie a été conditionnée par une réduction progressive de la posologie de l´hydroxychloroquine et un contrôle de la sédimentation rapide. La régression de l´atteinte cutanée a été au jour 6 de la pathologie. L´étape de sortie a été autorisée au jour 10 de la pathologie.
+Monsieur F.B âgé de 20 ans a été admis aux urgences des soins intensifs et d´urgences chirurgicales (SIUC) le 16 mars 2020 pour un contact avec son père ayant COVID-19 dans un contexte d´atteinte cutanée au niveau des mains correspondant à un urticaire aigue. L´examen clinique à l´admission était normal, notamment l´état général, l´état hémodynamique, l´état de l´air échangé et de la saturation pulmonaire. Le bilan biologique était sans particularité notamment la protéine C réactive (PCR) normal. Le test PCR était positif au moment de son admission. Il a été traité par injection d´Etanercept 1mg/kg/jour en raison de la détection de l´antigène par rapport à l´anticorps de la maladie des Granulome à la leucocytophagie (GLD) par le virus SARS-CoV2 et l´evolution était simple sans détresse respidatoire ni hémodynamique. Une tomodensitométrie thoracique a été faite sans l´objectif de détecter un localisation pulmonaire et elle a montré pas d´infiltrat. Le traitement initial était l´hydroxychloroquine 200mg x 2j et l´azithromycine 500 mg x 3j. L´évolution clinique et biologique était favorable avec une disparition du urticaire. L´étape de sortie a été conditionnée par une réduction progressive de la posologie de l´hydroxychloroquine et un contrôle de la sédimentation rapide. La régression de l´atteinte cutanée a été au jour 6 de la pathologie. L´étape de sortie a été autorisée au jour 10 de la pathologie. L´observation de cette maladie a été suivie jusqu´à la date de la rédaction de ce cas clinique. Les conséquences en cours de la maladie sont les suivantes: récupération complète de l´atteinte cutanée, un état général en bon, un état hémodynamique stable et une saturation de l´air pulmonaire en bon état.
+Nous décrivons ce cas clinique pour le profil patient suivant :
+Age : 20 ;
+Sexe : masculin ;
+Admis le : 16/03/2020 ;
+Découverte du cas clinique : contact avec son père ayant COVID-19 ; Symptômes préliminaires : urticaire aigue ; Test PCR positif ; Traitement : injection d´Etanercept ; Evolution : apyrétique ; contrôles biologiques normaux ; Hydroxychloroquine ; Azithromycine ; sortir ; réduction progressive de la posologie de l´hydroxychloroquine ; contrôle de la sédimentation rapide ; régression de l´atteinte cutanée ; au jour 6 de la pathologie ; autorisée au jour 10 de la pathologie ; conséquences en cours de la maladie ; récupération complète de l´atteinte cutanée ; un état général en bon ; un état hémodynamique stable ; une saturation de l´air pulmonaire en bon état ; facteurs de prédisposition ; recul de la maladie ; 10 jours de la pathologie.
+Écris un cas clinique pour le profil patient suivant :
+Age : 20 ;
+Sexe : masculin ;
+Admis le : 16/03/2020 ;
+Découverte du cas clinique : contact avec son père ayant COVID-19 ;
+Symptômes préliminaires : urticaire aigue ;
+Test PCR positif ;
+Traitement : injection d´Etanercept ;
+Evolution : apyrétique ;
+contrôles biologiques normaux ;
+Hydroxychloroquine ;
+Azithromycine ;
+sortir : réduction progressive de la posologie de l´hydroxychloroquine ;
+contrôle de la sédimentation rapide ;
+régression de l´atteinte cutanée : au jour 6 de la pathologie ;
+autorisée au jour 10 de la pathologie ;
+conséquences en cours de la maladie : récupération complète de l´

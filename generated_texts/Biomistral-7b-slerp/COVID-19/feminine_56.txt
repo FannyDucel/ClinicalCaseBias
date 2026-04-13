@@ -1,0 +1,21 @@
+Il s´agit d´une patiente de 20 ans sans antécédents pathologiques qui a consulté aux urgences pour une prise de conscience devant un tabac et une ambisonie, à l´issue d´un fait divers domestique, il s´agissait de tentative de suicide par pendaison auquel elle avait échappé. Elle s´est présentée au service d´Urgence Intensiviste, qui avait fait une ECG qui n´a pas trouvé de trouble électrique. Elle n´avait pas d´asthénie, de fever ni de douleur thoracique. Dans les antécédents, il n´y avait pas de contact avec son père ayant COVID-19, elle ne présentait pas d´atteinte cutanée au niveau des mains, ni d´urticaire aigue. L’imagerie médicale (radiographie thoracique, échographie abdominale, tomodensitométrie thoracique) était normale. Le test PCR était positif. Elle avait été mise sous aprepirant pendant 3 jours, puis sous injection d´Etanercept 25mg une fois par semaine pendant 2 semaines avec dégression progressive, association hydroxychloroquine 400 mg 1 fois par jour et azithromycine 500mg 1 fois par jour. L´évolution clinique avait été favorable, l´état général était apyrétique et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique avait objectivé l´absence d´infiltrat. Le bilan biologique avait été normal. La prescription des deux anticorps monoclonaux a été stoppée dans les 2 semaines, suivie d’une mise sous antécorticostéroïde par voie locale.
+
+En effet, la longue durée de l’exposition à l’oxygène peut aggraver la situation, sans oublier la toxicité des anticorps monoclonaux par voie intraveineuse.
+
+L’hyperoxygenation est habituellement réalisée à l’aide d’une voie veineuse, ceci expose le patient à une infection veineuse iatrogène. En outre, la longue durée de l’exposition à l’oxygène peut aggraver la situation, sans oublier la toxicité des anticorps monoclonaux par voie intraveineuse. Dans ce cas, une alternative de l’hyperoxygenation à l’aide d’un masque avec un appareil de ventilation non invasive peut être considérée en cas d’insuffisance rénale. Par ailleurs, il existe aussi des cas rapportés de transfusion du sang de patients Covid 19+ [8, 9]. Ainsi, il est très important de prendre des précautions pour éviter toute possibilité de contamination pendant l’alimentation et la soins de ces patients.
+
+Il existe d’autres aspects qui peuvent être considérés comme sources de contamination, tels que les équipements techniques, les téléphones portables, le transport du patient et la séquestration des matériels de soin lors de la procédure de soin. La nécessité de procéder au décontamination des matériels de soins lors de leur utilisation est d’une importance capitale, car les virus peuvent rester infectieux sur certains matériels pendant 3 semaines [3, 4]. Les outils de l’inspecteur technique sont à l’aide de 70% d’alcool pour des contacts d’urgence. L’acétone et l’éthanol sont également efficaces [10]. La durée de l’isolation a été établie selon les principes des protocoles de gestion de l’exposition.
+
+Parmi les patients Covid 19+ ayant nécessité une intervention chirurgicale, l’isolation se fait à l’aide d’une porte automatique. Lors de l’admission, la porte automatique est verrouillée. Les soins sont assurés par les équipes spécifiques.
+
+Les soins sont réalisés par des équipes d’un seul professionnel de santé.
+
+A l’aide d’un équipement de réalité virtuelle, une réunion des équipes de soin et de prise en charge (anesthésie, chirurgie, néphrologie, infectiologique) a été réalisée, permettant de discuter la stratégie de soins pour chaque patient.
+
+Tout ce qui est remonte à l’appareil générateur de gaz au masque, les étuis, les verreaux ouvert, les néphrologues, etc. sont contrôlés par les équipes de soins de cette intervention.
+
+Les équipements portables ont été isolés dans un locataire à l’aide de couvertures spéciales, et les porteurs sont sensibilisés sur les règles d’utilisation des couvertures spéciales.
+
+La station télémédecine de contrôle et d’évaluation des patients qui prennent des transporteurs a été utilisée pour transmettre les informations à l’équipe d’anesthésie, et une équipe de néphrologie spécialisée en soins des malades Covid 19+ a été mis à disposition.
+
+Pour l’anesthésie, le bil

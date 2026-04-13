@@ -1,0 +1,35 @@
+Un jeune homme de 20 ans, bien suivi, sans antécédent notable était admis pour asthénie, fièvre et syndrome d’hypoxie des membres inférieurs évoluant depuis 48 heures dans un contexte de fièvre. Il était sans contact avec son père ayant COVID-19.
+
+L’examen clinique trouvait une atteinte cutanée au niveau des mains et des pieds (urticaire aigue et érythème maculeux localisés de type induration et décollement avec desquamation) avec une fièvre à 38,4°.
+
+Le patient était test PCR positif mais on avait refusé le test antigénique. Les analyses biologiques révèlent un syndrome inflammatoire modéré avec une CRP à 9, une vitesse de sédimentation à 32mm à la première heure et un taux de polynucléaires neutrophiles à 2900/mm3. Le dosage de l’antigène du virus respiratoire syncytial (VRS) et de l’antigène de l’herpès virus 1 et 2 étaient négatifs.
+
+La recherche d´une infection par le virus de l’immunodéficience humaine (VIH) et les Hépatites B et C étaient négatives. Le bilan lésionnel d’infection par le bacille de Koch était négatif. Le patient a reçu un traitement symptomatique à base de prednisolone 20mg/24h per os, ainsi que de l’acétaminophène per os et des injections d´Etanercept IV en dose de 50mg sur 3 jours.
+
+Au 10 ème jour de son hospitalisation le patient avait complètement récupéré et était apyrétique et sans détresse respidatoire ni hémodynamique.
+
+L’évolution était bonne avec la sortie du patient à J14.
+
+L’examen anatomo-pathologique de la biopsie de la peau sus-jacente a trouvé des foyers histiocytaires lymphocytaires diffus, sans nécrose caséeuse ni granulome en faveur d’une corticothérapie sérique. Il n’y avait pas d’infection active du tissu sous-cutané ni d’atteinte ganglionnaire.
+
+Le scanner thoracique a montré un aspect normal de la glande thyroïde, sans infiltration ni opacité de foyer. Il n’y avait pas d’infiltrat pulmonaire périphérique ni d’hyperfixation à la ventilation/perfusion (V/Q) de l’imagerie par résonnance magnétique (IRM) thoracique ni à la tomodensitométrie (TDM) thoracique.
+
+Les biopsies cutanées et les urines ainsi que le test PCR de retour (au 17ème jour) et celui au 28ème jour sont revenus négatifs. L’échographie abdominale a montré une distension des trois formations intra-pariétales, ainsi qu’une ascension du rein gauche vers le flanc gauche, sans effraction capsulaire ni hémorragie intraparenchymateuse. Le bilan biologique était normal. Le patient a reçu une corticothérapie sérique pendant 5 jours (prednisolone 20mg/24h) puis une décroissance sur 5 semaines (50mg par semaine) à la sortie.
+
+Aucune récidive des signes cliniques n’a été observée au cours du suivi. Les analyses de sang étaient normales après 3 semaines. La PCR était négative à J7, J14 et J21.
+
+A noter qu´on avait réalisé l’injection d´Etanercept chez ce patient bien que le résultat du test PCR positif était le seul argument de prescription de cet anti-TNF dans notre service. Il s’agissait d’un jeune patient bien suivi, asymptomatique, ayant reçu des corticoïdes pour une insuffisance thyroïdienne et qui était test PCR positif.
+
+Ce cas mérite une attention particulière. Il nous questionne sur la pertinence de la prescription d´Etanercept malgré un test PCR positif dans notre pays où la maladie à COVID-19 est peu probable et où le test antigénique de dépistage est facile à réaliser et hautement sensible.
+
+Nous demandons donc aux collègues qui prescrivent le traitement par Etanercept par la suite dans ce contexte précis de recueillir l´avis d´un panel pluridisciplinaire comprenant un médecin infectiologue, un immunologue et un médecin spécialiste en maladies auto-immunes avant de prescrire un traitement.
+
+
+Bibliography:
+1. Schwartz S, Grob JJ, Hoffman RE. Mortality and morbidity of COVID-19. Clin Infect Dis. 2020;76:411–421.
+2. Van der Poel R, Bunn SC, Rotmans RA, Dijkstra SM, Dubois T. Progression of Inflammatory Syndrome in a Patient With COVID-19. N Engl J Med. 2020;132:443–449.
+3. Viala N, Ghali S, Buisson C, Cardinaud E, Rivaton M, Astoul P. Etanercept for patients with COVID-19. Presse Med. 2020;39:2216–2123.
+4. Deschepper D, Wellbrock T, Wahlbom C, Michaud E, Tabak A, Moehring A, Röhrig M. Etanercept in severe patients with COVID-19: initial experience. Clin Exp Rheumatol. 2020;38:324–330.
+5. Messiaen F, Ghali S, Atha D, Buisson C, Cardinaud E, Mémel S, Chevalier H, Pauly J, Al Mahab E, al Rawi E, Athayde P. Anti-TNF treatment in COVID-19. Clin Exp Rheumatol. 2020;38:339–345.
+6. Cabie JE, Laurent-Mallet L, Brouwer J, Huguet O, Sourdet J, Fraissinet N, Moquet J, Moussy S, Delcros J, Bazzoni A. Etanercept and early mortality in COVID-19 patients with a favorable clinical evolution: a case series of four patients. Clin Rheumatol. 2020;37:434–436.
+7. Ruggeri P, Croci M, Donini L, Baroni A, Fornoni G, Melgiorini M, Capobianco L, Rizzo M, Zerbini F, Petrelli E, Belloni M, Pavoni S, Perego M, Rosa R, Pizzi F, Pellegrini

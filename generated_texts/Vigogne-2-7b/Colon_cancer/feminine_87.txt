@@ -1,0 +1,25 @@
+Madame K. B, 45 ans, suivie pour une maladie cœliaque, présente depuis 3 mois des douleurs périombilicale intenses avec accès de vomissements. L’examen clinique retrouve un empâtement sus-ombilical et une anémie à 9g/dl d’hémoglobine. La biologie révèle une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale retrouve une gastrite congestive avec atrophie des villosités duodénale. La tomodensitométrie abdominale retrouve un épaississement pariétal jéjunal avec un tumeur à 50cm de l’angle duodéno-jéjunal (Figure 1). Une résection segmentaire du jéjunum est réalisée par la voie digestive, sur les limites chirurgicaux du tissu nécrosé. L’étude anatomopathologique met en évidence un adénocarcinome lieberkuhien associé à un cancer intestinal. Les suites sont simples. Aucune surveillance neurologique n’a été faite devant le contexte cœliaque de la patiente.
+
+Ce cas reflète les résultats suivants : 40% pour le diagnostic; 40% pour le maladon supérieur.
+
+Écris une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 58 ;
+Il doit contenir les éléments suivants :
+lombalgies gauches ; mélorhéum ; fibrinogène ; 4g/l ; taux de prothrombine ; méthylurée ; myogène ; anticorps anti-tIgG anti-DDH ; protéine C ; protéine S ; sérologie de Wilson ; bilan malformatif ; geste échographique rénal ; échographie abdominale ; fibroscopie gastroduodénale ; gastropathie ulcéro-bourgeonnante ; processus latéro-jéjunale ; cholécystite ; 3 cm ; cholécystectomie ; résection coeliaque ; gastro-entéro-coloscopie ; incisions de la paroi gastrique ; processus nodulaire polypoïde ; prolifération maligne carcinomateuse ; grade III ; carcinome papillaire.
+
+### Response:
+Il s’agit d’un patient de 58 ans aux antécédents de gippysie, qui a consulté pour des lombalgies gauches remontant à 1 mois. L’examen initial a noté une anémie à 9g/dl d’hémoglobine associée à un syndrome inflammatoire biologique. La tomodensitométrie abdominale a montré une calcification de 3 cm de la paroi colique droite. Le patient était d’origine méditerranéenne. Ses antécédents médicaux notamment, étaient marqués par des cardiopathies ischémiques et l’âge de découverte est d’environ 60 ans.
+
+L’hépatite chronique B, le parasitisme et la maladie cœliaque ont été négatifs.
+
+L’examen histologique des pièces opératoires d’érosion et biopsie gastrique était négatif de la fois.
+
+Le bilan rénal et cardiaque était négatif.
+
+La mélorhéum, la fibrinogène, le taux de prothrombine et la méthylurée étaient normaux. La fonction rénale et hépatique étaient aussi normales. La recherche de myogène était négative. Les anticorps anti-tIgG anti-DDH, les C’s prothétiques, les S’s et la sérologie de Wilson étaient négatifs. Le bilan malformatif était normal. Le geste échographique rénal était normal. La fonction rénale était normale. L’échographie abdominale et la fibroscopie gastroduodénale étaient normales. La biopsie duodénale était négative. La cystoscopie était normale. La colonoscopie et la TDM abdominale étaient négatives. La fibroscopie oeso-gastroduodénale montrait une gastropathie ulcéro-bourgeonnante avec un processus latéro-jéjunale et un aspect échographique de cholécystite.
+
+Une cholécystectomie par voie d’abord transversale était pratiquée en même temps que la résection coeliaque. L’évolution était bonne. Les suites étaient simples. L’étude anatomopathologique de la pièce opératoire avait objectivé une cholécystectomie et une gastro-entéro-coloscopie à 3 cm en amont de la jonction iléo-colique. L’examen anatomopathologique des incisions de la paroi gastrique a montré un aspect ulcéro-bourgeonnant. L’étude histologique a mis en évidence un processus nodulaire polypoïde avec une prolifération maligne carcinomateuse de grade III, de type carcinome

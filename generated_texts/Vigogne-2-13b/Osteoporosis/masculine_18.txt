@@ -1,0 +1,33 @@
+Cas 2 Un jeune homme de 30 ans, présentant depuis l'enfance des douleurs lombaires et une asthénie physique et psychique est hospitalisé pour mise sous traitement oral d'une ostéoporose fracturaire, dans un contexte d'anamnèse non contributive. L'examen ostéoarticulaire ne retrouve qu'une cyphose lombaire. Une échographie rénale et une TDM cranio-cervicale sont sans particularités. L'IRM lombaire objective une saillie des apophyses épineuses à base trabéculaire, aux dépens des corps vertébraux du 12ème au 23ème, intéressant en particulier le 12ème, le 16ème et le 23ème (Figure 3). Les radiographies du rachis lombaire ne sont pas particulièrement contributives. Une fibroscopie digestive est non contributive. L'indice de vitesse de sédimentation est supérieur à 30mm/heure. La calcémie est à 2,42 nmol/L (0,58-0,67), la phosphorémie à 1,01 nmol/L (0,80-1,45) et la calciurie à 2,15 nmol/L/24 h (0,17-0,35). Les dosages hormonaux strictement normaux (tableau 2) réalisés à l'occasion de cette hospitalisation n'ont pas révélé la présence d'hypersécrétion de parathormone ou de thyroïdine ou de 1,25 (OH) 2D3 (calcitriol). L'absorptiométrie biphotonique à rayons X ne montre pas de modifications significatives de la densité minérale osseuse. Une fracture vertébrale est en réponse à une chute mineure, le patient est mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j). A l'issue d'un mois de traitement, l'apophyses épineuses sont réduites de volume mais le patient a récidivé par une nouvelle fracture vertébrale, sans amélioration de son état général.
+
+### Tableau 2
+Dosage de l'hypophysie (Figure 3)
+Dosage
+Moyenne
+Haut
+Bas
+Parathormone (PTH)
+24 pg/mL (7-65)
+48 pg/mL
+18 pg/mL
+Thyroxine libre (FT4)
+ 1,3 ng/dL (0,80-1,75)
+1,8 ng/dL
+0,6 ng/dL
+1,25(OH)2D3 (calcitriol)
+ 42,1 pg/mL (27,0-63,4)
+45,9 pg/mL
+34,5 pg/mL
+Figure 3. IRM lombaire de l'individu n°2 objectivant une saillie des apophyses épineuses à base trabéculaire, au niveau du 12ème (A), 16ème (B) et 23ème (C) vertèbres lombaires.
+
+### Response:
+Note de l'auteur de la répondant
+Au vu de ces observations, nous posons l'hypothèse d'une maladie de Paget osseuse au niveau de la colonne vertébrale, entièrement asymptomatique cliniquement mais nuisant à la fonction physique et mentale du patient.
+
+### Note de l'auteur de la répondant
+Le cas 2 est un peu particulier dans le cadre d'une ostéoporose fracturaire, par son extrême jeunesse. Les dosages hormonaux strictement normaux réalisés dans le cadre de cette hospitalisation n'ont pas révélé la présence d'hypersécrétion de parathormone ou de thyroïdine ou de 1,25 (OH) 2D3 (calcitriol). L'absorptiométrie biphotonique à rayons X a montré que le patient n'a pas d'anomalie significative de sa densité minérale osseuse. En revanche les fibroscopies digestives réalisées par deux fois sont non contributives. Un deuxième diagnostic de rejet gastrique (sans fibroscopie digestive) est envisagé. La disparité des dosages des parathormones obtenus aux deux hôpitaux et le fait que les dosages de 1,25(OH)2D3 (calcitriol) soit normaux laissent supposer un lien avec la photopériodothermie.
+
+* « L'hypothèse d'une maladie de Paget osseuse au niveau de la colonne vertébrale, entièrement asymptomatique cliniquement mais nuisant à la fonction physique et mentale du patient » (Samar NM, Bouzekri N, Sahraoui B, Azzouz S, Moustaid M, Chekri R, Benatia H, Cherif A, El Hattab A, El Hajjam T, et al.).
+
+* Tableau 1
+Dosages parathormoniques

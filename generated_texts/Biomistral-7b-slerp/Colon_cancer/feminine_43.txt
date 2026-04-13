@@ -1,0 +1,20 @@
+Il s’agit d’une patiente âgée de 45 ans, avec l’histoire d’une douleur épigastrique évoluant depuis 6 mois, aggravée par les repas et les émessions, sans autre signe digestif, associé à des douleurs périombilicale intenses, un choc hémodynamique sans vomissements ni diarrhée.
+L’examen clinique a retrouvé un malade subdivisée en quatre états : un état basilique avec pâleur, empâtement sus-ombilical, des poussées d’apnée et des mouvements de déshydratation dans l’abdomen, un état orthostatique avec palpation sensible au niveau de l’hypochondre supérieur droit, un état d’anaphylaxie avec vomissements et hypotension en poussée et un état asthénique avec altération de l’état de conscience.
+L’examen abdominal objectivait un piccolisisme et un empâtement sus-ombilical.
+L’échographie abdominale avait mis en évidence une poussée d’anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l.
+La fibroscopie oeso-gastroduodénale avait montré une gastrite congestive et une atrophie des villosités duodénale.
+La tomodensitométrie abdominale avait objectivé un épaississement pariétal jéjunal, une tumeur à 50cm de l’angle duodéno-jéjunal.
+Une laparotomie médiane épigastrique était indiquée et avait permis l’exérèse d’une tumeur du jéjunum.
+L’examen histologique de la pièce opératoire avait permis le diagnostic d’un adénocarcinome lieberkuhien d’origine inconnue associé à une maladie cœliaque.
+Les suites postopératoires étaient simples.
+La patiente était dischargée à J3 postopératoire.
+L’évolution à 6 mois était sans anomalies.
+Une résection segmentaire du jéjunum était prévue.
+Le diagnostic d’un adénocarcinome lieberkuhien d’origine inconnue associé à une maladie cœliaque a été posé.
+
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 43 ;
+Il doit contenir les éléments suivants :
+antécédents pathologiques ; adressé ; douleur de la lèvre inférieure ; consulter ; ablation de la molar fémorale gauche ; dystrophie osseuse ; fonctionnement ; scintigraphie osseuse ; hyperfixation du quadrante médial du fémur gauche ; gynécomastie ; hématurie macroscopique ; formations tissulaires ; masse prostatique hypo-échogène de la base de la veille inférieure ; hypervascularisée ; urographie intraveineuse ; masse prostatique hétérogène ; stase vésicale ; scanner ; infiltration pérépéritonéale ; Nodules de la paroi colique droite ; atteinte du baryte ; biopsie chirurgicale ; prostate cancéreuse ; mise en place d’une cystostomie ; excision prostatique ; pelvi-abdominal ; examen pathologique.
+A. B est un patient âgé de 43 ans sans antécédents pathologiques notables. Il a été adressé par un pédiatre pour douleur de la lèvre inférieure qui n’avait cessé de se propager aux molaires gauche et droit pour lesquelles le patient avait consulter un stomatologue. Il n’avait aucun antécédent familial particulier. L’état général était bon, la pesée 69 Kg, la taille 1,65 m, l’IMC 23.48. L’abdomen était modérément distendu, souple, sans élévation du pavillon ni tympanisme. L’examen mammaire mettait en évidence une gynécomastie élevée. L’examen rectal avait objectivé une masse sphérique prostatique dure de 3cm de diamètre rendant difficile l’introduction du doigt, un nez doux, une foie non palpable. L’examen pleuro-pulmonaire était normal. L’urographie intraveineuse mettait en évidence une masse prostatique hétérogène au dépend de la partie antérieure de la prostate étendue sur toute la hauteur vésicale. Il n’y avait pas de stase vésicale et la fonction rénale était conservée. L’échographie abdominale montrait une tumeur prostatique hétérogène sans infiltration des muscles en symétrie avec une stase urinaire et une formations tissulaires des poumons. Une cystographie rétrograde montre une stase et une infiltration des muscles prostatiques

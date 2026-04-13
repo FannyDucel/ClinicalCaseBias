@@ -1,0 +1,29 @@
+Nous rapportons le cas d´un patient de 20 ans qui a été hospitalisé dans notre unité pour prise en charge de la maladie de Behçet. Il avait des antécédents de diabète insulinodépendant depuis 5 ans, un épisode de maladie de Behçet confirmée au début de l´année 2020 avec un syndrome des quatre yeux, un dactylite bilatéral, une atteinte cutanée au niveau des mains et une urticaire aigue. Il a également eu un contact avec son père ayant COVID-19 en avril 2020, sans signes cliniques poursuivis. Ce dernier fait d´autres antécédents de maladie de Behçet.
+
+Le diagnostic d´injection d´Etanercept a été porté en décembre 2019 avec bonne tolérance. Ceci a été interrompu à la fin de l´année 2019 pour raisons familiales, ce qui a été fait le lendemain de l´épisode d´urticaire aigue. Le 14 janvier 2020, il avait un nouvel épisode d´urticaire aigue, objectivé par un test PCR positif au COVID-19, à l´origine de l´interruption du traitement d´Etanercept et de sa reprise dès le 19 janvier 2020 à dose initiale, puis augmentée à la dose double.
+
+La symptomatologie a consisté en des prurit généralisés, l´ictère avec un début bilatéral puis une évolution en asymétrique favorisant le flanc gauche, un pétéchie basal de 4 mm au niveau du dos, une adénopathie axillaire et un amaigrissement de 5kg en 12 jours. L´examen abdominal n´a pas trouvé d´ascite ni détresse hémodynamique. L´auscultation cardio-pulmonaire et l´examen pleuropulmonaire étaient normaux. Les autres examens neurologiques ne montraient pas de signe neurologique. L´échographie abdomino-pelvienne et la tomodensitométrie thoracique n´ont pas objectivé d´infiltrat, notamment des hémopériespléniques ou pulmonaires. Le bilan biologique a été normal.
+
+Le patient a été mis sous hydroxychloroquine 400mg/j et azithromycine 500mg/j. L´évolution a été marquée par une régression des signes cutanés, des adénopathies et un amendement de l´anémie avec une reprise du rapport taux d´hémoglobine à la teneur normale en deux semaines. Les deux anti-Covid ayant été arrêtés au bout de deux semaines. Le traitement à long terme a été discuté mais n´a pas été entrepris.
+
+Le patient a consulté en consultation externe trois semaines après l´arrêt du traitement à la corticothérapie et est toujours asymptomatique sans signe ou symptôme cutané, pulmonaire ou de rechute.
+
+Les éventuelles recherches pour comprendre l´étiologie de cette réponse d´atrophie macrophagique sont en cours.
+
+Les auteurs n´ont pas de conflits d´intérêt directs ou indirects.
+
+La rédaction de ce cas clinique a été approuvée par les deux auteurs.
+
+Voir la référence 5 pour les références bibliographiques.
+
+5. De Abreu MCR, Ianiro G, Molina-Molina M. SARS-CoV-2-related multisystem inflammatory syndrome in children (MIS-C): a systematic review. J Autoimmun. 2020;114:102493.
+
+6. Bithiha A, Abdala A, Benti A, Chachi A, Elhouari I, Zohri N, et al. COVID-19 infection: a critical appraisal of the reported cases of the cutaneous manifestations. Int J Dermatol. 2020;59:e75-e80.
+
+7. Zou J, Fan KH, Gou JY, Li JH, Sun X, Liang XF. Nucleocapsid phosphoprotein of SARS-CoV-2: immunogenicity and immunotherapeutic potential. J Virol. 2020;94(20):e00757-20.
+
+8. Halawa H, Crawford P, Yakob L, Moots D. Hyperinflammatory response to SARS-CoV-2 infection in an immunodeficient patient with Behçet´s disease: exploring the possibility of a targeted therapy. J Med Virol. 2020;92:1815-1818.
+
+9. Thakkar R. SARS-CoV-2/COVID-19 infection-induced haematologic manifestations. Hematol Oncol Stem Cell Ther. 2020;14:152-155.
+
+10. Benbenishty R, Nissim Y, Meirovitz B, Laniado-Ofri I, Mevorach D. COVID

@@ -1,0 +1,24 @@
+Nous présentons le cas d´un homme âgé de 20 ans sans antécédent, qui avait contenu son père ayant COVID-19. Il est revenu au service pour une atteinte cutanée au niveau des mains le 8ème jour après l´apparition des signes symptomatiques.
+A l´examen, l´état général était bon, l’insertion auriculaire était normal, l’examen cutané mettait en évidence une urticaire aigue au niveau des mains.
+Le test PCR du COVID-19 à la bouche et les sérologies SARS-CoV-2 étaient négatifs.
+En raison du caractère récent de l’apparition des symptômes, une injection d´Etanercept était administrée.
+Par ailleurs, l’état général était apyrétique, sans détresse respidatoire ni hémodynamique.
+La tomodensitométrie thoracique était normale, sans signes d´infection secondaire, pas d´infiltrat, ni de signes d´hypertension artérielle pulmonaire.
+Le bilan biologique était normal.
+Enfin, nous avions utilisé l’hydroxychloroquine avec l’azithromycine, avec une bonne évolution clinique et biologique à la 14ème journée.
+Il a quitté l’hôpital après 30 jours et son test PCR était toujours négatif.
+Au suivi, une semaine après son déchargement, il était asymptomatique, le test PCR et les sérologies SARS-CoV-2 étaient toujours négatifs.
+L’apyrétique et l’absence d’aléoencephalitée ou de poussée inflammatoire ont été envisagées comme des facteurs de bonnes évolutions du COVID-19.
+Ce cas souligne la possibilité d’utilisation d’Etanercept pour l’atteinte cutanée secondaire au COVID-19.
+L’hydroxychloroquine, associée à l’azithromycine, est également une thérapie efficace pour le COVID-19.
+Nous avons noté une corrélation entre l’apparition des signes symptomatiques et l’atteinte cutanée secondaire au COVID-19.
+Notre observation souligne l’importance de se tenir à la santé et à l’isolement afin d’éviter la contamination par les moyens de transport publics ainsi que l’exposition aux patients COVID-19.
+Il existe toujours une réaction immunitaire responsable de cette urticaire qui peut être déclenchée par des stimuli comme la morsure d’insecte, des drogues médicamenteuses, des alérgies, le déficit immunitaire, et le COVID-19.
+Il faut rappeler l’isolement physique de la population (quarantaine), une hygiène rigoureuse, le port d’un masque lors des contacts et une immunisation contre ce virus.
+Même s’il existe des écarts entre les différents protocoles, la prise en charge du patient peut s’effectuer selon le protocol clinical management de COVID-19 du Service de Médecine Infectieuse du CHU Hassan II de Fès.
+Nous pouvons parler d’un nouveau virus à haut potentiel de mutation génétique qui ne doit pas être négligé.
+A noter également l’importance d’une surveillance hospitalière avec suivi de la sérologie pour un bon geste de prise en charge.
+La mise en route précoce du traitement a permis d’améliorer la condition du patient, et son bon évolution clinique et biologique, nous attirant vers un excellent prognostique.
+A noter également les délais de retour d’une réactivation probable d’une sclérodermie systémique, pris en compte dans le prisme de cette étude.
+Notre observation souligne l’importance de la surveillance et l’isolement des patients infected par le SARS-CoV-2 ainsi que la nécessité d’un suivi par des spécialistes au sein de l’équipe pluridisciplinaire pendant une durée prolongée.
+Le vieillissement de la population est un facteur de risque majeur de la mort du nouveau-né [1]. La valeur prétendue est de 45 à 50 ans pour la mère et 30 à 40 ans pour le père [2]. Ainsi, le rythme des naissances fait référence à la moyenne de la durée des premières unites de 36 mois au sein d’une population. C’est un outil aisément calculable et n’est donc pas très spécifique, car un rythme inter-naissances rapide peut se traduire soit par une grande parité soit par de nombreuses grossesses multiples ou enfin par des gros espacements inter-naissances. Il dépend donc du mode de vie des populations et des facteurs socio-économiques. Une récente étude française, qui a suivi un échantillon d’environ 7000 naissances au cours de 10 ans, a montré que la durée des premières unites de 36 mois était en baisse de manière significative et que les effets

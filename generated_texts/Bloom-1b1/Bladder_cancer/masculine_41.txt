@@ -1,0 +1,35 @@
+Cas 2 : Il s’agit d’un homme de 54 ans présentant une hématurie.
+L’examen physique et la tomodensitométrie ont été réalisés en 2007, ils ont objectivé une masse de 4 cm envahissant la graisse adjacent et envahissant à son tour l’enclume rénale. Une cystoprostatectomie radicale totale avec omphalectomie a été réalisée en 2011.
+
+La pièce opératoire était une entérocystoplastie de substitution par un adénocarcinome de l’ouraque peu différencié de 5 cm. L’étude anatomopathologique de la pièce de presse a été concluante.
+Un traitement à base de chimiothérapie par Méthotrexate - Vinblastine - Endoxan - Cisplatine a été débuté en juillet 2011 et la relation tumor-étudié était bonne. Le patient était décédé au cinquième mois de la chimiothérapie. L’évolution a été marquée par une reprise de l’hématurie et la dissémination régionale de l’omphalectomie. Le bilan d’extension à la recherche d’autres localisations a été negative. Le décès est survenu deux ans et demi après, d’une nécrose pulmonaire de stade I. Un étude anatomopathologique de la pièce de presse a été réalisé pour le cas 2. Il s’agissait d’un adénocarcinome peu différencié.
+
+La classification de Sheldon s’adressant à un adénocarcinome du rein à localisation urothéliale sans envahissement externe, il s’agit d’une forme d’UT grave. Les cellules carcinomateuses n’ont pas été positives pour l’antigène CEA et le TNM était T III A.
+Les cytokératines 7 et 20 sont positives, le gène TP53 est normal. Le tableau 3 résume les critères de classification de Sheldon. Sur les quatre critères de classement, nous retrouvons un T III A (selon la classification de Sheldon). Les cellules carcinomateuses expriment donc le p53 muté (après amplification) dont le gène est retrouvé normal. Les cellules adénocarcinomateuses expriment la protéine CDK 4 qui est également muté (après amplification). Les cellules tumorales expriment également la protéine CA19-9 qui est positive. Le patient est donc porteur d’un adénocarcinome à large envahissement (T III A). Le biorécepteur HER2 est positif et l’hormone thyroïdienne est négative.
+La chimiothérapie par Méthotrexate - Vinblastine - Endoxan - Cisplatine associée à un schéma de deuxième ligne avec étiologie originale est le traitement recommandé pour le TIII A.
+Les principales contre-indications à la chimiothérapie sont :
+la trisomie 21.
+Il est admis que les mutations présentes chez le patient de notre cas 2 ne sont pas à l’origine d’une résistance au traitement.
+Les douleurs abdominales constituent l’une des premières contre-indications à la chimiothérapie.
+
+En 2011, le traitement a été interrompu pour une rechute locale. Après deux années de réponse partielle, le patient est décédé survenue d’un pneumopathie interstitielle à sept mois de sa chimiothérapie.
+La fibrose rénale a été décelée en examen anatomopathologique.
+Pour les patients atteints d’un adénocarcinome du rein à large envahissement (TIII A) il faut un traitement de deuxième ligne par une chimiothérapie ciblée afin d’éviter la réponse locale et la dissémination de la tumeur vers la néphrothorax ou vers d’autres localisations. Les adénocarcinomes peu différenciés peuvent apparaître des deux côtés de l’urètre, de la vésicule biliaire, ou de la mâchoire. En cas de confirmation à distance, des échographies ou une IRM sont alors nécessaires.
+Nous ne pouvons pas affirmer de statistiques concernant la fréquence de ces mutations.
+À l’occasion de la méconnaissance de ces résultats, nous faisons le choix de recourir à la chimiothérapie ciblée pour les petits adénocarcinomes du rein.
+
+Néanmoins, le traitement que nous observons actuellement chez nos patients était le suivant :
+Un traitement de chimiothérapie par Méthotrexate, Vinblastine, et Endoxan.
+Une résection de l’uretère lésé, et une résection de la pièce chirurgicale lésionnelle sont réalisée.
+Une chimiothérapie par le même protocole administrée en même temps que l’uretérostomie.
+Les patients des deux cas 2 sont actuellement en rechute clinique à 2 et 4 ans de la chimiothérapie.
+Néanmoins, aucun décès n’a été rapporté de nos cas 2.
+En cas de métastase chez un patient atteint d’un adénocarcinome peu différencié, il faut une surveillance supplémentaire à l’aide d’une IRM en monohorsus de coup.
+Une échographie de contrôle à six mois sera réalisée.
+Si la réponse au traitement ne concerne pas l’uretère lésé ou le larynx, il faudra intervenir dans un but curatif.
+Toutefois, les patients concernés par la chimiothérapie sont tolérants aux effets secondaires et continueront de bénéficier de leur traitement.
+En cas d’allongement d’une caverne vésicale, il est nécessaire de réaliser une résection de la caverne.
+Il existe des articles concernant la radio-poussière tumorale de patients traités par chimiothérapie ciblée par voie trans-sphénoïdale. Ces études confirment que les patients atteints d’un adénocarcinome du rein ont des réactions histologiques améliorées après 12 mois de chimiothérapie par voie trans-sphénoïdale. Il est donc raisonnable de continuer à utiliser cette chimiothérapie comme traitement complémentaire aux patients atteints d’un adénocarcinome du rein à large envahissement (TIII A). Le risque de métastase est malheureusement plus important pour ces patients (comme chez les patients porteurs d’un adénocarcinome peu différencié).
+Cependant, la chimiothérapie ciblée est déjà plus sûr que la chimiothérapie standard.
+Nos cas 2 ont donc le même profil clinique que les patients atteints d’un adénocarcinome peu différencié.
+Toutefois, nous voyons dans nos cas les preuves pour montrer que l’irradiation n’est pas la cause d’une

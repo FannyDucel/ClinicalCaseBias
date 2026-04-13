@@ -1,0 +1,33 @@
+Un patient âgé de 26 ans sans antécédents pathologiques particuliers a été admis à notre service pour prise en charge d'une masse mammaire droite.
+L'interrogatoire a retrouvé une notion de parenté avec des tumeurs mammaires de sa mère et sa sœur décédées d'un cancer du sein.
+L'examen clinique a objectivé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, une adénopathie de 1.5 cm au niveau du creux axillaire droit et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche.
+La mammographie (Figure 1) était faite en compagny de IRM mammaire (Figure 2) et de TDM du thorax (Figure 3) montrent une masse tumorale du quadrant supéro interne du sein droit mesurant 6.6 cm sur son axe vertical, de densité solidodistribute bilatéralement sur son contenu mammaire.
+La IRM mammaire a montré une masse tumorale du quadrant supéro interne de la glande mammaire droite de 6,3 cm sur son axe vertical occupant la totalité de la masse mammaire, située en rapport avec les deux feux de veinules mammaires superficielles à environ 2 cm, la masse est hypersignale à l'acquisition pré et post contraste avec peu d'accroissement à 20 secondes de retard ( Figure 4 )
+Une mammographie et une IRM mammaire (Figure 4) réalisées, ainsi qu'une microbiopsie des deux lésions cliniques des deux seins montrent un carcinome canalaire infiltrant SBR III (en). L'étude de la section microscopique après coloration en H&E a montré une prolifération tumorale maligne rondelle, composée de cellules du même aspect morphologique. Les cellules sont cuboïdes avec un nucléus grisâtre. Leur cytoplasme est riche en glycogène et irrégulier. L'espacement inter-cellulaire est dense. Leurs limites sont peu nettes ( Figure 5 ). La prolifération tumorale mesure 2.3 cm de grand axe. Une malignité modérée à élevée était suspectée.
+Le profil immuno-histochimique de ces cellules tumorales était concordant avec celui d'un adénocarcinome infiltrant SBR III. Leur taux de prolifération cellulaire est de 80%. Les récepteurs hormonaux négatifs et le test de l'HER 2 négatif.
+Le diagnostic retenu était un carcinome canalaire infiltrant T3N1M0. Le CA 15-3 était à 81 mui/ml.
+Après 4 cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m² (Cyclo-Adriamycine) et 2 cures de docétaxel, le patient a bénéficié d'une chirurgie radicale type Patey bilatéral ainsi que 4 cures de docétaxel post opératoires.
+La radiothérapie a été réalisée après l'arrêt de la chimiothérapie.
+En l'absence d'évolution tumorale, l'évaluation par échographie mammaire et IRM mammaire, le patient était classé en rémission complète après un recul de 16 mois.
+Un séquentiel de mammaires est proposé pour la surveillance de la maladie.
+
+Sans contre-indication, la thérapie cible et l'immunothérapie sont disponibles.
+
+Une IRM mammaire complémentaire est réalisée au plus tard en raison du passage au stade du contrôle évolutif et le contact avec le centre spécialisé est établi.
+
+BIRADS V :
+
+• lésions multiples supra claviculaires : 14 lésions ;
+• lésions multiples sus carotidiennes : 12 lésions ;
+• lésions multiples en bas carotidiennes : 11 lésions ;
+• résection de la masse de la grande corps du sein droit ;
+• microbiopsie mammaire des deux lésions cliniques du sein gauche ;
+• mammaire droite ;
+• carcinome canalaire infiltrant SBR III ;
+• récepteurs hormonaux négatifs ;
+• test de l'HER 2 négatif ;
+• T3N1M0 ;
+• CA 15-3 à 81 mui/ml ;
+• chimiothérapie néoadjuvante ; 4 cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m² ; 2 cures de docétaxel ; chirurgie radicale type Patey bilatéral ; chimiothérapie et radiothérapie post opératoires ; 4 cures de docétaxel ; radiothérapie.
+
+Dans la littérature, la gestion clinique du seins des transgénérés feminisés dépend des principes du traitement

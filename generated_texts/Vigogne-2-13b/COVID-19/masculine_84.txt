@@ -1,0 +1,23 @@
+Il s´agit d´un patient de 20 ans, ayant un antécédent de COVID-19 traitée chez le médecin traitant. Une semaine après sa guérison du COVID-19, le patient est victime d´un contact avec son père ayant COVID-19.
+
+Vu que le patient n´a pas d´atteinte cutanée au niveau des mains, la prise en charge est clinique (urticaire aigue). Par la suite, le patient est admis dans notre structure pour son test PCR positif. L´échographie abdomino-pelvienne est normale. Une injection d´Etanercept, avant d´un diagnostic différentiel était envisagée avant que l´urticaire ne s´améliore.
+
+L´évolution est apyrétique, mais le patient présente toujours une urticaire aigue avec un ictère fébrile. Le bilan biologique est normal. La tomodensitométrie thoracique ne retrouve pas d´infiltrat, ni d´épaississement pleural ou épigastrique. Après 3 jours d´hospitalisation, l´urticaire s´améliore et l´évolution est favorable, le patient est sortant.
+
+Il est à noté que ce cas remet en question l´utilisation d´un traitement comme la corticothérapie par voie générale en tant que traitement de première intention face à une urticaire aigue post COVID-19 chez un patient non known pour le rhumes cutanés. La fièvre et le ictère sont un argument pour l´utilisation d´une corticothérapie chez ce patient en première intention. L´étude des anticorps anti-muscle lisse est négative ce qui est en faveur de l´utilisation de corticothérapie.
+
+L´utilisation de l´hydroxychloroquine et de l´azithromycine n´est pas démontrée par des preuves. Le patient décède trois jours après son hospitalisation pour cause de pneumopathie à COVID-19 mais non en rapport avec l´urticaire aigue.
+
+Le cas 02 Il s´agit d´un patient de 42 ans, ayant une toux persistante depuis 3 semaines. Au début le malade n´a pas de fièvre et sans autre signe clinique ni biologique indiquant une infection respiratoire. Le test PCR à l´antigène COVID-19 au jour 0 est négatif. Une échographie de thorax sans anomalie. Il est hospitalisé au jour 3 pour une fièvre, toux sèche et des troubles de l´état général.
+
+Le test PCR COVID-19 fait au jour 3 est négatif. Au jour 5, la fièvre a disparu et le test PCR fait au jour 7 est positif. Il est décidé d´envoyer le patient dans un service de choc pour Covid-19 mais les troubles de l´état général sont améliorés et le test PCR fait au jour 10 est à nouveau négatif.
+
+L’évolution ultérieure est favorable. Un mois après la négativité du test PCR, le patient développe une urticaire aigue, associée à un épistaxis, un ictère, une prurit généralisée et une conjonctivite bilatérale. Le test PCR fait au jour 21 est positif. Un bilan biologique normal. Il ne reçoit aucun traitement médical par voie générale. Un mois après la positivité du test PCR, l´urticaire s´estompe et l´évolution est favorable, le patient est sortant. Il est à noté que le test PCR positif dans notre cas, est associé à un ictère sans étiologie identifiable et des lésions cutanées au niveau des muqueuses, évoquant la possibilité d’une atteinte directe du CMV.
+
+Ces deux cas évoquent la notion de l’immunopathologie. L’importance de ce type de cas est l’évocation de cette complication indéniablement horaire à Covid-19 malgré un test PCR fait dans un délai de plus d’un mois. Ce cas peut être analysé comme une manifestation tardive de l´immunopathologie, une forme d’anomalies immunologiques lors de la guérison du COVID-19.
+
+La nature virale ou autre type d’origine de cette urticaire et/ou de la syndrome immunitaire fait objet de doutes, l´étude de l’immunophénotype à des endosseurs CMV n´est pas indispensable pour déterminer l´origine de cette atteinte. La prise en charge immunosuppressive est largement controversée, sans données épidémiologiques.
+
+Il n´existe pas de raison théorique à un effet disparition rapide de l´urticaire à la suite du début du traitement par corticothérapie ou immunosuppresseur, il s´agit simplement d’une anecdote observée au cas 02.
+
+En fait de syndrome immunopathologique, les anticorps anti-SS-A, anti-SS-B, anti-CMMV, anti-GM1, anti-GM2, anti-LKM1, anti-Jo-1 sont non détectés. En fait d

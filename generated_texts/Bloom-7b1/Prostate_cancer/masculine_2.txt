@@ -1,0 +1,27 @@
+Il s’agit d’un patient de 49 ans qui consulte pour des douleurs périnéales associées à une dysurie et une pollakiurie. Le toucher rectal trouve une volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal.
+
+La biopsie prostatique écho-guidée, avec immuno-marquage par l’anticorps anti-cytokératine (marqueur spécifique des cellules prostatiques) et anticorps antiactine muscle lisse (marqueur spécifique des cellules musculaires lisses de la prostate), montre un immuno-marquage positif d’un grand nombre de cellules tumorales. L’immuno-marquage par l’anticorps anti-desmine muscle lisse (marqueur spécifique des cellules musculaires lisses du stroma) et anticorps anti-cytokératine est négatif
+
+Cette conclusion est corroborée par la biopsie de la pièce de cystoprostatectomie, avec biopsies de la paroi vaginale et du tissu périnéal, qui montre une masse à contours mal limités, une surverse prostatique, une hyperplasie bénigne de la prostate et un adénome sécréteur. L'analyse cytogénétique de la tumeur n'a pas été réalisée.
+
+A 6 mois de suivi, le patient ne présente pas de localisations secondaires ni de récidive tumorale à l’imagerie (tomodensitométrie abdomino-pelvienne). La qualité de vie du patient est bonne et stable. Il n’y a pas de récidive tumorale à la biologie (dosage de PSA à 6 mois de la cystoprostatectomie qui est revenu à 0.3 ng/ml) Les biopsies des tissus périnéal et vaginale sont toujours négatives. Il a été noté une stagnation du volume de la prostate à 6 mois (versus 5cm au moment de la cystoprostatectomie).
+L’évolution du patient, à 6 mois de la cystoprostatectomie, est favorable, avec une absence de récidive et un recul de 2 ans.
+Il a été décidé de ne pas pratiquer de radiothérapie adjuvante en raison du jeune âge du patient et de l’absence de diffusion ganglionnaire. Il a été prescrit un traitement hormonal, en raison du mauvais pronostic du carcinome sarcomatoïde de la prostate. Un suivi régulier de l’évolution du patient est prévu.
+Le tableau 4 présente les résultats des différents marqueurs en fonction de l’âge. Une corrélation entre le taux de PSA et l’âge est observée : à partir de 65 ans le taux de PSA est corrélé à l’âge.
+Tableau 4 : Niveaux de PSA et d’Ac PSA (U/ml) en fonction de l’âge
+Année: Période :
+U/N : PSA /N <0,4 : Ac PSA < 0,75 ng/ml : -
+70-71 : 0,8±0,3 : 0,65±0,22
+72-73 : 0,9±0,3 : 0,67±0,22
+74-75 : 1,3±0,3 : 0,80±0,22
+76-77 : 1,5±0,3 : 0,90±0,30
+78-79 : 1,9±0,3 : 1,12±0,30
+≥ 80 : 3,1±0,4 : 1,20±0,35
+L'âge était un facteur prédictif du taux de PSA. A partir de 65 ans, il est corrélé à l'âge.
+De façon analogue, le taux de PSA augmente avec le temps, avec un pic de valeur entre 72 et 76 ans.
+Notre cas présente les caractéristiques d'un carcinome sarcomatoïde de la prostate dont la croissance est lente. Son évolution est favorable, le taux de PSA est normalisé, avec 6 mois de recul. Dans la littérature, la récidive locale est observée dans 10% des cas après prostatectomie, la survie globale médiane est de 25 à 52 mois et le taux de survie à 5 ans est de 25% [1-4]. Le carcinome sarcomatoïde de la prostate est rarement bilatéral [2], aucune récidive locale n'a été notée après cystoprostatectomie. En l’absence de localisations secondaires et de récidive locale après cystoprostatectomie, la survie globale est estimée à 25 à 52 mois [1] et le taux de survie à 5 ans est de 25% [2]. Cependant, en cas de récidive locale, le taux de survie à 5 ans est estimé à 73% [5].
+Le carcinome sarcomatoïde de la prostate est souvent localisé au niveau de la prostate, avec une croissance lente. Le carcinome sarcomatoïde de la prostate à localisation prostatique, est un carcinome indifférencié. En cas de récidive locale, la survie globale est estimée à 73 % avec un taux de survie à 5 ans de 43 % [5]. Il peut aussi se présenter sous la forme d’une extension de la tumeur primitive à d'autres sites métastasiques.
+Le carcinome sarcomatoïde de la prostate de localisation prostatique est une tumeur rare, de mauvais pronostic, rarement localisée au niveau de la glande prostatique et rarement associé à des métastases. Le carcinome sarcomatoïde de la prostate est fréquemment associé à des métastases urogénitales, hépatiques, et osseuses. La survie globale est estimée à 24 mois.
+Les examens complémentaires ont permis d’objectiver un carcinome sarcomatoïde de la prostate à localisation prostatique. L’analyse histologique a conclu à un carcinome sarcomatoïde de la prostate grade 2, avec des éléments myxoides et une forte cellularité. L’immunomarquage montre la positivité des cellules tumorales avec les marqueurs spécifiques des cellules musculaires lisses. Les cellules tumorales n'exprimant pas les marqueurs de cellules musculaires lisses et ni les marqueurs de cellules stromales. La différenciation était limitée par le manque de marqueur spécifique. L’examen cytogénétique de la tumeur n’a pas été réalisé.
+Dans notre cas, l’extension de la tumeur primitive à d’autres sites métastasiques est possible, comme cela a été rapporté dans la littérature.
+Les

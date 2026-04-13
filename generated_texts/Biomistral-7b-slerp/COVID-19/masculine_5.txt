@@ -1,0 +1,28 @@
+Patient âgé de 20 ans sans antécédent particulier, hospitalisé dans un service d’urgence en faveur d’une pneumonie bilatérale étendue et évoluant dans un contexte d’asthénie et de fièvre.
+Le début de la symptomatologie remontait à 7 jours avant son admission à l’hôpital, avec une asthénie, une fièvre à 38,5° et une dyspnée à l’effort.
+A l’admission dans le service d’urgence, le patient avait une notion de contact avec son père ayant COVID-19 sans notion de contact avec une personne ayant une autre pneumonie à virus de l’Influenza ou à SARS-COV2.
+A l’examen physique le patient était apyrétique avec une saturation en O2 à 98% au début de l’examen. Une atteinte cutanée au niveau des mains, au niveau des pavillons auditifs et du cou avant l’administration d’antihistaminiques est notée.
+Le test PCR pour le SARS-COV2 était positif.
+Un traitement d´Etanercept 20mg/1 à la semaine était lancé et échappait après 10 jours de traitement sans évoluaition à l´épreuve nébulisation de test.
+Le bilan biologique fait à l’admission montrait une hyperleucocytose à 14.7/mm3, des CRP à 153mg/l et une PCR SARS-COV2 positive.
+Devant le tableau de pneumonie à COVID-19, la hydroxychloroquine était associée à l’azithromycine pendant 5 jours.
+Le patient décédait 7 jours après l’arrêt de traitement, suite à une détérioration clinique avec une agitation psychique, une insuffisance respiratoire avec un besoin en oxygène, et une suspicion d’une neuropsychiatrie.
+La tomodensitométrie thoracique et abdominale, l’électrocardiogramme et la bronchoscopie n’étaient pas réalisées en raison de la détérioration de l’état clinique du patient.
+Un bilan biologique a été répété il y’a 2 semaines et il a montré une lymphocytopénie à 0,97/mm3 et une PCR à 37,5ng/ml.
+L’autopsie n’avait pas été réalisée.
+Aucun contact avec sa famille n’a été constaté durant la séquence hospitalière.
+Le patient avait une notion d’urticaire aigue à plusieurs reprises durant l’enfance sans notion de récidive.
+Il n’a pas été retrouvé d’hypersensibilité à des médicaments ou à une substance.
+Un dépistage d’anticorps anti-noyau (anticorps antinucleaire, anticorps anti-tissue musculaire, anticorps anti-synovial) était négatif.
+Nous avons discuté l’hypothèse d’une exposition occasionnelle à un médicament (dont le dernier était le misoprostol) pendant la première semaine.
+L’hypothèse d’une neuropsychiatrie secondaire à un délire erotomanique, à une dépression ou à une hystério-phobie ne peuvent être écartées vu la symptomatologie clinique.
+A l’heure actuelle, nous ne pouvons faire de jugement sur l’hypothèse de la neuropsychiatrie secondaire à la COVID-19 ou à une exposition au misoprostol dans ce patient, vu que le diagnostic étiologique reste débatu et le cas a été déclaré non répertorié dans l’étude de Freedman et al..
+L’étude des données anamnestiques et cliniques, ainsi que les données de la littérature sur la notion de COVID-19, du misoprostol et de la neuropsychiatrie, nous ont aidés à éliminer la cause, notamment la neuropsychiatrie secondaire à la COVID-19.
+Dans le cas de notre patient, nous avons pu faire des hypothèses mais pas nous établir une confirmation.
+Le cas était décrit dans le rapport de surveillance des réactions indésirables de médicaments de la FDA pour la première fois en avril 2020 et à nouveau par le CDC en juin 2020.
+Il n’y a pas encore de conclusion définitive dans la littérature.
+Nous tenions compte de la théorie admettant une sensibilité aux antigènes secondaires à la COVID-19 par exemple aux médicaments contenant de la gelatine et à une réaction immunologique spontanée.
+Le traitement initial se poursuivait à travers la liaison psychiatrique avec le service psychiatrie après l’arrêt de l’antihistaminique.
+Un premier traitement par Tizanidine fut administré en doses progressives.
+Le décès était survenu 3 jours après le début de traitement.
+L’évolution neurologique du patient pourrait être retrouvée au sein du courant de délire erotomanique secondaire à la neuropsychiatrie et à

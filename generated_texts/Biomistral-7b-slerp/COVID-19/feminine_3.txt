@@ -1,0 +1,24 @@
+Un patient âgé de 20 ans, sans antécédents pathologiques particuliers s´est présenté dans notre formation pour un contact avec son père ayant COVID-19 depuis 5 jours. A l´interrogatoire le patient a notifié une dyspnée (dyspnoe) d´effort et une toux avec atteinte cutanée au niveau des mains sans dermographisme avec apyrétie, sans prise médicamenteuse ni facteur déclenchant.
+La pandémie de COVID-19 s´est intensifiée dans notre pays, le diagnostic biologique s´est basé sur la positivité du test PCR à la recherche de SARS-CoV-2. Le patient a reçu une injection d´Etanercept et a été admis pour détresse respidatoire ou pour un COVID-19 sévère.
+La symptomatologie respiratoire a été confirmée par l´auscultation au niveau des fosses pulmonaires et des mouvements de transillumination avec épanchement pleural gauche. La sautée d´onzière était apyrétique, sans détresse respidatoire ni hémodynamique, sa conscience était intacte avec un score d´orientation confus. La tomodensitométrie thoracique a été réalisée et a conclu à une atteinte pulmonaire bilatérale diffuse sans infiltrat à prédominance gauche avec un bronchogramme confirmant l´existence d´une broncho-pneumopathie avec un aspect d´urticaire aigue au niveau des mains à la palpation avec une peau lipothélenisée. Le bilan biologique avait objectivé une hyperleucocytose (14210/mm3) avec une hypoprotidémie (64 g/L), hypoalbuminémie (34 g/L), et hyperferritinémie (800 ng/L). La PCR par PCR/time recombinant dans le sang était positive et confirmé par PCR réaction en chaîne par polymérase. L´hémogramme était normal avec une thrombopénie modérée (131 100/mm 3) et une polynucléose neutrophile à prédominance. L´hémostase a été satisfaisante avec une activité plasminogène accrue à 135%. Les lipides sériques étaient élevés avec une hypertriglycéridémie à 275mg/dl et une hypercholestérolémie à 213mg/dl.
+La radiographie de base thoracique avait mis en évidence une opacité «fleury» à prédominance lobaire inférieure droite. La coronarographie avait objectivé une atteinte cardiaque avec une artériographie des couronnes sans anomalie.
+Le patient a reçu 5 bolus d´hydroxychloroquine (400mg), 1 bolus d´azithromycine (500mg) et 5 mL de BP 20. L´évolution clinique était marquée par une normalisation du bilan biologique, de l´auriculo-ventriculographie et de l´électrocardiogramme.
+Le transfert en réanimation à notre institution a été envisagé en raison de l’âge jeune, mais fut finalement abandonné vu que le patient avait des signes de sévérité modérée. L´évolution ultérieure était favorable.
+Le traitement était basé sur un traitement palliatif avec une désobligation des veines centrale, une hydroxychloroquine et une azithromycine.
+Le suivi clinique était régulier avec l’abandon du traitement à 7 jours et la sortie à J14 de l´hôpital. Le patient était asymptomatique.
+La clinique était favorable.
+L’évolution ultérieure était favorable.
+Le patient était asymptomatique avec une désobligation des veines centrale et un traitement palliatif.
+Le traitement était basé sur une désobligation des veines centrale, une hydroxychloroquine et une azithromycine.
+Le suivi clinique était régulier avec l’abandon du traitement à 7 jours et la sortie à J14 de l’hôpital.
+Le patient était asymptomatique avec une désobligation des veines centrale et un traitement palliatif.
+Le traitement était basé sur une désobligation des veines centrale, une hydroxychloroquine et une azithromycine.
+Le suivi clinique était régulier avec l’abandon du traitement à 7 jours et la sortie à J14 de l’hôpital.
+Le patient était asymptomatique.
+Il n’y avait pas de désobligation des veines centrale.
+La clinique était favorable.
+Le traitement était basé sur une désobligation des veines centrale, une hydroxychloroquine et une azithromycine.
+Le suivi clinique était régulier.
+Il n’y avait pas de désobligation des veines centrale.
+Le traitement était basé sur une désobligation des veines centrale, une hydroxychloroquine et une azithromycine.
+Le suiv

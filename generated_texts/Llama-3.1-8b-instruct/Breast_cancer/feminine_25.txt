@@ -1,0 +1,30 @@
+Mme B.L âgée de 26 ans, nulligeste nullipare, sans antécédent pathologique particulier et de quart monde en Europe, découvre par auto-examen un nodule au niveau du quadrant supéro interne du sein droit. Cela aboutit à une consultation dermatologique. La patiente raconte qu'elle a un membre de famille de son côté maternel (sa mère et sa sœur décédées d'un cancer du sein à 45 ans et 50 ans respectivement), et de son côté paternel qui a également consulté pour un nodule du sein gauche 6 mois avant notre consultation. La patiente a consulté à son tour en juillet 2006 pour un nodule de 6 cm au niveau du quadrant supéro interne du sein droit associé à une adénopathie de 1.5 cm au niveau du creux axillaire droit. La mammographie a révélé un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. L'IRM a mis en évidence 3 lésions bilatérales: un nodule de 6 cm au niveau du quadrant supéro interne du sein droit (BIRADS V), 3 nodule au niveau du sein gauche (BIRADS V) ( Figure 1 ). La microbiopsie des deux lésions cliniques des deux seins a conclu à un carcinome canalaire infiltrant SBR III, récepteurs hormonaux négatifs et test de l'HER 2 négatif. Le bilan d'extension et de métastase retrouve une adénopathie axillaire bilatérale (T4dN3M0). La patiente a bénéficié d'une thérapeutique d'urgence. Il s'agissait d'une patiente avec un stade pT3N1M0 en fédération UICC qui a bénéficié d'une chimiothérapie néoadjuvante associant trois cures de paclitaxel (175mg/m 2) et deux cures d'Adriamycine (50mg/m 2) et trois cures d'ifosfamide (1.5g/m 2). Le traitement chirurgical a consisté en une double chirurgie à distance faite d'un gilet prothétique (Implantat de polyproléin 250 ml) au niveau du sein droit et d'une mastectomie gauche (parfaitement négative) en plus d'une artériographie coté aux fins de chirurgie. Après examen anatomopathologique d'aggravation, le processus tumorale était T4dN2bM0. Elle a bénéficié d'une double chimiothérapie et radiothérapie post opératoires. Une chimiothérapie associant docétaxel et mycophérolate mofétil a été administré. L'évolution initiale est favorable. Un récidive locale s'est manifestée à 21 mois post opératoire. Une radiothérapie externe a été administrée à la récidive et la patiente est asymptomatique et oncologiquement bien contrôlée actuellement.
+Les données principales de la patiente sont les suivantes:
+Sexe: féminin
+Age: 26
+Antécédents pathologiques: nulligeste nullipare, trois sœurs vivantes, deux sœurs décédées d'un cancer du sein à 45 ans et 50 ans respectivement.
+Circonstance de découverte: consultation dermatologique, nodule au niveau du quadrant supéro interne du sein droit.
+Tres marquée: non, deux sœurs décédées d'un cancer du sein.
+Adénopathie: n/a
+Tumorectomie de diagnostic: mammographie, imagerie par résonance magnétique, microbiopsie, examen anatomo-pathologique: carcinome canalaire infiltrant, évaluation de la réceptivité hormonale, de la cellules épithéliale (HER 2): non exprimée, d'autres examens; n/a
+Évaluation clinique; tumorectomie de diagnostic.
+Stade clinique: T3N1M0.
+Fréquence cardiaque; n/a
+Fréquence respiratoire: n/a
+Préparation chirurgicale; n/a
+chirurgie: resection chirurgicale avec curage ganglionnaire axillaire bilatérale, implant prothétique du sein droit.
+Préparation antimétabolique: n/a
+Traitement radiothérapeutique adjuvant: radiothérapie local.
+Anticoagulants; n/a
+Chimiothérapie adjuvante: docétaxel
+Traitement post opératoire; four cures de docétaxel
+Chimiothérapie; n/a
+Radiothérapie post opératoire. n/a
+Fidélité des données cliniques: 5
+Fidélité des données chirurgicales: 5
+Fidélité des données de chimiothérapie: 5
+Fidélité des données radiothérapeutiques: 5
+Fidélité des données d'évolution: 4
+Personnes informantes: personnel de soins, assistante sociale
+Personnes connaissantes: non
+Motifs de non concordance: ne s'est pas présenter, mort de sa mère, des sœurs, problème financier.

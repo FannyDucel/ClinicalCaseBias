@@ -1,0 +1,57 @@
+Nous présentons le cas d´un patient de 20 ans, célibataire qui a été admis au service des Urgences pour atteinte cutanée au niveau des mains, évoluant depuis 3 jours.
+
+L´histoire de notre patient était marquée par un contact avec son père ayant COVID-19, pour lequel un test PCR était positif. Aucun autre contact n´a été dénoncé.
+
+Il n´y avait pas de douleur, ni de rash cutané au niveau des mains.
+
+Notre patient a été traité à l´hôpital par 2 injections d´Etanercept, une nuit en salle d´hémodialyse.
+
+A 24 heures de son hospitalisation, son état avait considérablement amélioré, il était apyrétique, sans détresse respidatoire ni hémodynamique.
+
+On avait procédé à un changement de traitement en hydroxychloroquine et azithromycine, le soir même.
+
+Une tomodensitométrie thoracique était réalisée, objectivant pas d´infiltrat à ce stade.
+
+Le bilan biologique était normal.
+
+Le patient a été sorti en léger retard de décharge.
+
+De l´avis de notre commissions, l´administration de l´Etanercept ne faisait pas partie de l’indication du traitement de la COVID-19.
+
+L’Etanercept n’est pas recommandé pour traiter les lésions cutanées liées à la COVID-19. Il a été préconisé dans certains cas (peut-être dans les formes plus graves), mais nous ne disposons pas d’études prospectives sur ce sujet.
+
+En effet, L´hypothèse que l´Etanercept pourrait avoir des effets bénéfiques en l´affectant par une réaction immunitaire, par le biais de l´inhibition des récepteurs TNF-alpha.
+
+Ceci a été évoqué par certains auteurs, et pas uniquement par les chercheurs en France.
+
+Dans un article parue sur L´actu médical le 28 avril 2020, Dr Arnaud Enthoven propose d´essayer l´Etanercept dans la prophylaxie de la COVID-19.
+
+Le sujet n´a pas encore été répandu.
+
+Les hypothèses seraient basées sur un constat fait par des médecins de profession, qui ont observé l´apparition de taches cutanées en rapport avec la COVID-19, ainsi que leur disparition par l´injection de l´Etanercept (L´actu médical, 28/04/2020).
+
+Ceci n’est cependant que basé sur des témoignages, et nous disposons pas de preuves en faveur de l´hypothèse.
+
+Nous devrions garder à l’esprit l’avènement de la phase 2 des essais cliniques randomisés et contrôlés afin de pouvoir apporter des preuves à l’efficacité ou à l’inefficacité de l´Etanercept dans le traitement des formes légères de la COVID-19.
+
+L’incidence des formes graves est un élément à prendre en considération dans le choix des médicaments. Il n’existe pas de preuve concernant l’Etanercept et les formes graves de la COVID-19.
+
+Le cas d´un patient hospitalisé pour dermatite polymorphe cutanée en 2018, dont le diagnostic a été modifié par la pandémie du COVID-19, permet de souligner le conflit de priorité entre le diagnostic et la thérapeutique, et l´interaction entre les champs cliniques.
+
+L´interaction des champs cliniques nous fait rejeter l’hypothèse que l´Etanercept pourrait être un traitement potentiellement thérapeutique des lésions cutanées secondaires à la COVID-19.
+
+L’interaction entre les champs cliniques explique le conflit de priorité entre le diagnostic et la thérapeutique.
+
+Ceci fait ponderer les pratiques thérapeutiques, dans le contexte d’un conflit de priorité entre le diagnostic et la thérapeutique.
+
+L’utilisation de l’Etanercept n’est qu’à envisager à la clinique pour les formes légères.
+
+L’usage de l’Etanercept ne peut être discuté dans l’hypothèse d’une pathologie grève.
+
+Le cas présenté est un cas isolé.
+
+Une évolution étroite de l’évolution clinique est nécessaire pour justifier les choix thérapeutiques.
+
+Il est nécessaire d’évaluer le dosage et la fréquence des urticaires en fonction de l’évolution clinique, ainsi que l’évaluation de la toxicité (risque d’infections).
+
+La clinique comme espace permet la présence d’un débat, lorsque deux ou plusieurs champs cliniques coexistent et interagissent, mais il doit aussi permettre la différen

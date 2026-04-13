@@ -1,0 +1,25 @@
+Nous rapportons un cas d´une jeune femme de 20 ans qui présente une atteinte cutanée au niveau des mains (urticaire aigue) après un contact avec son père ayant COVID-19 et qui a un test PCR positif à SARS-CoV-2. Le traitement est alors adapté avec l´injection d´Etanercept tous les deux jours permettant de permettre à la patiente d´être apyrétique et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique réalisée pour confirmée l´asthénie et l´IRM cérébrale pour une céphalée faite en concomitance dans le cadre du bilan biologique normal dont l´analyse ne montrait pas d´infiltrat. La patiente est traitée par hydroxychloroquine et azithromycine. La patiente est hospitalisée en réanimation pour une atteinte respiratoire initialement apyrétique mais progressant rapidement puis suivi d´une insuffisance respiratoire aiguë. La patiente est transférée au service d’intensive médicale pour recevoir des antiviraux dont les effets secondaires ont été remarqués sur le terrain d´hypertension. Le traitement est alors modifié et la patiente est prise en charge par le service de pneumologie. La patiente est améliorée après cinq jours, elle est laissée sortir avec une pose d´éthér du jeudi au lundi.
+
+Un rapport médical a été réalisé pour la patiente.
+
+Les résultats des tests sérologiques ne permettent pas de s’appuyer sur l’hypothèse d’une autre cause susceptible d’être à l’origine de cet éclat d’urticaire.
+
+En effet, la plupart de ces 8 cas décrits, à part trois, ont vu leur état s’améliorer, voire guérir dans les jours suivants. Par exemple, un cas rapporté par Morrison et al. (2020) était d’abord hospitalisé en réanimation pour une insuffisance rénale, puis a vu le caractère auto-immune de son urticaire suspecté un mois plus tard. L’état de la patiente a ensuite amélioré rapidement.
+
+À partir de ce cas, nous avons décrit cinq autres observations identiques, pour lesquelles nous avons étudié la rapidité d’apparition, la durée et les facteurs de risque de cet éclat d’urticaire auto-immun.
+
+Les études auto-immunes en général (Li et al., 2020) et celles touchant les maladies auto-immunes cutanées en particulier (Giri, 2019) sont rares en ce moment.
+
+Les examens biologiques du sang peuvent faire apparaître des marqueurs inflammatoires (protéines de réponse aux infections, IGA ; néo-angiogenèse ; facteurs d’activation du complément C3 et C4 ; plaquettes macro-grandes ; leucopénie), mais la vitesse d’agrandissement des névro-muscles, leur plus grande activité, et les séquelles laissées par l’infection, tiennent plus de place que ces marqueurs biologiques, à moins qu’ils changent de rapport au cours de l’évolution des différents types de maladies auto-immunes, que cela soit primaires ou secondaires.
+
+De plus, la régénération musculaire ne fonctionne que pour un certain temps et la néo-angiogenèse reste mal maitrisée. Il faut donc faire attention à la tension thérapeutique avec les glucocorticoïdes et les immunosuppresseurs afin de prévenir les effets secondaires.
+
+L’utilisation de prédnisolone 10mg/j, de MMF 2g/j, ou de Cyclophosphamide sont utilisés comme traitement, afin de limiter le potentiel auto-immune et de prévenir les effets secondaires, comme l’hypotension artérielle et les accidents thrombo-emboliques (Lee et al., 2020).
+
+La prévention peut se faire sur le terrain ou sur le maladie, lorsque les anticorps sont identifiés. La prise d’immunoglobulines bovines ou humanisées ainsi que le traitement par antibodies monoclonales peuvent être bénéfiques, et plusieurs anticorps monoclonaux contre les récepteurs HLA-DR et HLA-DQ sont en cours d’étude (Gross et al., 2016).
+
+La biopsie musculaire reste l’examen le plus cohérent pour avoir une bonne connaissance de la maladie en cours, permettant d’instituer des traitements spécifiques qui peuvent se lever lorsque la maladie se calme.
+
+Il existe un lien entre la maladie auto-immune et l’auto-antigène. Les maladies auto-immunes sont causées par des auto-anticorps reconnaissant des auto-antigènes tissulaires.
+
+L’anticorps anti-HLA-DR1 est le premier marqueur génétique associé à la

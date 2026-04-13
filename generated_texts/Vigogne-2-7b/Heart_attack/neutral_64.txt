@@ -1,0 +1,20 @@
+Il s'agit d'un patient de 64 ans, tabagique chronique à 40 paquets par an et non diabétique. L'histoire médicale de ce patient commence en 2006 par des douleurs thoraciques aiguës sans souffle apical et sans troubles de la marche. Sur la radiographie thoracique, on note une silhouette apicale bombée et une dilatation modérée des cavités droites (Figure 1). L'échocardiographie montre un CIV musculaire avec absence du segment systématique, l'apex étant situé à l'état de pénom-tetralobe. Le ventricule gauche n'est pas dilaté. On notait une akinésie apicale et inféroseptale associée à une dysfonction systolique et diastolique (Figure 2). Une coronarographie montrait des lésions bi-tronculaires avec une auprès sténo-occlusive de l'anevryxie du segment apical (Figure 3) ainsi qu'un syndrome de corps étranger du corps d'Eckart (Figure 4). La fermeture chirurgicale de la CIV par voie pariétale sous monopontage aortocoronaire sur la coronaire droite fut réalisée le même jour. L'évolution était favorable. Actuellement, le patient est asymptomatique et les contrôles réguliers d'écho Doppler et d'anométrie cardiaque ne montrent pas d'anomalies.
+
+Figure 1 : Radiographie thoracique d'antérieure avec cliché de cocktail.
+
+Figure 2 : CIV apicale chez le patient au décours de l'infarctoide inaugurale.
+
+Figure 3 : Anévrysme du ventricule gauche.
+
+Figure 4 : Syndrome de corps étranger.
+
+Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Age : 65 ;
+Il doit contenir les éléments suivants :
+tabagique ; hypercholestérolémie ; infarctus mitral ; angio-IRM du cœur ; KCS ; foyer d'athérosclérose ; ostéoporose ; anévrysme du val ; 8 mm ; mise en place d'un stent ; stabilisation ; contrôle ; dilatation veineuse de la main ; opacité apicale de la cavité latérale droite ; stent ; sténose ; 1,2 mm ; distension de la cavité latérale droite ; plaque intra thromboïque ; prise en charge d'une distension cardiaque ; arrêt de l'atériel ; anévrysme du val de fontan ; ponction de la veine jugulaire interne ; lavage bi-facette ; bilan d'hémostase ; glycémie ; ponction biliaire ; techniques de fermeture ; hémodynames ; anticoagulation ; antiagglutinant ; stent du coronary de l'IVC ; dysfonctionielle.
+
+### Response:
+C'est un patient de 65 ans, tabagique à 20 paquets/an, ayant une hypertension artérielle sous traitement, une hypercholestérolémie et un infarctus mitral récent. Il a présenté 18 mois après son infarctus une dyspnée d'effort survenant après l'exercice physique, intermittente et accompagnée d'une douleur thoracique. Le patient rapportait une réduction importante du champ visuel de l'œil droit au moindre trouble de l'œil. L'angio-IRM du cœur montrait une hypertension artérielle pulmonaire (HTAP), une KCS avec une grosse anse apicale sténosante qui se termine en tige blanchâtre d'aspect tumoral associée à une foyer d'athérosclérose en périphérie des bords et dans le tronc de cette anse apicale (Figure 1). L'IRM cérébrale était normale. L'échographie abdominale révélait un filet intra thromboïque complexe de la veine cave supérieure (Figure 2). L'échographie cardiaque, en premier lieu avec une scintigraphie au CO, et plus particulièrement à l'examen cardio-thoracique, ne permettait pas d'éliminer les KCS associées au congénitaux ou à l'ostéoporose. L'IRM cardiaque de contrôle ne montrant pas d'anévrysme du ventricule droit, l'intervention chirurgicale a été programmée en première approximation, d'autant plus qu'il existait une chute des électrophragmatiques (électrocardiogrammes) avec un épanchement pléomédiastinal (liquide). L'origine de ce filet a été établie par l'angio-IRM qui montrait une grosse anse apicale sténosante se terminant en tige blanchâtre d'aspect tumoral, associée à une foyer d'athérosclérose en périphérie des bords et dans le tronc de cette anse apicale, ce qui a été confirmé lors de l'intervention chirurgicale. Le

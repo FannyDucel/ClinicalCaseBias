@@ -1,0 +1,71 @@
+Le patient est un homme de 49 ans, qui a présenté des douleurs périnéales d'apparition brutale en 1995 et d'amélioration spontanée en quelques jours. Les examens cliniques ont été sans particularité. Le patient a conservé des troubles mictionnels évolutifs associés à une pollakiurie, sans prise en charge initiale. A l'âge de 61 ans, le patient consulte dans notre unité pour des douleurs abdominales diffuses et l'installation brutale d'une dysurie avec pollakiurie. Le toucher rectal a découvert une volumineuse prostate, dure et irrégulière, le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée a montré un prolifération tumorale faite d'éléments fusiformes et cellules fusiformes à noyau hyperchromatophobe de grande taille et de contours irréguliers, à cytoplasme abondant et à atypies nucléaires modérées. Le mitotisme a été limité à 2 mitoses/10 champs au fort grossissement (Figure 1). L'immuno-marquage par l'anticorps anti-cytokératine a été négatif (Figure 2). L'immuno-marquage par l’anticorps antiactine muscle lisse et l'anticorps anti-desmine muscle lisse a été positif. L'étude immuno-histochimique a montré la négativité des cellules tumorales (Figure 3, Figure 4). L'analyse morphologique et immuno-histochimique a conclu à un carcinome sarcomatoïde de la prostate. La tomodensitométrie abdomino-pelvienne n'a pas objectivé de localisations secondaires et n'a pas montré de métastases osseuses. Le patient a eu une cystoprostatectomie avec l'application d'une urostomie continente. Le contrôle clinique et biologique après un an de la chirurgie a été sans particularité.
+
+Figure 1
+
+1) Couleur légèrement mauve.
+
+2) Couleur brunâtre.
+
+Figure 2
+
+1) Noir.
+
+Figure 3
+
+1) Marquage par l'anticorps anti- actine muscle lisse.
+
+Figure 4
+
+1) Marquage par l’anticorps anti-desmine muscle lisse.
+
+Tableau 2
+
+Liste des anticorps utilisés
+
+Nom du produit Désignation générique type d'anticorps réactivité (DDC) source/cousinage/isotypes KL1, KL2, KL17 ou AW53 GLI 21814 mouse EMA ebioscience
+
+AH 56 aCAL Actine muscle lisse hu TA8995 mouse
+
+A431 B22 AML aCAL Actine muscle lisse hu DAK-A3 mouse
+
+DA4DA11 Desmine HuTech-10 HuTech-11 mouse
+
+FLEW DAK-F3 DAK-F3 mouse
+
+MF 430 FLJ, F430 mouse
+
+NC-LAM12 NC-LAM1 mouse
+
+NC-ML29 NC-ML2 mouse
+
+PC 10 HuAch-433 mouse
+
+PC10 HuAch-433 mouse
+
+Uromoduline M 088 mouse
+
+DDC-S: dilution dépendance clonale
+
+Source: GenScript, CN
+
+Tableau 3
+
+Tableau 3. Test pour le prostate.
+
+Test Produit dilution Use Analyse
+
+Technique Spécificité
+
+EliSpot® Uromoduline LDBio LBN A 162770 0,02 – 50,00 UI/L 0,5 UI/L 1,000 fois
+
+EliSpot® Actine Muscle Lisse LDBio LBN A 162607 0,02 – 50,00 UI/L 0,5 UI/L 1,000 fois
+
+EliSpot® Actine Muscle Lisse LDBio LBN A 162608 0,02 – 50,00 UI/L 0,5 UI/L 1,000 fois
+
+EliSpot® Desmine LDBio LBN A 163078 0,02 – 50,00 UI/L 0,5 UI/L 1,000 fois
+
+EliSpot® Vimentine LDBio LBN A 162800 0,02 – 50,00 UI/L 0,5 UI/L 1,000 fois
+
+IHC N-cadherine Novocastra 11612724 1:50-1:500 à 1:50 1:100
+
+IHC E-cadherine Novocastra 11612727 1:50-

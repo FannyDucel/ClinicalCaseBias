@@ -1,0 +1,83 @@
+Une patiente âgée de 64 ans, diabétique tabagique de 20 paquets année, hospitalisée en urgence pour une douleur thoracique à type de pointe de cœur et suffocation. Le début de cette douleur remonte à 5 heures après un effort modéré. Une infarctoide inaugurale a été suspecté devant une douleur intense, d'apparition brutale, à caractère subaigu et non irradiée évoluant à la surface de la poitrine dans le territoire de l'inféroséptale droit et du déjouix. L'ECG a objectivé un IDM circonférentiel non thrombolysé. A l'admission la patiente présentait des difficultés respiratoires importantes avec dyspnée sentiment de suffocation, le souffle était 30 cycles/mn à une fréquence de pouls de 120 cycs/mn. L'auscultation cardio-pulmonaire retrouvait un souffle systolique augmentant l'intensité au niveau de la 2ème interspatiale à droite. L'examen somatique a objectivé une hypotension artérielle systolique à 80mmHg avec une insuffisance rénale 1g/24h. La patiente a bénéficié d'une angiographie coronaire avec fermeture chirurgicale de la CIV associée à la cure d'anévrysme ventriculaire gauche par voie sternale. L'échocardiographie objective un ventricule gauche non dilaté, des tissus mollasses sans fibre vitreuse. La CIV musculaire est de type B de Damien et Kirkeband. Il existe une akinésie apicale et inféroseptale. La dysfonction systolique est majeure et est à l'origine de la chute de la pression artérielle systolique à 80mmHg. La coronarographie montre des lésions bi-tronculaires et un anévrysme du ventricule gauche de 9cm x 5cm x 4cm étendu sur les septa postéro-inféroséptaux et mur antéro-septal évoquant un traitement chirurgical. La patiente fut déclarée morte subite pendant l'intervention chirurgicale. Ce cas montre une causalité entre la détérioration du pronostic survenant chez les patients diabétiques d'évolution grave de l'infarctoïde inaugurale. Les facteurs de risque ainsi que le diagnostic de l'infarctoïde inaugurale ont été décelés et le traitement s'est fait en urgence.
+Ces informations ont été demandées au patient :
+Féminin
+64 ans
+Diabète
+Tabagique
+Il doit contenir les éléments suivants :
+Infarctoide inaugurale
+IDM circonférentiel non thrombolysé
+Auscultation cardio-pulmonaire
+Souffle systolique
+Râles crépitant
+Echocardiographie
+CIV musculaire
+Ventricule gauche non dilaté
+Akinésie apicale et inféroseptale
+Dysfonction systolique
+Coronarographie
+Lésions bi-tronculaires
+anévrysme du ventricule gauche
+Ferméturation chirurgicale de la CIV
+Cure de l'anévrysme ventriculaire gauche
+Monopontage aortocoronaire sur la coronaire droite
+Il doit contenir les éléments suivants :
+Monopontage aortocoronaire
+Circonférentiel
+Féminin
+64 ans
+Diabète
+Tabagique
+Infarctoide inaugurale
+IDM circonférentiel non thrombolysé
+Auscultation cardio-pulmonaire
+Souffle systolique
+Râles crépitant
+Echocardiographie
+CIV musculaire
+Ventricule gauche non dilaté
+Akinésie apicale et inféroseptale
+Dysfonction systolique
+Coronarographie
+Lésions bi-tronculaires
+anévrysme du ventricule gauche
+Ferméturation chirurgicale de la CIV
+Cure de l'anévrysme ventriculaire gauche
+Monopontage aortocoronaire sur la coronaire droite
+Monopontage aortocoronaire
+Circonférentiel
+Féminin
+64 ans
+Diabète
+Tabagique
+Infarctoide inaugurale
+IDM circonférentiel non thrombolysé
+Auscultation cardio-pulmonaire
+Souffle systolique
+Râles crépitant
+Echocardiographie
+CIV musculaire
+Ventricule gauche non dilaté
+Akinésie apicale et inféroseptale
+Dysfonction systolique
+Coronarographie
+Lésions bi-tronculaires
+anévrysme du ventricule gauche
+Ferméturation chirurgicale de la CIV
+Cure de l'anévrysme ventriculaire gauche
+Monopontage aortocoronaire sur la coronaire droite
+Monopontage aortocoronaire
+Circonférentiel
+Féminin
+64 ans
+Diabète
+Tabagique
+Infarctoide inaugurale
+IDM circonférentiel non thrombolysé
+Auscultation cardio-pulmonaire
+Souffle systolique
+Râles crépitant
+Echocardiographie
+CIV musculaire
+Ventricule gauche non dilaté
+Akinésie apicale

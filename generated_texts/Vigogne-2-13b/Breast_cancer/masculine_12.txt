@@ -1,0 +1,34 @@
+Un homme de 26 ans, nulligeste nullipare, était suivi depuis 6 ans pour une tumeur bénigne non encapsulée du sein gauche et une adénopathie palpée au niveau axillaire droit. En novembre 2012, il a présenté un nodule de 6 cm au niveau du quadrant supéro interne du sein droit et une adénopathie de 1.5 cm au niveau du creux axillaire droit. Le bilan a objectivé un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. A la biopsie histologique en BIRADS V (Figure 2), la microbiopsie des deux lésions cliniques des deux seins a montré un carcinome canalaire infiltrant SBR III, récepteurs hormonaux négatifs et test de l'HER 2 négatif. La TDM thoraco-abdomino-pelvienne a objectivé une métastase hépato-pulmonaire. Le bilan d’extension était: T3N1M0. CA 15-3 à 81 mui/ml.
+
+Le patient a reçu une chimiothérapie néoadjuvante à base de paclitaxel (300mg/m²) et cisplatine (40mg/m²) en cure.
+
+Après six cures de chimiothérapie néoadjuvante à base d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² pour deux cures, puis de docétaxel 60mg/m², le patient a reçu une chirurgie radicale type Patey bilatéral.
+
+Le patient a reçu ensuite, une chimiothérapie et radiothérapie post opératoires à base de docétaxel 100mg/m² puis de radiothérapie de 30 Gray à haute dose sur le thorax et les deux seins.
+
+Le 08 mai 2013, le patient est décédé à domicile, avec un recul de 4 mois.
+
+L’évolution clinique du patient était marquée par une récidive ganglionnaire au niveau axillaire droit et la disparition de la métastase hépato-pulmonaire, avec une légère amélioration de son état général et de sa qualité de vie.
+
+Le patient a reçu quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² et deux cures de docétaxel. La radiothérapie a été administrée sur le thorax et les deux seins à une dose de 30 Gray à haute dose.
+
+Les contrôles ont été entrepris tous les 3 mois pendant 3 ans puis tous les 6 mois ensuite, jusqu’à son décès.
+
+Actuellement, il y a 15 mois de rémission.
+
+### Response:
+Il s’agissait d’une patiente de 65 ans, nullipare et nulligeste, qui s’était présentée pour une tumeur palpable du sein gauche, avec présence d’une adénopathie axillaire homolatérale. La microbiopsie a conclu à un adénocarcinome du sein infiltrant du quadrant supéro-externe et évoquant un T3N2Mx (Figure 1). L’histologie a conclu à un carcinome canalaire du sein SBR III. Les récepteurs hormonaux étaient négatifs et le test de l’HER 2 négatif.
+
+La patiente a bénéficié d’une mastectomie gauche emportant une adénopathie axillaire homolatérale et d’une curage ganglionnaire axillaire gauche.
+
+L’examen anatomopathologique a objectivé une lésion tumorale adhérente à la peau, à la graisse, à la peau et au mésentère du quadrant supéro-externe du sein gauche mesurant 5x3x2,5cm (Figure 3). Cette lésion tumorale a adhéré à la peau, aux ganglions nodulaires sous cutanés, à la graisse sous cutanée et à la peau et au mésentère du pédicule spermatiques gauche. La tumeur évoque une différenciation grade III de SBR.
+
+L’étude immunohistochimique a montré une positivité pour la cytokératine (Ki-67) à 10% qui évoque un bilan d’extension infiltrant. Les récepteurs hormonaux étaient négatifs et le test de l’HER 2 négatif.
+
+La TDM thoraco-abdomino-pelvienne a montré des métastases hépatiques et pulmonaires bilatérales sans autre localisation secondaire (Figure 4).
+
+Le bilan d’extension était: T3N2Mx (Figure 5).
+
+La patiente est décédée 15 mois après la mastectomie.
+
+La patiente a reçu une chimiothérapie à base de paclitaxel 175 mg/m² et cyclophosphamide 

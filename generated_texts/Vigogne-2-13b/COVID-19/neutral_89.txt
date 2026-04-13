@@ -1,0 +1,23 @@
+Il s´agit d´un patient de 20 ans, hospitalisé depuis un mois pour un urticaire aigue et une atteinte cutanée au niveau des mains. Ce patient, qui a un contact avec son père ayant COVID-19, commence depuis une semaine des urticaires évoluant dans un contexte de fièvre avec une dyspnée, une toux sèche, un syndrome inflammatoire biologique et une atteinte cutanée au niveau des mains. Le test PCR positif, envoie le patient à la dermatologie où il a bénéficié d´une injection d´Etanercept. Le bilan a montré un patient apyrétique, sans détresse respidatoire ni hémodynamique. Une tomodensitométrie thoracique a montré un poumon droit plein, un contour légèrement irrégulier de l´artère pulmonaire droite et pas d´infiltrat dans les lobules ou les médiastins, ce bilan biologique normal. Le patient a bénéficié de 3 séances d´hydroxychloroquine et azithromycine avec un recul de 10 jours qui était négatif. Au cours de la 3e séance d´hydroxychloroquine, le patient a présenté une fièvre élevée. A J36 du diagnostic de COVID-19, le patient a bénéficié d´une prise en charge à l´ICU du CHU du Zaïre avec la notion de pneumopathie et d´une hépatite avec l´extension du tableau clinique à la confusionalité. Le bilan biologique a montré une anémie et une cholestase élevée. Une virologie a montré un taux de Cpe de 408.60copies/ml et la sérologie a montré une immunoglobuline anticoronavirus négative. Les autres virologies étaient négatives. Le patient est décédé à J38. Le corps du patient a été rapidement évacué au CHU du Zaïre, où les gènes de la Cpe étaient détectés dans les tissus de la peau périhépaticque, le foie et le cœur.
+
+Le taux de Cpe dans les tissus de la peau périhépaticque était 766964copies/ml, le foie 348156copies/ml et le cœur 14153copies/ml, le taux de Cpe dans les liquides d´aspiration des médiastins et du poumon était négatif. Le taux de Cpe dans le liquide d´aspiration du myocarde était 3732copies/ml. Le patient n´a jamais été mis sous devenir isolé et il a été pris soin de, en indépendant et indépendamment du bon état virologique de l´accompagnateur.
+
+La mort était consécutive à une septicémie liée à Cpe (5,57x108copies/ml de sang).
+
+Ce cas est rarissime, car il s´agit du premier rapport d´un décès du Covid-19, en raison de la prolifération de Cpe dans les tissus périphériques et le tissu cardiaque. L´augmentation du taux de Cpe dans le sang et le tissu cardiaque pourrait expliquer la mort.
+
+Ce cas est rarissime, car il s´agit du premier rapport d´un décès du Covid-19, en raison de la prolifération de Cpe dans les tissus périphériques et le tissu cardiaque. L´augmentation du taux de Cpe dans le sang et le tissu cardiaque pourrait expliquer la mort.
+
+Nous conseillons d´explorer la présence de Cpe dans le tissu des autres organes pour mieux comprendre la nature et l´ampleur de la prolifération du Cpe.
+
+Ces découvertes ont des implications cliniques et thérapeutiques, notamment :
+
+a) Utilisation de médicaments anti-vitroviral comme hydroxychloroquine, qui est associé à une éventuelle hématotoxicité et neurotoxicité et à une inefficacité thérapeutique, et azithromycine qui a un effet sur la polymérisation du ARN, la croissance cellulaire et la migration cellulaire de Cpe.
+
+b) Prendre en compte les rôles de la polymérisation initiale et de la prolifération des Cpe pour une intervention thérapeutique avec des anti-vitroviral.
+
+c) Prendre en compte la taille des protéines et le nombre de copies de Cpe des patients pour des choix thérapeutiques, par exemple, les patients qui sont à risque élevé doivent être prêts à avoir des mesures de niveaux plus élevés.
+
+d) Vérifier la prolifération de Cpe dans les organes et le tissu cardiaque de tout patient qui présente des signes cliniques d´infection de Cpe et qui a reçu le traitement d´hydroxychloroquine afin de minimiser les risques mortels associés à l´utilisation de ce médicament.
+
+e)

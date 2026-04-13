@@ -1,0 +1,30 @@
+Il s´agit d´une jeune patiente de 20 ans, fille d´un médecin, ayant comme seul antécédent, un contact avec son père ayant COVID-19. A J20 post contage, la patiente présentait une seule atteinte cutanée au niveau des mains, associant une urticaire aigue et une érythémateuse. L´examen biologique était sans particularité. Le test PCR était positif et l´injection d´Etanercept en cours avait été suspendue. Le bilan radiologique était négatif, la tomodensitométrie thoracique était sans anomalie et l´échographie abdominale, ne mettait pas en évidence d´infiltrat. Le bilan biologique, était normal. La patiente était mise sous hydroxychloroquine à J20 et azithromycine à J21 et une polychidamide TMP-SMX à J21. Le recul actuel est de 1 mois, avec régression totale des lésions cutanées.
+La patiente était apyrétique et sans détresse respidatoire ni hémodynamique et le bilan biologique était normal. La tomodensitométrie thoracique ne montrait pas d´infiltrat.
+A priori, nous pensons qu´il s´agit d´une réaction cutanée à l´Etanercept, aggravé par la COVID-19 et qui évolue favorablement sous corticothérapie et traitement antibiotique.
+Du côté de la patiente, il s´agit d´une infection à COVID-19 révélée par la découverte de ses symptômes et lésions cutanées, qui répond normalement au traitement habituel.
+A J21, l´évolution était favorable avec régression des lésions et apyrexie avec négativation du test PCR.
+A J28, l´évolution était favorable avec négativation du test PCR et disparition des lésions cutanées.
+A J35, l´évolution était normale avec disparition complète des lésions et négativation du test PCR.
+A J57, l´évolution était normale avec régression totale des lésions cutanées.
+A J73, la patiente ne présente pas d´autre signes et résidu.
+A J97, elle ne présente plus de signes et résidu.
+A J120, la patiente n´avait plus de signes.
+Vu que la patiente est toxoplasmase positive à un an, nous pensons qu´il est fort probable qu´il s´agit d´une éruption cutanée secondaire à la COVID-19 dont la patiente a un facteur de risque, en l´occurrence le traitement avec l´Etanercept.
+Du côté du père, il n´y a pas eu d´évolution clinique, ni biologique notable. Le traitement habituel était bien toléré.
+A J11, le test PCR était négatif.
+A J20, il n´avait plus de signes et résidu.
+A J28, il n´avait plus de signes et résidu.
+A J40, il n´avait plus de signes et résidu.
+A J57, il n´avait plus de signes et résidu.
+A J75, il n´avait plus de signes et résidu.
+Vu les deux évolutions, nous pensons qu´il s´agit d´une infection à COVID-19 et d´une éruption cutanée secondaire au COVID-19.
+La cure d´Etanercept a été reprise à J90.
+Le phénotype cutané des deux cas présentent les caractères suivants :
+A J13, prurit intense, hyperthermie et érythème, semblable à une éruption cutanée, érythrodermie avec exanthème.
+A J14, semblable à une éruption cutanée sévère, prurit intense avec une hyperthermie, érythème intense, érythrodermie avec des lésions de fingérils et des lésions inflammatoires de la peau.
+A J15, semblable à une éruption cutanée sévère avec des plaques généralisées et érythrodermie.
+A J16, lésions granuleuses et des éruptions cutanées, macules purpura, une éruption cutanée sévère semblable à un syndrome de dérive T.
+A J17, semblable à un syndrome de dérive T, éruption cutanée sévère et des lésions généralisées.
+A J18, éruption cutanée sévère, érythrodermie, lésions de fingérils, macules purpura et plaques violacées ou pigmentées, des éruptions cutanées semblables à un syndrome de dérive T.
+A J19, éruption cutanée sévère, érythrodermie, lésions de fingérils, macules purpura et plaques violacées ou pigmentées.
+A J20, semblable à une éruption cutanée sévère, une érythrodermie avec exanthème, des l

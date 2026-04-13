@@ -1,0 +1,22 @@
+Il s'agit d'une patiente âgée de 30 ans, fumatrice à 20 paquets/années, aînée de 3 frères, sans antécédents pathologiques, de rang social bas, mariée avec deux enfants. Elle a été hospitalisée pour douleurs lombaires, d'installation progressive depuis 6 mois, associées à une asthénie physique et psychique. A l'examen ostéoarticulaire, on retrouve une cyphose lombaire avec une saillie des apophyses épineuses. Les radiographies du rachis lombaire sont en faveur d'une ostéoporose lombaire. Le bilan biologique a objectivé une vitesse de sédimentation (VS) à 25 mm à la première heure, une calcémie à 2,42 nmol/L et une phosphorémie à 1,01 nmol/L, une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux (calcitriol, vitamine D, vitamine K, parathormone) ont été réalisés par absorptiométrie biphotonique à rayons X et les résultats ont montré une densité minérale osseuse 488.51 mg/cm 3 (normale 488,89 - 600,52) comparativement aux cellules adipeuses (426,37 mg/cm 3). La patiente a été mise sous paracétamol (2 g/j) et amytriptiline (50 mg/j). A 3 mois, on a objectivé une disparition des douleurs lombaires et une légère amélioration de l'asthénie. Le diagnostic de cette patiente est celui de l'ostéoporose fracturaire induite par le tabagisme associé à une hormonaline.
+
+### Response:
+Mme F.M est une patiente de 41 ans, sans antécédents pathologiques, fumeuse chronique de 10 paquets/années depuis 20 ans, à un pas de celui d'un mariage et à deux pas de celui d'une grossesse.
+L'examen clinique est normal.
+La radiographie des mains pratiquée en cas général à la demande du mariage est normale.
+La TDM abdomino-pelvienne pratiquée à 6 mois de son mariage pour des métrorragies (qui n'ont pas été clarifiés ultérieurement) montre des lésions nodulaires régulières, infiltrantes à la périphérie du col utérin et du mésentère, le mésentère se réhausse de manière homogène.
+La TDM thoraco-abdomino-pelvienne pratiquée deux mois plus tard pour une angoisse pulmonaire exagérée et une dyspnée d'effort n'a pas retrouvé les lésions mais a révélé la présence de deux nodules au niveau des deux hémi-cartilages costaux.
+Les radiographies pulmonaires de face et de profil réalisées à la recherche d'un épaississement costal ou une malformation congénitale n'ont pas montré d'images étrangères.
+L'examen ostéoarticulaire est normal, une cyphose lombaire avec une saillie des apophyses épineuses est observée.
+La TDM du rachis lombaire à gauche réalisée 3 mois plus tard montre un épaississement des corps vertébraux et des lames costales correspondant à des ossifications secondaires de l'apophyses vertébrales et des os costaux, en perte de continuité avec le corps de la vertèbre, dans le sens en avant, vers le côté latéral, et vers le bas, correspondant à un maturité osseuse partielle et d'épanchement pleural costal gauche avec fente pleurale.
+Le dosage de la vitamine D et parathormone a été strictement normal.
+Le bilan biologique n'a pas été demandé.
+L'indication thérapeutique a été de cesser le tabagisme, de mettre la patiente sous corticothérapie à raison de 30 mg de prednisolone par jour et de préparer l'indication radiothérapie.
+Après 4 mois de traitement, la patiente a consulté pour une dyspnée d'effort et une toux sèche.
+La TDM thoraco-abdomino-pelvienne et scannograhie cérébrale ont montré une atrophie de l'os de la plupart des parties du corps, le crâne, la moelle, le sacrum et des douleurs lombaires.
+Le traitement à base de corticoïdes a été arrêté et à ce jour, la patiente vit normalement.
+
+### Response:
+Mme N.M est une patiente de 38 ans, sans antécédents pathologiques, fumeuse chronique de 30 paquets/années depuis 10 ans, ayant trois enfants (la dernière grossesse était deux ans auparavant) et ayant arrêté le tabagisme il y a un an.
+L'examen clinique est normal.
+La TDM c

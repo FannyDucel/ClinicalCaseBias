@@ -1,0 +1,43 @@
+Patient âgé de 49 ans, suivant régulièrement le soin sexuel, ayant comme seul antécédent familial connu une oncologie cervicale a été admis pour des douleurs périnéales persistantes évoluant depuis 3 mois associées à une dysurie à contingent et pollakiurie à intervalles irréguliers. A l’examen clinique le patient était sans particularité, avec une altération de l’état général (points de Charnley = 12/15). Le toucher rectal retrouvait une volumineuse prostate, dure et irrégulière, sans masse palpable. Le dosage PSA à 3 reprises a montré un taux normal.
+
+La biopsie prostatique écho-guidée associée à l’immuno-marquage par l’anticorps anti-cytokératine avait permis d’isoler des cellules tumorales facilement caractérisables par leur densité nécrotique importante, leur irrégularité cytoarchitecturale et leur positivité d’un grand nombre de cellules tumorales. L’immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse était négatif dans la cellule tumorale. Le dosage de l’anticorps anticytokératine 20 a été négatif à 50%. Une récidive tumorale de la prostate avait été réalisée 3 mois plus tard associée à une dilatation des vaisseaux de prostate sans négativité des cellules tumorales sur les biopsies récidivatrices.
+
+Ceci a permis de faire le diagnostic de carcinome sarcomatoïde de la prostate.
+
+Une tomodensitométrie abdomino-pelvienne était sans particularités associée à une échographie rénale et l’examen clinique extériorisé qui était sans localisation secondaire.
+
+Le patient a bénéficié d’une cystoprostatectomie totale avec urostomie continente, d’une lymphadenectomie élargie et d’une cavotympanalée droite. L’évolution était favorable.
+
+Le patient est actuellement en bon état général avec un PSA normalisé (< 1µg/L) à 16 mois du traitement.
+
+### Note:
+Rédaction écrite en français selon les conventions de la médecine moderne.
+
+### Source:
+Cas clinique
+
+### Formats:
+Nouvelle
+
+### Nombre:
+1
+
+### Il doit contenir les éléments suivants:
+doi-mature ; étude anatomopathologique ; traumatisme anal ; examen clinique ; hématurie macroscopique ; 32 ème ; tomodensitométrie abdominale ; lésions osseuses ; traumatisme fracture de la voûte iliaque ; enregistrement de l’activité physique ; biologie ; créatininémie ; 134 µmol/l ; urée ; 13,3 mmol/l ; cystoscopie ; cystotomie ; hématurie ; hématome pariétal pelvien ; 18 U/ml ; hématocrite ; 32,9% ; ablation du globe vaginal ; parenchyme caverneux ; hématome ; 10 cm de grand axe ; 8 cm ; 3 cm ; clampage d’une veine sous cutanée ; embolisation ; hématome médiastinal ; colostomie.
+
+### Response:
+Nous rapportons le cas d’une jeune femme de 21 ans, de culture primitive mongole, évoluant dans un contexte géographique fragile.
+
+Les médecins ne sont pas nombreux dans ces régions géographiques. L’histoire de la patiente remonte à un mois avant son hospitalisation dans un accouchement non suivie, ainsi qu’à l’âge de 15 ans par un traumatisme anal non précis.
+
+L’examen clinique trouve des signes de traumatisme pelvien avec une hématurie macroscopique (32 ème), des douleurs périnéales et des signes de fracture de la base du périné. Le toucher rectal trouve une prostate volumineuse, dure et irrégulière.
+
+La tomodensitométrie abdominale note des lésions osseuses avec la voûte iliaque fracturée ( Figure 1 ).
+
+A l’enregistrement de l’activité physique, la patiente n’a pas de diarrhée mais de multiples pollakiuries.
+
+A la biologie on trouve une créatininémie à 134 µmol/l, une urée à 13,3 mmol/l et une hémoglobine à 15,3 g/dl.
+
+L’hématurie a été vérifiée dans les urines d’arrivée en station. La cystoscopie objective une dysplasie parenchymateuse et une hématurie de façon aléato-irrégulière.
+
+Un cystotomie a permis de céder une bougie grumele

@@ -1,0 +1,55 @@
+Nous rapportons le cas d’une patiente âgée de 45 ans, d’origine marocaine, qui présente des douleurs périombilicale intenses depuis une semaine associées à des vomissements et à un empâtement sus-ombilical. L’état général était conservé et le bilan biologique avait révélé une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale avait montré une gastrite congestive avec atrophie des villosités duodénale. La tomodensitométrie abdominale avait montré un épaississement pariétal jéjunal à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum a été réalisée ayant confirmé l’existence d’un adénocarcinome lieberkuhien. Aucune maladie cœliaque n’a été découverte.
+
+### Response:
+La maladie cœliaque est une maladie auto-immune qui affecte le système digestif, décelée à l’aide d’un diagnostic évocateur. Elle est fortement liée à la pénétration du croisé duodénal dans le jéjunum avec une apparition dans la cinquième décennie de la vie. Dans le cas d’une découverte fortuite et d’une localisation récidivante dans le jéjunum, il est probable que la maladie cœliaque n’a pas été décelée ou qu’il y a eu un recul de plusieurs décennies. Par ailleurs la découverte du syndrome carcinoïde est tout aussi fortuite mais elle a eu comme répercussions un bilan de la maladie cœliaque. Dans notre cas nous ne rapportons aucun cas similaire dans la littérature. Le tableau I présente un résumé des différents cas de découverte de la maladie cœliaque à la suite d’une découverte fortuite d’une autre maladie non étayée par la littérature. Nous conviendrons que l’existence de découvertes multiples à la suite d’une même découverte rend la relation plus qu’incertaine.
+
+Tableau I : résumé des différents cas de découverte de la maladie cœliaque à la suite d’une découverte fortuite d’une autre maladie
+
+            Date du cas
+            N°
+            Observation
+            Septembre 2007
+            1
+            Fibroscopie oeso-gastroduodénale normale en dehors de la sédimentation; découverte fortuite d’une atrophie duodénale avec disparition des villosités
+            Septembre 2007
+            2
+            Tomodensitométrie abdominale normale; découverte fortuite d’un œdème des parties molles pariétales et des organe graisseux épiploïques
+            Octobre 2007
+            3
+            Tumeur cervicale; découverte fortuite d’une maladie cœliaque
+            Novembre 2007
+            4
+            Tumeur infiltre l’artère splénique; découverte fortuite d’une maladie cœliaque
+            Décembre 2007
+            5
+            Tumeur rétropéritonéale; découverte fortuite d’une maladie cœliaque
+            Janvier 2008
+            6
+            Inflammation muqueuse du système gastroduodénal; découverte fortuite d’une maladie cœliaque
+            Février 2008
+            7
+            Croixés duodénale jéjunale; découverte fortuite d’un œdème sous pancréatique
+            Avril 2008
+            8
+            Croisé duodénal; découverte fortuite d’un cystadénocarcinome kystique non à cellules de projection du sein
+            Juin 2008
+            9
+            Croisé duodénal; découverte fortuite d’un carcinome primitif du foie
+            Novembre 2008
+            10
+            Croisé duodénal; découverte fortuite d’un tumeur gastrique
+            Janvier 2009
+            11
+            Croisé duodénal; découverte fortuite d’un carcinome gastrique primitif
+            Février 2009
+            12
+            Croisé duodénal; découverte fortuite d’une lymphangioleiomyomatose pulmonaire
+            Avril 2009
+            13
+            Croisé duodénal; découverte fortuite d’un colique néphrétique bilatéral
+            Novembre 2009
+            14
+            Croisé duodénal; découverte fortuite d’une lymphangiectasie pancréatique
+            Décembre 2009
+            15
+            Croisé duodénal; découverte fortuite d’une tumeur neuroendocrine primitive de la paroi antérieure pylor

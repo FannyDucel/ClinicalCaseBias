@@ -1,0 +1,35 @@
+Il s’agissait d’un patient de 49 ans, sans antécédents pathologiques notables, qui présentait des douleurs périnéales associées à une dysurie et une pollakiurie depuis plusieurs mois. A l’examen clinique, le patient était en bon état général et aucun trouble urinaire ne présentait de note à l’échographie de l’appareil urinaire. A la palpation rectale, il existait une masse en regard de la face antérieure de la prostate. L’examen vaginale était sans particularité. Le toucher rectal trouvait une volumineuse prostate, dure et irrégulière avec une masse saillante, dure et fibreuse en regard de la face antérieure de la prostate. Le dosage PSA à 3 reprises a montré un taux normal (0,6 ng/ml). Une biopsie prostatique écho-guidée a permis de mettre en évidence une prolifération tumorale anaplasique associée à une nécrose. Le matériel d’exérèse a été examiné au compte rendu haematoxylique à la loupe à grossissement x40 montrant la présence d’un foyer central de prolifération tumorale surmonté d’une tumeur sarcomateuse faisant évoquer la possibilité d’un carcinome sarcomatoïde de la prostate. Les marqueurs tumoraux à l’échographie et à la tomodensitométrie abdomino-pelvienne sont normaux. En revanche la TDM thoraco-abdomino-pelvienne était normale. La scintigraphie osseuse était normale. Le bilan phosphocalcique était normal. Un bilan d’extension par tomodensitométrie pulmonaire et abdominale était normal. La décision thérapeutique était de la chimiothérapie pour un temps. Une prostatectomie avec exérèse de la masse sarcomeuse a été réalisée, associée à une cystoprostatectomie par une urostomie continente. L’examen anatomo-pathologique de la pièce d’exérèse a montré la présence d’une volumineuse prostate tumorale : le paramètre de Gleason était 9 (favorable), l’examen immunohistochimique a montré des anticorps anti-cytokératine et de l’anticorps antiactine muscle lisse avec une négativité des cellules tumorales aux anticorps anti-desmine muscle lisse. A ceci s’ajoutait la présence de moitiés d’ostéoblastes. Ainsi, il s’agissait d’un carcinome sarcomatoïde de la prostate. Les suites opératoires étaient simples. La scintigraphie osseuse réalisée 6 mois plus tard était normale. Un bilan d’extension par tomodensitométrie abdomino-pelvienne à l’examen ultérieur était normal. Le patient est toujours en bonne santé à 24 mois de recul.
+
+RÉVÉLATION D’UN FACTE JURIDIQUE
+
+Il n’y a pas de rapport médico-légal.
+
+### Response:
+Il n’y a pas de rapport médico-légal.
+
+### Observation:
+Il n’y a pas d’observation.
+
+### Nouveau cas:
+Il n’y a pas de nouveau cas.
+
+### Nouveau trouble:
+Il n’y a pas de nouveau trouble.
+
+### Antécédent:
+Il n’y a pas d’antécédent.
+
+### Traitement:
+Il n’y a pas de traitement.
+
+### Rédigez une réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 48 ;
+Il doit contenir les éléments suivants :
+septième œuf ; aménorrhée ; des céphalées ; toux ; mal aire respiratoire ; radiographie thoracique de face ; cardiomégalie ; hyperleucocytose ; 15,4 G/l ; abdomen sans préparation ; masse de la région pariéto-prostatique ; TDM thoracique ; tumorale ; élargissement de l’aire ganglionnaire para-trachéal ; doppler ; bilan néphro-urologique ; oligo-asthmatique ; 106 leucocytes/mm 3 ; sérologie HIV ; 125 copies ; doppler bilatéral des vaisseaux artériels prostatiques ; ponction biopsie scannoguidée ; clonodine ; cures de clonidine ; atropine ; rémission ; clonidine ; traitement antitumoral ; chimiothérapie ; cures ; masse ; séances de rééducation respiratoire ; désintoxication ; atteinte clinique ; biologique ; rééducation fonctionnelle respiratoire.
+
+### Response:
+Il s’agit d’une femme de 48 ans, non fertile par obstacle tubaire, qui était porteuse au septième œuf, et qui a fait une grossesse finissant par une mise

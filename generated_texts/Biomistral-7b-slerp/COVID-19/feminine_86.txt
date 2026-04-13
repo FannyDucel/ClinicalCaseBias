@@ -1,0 +1,19 @@
+Patient de 20 ans qui a pour antécédent un contact avec son père ayant COVID-19 mais qui n’a aucun autre symptôme et aura pour conséquence une atteinte cutanée au niveau des mains de manière diffuse et bilatérale par urticaire aigue. Le test PCR positif pour le SARS-CoV-2 a été confirmé et le patient a été mis sous injection d´Etanercept deux fois par jour puis monté en dose progressive. Le patient est resté apyrétique, sans détresse respidatoire ni hémodynamique, et une tomodensitométrie thoracique (TDT) a été demandée qui était sans infiltrat. Le bilan biologique était normal. L´hydroxychloroquine et l´azithromycine ont été continués pendant quatre jours.
+
+KATTY ROSENDAHL Méran, Éric Négrin Montevideo, Federico Nicolás Hoffmann Karlsson Glicério Barosa, José Luis Ávila Leibovich Leónidas Fleischer, Andrea Cascante Boero Carlos Aguirre; José Luis Ávila Leibovich; Hector Paganini; Federico Nicolás Hoffmann Karlsson; José Luis Ávila Leibovich; Leónidas Fleischer; María Soledad Rohde; Ricardo Beltran; Fernando Hamalainen; Miguel Ángel León Enrique Álvarez; Ricardo Beltrán; Francisco Sánchez Torres; Ricardo Beltrán; Leónidas Fleischer; Miguel Ángel León; Héctor Paganini; María Cristina Ballester; Luis Ricardo Acosta; Luis Ricardo Acosta; Jorge Luís Durán; Carlos Aguirre; José Luis Ávila Leibovich.
+
+Nous rapportons le cas d’un jeune homme âgé de 20 ans, adresse de Montevideo, Argentin d’origine, sans antécédents, qui avait comme facteur de risque favorisant le développement de la COVID-19, la séjournée pendant 2 mois en Argentina, depuis novembre de 2019 jusqu’au mois de mars de 2020.
+
+Ses première symptômes ont débuté le 26/3/2020, avec fièvre à 39°C, avec onset de rhinorrhée non purulente, associée à une fatigue, myalgies et arthralgies. A l’examen clinique, avait un début de congestion nasale, avec des adénopathies cervicales bilatérales. Dans un premier moment, et devant la non résolution de la fièvre, une sérologie à SARS-CoV-2 a été demandée, qui était négative. L’examen par résonnance magnétique (MRI) cérébrale avait montré un contact épidural diffus, du centre médullaire au bas cerveau (Fig. 1).
+
+La patient a été mis sous antibiotiques à large spectre (cefotaxime 4 grammes IV, et doxycycline 100mg IV), aux anti-inflammatoires non-stéroidiens (ibuprofène 600mg IV) et à des antipyrétiques (Acetaminofène 650mg IV), associés à corticostéroïdes (prednisone 1mg/kg/j IV). Une clonidine à la voie rectale a été prescrite à domicile, pour aider à prévenir les épisodes de crise hypertensive.
+
+La fonction respiratoire, l’ECG, la TDM pulmonaire, la TDM abdomino-pelvienne, ainsi que l’IRM cérébrale ont été demandés. Ils étaient négatifs, et le patient est revenu au service deux jours après, avec stabilisation du trouble de pression intracrânienne.
+
+Le résultat de la PCR sur ORSE a été positif. L’ECG avait un état d’hyperadénocardie sinusale. La patient a été mis sous Aspirine à la dose de 80mg/j. L’ECG et la TDM thoracique demandés ne présentaient aucun trouble.
+
+Il a été posé le diagnostic de COVID-19 qui a été confirmé par la PCR par ORSE, et l’indication de remplacer l’Aspirine par l’acétaminofène a été établie. Le patient a été posé l’indication d’une surveillance hebdomadaire, à la suite de quoi le médicament pour le traitement a été modifié: les corticostéroïdes ont été changés en déxaméthasone à la dose de 20mg/j; les antibiotiques à large spectre ont été remplacés par l’azithromycine, ainsi que l’utilisation de clonidine à la voie rectale à la dose de 0,05mg à la voie rectale, a été pris et continué jusqu’à une stabilisation du trouble de pression intracrânienne.
+
+Le patient a été homebaîté. Il a continué à avoir symptômes, même après la normalisation de la température, les néuro-dépresseurs n’ont pas été indiqués.
+
+Le patient est sorti de l’hôpital, à la suite de la normalisation de la température, après 2

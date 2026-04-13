@@ -1,0 +1,34 @@
+Madame N.M., 30 ans, fumeuse chronique, a présenté chez son médecin généraliste une douleur lombaire périostée gauche au niveau de l’intervalles discale.
+
+A l’examen physique, la patiente présente une asthénie physique et psychique, une cyphose lombaire à 45° en rapport avec une déformation du rachis lombaire, une saillie des apophyses épineuses à l’abdomen et un retropéritonium.
+
+Les radiographies du rachis lombaire, sur la face postérieure de la colonne lombaire, montrent un chancre osseux de la quatrième vertèbre lombaire (V4) gauche.
+
+Le bilan biologique, a révélé une vitesse de sédimentation à 32 mmH1, une anémie ferriprive à 11 mg/dl avec un taux de ferritinémie à 4,9 ng/ml et un dosage de la vitamine D, normaux. Le calcium sanguin est de 9,8 mg/dl, la calcémie à 2,42 nmol/L et la phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux sont strictement normaux. Parathormone basse (1,6 ng/L) et 25-hydroxycholécalcérol (56,3 nmol/L).
+
+L’absorptiométrie biphotonique à rayons X de la densité minérale osseuse, sur la colonne vertébrale démontre une ostéoporose sévère, avec une densité minérale vertébral moyenne à 67,8%.
+
+La patiente a été mise sous paracétamol (2 g/j) et amytriptiline (50 mg/j) mais refusant une biphosfonate. Elle est perdu de vue dans notre service.
+
+La patiente est réadressée à son médecin généraliste qui diagnostique par l’IRM cérébro-vertébrale, une compression médullaire secondaire à une lombosacrée. Le diagnostic retenu est alors celui d’une ostéoporose fracturaire avec compression médullaire secondaire à une lombosacrée.
+
+Une trachéotomie est décidée pour le contrôle de la respiration et une décompression lombaire, avec mise de suture par arceaux transpariétaux de Vandenberg-Motola. L’IRM cérébro-vertébrale post-opératoire montre une diminution du diamètre de la moelle osseuse mais une persistance d’une compression médullaire.
+
+Malheureusement la patiente est décédée à J5 sur complications postopératoires: détresse respiratoire et cholécystite hémorragique.
+
+En appliquant les critères de diagnostic des experts, une hypothèse de carcinome de la prostate est évoquée comme premier diagnostic de la symptomatologie de la patiente. Cependant, la recherche d’un antigène spécifique du carcinome de prostate en immunofluorescence, à l’instar de la RNP, de l’anticorps antichromogranine, de l’anticorps anti-NSE, est négative.
+
+Un diagnostic de tuberculose de la moelle osseuse est évoqué et complété par des scanner thoracique et abdominal, des examens sanguins et des tubes urinaires, qui sont tous strictement normaux.
+
+Enfin, le diagnostic de compression médullaire secondaire à un chancre osseux de V4 de la moelle osseuse est le dernier étiologique.
+
+### Response:
+Cet état de chancre osseux est celui décrit par Anderson et al. en 1993, une compression médullaire secondaire à un chancre osseux de la vertèbre lombaire inférieure. C’est ce que suggère également l’IRM de la moelle osseuse.
+
+Ce cas est extrêmement rare puisque le chancre osseux est extrêmement atypique et surtout fait suite à une ostéoporose. Cette relation est non avérée.
+
+La ponction transpariétale sous IRM permet l’étude morphologique et biochimique des lésions ostéodensitométriques, sans nécessairement intervenir sur les vertèbres lombaires.
+
+Il est tout de même à noter que des cas de compression médullaire secondaire à une lombosacrée suivant un traumatisme du rachis lombaire ont été signalés par divers travaux (Yanagi, 2003 ; Kajihara, 1999 ; Karslioglu, 1999 ; Chiu, 1997).
+
+Les travaux du Dr Bouillot permettent également de proposer l’étude de la densité minérale osseuse du squelette rachidien chez les malades à risk factors ostéoporotiques, dont l’ostéoporose liée au cancer, en utilisant l’absorptiométrie

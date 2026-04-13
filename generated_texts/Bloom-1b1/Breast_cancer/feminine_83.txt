@@ -1,0 +1,28 @@
+Une femme âgée de 26 ans, sans antécédents pathologiques particuliers, a été admise aux urgences de l’hôpital pour reconsulter sa gynécologue d’avant 2010. Elle avait été initialement traité pour une utérostomie (Oryzon ®) qui s’était finalement violée, puis elle a consulté pour tumeur du sein droit qui s’était notamment illustrée par des lésions carcinomateuses avec cicatrices plastiques et de retrait chirurgical après un mastectomie. L’examen clinique a mis en évidence un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, ainsi qu’une adénopathie de 1.5 cm au niveau du creux axillaire droit.
+
+Au niveau des deux seins, le V-Cl2 faisait lobulée aux deux niveaux des deux seins, les mammogrammes ont révélé deux nodules de 2 cm au niveau du quadrant supéro externe du sein gauche. Le BIRADS V était marqué T2N0M1M1
+
+Une microbiopsie des deux lésions cliniques des deux seins a permis l’identification d’un carcinome canalaire infiltrant SBR III associé à un éventuel infiltrant G0 au LII. Le test de l'HER 2 négatif et le bilan immunohistochimique a confirmé la nature canalaire des carcinomes.
+
+Un diagnostic de SBR droit a donc été évoqué et le plan de traitement a consisté en une première ligne de chimiothérapie palliative à base d’Adriamycine (50 mg/m²). Cette chimiothérapie est suivie d’une radiothérapie externe à 2 Gy en totalité. Les deux lignes de chimiothérapie ont été combinées pour un total de trois cures d’Adriamycine : 50mg/m² soit 15 jours avant la chirurgie radicale et 50mg/m² plus 1 mg/m² de docétaxel 200mg/m², deux cures de docétaxel : 200mg/m² soit le jour de l’astérectomie. Les modalités et le plan de la radiation étaient les mêmes pour chaque traitement (deux cures de docétaxel 200mg/m² ; trois cures d’Adriamycine 50mg/m²). Une chimiothérapie néoadjuvante à base d’Adriamycine 50mg/m² a été ensuite administrée à chaque rencontre après l’échec du protocole de 1 er axe palliatif
+
+La récidive à distance a été observée après cinq cures de chimiothérapie palliative.
+
+Le bilan d’extension a conclu à un carcinome canalaire SBR III et un CD positif (CA 15-3 à 81 mui/ml) en dehors du sein droit avec une lymphadénopathie bilatérale (grade 3c de la NIH avec T3N1M0). Le carcinome canalaire était associé à un CD positivement oriente au LII et au LIII et a exprimé les récepteurs hormonaux négatifs au LIII. L’extension lombo-abdominale n’a pas été observée.
+
+Le score de node dissection était de N0/3 et les lymphocytes CD positif étaient dans les deux premières parois de l’entérose colique. Le test de l'HER2 a révélé une positivité à faible intensité. Un collagène déplétion était constaté. Devant la présence de scores NIH et de CA 15-3 élevés et une tumeur multifocale épithélioide complexe infiltrante, un énanthate de phase IV, chez une patiente dont le cancer avait le BIRADS V (T2N1M0) a été proposé.
+
+Cette chimiothérapie a été suivie d’une radiothérapie externe à deux points en entier. La radiothérapie était de 25 Gy en paliers de 1,8 Gy/ jour. Une dernière double chimiothérapie était réalisée après six cures de docétaxel (200mg/m²) associée à une radiothérapie externe à deux points en totalité. Une chimiothérapie néoadjuvante à base d’Adriamycine 50mg/m² était ensuite administrée à chaque rencontre. Les effets secondaires identifiés ont été une élévation du CA 15-3 à 990 mui/ml, un respect du délai de tolérance cytotoxique et une augmentation de la résistante à la doxorubicine sans anomalies biologiques. Le test de chimiothérapie néoadjuvante a été classé comme palliatif. La patiente a reçu deux cures de chimiothérapie néoadjuvante (Adriamycine : 50 mg/m²) et deux cures de radiothérapie (20Gy).
+
+L’évolution a été marquée par un succès radiothérapique après six cures de docétaxel 200mg/m². Elle a pu bénéficier de la chirurgie radicale type Patey bilatéral, avec une reprise complète de la masse tumorale. Les éléments cliniques et immunohistochimiques n’ont pas montré d’extension loco-régionale ou métastatique.
+
+Après six cures de chimiothérapie palliative et un résidu tumoral résiduel tumoraire inférieur à 2 cm aux deux seins, des suites opératoires en endoprothèse simple ont été réalisées. Après 30 jours, un arrêt des soins a été demandé par la patiente.
+
+La nécéssité d’entamer une réhabillitation post opératoire a été évoquée, et la patiente a accepté. Après deux cures de chimiothérapie palliative à base d’Adriamycine 50mg/m², la patiente a bénéficié d’un traitement de chimiothérapie curative par adriamycine 200mg/m². Elle a pu bénéficier de la chirurgie radicale type Patey bilatéral avec arrêt des soins à la date de sortie de l’hôpital. L’évolution clinique est favorable avec la reprise des deux seins au deuxième mois. Les signes de récidive sur le plan radiologique, immunohistochimique et histologique ont disparu.
+
+Après une prise en charge en thérapeutique pluridisciplinaire, la patiente est décédée à 12 ans avec un recul de 28 ans.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 18 ;
+Il doit contenir les éléments suivants :
+question pathologique ; prise de risque ; grossesse extra utérine ; grossesse pathologique de type I ; problèmes de circulation sanguine

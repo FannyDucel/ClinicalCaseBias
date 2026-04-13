@@ -1,0 +1,23 @@
+Patiente âgée de 45 ans, référée en gastroentérologie pour des douleurs périombilicale intenses, des nausées et des vomissements de type épigastrique évoluant depuis un mois, associées à un empâtement sus-ombilical. L’examen clinique était normal.
+Le bilan biologique objectivait une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l.
+La fibroscopie oeso-gastroduodénale montrait une gastrite congestive avec atrophie des villosités duodénale.
+La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal de 5cm de diamètre en confluence avec la papille anale qui s’est prolongé en un nodule de 2cm de diamètre à 50cm de l’angle duodéno-jéjunal.
+Une résection segmentaire du jéjunum jusqu’à 50cm de l’angle duodéno-jéjunal a été réalisée. L’examen anatomopathologique a décrit un adénocarcinome lieberkuhien infiltrant le muscle jusqu’à 5cm, d’allure différenciée.
+Les suites opératoires étaient simples.
+L’évolution était favorable. Le recul est de 11 mois.
+Le diagnostic d’une maladie cœliaque a été évoqué devant l’accord des antécédents familiaux, mais n’a pas été confirmé.
+
+### Response:
+Il s’agit d’une patiente âgée de 62ans, qui présente depuis un an des douleurs de type épigastrique avec une perte pondérale de 8kg, et dans le cadre de ce tableau, elle présente un syndrome occlusif fait de vomissements, méléna, un retard de croissance de la chevelure et une perte de cheveux (alopécie).
+L’examen clinique est normal.
+Le bilan biologique a révélé une anémie à 10.4g/dl d’hémoglobine, une fibrinogénémie à 0.8g/l, un retard de croissance osseuse, une hypoalbuminémie à 27g/l, une hyperlipidémie, une cholestase avec une phosphatase alcaline à 4725 unités/l.
+L’étude immunologique a objectivé une anti-endomysium anticorps type IGA positif, une anti-gliade anticorps type IGA positif, une anti-transglutaminase anticorps type IGA positif.
+Le diagnostic de maladie cœliaque a été retenu, devant l’aspect familial des antécédents et les éléments positifs du bilan biologique (anti-endomysium anticorps type IGA positif, anti-gliade anticorps type IGA positif, anti-transglutaminase anticorps type IGA positif).
+L’étude génétique de la maladie cœliaque par séquençage des microsatellites HLA DQB1 et DQA1 a été réalisée. L’analyse de la séquence du DQB1 et DQA1 a montré que la patiente possède les allélotypes *030101 (0101*0301) et *030102 (0301*0301). La séquence de ces allélotypes est normale et correspond à celles des asymptomatiques. Il n’y a pas de séquelle évolutive notables.
+La patiente a été mise sous régime sans gluten strict avec un recul de 12 mois. L’évolution était favorable, avec une régression de la symptomatologie. Le bilan biologique a permis de noter une régression de l’anémie avec une augmentation du taux d’hémoglobine et l’amélioration de la fibrinogénémie et des protéines sériques.
+Le recul est de 2 ans.
+Le diagnostic d’une maladie cœliaque a été retenu devant l’accord des antécédents familiaux, mais n’a pas été confirmé.
+Il s’agit d’un enfant de 2ans, hospitalisé pour une déshydratation aiguë évoluant depuis 48 heures, associée à des vomissements alimentaires, et des troubles du transit qui se sont rapprochés d’une obstruction digestive totale à l’œsophage et à l’estomac, faisant suspecter un syndrome occlusif de méconium.
+L’examen clinique a révélé une descente abdominale et une marbrure cutanée. L’auscultation cardiopulmonaire a été normale.
+Le bilan biologique a montré une hyperleucocytose à 21200/mm3, une anémie à 8g/dl d’hémoglobine, une hyperlipidémie, une hypoalbuminémie à 23g/l, une glycémie à 1,09g/l.
+L’ét

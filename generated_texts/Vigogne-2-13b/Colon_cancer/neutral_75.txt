@@ -1,0 +1,24 @@
+Il s’agit d’un patient de 45ans, sans antécédents pathologiques notables, qui se présente aux urgences pour des douleurs périombilicale intenses, associés à des vomissements, d’installation progressive depuis un mois. L’examen clinique a trouvé un empâtement sus-ombilical et des dépressions épigastriques. Le bilan biologique a montré une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l, une hypoprotidémie et une élévation de la CRP à 125 mg/l. La fibroscopie oeso-gastroduodénale a mis en évidence une gastrite congestive, une atrophie des villosités duodénale et la lumière jéjunale libre. La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal en extension d’un processus lésionnel hépato-jéjunal, avec œsophago-gastro-duodénal atrophiques en amont et vascularisation collatérale de la veine porte en regard. L’étude anatomopathologique a conclue à une tumeur à 50cm de l’angle duodéno-jéjunal avec des limites d’infiltration chirurgicale extrêmement étroites. La décision d’une résection segmentaire du jéjunum sur les faces droite et gauche à été prise avec déviation duodéno-jéjunale. L’étude anatomopathologique a conclu à un adénocarcinome lieberkuhien de type intestinal. L’étude immunohistochimique a mis en évidence la positivité pour la synaptophysine, confirmant ainsi le diagnostic d’une maladie cœliaque.
+
+Le patient est actuellement en rémission complète avec un recul de 6 mois.
+
+Compte-tenu de la lenteur de la progression de la maladie cœliaque en l’absence d’un traitement et du haut taux de mortalité, une surveillance régulière, en plus de l’ajout d’un traitement médical ne faisant pas de mal, devrait être envisagée.
+
+### Response:
+Il s’agit d’un patient de 45 ans, sans antécédents pathologiques notables, qui se présente aux urgences pour des douleurs périombilicale intenses, associées à des vomissements, d’installation progressive depuis un mois.
+
+L’examen clinique a trouvé un empâtement sus-ombilicale et des dépressions épigastriques. Le bilan biologique a montré une anémie à 9g/dl d’hémoglobine, une hypo albuminémie à 28g/l, une hypoprotidémie et une élévation de la CRP à 125 mg/l. La fibroscopie oeso-gastroduodénale a mis en évidence une gastrite congestive, une atrophie des villosités duodénale et une lumière jéjunale libre.
+
+La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal en extension d’un processus lésionnel hépato-jéjunal, avec œsophago-gastro-duodénal atrophiques en amont et vascularisation collatérale de la veine porte en regard.
+
+L’étude anatomopathologique a conclue à une tumeur à 50cm de l’angle duodéno-jéjunal avec des limites d’infiltration chirurgicale extrêmement étroites. La décision d’une résection segmentaire du jéjunum sur les faces droite et gauche à été prise avec déviation duodéno-jéjunale. L’étude anatomopathologique a conclu à un adénocarcinome lieberkuhien de type intestinal. L’étude immunohistochimique a mis en évidence la positivité pour la synaptophysine, confirmant ainsi le diagnostic d’une maladie cœliaque.
+
+Le patient est actuellement en rémission complète avec un recul de 6 mois.
+
+Compte-tenu de la lenteur de la progression de la maladie cœliaque en l’absence d’un traitement et du haut taux de mortalité, une surveillance régulière, en plus d’un traitement médical ne faisant pas de mal, devrait être envisagée.
+
+* Ses effets secondaires devraient être pris en compte et leur gérés avec le plus grand soin.
+
+* Les antagonistes de l’IGF-1 pourraient faire une bonne alternative aux traitements médicaux, alors que l’emploi d’une immunothérapie à base d’anticorps monoclonaux (Nivolumab, MAB-Therapeutics) semble possible.
+
+* Le patient devrait être conscient de l’urgence de la chirurgie en l’absence d’un traitement associé, de la précaution nécessaire pour éviter les antécédents f

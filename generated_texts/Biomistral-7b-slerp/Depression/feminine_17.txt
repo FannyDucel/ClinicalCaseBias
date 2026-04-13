@@ -1,0 +1,49 @@
+Nous rapportons le cas d’une patiente âgée de 48 ans, sans antécédents pathologiques notables, ayant consulté pour une intoxication médicamenteuse volontaire par le pétrole et l’huile de lotus, dans le contexte d’une tristesse de l’humeur.
+
+Encore jeune, elle a présenté un syndrome dépressionnel récidivant en évolution.
+
+A l’admission, elle était consciente et orientée. L’examen clinique retrouvait une anhédonie et une asthénie énormes. Elle presentait un syndrome néphrotique sévère avec une protéinurie à 7g/24h.
+
+Les anticorps anti-nucléaires homogènes étaient positifs avec une titration de 1:1000. Les anticorps anti-phospholipides négatifs et les anticoagulants lupiques négatifs. La patiente avait une thrombophlébite des deux membres supérieurs. L’encéphalopathie associée au trouble dépressif ne permettait pas l’établissement d’une étiologie précise.
+
+La patiente était sous traitement par anticoagulants oraux, jusqu’à la nécessité de l’hémodialyse chronique (2 fois par semaine, depuis 2 ans) pour une insuffisance rénale non diagnostiquée auparavant. Elle avait par ailleurs des signes évocateurs d’une hépatopathie non cirrhotique avec une altération de la fonction hépatique et une ascite réfractaire à l’abord chirurgical.
+
+La décision d’une transplantation defois du foie était prise et la patiente a bénéficié en octobre 2016 d’une greffe hépatique biportale.
+
+Après 1 mois d’évolution, une encéphalopathie ammoniacale a été diagnostiquée avec une poussée neurologique sévère du lupus. L’angio-IRM cérébrale était normale.
+
+Le scanner cérébral retrouvait à son tour plusieurs plages hypodenses réparties en un centre et des périphérie (Figure 1). L’évolution était marquée par un céphalgit qui a nécessité la mise en place d’une sonde lacrymale de Roeder, avec une régression progressive.
+
+L’évolution ultérieure était favorable.
+
+Le dernier bilan rénale montrait des créatinines à 94µmol/l.
+
+L’évolution était marquée par un céphalgit qui a nécessité la mise en place d’une sonde lacrymale de Roeder, avec une régression progressive.
+
+Au jour actuel, elle était asymptomatique.
+
+Les dernières créatinines montraient des créatinines à 94µmol/l.
+
+La patiente n’a aucun symptôme depuis.
+
+La dernier bilan immunologique ne montrait aucune anomalie, avec des créatinines à 94µmol/l.
+
+La patiente était asymptomatique.
+
+La figure 1. Multiples plages hypodenses réparties en un centre et des périphérie.
+
+Le nombre de ces études augmentent de façon exponentielle, avec de 1200 publications, à 16000 en 12 ans.
+
+En 1996, le recensement du génome humain a établi que le nombre de base nécessaire est d’environ 3 milliards, et actuellement on considère que 99% de l’ADN est dans les régions non codantes.
+
+Le même analyse in silico est réalisable sur des données structures de la protéine, et il en résulte une première version de la fonctionnalité (le potentiel efficacité de la protéine-ligand est vu comme fonction de l’activité chimique de la molécule ligand) nommée dite modélisation simple, par mode de prédictivité.
+
+Pour le système de localisation de la protéine dans la cellule, des descripteurs spécifiques ont été construits à partir de données de structure.
+
+Le modèle de localisation intracellulaire de la protéine pourrait aussi être utilisé pour déterminer la nature des interactions protéines-protéines et protéines-ADN/ARN.
+
+Au cours des 2 dernières années, plusieurs progrès sont réalisés pour construire de nouveaux générateurs d’hypothèses de interactions ligand-récepteur basées sur la conformation 3D des protéines.
+
+La préparation des molécules ligand pour un système de modélisation doit intégrer une analyse chimique de la molécule, la résolution des incuriances des données structures (fluorescence, absorption…), la conversion des structures en format type PDB, la refinement des structures dans le réseau cristallin et la suite de traitement en biochimie.
+
+L’analyse des différents modèles prédictifs pour la fonctionnalité de l’interaction protéine-ligand doit inclure une analyse de la précision de la localisation ligand, une évaluation de

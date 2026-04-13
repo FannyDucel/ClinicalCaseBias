@@ -1,0 +1,29 @@
+Il s’agit d’un homme de 49 ans, sans antécédents pathologiques notables qui a présenté des douleurs périnéales et une dysurie progressive depuis plusieurs mois. Le toucher rectal de la prostate trouve un indice de massette positif à 2 sur 10. La pollakiurie de ce patient d’ailleurs était pratiquement quotidienne. L’examen des organes génitaux externes trouve une prostate non sensible et un pénis sans masse. Le toucher rectal trouve une prostate dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée montre une prolifération tumorale multifocale d’allure malignes, moyennement différenciée, caractérisée par une immuno-marquage par l’anticorps anti-cytokératine. Par ailleurs, la prolifération tumorale révèle une positivité d’un grand nombre de cellules tumorales à l’immuno-marquage par l’anticorps antiactine muscle lisse, et surtout par l’anticorps anti-desmine muscle lisse. De même, la négativité des cellules tumorales pour le factor de dépistage de l’ADN mitotique, pour la désminézine, le caractère basophile, pour la P50, pour le CD34, l’anticorps anti-cytokératine, l’anticorps anti-actine muscle lisse, et l’anticorps anti-desmine muscle lisse conclue à un carcinome sarcomatoïde de la prostate. Le bilan d’extension retrouve une absence de lésions secondaires. La cystoprostatectomie a été réalisée, associée à une urostomie continente. L’étude anatomo-pathologique de la pièce de cystoprostatectomie confirme la présence de carcinome sarcomatoïde de la prostate. Le bilan d’extension retrouve une absence de lésions secondaires.
+
+Cette étude anatomo-pathologique confirme la présence de carcinome sarcomatoïde de la prostate.
+
+L’imagerie par résonance magnétique (IRM) rénale, pelvienne et abdominale a montré une volumineuse prostate, dure et irrégulière.
+
+Le patient est bien suivi. La surveillance annuelle ne trouve aucun signe de récidive après un recul de 18 mois.
+
+### Note:
+Nous remercions le professeur Jean-Louis N'Goné pour sa collaboration et sa participation à la rédaction de ce cas clinique.
+
+### Avis médical / Conseils / Réponse:
+Aucune.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 34 ;
+Il doit contenir les éléments suivants :
+masse pelvienne médio-caudale ; irritation urinaire ; toucher rectal ; scanner ; masse ; urétéro-cystographie ; uretrographie mictionnelle ; tumeur rétro-caudale de l’uretère gauche ; examen histologique ; 60x65x65 mm ; plages d’hémorragie ; lymphangiome de Kapos ; anesthésie générale ; étude macroscopique ; masse polypoïde ; 72x45x35 mm ; hémorragique ; anastomose sous-état lombaire ; anastomose intra-péritonéale ; échographie pelvienne de contrôle ; 45 mm ; cystographie trans-urétérale ; tumeur ; bithérapie cystoprostatique ; tamoxifène.
+
+### Response:
+Il s’agit d’une patiente de 34 ans qui présente une grossesse élargie avec une masse pelvienne médio-caudale découverte à l’échographie pelvienne réalisée en état normal. On ne trouve pas d’autres lésions associées (noyau d’ovaire non décelable, pas d’adénopathie hilaires, pas de dysplasie urogénitale). La patiente présente un syndrome urinaire non chiffré, et dysurie intermittente. Les examens biologiques ne retrouvent pas d’anomalie biologique.
+
+Le toucher rectal trouve une prostate dure, irrégulière, mobile par rapport au plan profond, non sensible. La cystographie et l’urographie mictionnelle ne retrouvent aucune lésion urogénitale.
+
+L’urétéro-cystographie montre une masse massif appendue à l’uretère pelvien gauche. Le diagnostic d’une tumeur rétro-caudale de l’uretère gauche est retenu. La patiente est opérée par voie médiane. L’exploration chirurgicale retrouve une masse compacte, homogène, comblant le péri-urétéral gauche et comprimant le prostate et la vessie. La tumeur est recouverte de vaisseaux avec une couleur pâle.
+
+L’étude histologique de la pièce

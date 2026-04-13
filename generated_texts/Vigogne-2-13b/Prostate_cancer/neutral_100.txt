@@ -1,0 +1,24 @@
+A.T., 49 ans, était suivi pour pollakiurie et dysurie. Au toucher rectal, on trouvait une volumineuse prostate, dure et irrégulière. Le dosage PSA à 3 reprises a montré un taux normal (1,54 à 2,08 ng/ml).
+
+Une biopsie prostatique écho-guidée a été pratiquée. Le résultat de l’examen macroscopique était en faveur d’un carcinome prostatique. L’immuno-marquage par l'anticorps anti-cytokératine, l'anticorps anti-chromogranine A, l'anticorps anti-mucine, l'anticorps anti-CD56 et l'anticorps anti-desmine muscle lisse était positif et l’anticorps anti-actine muscle lisse, l’anticorps anti-EMA, l’anticorps anti-CD34 et l’anticorps anti-CK7 négatif. Le caractère malignant était confirmé par l’immuno-marquage par l’anticorps anti-PSA. L'immuno-marquage par l’anticorps anticytokératine était positif sur 85% des cellules tumorales, les anticorps anti-CD56 et l’anticorps anti-EMA sur 10%, l’anticorps anti-CD34 sur 20%, l’anticorps anti-PSA sur 15% et les autres anticorps sur moins de 5%.
+
+La morphologie cellulaire de ces cellules tumorales était fusiforme ou indéterminée. Le noyau était volumineux avec des atypies cyto-nucléaires modérées à marquées. Le cytoplasme était abondant et clair à légèrement vacuolaire. Le rapport cytoplasme/noyau était élevé. Le ratio mitose était élevé.
+
+Au total, le carcinome sarcomatoïde de la prostate présente un aspect cribriforme au résultat morphologique. Une tomodensitométrie abdomino-pelvienne a été demandée et montrait pas de localisations secondaires.
+
+Après une cystoprostatectomie et une urostomie continente, l’évolution a été bonne. Aucun signe clinique de localisation secondaire n’a été noté pendant la période d’observation de 2 ans.
+
+### Response:
+Il s’agit de l’examen microscopique d’une biopsie prostatique écho-guidée en faveur d’un carcinome sarcomatoïde prostatique de la prostate.
+
+L’immuno-marquage est réalisé par la technique directe sur des lames de microscopie optique à l’aide d’anticorps anti-cytokératine, anti-chromogranine A, anti-mucine, anti-CD56, anti-PSA, anti-CD34, anti-CD3, anti-EMA, anti-CD20, anti-CD10, anti-CK7, anti-cytokératine, antiactine muscle lisse et anti-desmine muscle lisse.
+
+Le résultat de l’examen macroscopique de la biopsie montre une prostate nodulaire et dure de couleur brunâtre. L’immuno-marquage par l'anticorps anti-cytokératine montre un grand nombre de cellules tumorales, fusiformes, aux noyaux géantes, irréguliers, atypiques. L'immuno-marquage par l'anticorps anti-chromogranine A et l'anticorps anti-mucine montre un grand nombre de cellules tumorales, fusiformes ou ovalaires, à cytoplasme vacuolaire.
+
+L'immuno-marquage par l’anticorps anti-PSA et l’anticorps anti-EMA est négatif. Les immuno-marquages par l'anticorps anti-CD56 et l’anticorps anti-CD34 est positif dans 15% des cellules tumorales.
+
+L’immuno-marquage par l’anticorps anti-PSA est positif. L’anticorps anti-CD56 et l’anticorps anti-EMA sont négatifs. Les immuno-marquages par l’anticorps anti-CD56, l’anticorps anti-CD34, l’anticorps anti-CD3 et l’anticorps anti-PSA est positif dans 50% des cellules tumorales. L’anticorps anti-CD10 est négatif.
+
+L’immuno-marquage par l’anticorps anti-PSA est positif. L’anticorps anti-CD56, l’anticorps anti-CD34, l’anticorps anti-CD3, l’anticorps anti-CD20, l’anticorps anti-CD10 et l’anticorps anti-CD23 sont négatifs. L’anticorps anti-EMA est positif.
+
+L’immuno-marquage par l’anticorps anti-PSA et l’anticorps anti-EM est négatif. L’anticorps anti-CD56, l’anticor

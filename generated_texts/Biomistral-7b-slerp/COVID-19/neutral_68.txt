@@ -1,0 +1,24 @@
+Observation 2 Un homme âgé de 20 ans est admis en mai 2020 dans un service de médecine interne après 7 jours de contact avec son père ayant COVID-19 et présentant une atteinte cutanée au niveau des mains. L’examen clinique trouve un urticaire aigue généralisé avec éruption cutanée généralisée (figure 3).
+
+Un test PCR positif a été réalisé et confirme le diagnostic de COVID-19. L’évolution était marquée par une nette amélioration après 24 heures de traitement à base d’injection d´Etanercept. L’évolution était favorable : l’état général s’est amélioré, la fièvre est dégressée et le patient devient apyrétique, sans détresse respidatoire ni hémodynamique, le bilan biologique était normal. Une tomodensitométrie thoracique est réalisée et ne trouve pas d´infiltrat. Le patient est mis sous hydroxychloroquine et azithromycine.
+
+Le suivi jusqu´à 15 jours après l’admission n’a révélé pas d’évènements adverse. Le patient est considéré comme guéri de la maladie. Les deux observations présentent les mêmes caractéristiques. Les signes cliniques sont peu marqués et évolutifs. L’isolation a été réussie, et le patient a bénéficié d´une intervention immunomodulatrice. L’évolution était favorable dans tous les cas. Le recours au traitement était basé sur une telle urgence, que nous avons opté pour le recours à l’Etanercept, biologique immunomodulateur qui présente un profil sécurisé.
+
+Dans le contexte de pandémie, il est essentiel de noter que les profils des patients, le contexte clinique, l’évolution et le recours aux traitements immunomodulateurs devraient être considérés dans un contexte à visée multidisciplinaire. Cela peut permettre d’améliorer la gestion des cas lors des épisodes de récurrence, ou en cas d’exacerbation voire de nouvel onset dans des profils hautement risqués.
+
+Jusqu’ici, cette observation constitue un cas rare de COVID-19 dans une population à risque: patient souffrant d’une maladie immunodéprimante chronique (le patients a un pourcentage d’adhérence thérapeutique à 85%). Dans le même contexte, on note que le recours à des traitements immunomodulateurs est nécessaire, mais doit être géré en considérant les profiles patients et les évènements adverses associés.
+
+Enfin, l’accent demeure sur la nécessité d’une consultation précoce chez les patients à risque pour faciliter l’identification des cas, la prise en charge rapide et le recours à un mécanisme d’échange d’informations avec des médecins spécialistes dans le cadre d’une meilleure gestion des cas.
+
+Afin de mieux classer les patients, nous avons établi un algorithme de décision dans le tableau suivant (figure 1):
+
+- Algorithme de décision des patients suspects:
+  C|Age|< 60 ans|15 kg/m2|Tabagisme|3>2 ans;
+
+D’autres paramètres peuvent être ajoutés tels que la vaccination contre l’influence et le tabagisme.
+
+Cet algorithme de décision aide à trier les patients en fonction de leur potentiel de contre-indication à la hydroxychloroquine. Par exemple, un patient de 15 kg/m2 serait fortement contre-indiqué à la hydroxychloroquine (sauf cas très exceptionnels). Les autres paramètres font également partie de l’algorithme, ce dernier a comme but d’avoir des scores pour chaque patient afin de prendre une décision ceci dit, les autres paramètres sont très important car c’est eux qui aident à améliorer la formule initiale en diminuant les risques et augmentant l’efficacité de la hydroxychloroquine. Cependant, tout patient a la possibilité d’être traité à haut risque.
+
+Le risque d’administrer de la hydroxychloroquine à certains patients de faible poids (ou très faible poids) est considérable et peut être mortel. La normale en matière de poids est d’environ 70 kg. Et bien que les patients en dessous de 60kg ou 50kg sont très rare, il est possible qu’ils puissent avoir des interactions néfaste avec le médicament. Le tableau 1, présente un groupe d’algorithmes de décision élaborés pour tester la normale et certains cas rares avec des patients extrêmement faibles poids.
+
+Dans l’ensemble, il existe des facteurs importants pour prendre en compte lors de la préscription de la hydroxychloroquine. Dans ce cas, nous avons remarqué l’importance de la dose et la fréquence de l’injection. Il faut prendre en compte, la durée, la sévérité

@@ -1,0 +1,36 @@
+Il s’agit d’un homme de 55 ans marié et père de 2 enfants (2ème pare, 3ème geste), sans antécédent médical particuliers. Il présente depuis 2 ans une œsophagite et asthme corticodépendant sans lésions tuberculeuses pulmonaires. En décembre 2003, il a été hospitalisé pour douleurs abdominales associées à une hématurie. L’échographie abdomino-pelvienne a mis en évidence un processus tissulaire de 100 x 105 mm, sans visualisation du bloc vasculaire, abaissant en ailettes en regard de l’ovaire droit, évoquant un cancer de l’ovaire bilatéral.
+
+Le patient a présenté plusieurs reprises de sa maladie sur des découverts d’hématurie.
+
+Au vu de la banalité du syndrome, le patient a bénéficié d’une cystoscopie en décembre 2003 et une cystectomie en avril 2004.
+
+L’examen anatomo-pathologique de la pièce d’opération était en faveur d’un adénocarcinome séreux peu différencié de grade III de l’OMS.
+
+Au cours du suivi, la cystectomie était bonne avec une récidive de la maladie en novembre 2005 à gauche.
+
+L’échographie hépatique et radio du thorax était normale. Le CA 125 était augmenté à 10 705.
+
+En février 2006, le patient a présenté une diarrhée fébrile associée à une incontinence urinaire totale évoluant depuis quelques jours. Il était altéré et apyrétique, les examens bactériologiques s’étaient révélés négatifs.
+
+L’anamnèse et l’examen clinique ne mettaient pas en évidence de facteurs qui expliquaient la diarrhée.
+
+La biologie montrait une pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3. Une créatininémie à 63 μmol/l, une hyperglycémie à 19.1 mmol/l, une CRP était à 197.
+
+Le patient a été mis sous antibiothérapie à large spectre: pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et transfusion plaquetaire et de globules rouges. Une cystoscopie a été pratiquée objectivant un col irrégulier, granulé avec signe de Russel.
+
+Devant l’irréductibilité de la diarrhée malodorante le patient a bénéficié d’une laparotomie où il avait un mésocol en tapis de granulations hémorragique. Le colon était sensible. Une radiographie du thorax a été normale.
+
+L’examen anatomopathologique était en faveur d’une colite granulomateuse. La bithérapie par méthotrexate et corticothérapie était instaurée.
+
+Le colon est devenu sensible avec une incontinence fécale après 12 mois de laparotomie.
+
+L’échographie hépatique et la radiographie du thorax étaient normales.
+
+Le CA 125 était normalisé. La biopsie de colonne fut en faveur d’un lymphome malin à grandes cellules. Le patient est décédé 10 mois après la biopsie colique.
+
+Le dossier a été accepté par le comité local d’évaluation du droit d’être éclairé.
+
+Après analyse de la pathologie et de la mortalité, un cas par année aurait pu correspondre au cas du patient.
+
+### Response:
+Le malade était le porteur d’une mutation de l’ADN d’une large gamme de gènes majeurs (p53, KRAS, BRAF, PIK3CA, TP53, PTEN). L’ADN épissé à partir de la cellule de la veine porte (VPC) a montré la mutation, étudiée auparavant par la même méthode, et décrite ici. Ceci s’explique par la nature bicellulaire de la VPC et par la quantité élevée d’ADN qu’elle peut produire. Le patient, qui avait reçu un traitement clinique, a été testé pour la réponse sur un terrain supposé différencié, en l’occurrence la VPC. La mutation c.35A > G correspond à une substitution de glycine par serine dans la protéine codée par le gène RAS. Les deux bases participantes à la mutation (adenine et guanine) sont concordantes pour les trois lignées de notre séquence du RAS. La présence des deux bases de secours dans les deux lignées nous a permis d’écarter l’hypothèse d’une altération post-transcriptionnelle de la VPC. De même, le rejet éventuel de la lignée j, laquelle n’a pas produit d’ADN,

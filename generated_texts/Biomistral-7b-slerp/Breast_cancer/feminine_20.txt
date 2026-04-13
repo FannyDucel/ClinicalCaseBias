@@ -1,0 +1,51 @@
+Mme L. âgée de 26 ans, sans antécédents pathologiques particuliers, la patiente est mère d'un enfant évoluant depuis trois ans dans un tableau de prurit généralisé, anomalies de la poilue (débettonnement, épuisement des crachats), la mammographie a révélé une masse au niveau du quadrant supéro interne du sein droit mesurant 6 cm de diamètre, avec des adénopathies axillaires homolatérales.
+
+L'examen clinique à l'admission a trouvé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, d'aspect sphérique mobile indolore au toucher; une adénopathie de 1.5 cm au niveau du creux axillaire droit mobile, d'aspect douloureux à l'examen; un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche, d'aspect douloureux à l'examen.
+
+L'examen dermatologique a trouvé des lésions d'excès pilosité faciale diffuse et du cou ainsi qu'une excroissance cutanée de l'oreille droite d'environ 1cm et de l'orteil du même côté.
+
+L'échographie des deux seins a trouvé une masse tissulaire du quadrant supéro interne du sein droit mesurant 55mm, d'échostructure hétérogène, rehaussée après injection, indistincte par rapport au parenchyme mammaire voisin, associée à d'autres masse hypoéchogènes émoussées, rattachables à des adénopathies axillaires, sans activation des voies draineuses.
+
+Le bilan d'extension n'a pas trouvé d'autres lésions.
+
+Une mastectomie totale bilatérale avec axillotomie droite a été réalisée. Les suites opératoires ont été simples.
+
+L'étude anatomo-pathologique des pièces opératoires a trouvé un carcinome canalaire infiltrant SBR III au niveau des deux seins avec des zones nécrotiques, les deux tumeurs sont électron microscopiquement identiques avec des cellules à cytoplasme éosinophile pourvu de petites vésicules mêlées à des corps vacuoles de type endolysosome. Les récepteurs hormonaux n'ont pas été recherchés car la patiente était négative aux stigmates hormonaux.
+
+Le test de l'HER 2 était négatif.
+
+L'état général a été classé T3N1M0.
+
+La valeur de la CA 15-3 à 81 mui/ml.
+
+Une chimiothérapie néoadjuvante à base de quatre cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m² par mois, suivie de deux cures de docétaxel a été administrée, avec un bon essai initial.
+
+La chimiothérapie et radiothérapie post opératoires ont été réalisées en complément.
+
+Une chimiothérapie adjuvante à base de quatre cures de docétaxel est proposée à la patiente.
+
+L'évolution a été marquée par une récidive locale aux 6 mois.
+
+La radiothérapie a été réalisée avec un recul de 11 mois.
+
+L'évolution à la fin de la radiothérapie est heureuse et la patiente n'a pas présenté de récidive.
+
+A un recul de 12 mois, la patiente est vivante en bon état général.
+
+Le tableau n ° 1 présente les caractéristiques cliniques des patients inclus dans notre étude.
+
+Les données nutritionnelles du groupe malade ont été recueillies lors des consultations, des hospitalisations, des séances de suivi.
+
+Le temps moyen d'attente à la consultation spécialisée était de 16 semaines.
+
+Le récepteur de la hormone anti-Müllerien (AMR) a été testé chez 3 patients seulement.
+
+Le test de l'HER2 n'a pas été réalisé chez tous les patients, à cause des retards dans la rétrospective de la pièce opératoire.
+
+La décision thérapeutique était prise en consultation en préopératoire, soit en séance individuelle, soit en réunion de consensus entre les spécialistes des oncologies médicale et chirurgicale.
+
+Le chiffre des informations manquantes étaient respectivement de 28 et 5 pour les données nutritionales et sur le test HER2.
+
+Le résultat était considéré comme manquant si il était absent dans 2 ou plus des variables analysées.
+
+Afin d'apprécier l'impact du score nutritionnel (NRS2002) sur la survie globale (SVG) et sur le temps à l'évolution à un stade avancé de la maladie (TTE), nous avons utilisé les tests univariés (logit et surv-surv) pour déterminer la différence statistique entre les

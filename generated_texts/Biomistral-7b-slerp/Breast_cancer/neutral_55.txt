@@ -1,0 +1,20 @@
+Une jeune femme âgée de 26 ans, sans antécédents pathologiques particuliers, nulligeste nullipare, avait consulté pour un cancer du sein découvert fortuitement à l'autopalpation, son mère et sœur décédées d'un cancer du sein.
+L'examen physique a objectivé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit et une adénopathie de 1.5 cm au niveau du creux axillaire droit, un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche, la TDM thoraco abdominale était sans particularité.
+La mammographie a été réalisée et qui a montré une opacité bien limitée ronde de 65mm de diamètre, de densité moyenne, située au niveau du quadrant supéro interne du sein droit homolatéral. La calcifications de stade II (BRADS V) sans malignité objectivée au niveau du quadrant supéro externe du sein droit.
+Une microbiopsie des deux lésions cliniques des deux seins a été réalisée objectivant une tumeur qui était un carcinome canalaire infiltrant SBR III, avec des caractéristiques moléculaires défavorable, récepteurs hormonaux négatifs, test de l'HER 2 négatif. Le stade est T3N1M0 selon la classification TNM.
+La tumeur était en extinction post opératoire de CA 15-3 à 81 mui/ml. Une chimiothérapie néoadjuvante, à base de four cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m², et deux cures de docétaxel à 60mg/m², et une radiothérapie a été pratiquée sur toute la paroi thoracique droite en extinction post opératoire.
+L'excision du quadrant supéro externe du sein gauche qui a été découvert durant la prise en charge de l'autre tumeur a objectivé une tumeur sans les autres critères de malignité, l'excision du quadrant supéro interne du sein droit avec l'excision de la totalité des adénopathies a été réalisée, chirurgie radicale type Patey bilatéral, suivie d'une chimiothérapie et radiothérapie post opératoires, 4 cures de docétaxel, et une radiothérapie de la partie supérieure de la paroi thoracique et le pan creux axillaire.
+Après six mois le patiente s'est vue en amélioration clinique et radiologique, sans aucune récidive locale, sans aucune récidive et sans signes cliniques d'une récidive régulièrement suivie.
+Le recul est de six mois.
+Méthode chirurgicale
+L'examen physique a objectivé un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche, une adénopathie de 1.5 cm au niveau du creux axillaire droit.
+Un examen dermatologique, barium et ultrason, ainsi qu'une mammographie et une TDM thoraco abdominale était sans particularité.
+La mammographie objectivait une opacité bien limitée ronde de 65mm de diamètre, de densité moyenne, située au niveau du quadrant supéro interne du sein droit homolatéral. La calcifications de stade II (BRADS V) et une infiltration des glandes mammaires à droite. L'association de ces caractéristiques cliniques et radiologiques, ainsi que la présence de nodule secondaire au sein gauche, sont de façon typique de cancer du sein.
+Une microbiopsie des deux lésions cliniques des deux seins a été réalisée objectivant une tumeur qui était un carcinome canalaire infiltrant SBR III, à cellules infiltrantes (grade III de Scarff Bloom Richéson), avec des caractéristiques moléculaires défavorable, récepteurs hormonaux négatifs, test de l'HER 2 négatif. Le stade est T3N1M0 selon la classification TNM.
+La tumeur était en extinction post opératoire de CA 15-3 à 81 mui/ml.
+Les traitements étaient : une chimiothérapie néoadjuvante, à base de quatre cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m², et deux cures de docétaxel à 60mg/m², et une radiothérapie post opératoire sur toute la paroi thoracique droite, dans une zone supérieure à la zone de réséqués sur la maste droite, et les deux lèvres des aires mammaires supérieure et inférieure.
+ Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 43 ;
+Il doit contenir les éléments suivants :
+80 kg ; douleurs d'allure pyogène

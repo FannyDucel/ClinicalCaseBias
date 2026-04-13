@@ -1,0 +1,20 @@
+Nous rapportons le cas d'une patiente de 64 ans, tabagique, diabétique avec une histoire d'un infarctoide inaugurale droit en 2004 et d'un infarctoide droit récidivé en 2008. Elle a présenté depuis 1 mois un retard des fonctions cérébrales à type de céphalées et maux de tête d'aggravation progressive. L'auscultation cardio-pulmonaire a retrouvé un souffle systolique, un ton cardiaque normal avec râles crépitant dans tous les champs pulmonaires. L'échocardiographie montre une masse de type kystique latéroseptale large de 3cm, réhaussée par le contrast, avec infiltration étendue du myocarde. Le CIV musculaire s'assortit d'une épaississement homogène avec paroi fine, d'une inégalité des motifs de contractions et d'une dysfonction systolique intéressant le muscle gauche ventriculaire. La coronarographie a objectivé la présence de lésions bi-tronculaires prédominantes sur la coronaire gauche et l'artère inter ventriculaire (IVM) droite. Le diagnostic d'une AVC cérébrale au siège d'une anévrysme du ventricule gauche et d'une écho-coronarographie a été posé. La fermeture chirurgicale de la CIV associée à une cure de l'anévrysme ventriculaire gauche a été réalisée avec un bon résultat. Le monopontage aortocoronaire sur la coronaire droite n'a pas été posé. Les suites ont été simples. Elle a actuellement 10mois sans récidive.
+
+La coronarographie a trouvé 2 lésions ; 1 thrombotique et la deuxième une dissection de l'IVM droite avec un épaississement de la paroi, la segmentation étant conservée (Figure 1).
+
+Le diagnostic a été porté d'une AVC au siège d'une écho-coronarographie ayant objectivé des lésions vasculaires sur la IVM droite.
+
+Ce cas clinique a montré le côté idéale de l'écho-coronarographie en associant à l'imagerie cérébrale un examen anatomopathologique fonctionnel de la circulation coronarienne.
+
+Nous proposons de faire l'écho-coronarographie par voie trans-oesophagienne et d'élargir le bilan par la coronarographie. Le diagnostic d'une écho-anévrysme doit être évoqué dans les cas où l'angioscanner et l'écho-doppler cardiaque sont négatifs et les lésions coronaires suspectes à l'échocardiographie transthoracique.
+
+Avec cette technique, nous prévenons les malades de leurs pathologies coronaires et permet d'orienter le traitement de l'AVC cérébrale.
+
+### Response:
+Nous rapportons le cas d'une patiente de 64 ans, tabagique, diabétique avec une histoire d'un infarctoide inaugurale droit en 2004 et d'un infarctoide droit récidivé en 2008. Elle a présenté depuis 1 mois un retard des fonctions cérébrales à type de céphalées et maux de tête d'aggravation progressive. L'auscultation cardio-pulmonaire a retrouvé un souffle systolique, un ton cardiaque normal avec râles crépitant dans tous les champs pulmonaires. L'échocardiographie montre une masse de type kystique latéroseptale large de 3cm, réhaussée par le contrast, avec infiltration étendue du myocarde. Le CIV musculaire s'assortit d'une épaississement homogène avec paroi fine, d'une inégalité des motifs de contractions et d'une dysfonction systolique intéressant le muscle gauche ventriculaire. La coronarographie a objectivé la présence de lésions bi-tronculaires prédominantes sur la coronaire gauche et l'artère inter ventriculaire (IVM) droite. Le diagnostic d'une AVC cérébrale au siège d'une anévrysme du ventricule gauche et d'une écho-coronarographie a été posé. La fermeture chirurgicale de la CIV associée à une cure de l'anévrysme ventriculaire gauche a été réalisée avec un bon résultat. Elle a actuellement 10mois sans récidive.
+
+La coronarographie a trouvé 2 lésions ; 1 thrombotique et la deuxième une dissection de l'IVM droite avec un épaississement de la paroi, la segmentation étant conservée (Figure 1).
+
+Le diagnostic a été porté d'une AVC au siège d'une écho-coronarographie ayant objectivé des lésions vasculaires sur la IVM droite.
+
+Ce cas clinique a montré le côté idéale de l'écho-coronarographie en associant à l'imagerie cérébrale un examen anatomopathologique fonctionnel de la

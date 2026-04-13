@@ -1,0 +1,44 @@
+Observation 2: Le patient M.M, âgé de 64 ans, sans antécédents cardiovasculaires, tabagique chronique et diabétique sous traitement. Il a présenté un infarctoide inaugurale à l'âge de 55 ans (IDM circonférentiel non thrombolysé) suivi d'une bonne évolution clinique et fonctionnelle, deux ans plus tard le patient présente un nouveau tableau clinique avec des douleurs thoraciques paroxystiques des exercices mais normales au repos, arrêt des pouls percutanés dans le territoire thoracique droit et indifférent. L'auscultation cardio-pulmonaire objective un souffle systolique isolé dans les deux champs vasculaires, le pulmonaire est sans particularité. Le reste de l'examen clinique est normal en particulier l'abdomen. Le patient ne souffre d'aucune complication fonctionnelle de son IDM circonférentiel. Au plan biologique, le bilan de panell est normal en particulier le bilan de crase et le TSH. L'échocardiographie objective une CIV musculaire modérée avec un ventricule gauche non dilaté, une kinésiographie montrant une akinésie apicale et inféroseptale, à l'angiographie et une dysfonction systolique des segments antéro-septales. La coronarographie confirme la prescence de lésions bi-tronculaires (malformation du territoire coronarien antérieur droit et de l'inférieure gauche avec un anévrysme du ventricule gauche. Le traitement chirurgicale est une fermeture chirurgicale de la CIV et une cure de l'anévrysme ventriculaire gauche par un monopontage aortocoronaire sur la coronaire droite. Les suites post-opératoires étaient simples. A l'evaluation post-opératoire clinique et fonctionnelle l'état clinique du patient est devenu normal avec disparition des douleurs thoraciques, un bon épuisement des pouls pulmonaires et disparition du souffle systolique dans les deux champs vasculaires.
+La cardiopathie ischémique circonférentielle et ischémie ventriculaire gauche sont, alors, améliorées. Devant ce tableau clinique et sur le plan échocardiographique la malformation pulmonaire primordiale était opérée alors la fermeture chirurgicale de la CIV est posée associée à la cure de l'anévrysme ventriculaire gauche. Le patient suivi à deux ans de recul et il n'a présenté aucun symptôme cardiovasculaire.
+En conclusion ce patient présentant une cardiopathie ischémique circonférentielle et un anévrysme ventriculaire gauche, a bénéficié d'une fermeture chirurgicale de la CIV et d'une cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite. L'évolution à deux ans est marquée par la disparition des douleurs thoraciques et des signes cliniques et échocardiographiques de dysfonction systolique.
+Table 1: Tableau récapitulatif
+Nombre des cas: 3
+P: 1
+D: 1
+DM: 0
+IDM: 1
+Hypertendu: 0
+Créateur de souffle systolique: 2
+CIV: 2
+anévrysme du ventricule gauche: 1
+Moyenne du recul: 50.33 mois
+Prolongé : 1
+Hypertendu bien contrôlé: 0
+Créateur de souffle systolique modéré: 2
+CIV et anévrysme du ventricule gauche : 1
+Fermeture chirurgicale de la CIV: 2
+Monopontage aortocoronaire sur la coronaire droite: 1
+Couverture de l'anévrysme du ventricule gauche: 1
+Absence de récidive: 1
+Hospitalisation prolongée : 1
+Rechute : 0
+Reprises de douleurs thoraciques: 1
+Tous les critères d'évaluation: 1
+Six mois : 1
+Bien évité: 1
+Évaluation fonctionnelle: 1
+Normale: 1
+Créateurs de souffle systolique: 0
+Impériquement: 0
+Créateurs de souffles: 0
+Maladies: 0
+Troubles du rythme cardiaque: 0
+Une ou plusieurs: 0
+Un ou plusieurs: 0
+Coronographie: 1
+CIV chirurgicale: 2
+Intervention chirurgicale: 2
+Aneurysme ventriculaire gauche: 1
+Troubles dysfonctionnels: 0
+Tonus spongieux des muscles extériorisateurs des orbites. C'est une maladie manifestant des dystonies précoce par une faible tolérance aux efforts, une dysarthrie très fréquente et une dysphagie acharnée. Les manifestes cardiaques sont peu fréquents mais incluent, notamment, des bradycardies fonctionnelles au repos, des pauses cardiaques et des rythmes paroxystiques supraventriculaires (RSV). Les autres signes cliniques sont des troubles du tonus des muscles lisses. Il s'associe, souvent, à des troubles intellectuels légers.
+La famille, notamment l'arbre généalogique, n

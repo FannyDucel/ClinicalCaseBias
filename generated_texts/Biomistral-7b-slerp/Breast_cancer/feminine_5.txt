@@ -1,0 +1,26 @@
+Il s'agit d'une jeune patiente âgée de 26 ans, sans antécédents pathologiques particuliers, primipare, non allaitatrice, non fumatrice, ni alcoolo-toxique, mariée et nulligeste nullipare dont ses parents sont décédés d'un cancer du sein et sa mère et sœur sont décédées d'un cancer du sein, sans l'intervention de biopsie ni d'hémostase en termes de pathologie génétique dans la famille. Elle a consulté pour la découverte, sur un mammographe de contrôle, d'un nodule de 6 cm au niveau du quadrant supéro interne du sein droit dont l'évolution était rapide. L'examen clinique a trouvé une tuméfaction du quadrant supéro interne du sein droit d'environ 7cm/6cm, dure, fixe au niveau du quadrant supéro interne du sein droit et la présence d'une adénopathie de 1.5 cm au niveau du creux axillaire droit ( Figure 1 ), et d'un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche fixe et mobile par rapport au plan profond ( Figure 2 ). Le bilan d'extension était négatif. A la mammographie, la tumeur du sein droit était de type BIRADS V; la tumeur du sein gauche était de type BIRADS IV. La microbiopsie des deux lésions cliniques des deux seins avait révélé un carcinome canalaire infiltrant SBR III. La tumeur était double lobe, l'organisation architecturale était diffuse; son cytologie était carcinomateuse. Elle était héterogène avec des régions d'atypie cellulaire à cellules discoïdes avec d'autres régions d'architecture trabéculaire ou palléolobulée avec des lobules canalaire et des espaces centraux caséo-fibreux et des chromatines et des plages de liquéfaction par nécrose de 20%. A l'immunohistochimie, les récepteurs hormonaux étaient négatifs et le test de l'HER 2 était négatif. A l'analyse anatomopathologique, la tumeur était classée T3N1M0. La CA 15-3 à 81 mui/ml. Elle a été adressée au service de radiothérapie pour chimiothérapie néoadjuvante à base de quatre cures d'Adriamycine 50mg/m² et cyclophosphamide 500mg/m² à partir du 13/06/2007 puis deux cures de docétaxel à partir du 24/07/2007. La tumeur n'a pas répondu aux traitements et elle est passée en chimiothérapie palliative à base de 4 cures de docétaxel à partir du 24/07/2007. Devant la progression de la tumeur et sa localisation bilatérale, elle est adressée pour chirurgie radicale type Patey bilatéral et radiothérapie en supplément à partir du 24/09/2007 à raison de 25 fraction à 1.8 Gy chaque jour. Elle est ensuite perdue de vue.
+Pour ce patiente, 580 minutes par jour ont été dépensées.
+La durée de séjour à l'hôpital pour cette patiente était de 72 jours.
+Le coût global des soins était de 10.730.692 DA.
+A la patiente seront nécessaires :
+- 4596 minutés d'Anecdote
+- 260 minutés d'Imagerie à rayons X
+- 1448 minutés d'Imagerie à l'échographie mammaire
+- 686 minutés d'Imagerie à la mammographie
+- 402 minutés d'Examen Oculaire
+- 40 minutés de Fonctionnement Cardiaque
+- 284 minutés de Recueil d'Ancien Traitement
+- 4 minutés d'Examen du Col de l'Uterus
+- 2 minutes d'Examen Gonadique
+- 2 minutes de Recueil de Pouvoirs de Procédure Médicale et d'Informations Générales
+- 1 minute d'Examen d'Abdomen
+- 1 minute de Recueil de l'Histoire Naturelle
+- 1 minute de Pertinences Biologiques
+- 1 minute de Recueil de Pertinences Biologiques pour l'Ancien Traitement
+- 1 minute d'Examen du Thyroïde
+- 40 secondes de Recueil d'Anamnèse Générale
+- 40 secondes de Recueil de Pertinences Biologiques pour l'Ancien Traitement
+- 40 secondes de Recueil des Signes Symptomatiques
+- 20 secondes de Recueil du Tableau Clinique
+- 20 secondes de Recueil des Connaissances du Patient sur son Dermochapus
+- 20 secondes d'Examen de l'Abdomen

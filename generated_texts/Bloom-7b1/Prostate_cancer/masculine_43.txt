@@ -1,0 +1,30 @@
+Un homme de 49 ans consulte pour douleurs périnéales, dysurie, pollakiurie et dysfonction érectile. L'examen clinique a trouvé un patient apyrétique, à un PSA à 1,62 ng/mL, un toucher rectal a trouvé une volumineuse prostate, dure et irrégulière et l'examen clinique des aires ganglionnaires a été normal.
+
+La biologie a montré un taux de prothrombine et des globules blancs normal. Le dosage PSA à 3 reprises a montré un taux normal.
+
+La biopsie prostatique écho-guidée est revenue en faveur de la présence d’un carcinome à cellules sarcomatoïde grade 2 selon la classification de Gleason.
+
+Après immuno-marquage par l’anticorps anti-cytokératine, on a trouvé un marquage positif de nombreuses cellules tumorales. Par ailleurs, après immuno-marquage par l’anticorps antiactine muscle lisse, on a observé un marquage négatif des cellules tumorales, et après immuno-marquage par l’anticorps anti-desmine muscle lisse, on n’a pas noté de marquage positif des cellules tumorales.
+
+Un carcinome sarcomatoïde de la prostate a été ainsi diagnostiqué, la tomodensitométrie abdomino-pelvienne a été normal et il n'a pas été trouvé de localisations secondaires. Après avoir été mis au courant sur les risques et les bénéfices de la thérapeutique, le patient a été opéré par une cystoprostatectomie sans urostomie continente.
+
+L’étude histologique de la pièce opératoire a été en faveur d’un carcinome sarcomatoïde de la prostate avec présence de très petits foyers de carcinome prostatique. L’étude immunohistochimique est revenue en faveur de la présence d’un tissu néoplasique qui n'exprime pas le PSA, mais qui exprime de nombreuses cellules tumorales la cytokératine, l'anticorps antiactine muscle lisse et l'anticorps anti-desmine muscle lisse.
+
+Une étude cytogénétique a été demandée pour vérifier qu’il s’agit bien d’un carcinome sarcomatoïde de la prostate.
+
+Un contrôle radiologique a été effectué après trois mois, il n’a pas été constaté de récidive locale et la tomodensitométrie abdomino-pelvienne n’a pas montré de localisations secondaires.
+Il a été traité par une radiothérapie sur la loge et par une hormonothérapie, son bilan de contrôle a été normal après trois mois.
+Le patient est toujours sous surveillance avec un recul de deux ans, aucune récidive n’a été notée. Le PSA a chuté à 0,7 ng/mL.
+Le patient n’a plus aucun antécédent et n’a pas noté de complications sous traitement, à un recul de deux ans.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 11 ;
+Il doit contenir les éléments suivants :
+maladie ; particulièrement marqué ; otites chroniques bilatérales ; surdité bilatérale ; examen physique ; bilan osseux ; cliché bilatéral ; otite bilatérale ; opacification de la mastoïde ; une des deux mastoïdes ; otite bilatérale postérieure ; otite bilatérale calcifiante ; otites calcifiantes ; fait ; paracétamol ; tétanos ; muqueuse ; électromyogramme ; résection de la partie calcifiée de la mastoïde ; germes aérobies ; germes anaérobies ; sensibilité ; macrocyclines ; otites bilatérales calcifiantes.
+Un garçon âgé de 11 ans a consulté pour des épisodes de crises douloureuses du plexus brachial droit, avec impotence fonctionnelle et signes vasculaires (douleurs, angor, troubles du rythme cardiaque) sur fond de fièvre et avec la notion de crises répétés de sensation de chaleur et d’éclatement au niveau de la face pendant plusieurs jours, sans vomissements. Ce patient présentait par ailleurs une maladie de Rendu-Osler (MRO) et un syndrome de Raynaud, ce dernier étant particulièrement marqué et ayant duré au moins deux ans. L’examen physique a trouvé une surdité bilatérale, un premier bruit tympanique au niveau de la cochlée droite et au niveau de la tympanométrie, des pertes d’amplitudes plus marquées au niveau de la droite. Le bilan osseux, a montré la présence d’une opacité de la mastoïde et de la base du crâne au cliché bilatéral. Le patient était opéré, sur indication du chirurgien ORL. Une exploration était effectuée et avait montré une perforation de la mastoïde droite par une masse calcifiante. Une biopsie de la masse était effectuée et a montré une prolifération tumorale maligne à cellules géantes, indifférenciées, à forte atypie, avec un immunomarquage positif des anticorps anti-cytokératine, anti-CD99 et anti-vimentine, absence de marquage avec les anticorps anti-CD34, anti-CD45 et anti-érythropoïétine, et marquage des cytokératines exprimées par les cellules tumorales.
+
+Ce phénotype tumoral était compatible avec un sarcome indifférencié à cellules géantes. Une tomodensitométrie et une échographie du crâne ont montré la présence d’otites calcifiantes bilatérales en rapport avec une destruction de la base crânienne et de la mastoïde, avec destruction partielle de la capsule osseuse et des canaux semi-circulaires.
+
+L’échographie et la tomodensitométrie abdominale et pelvienne, ne montraient pas de métastases, le bilan d’extension est revenu négatif. Le phénotype tumoral était compatible avec un sarcome indifférencié à cellules géantes. Les prélèvements biopsiques effectués sur le sarcome de la mastoïde droite étaient revenus positifs, on a suspecté ainsi une récidive de la maladie, mais il s’agit bien d’une récidive primaire (classée pT2). L’envoi en anatomopathologie de la pièce opératoire a conclu au sarcome indifférencié à cellules géantes.
+
+Le diagnostic de fait était un sarcome indifférencié à cellules géantes des deux mastoïdes, compliquant des

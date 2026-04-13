@@ -1,0 +1,51 @@
+Il s’agit d’une patiente âgée de 20 ans qui a eu un contact avec son père ayant COVID-19 par voie orale. En effet, il s’est rapidement incubé de la fièvre à 39,5°C. A son admission, il a présenté une toux sèche et une fatigue. Dans les 14 jours qui suivent, le père a été retrouvé décédé. Depuis, la patiente présente une atteinte cutanée au niveau des mains, des épaules et des genoux. Elle rapporte des urticaire aigue avec démangeaisons et aggravations fréquentes de la fièvre. L’évolution a été marquée par des aggravations paroxystiques de la fièvre et une déshydratation. Une tomodensitométrie thoracique a été réalisée et a montré pas d´infiltrat. Devant la persistance de ce tableau de déshydratation, la patiente a été traitée par de la hydroxychloroquine (500 mg une fois par jour) et de l´azithromycine. L’évolution était marquée par la régression de l’urticaire aigue et une amélioration de la déshydratation. Deux semaines plus tard, l´examen clinique retrouvait une régression complète des lésions cutanées et une amélioration marquée de l’état clinique (signaux vitaux stabilisés, Glasgow au dixième degré et une seule insufﬁ cience respiratoire).
+
+Dans le but de mener une réflexion de fond sur les aspects macroscopiques et microscopiques de cette affection et ainsi avoir une perspective diagnostique, nous allons nous baser sur les recommandations du Global Network of Inflammatory Disease (GNID) [43]. L’inflammation cutanée peut être définie par un agrégat d´une hydrétrine et d´une protéine muqueuse impliquées dans la composition de la muqueuse cutanée [44]. Cette hydrétrine est une matrice extracellulaire constituée d´un grand nombre d´élements protéiques hétérogènes, associés à des glycoprotéines telles que la sénosine (serum protein A) ou la sénascine, l´azurène et le collagène (collagène type I) par exemple. Elle est caractérisée par des éléments inflammatoires : de type fibrinogène, thrombopoiétine et de type C3 (collagène 3). La protéine muqueuse est elle-même constituée de protéines musculaires lisses (mucine, smooth muscle actin), de protéines circulantes telles que la protéine kallikrein, de sérum urique et de bicarbonates [45]. Ces éléments montrent qu´une infection virale est inéluctable et ne permettent pas d´identifier avec certitude l’origine de la réaction cutanée. Ces critères ne sont pas applicables à la dermatite herpétique ou à la dermatite atopique [43]. De plus, la différentiation de la dermatite herpétique et de la dermatite atopique est difficile sur le plan clinique. Pourtant, nous allons préciser ci-dessous les critères diagnostiques pouvant être appliqués à la dermatite herpétique [43]. Ainsi, la dermatite herpétique est caractérisée par :
+un film cutané inflammatoire (principalement éosinophiles, de type infiltratif) ;
+la présence d´infections bactériennes de type staphylocoque avec formation de nodules cutanés au niveau des structures folliculaires;
+une toux sèche ;
+des lésions érythémateuses ;
+une fièvre ;
+des plaques nodulaires au niveau des membres ;
+la présence d´un infiltrat lymphocytaire ;
+le prurit cutané ;
+une dermite paralytique ;
+une desquamation cutanée ;
+une sensibilité à l´acétaminophène ;
+un test de dépistage HPV;
+un antécédent de dermatite atopique;
+une sensibilisation au peroxyde d´hydrogène;
+les aérosols produits par des résidents de la région;
+la présence d´histamine dans les miction ;
+une clinique symptomatique (d`emblée chez ces patients);
+la présence d`anticorps dirigés contre la protéine sérique de l´hôte (PSAH);
+les radiographies thoraciques et abdominales;
+une recherche de dystrophie musculaire;
+un lavage gastrique;
+un traitement antimicrobien;
+l´utilisation d´aspirateurs à mèche haut diamètre;
+une thermothérapie externe des zones lésées.
+En conclusion, elle est caractérisée par :
+un film cutané inflammatoire polymorphe ;
+une prise d´antalgiques ;
+une contagion de sa mère ;
+une altération de l’état général;
+des plaques au niveau des membres ;
+des urines de couleur jaunâtre ;
+de l’urticaire ;
+une douleur à l`acte urinaire ;
+un œdème sous conjonctival ;
+un profil antigénique à risque d’être infecté par le VIH;
+une prédisposition à des maladies dermatologiques ;
+une sensibilité excessive au peroxyde d´hydrogène ;
+l’utilisation d´aspirateurs à mèche haut diamètre ;
+la présence d´anticorps dirigés contre la protéine sérique de l´hôte (PSAH) ;
+les radiographies thoraciques et abdominales ;
+des dystrophies musculaires congénitales ;
+un autre déterminant de l’acquisition d’une immunodéficience ;
+une sensibilisation au peroxyde d´hydrogène ;
+d’autres antigènes comme l’accepole ;
+des bronchodilatateurs rhinosinusiens ;
+des contre-indications à l’hydrocortisone ;
+de nombreux arguments en faveur d’un aérosol et non d´une infection virale.
+D´après ces éléments, nous pouvons conclure que cette patiente est atteinte d´une dermatite cutanée diff&eacute;rente de la dermatite herpétique (ELHD). La dermatite des piqures d’abeilles semble donc être une autre possibilité d’infection mais dont les manifestations cliniques sont très semblables. En effet, la dermatite piquerexposition est définie

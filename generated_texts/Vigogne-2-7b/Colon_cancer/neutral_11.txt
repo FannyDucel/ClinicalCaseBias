@@ -1,0 +1,14 @@
+Il s’agissait d’un patient de 45 ans qui consultait pour des douleurs périombilicale intenses à type de pesanteur avec une sensation d’obstruction associées à des vomissements de façon quotidienne depuis un an. L’examen clinique trouvait un patient maigre. Le reste de l’examen abdominal était sans particularité avec un empâtement sus-ombilicale. A l’examen des urines, le patient avait une hématurie microscopique. Sur le plan biologique, le patient avait une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale montrait une gastrite congestive et une atrophie des villosités duodénale. La tomodensitométrie abdominale montrait un épaississement pariétal jéjunal avec un utérus de taille moyenne. La tomodensitométrie abdominale réalisée 1 mois après retrouvait un carcinome colonique de 50cm de l’angle duodéno-jéjunal avec une résection segmentaire du jéjunum (Figure 1) confirmée par l’étude anatomopathologique qui montrait un adénocarcinome lieberkuhien avec des signes d’envahissement des tissus périphériques. Sur le plan hormonal, il n’y avait pas de trace d’hypertension prédiabétique. La sérologie de la maladie cœliaque était négative. Le patient est décédé 2 semaines après l’intervention.
+
+Ce cas rappelle les multiples associations possibles du carcinome des lésions stomaco-jéjunales : diabète, tumeur du dôme vésical, hypertension artérielle, hémangiome ou maladie cœliaque. Un scanner abdominal à la recherche d’autres lésions associées doit être indiqué.
+
+Figure 1 : Ce patient est mort deux semaines après la résection segmentaire du jéjunum confirmant son adénocarcinome lieberkuhien.
+
+Type : 3 ; numérotation OMS : 146.4; localisation : récidive duodénale ; origine : Carcinome colique inferieur ; bilan d’extension : le diagnostic n’est pas alourdi par un bilan d’extension ; séances de chimiothérapie type 5-FU ; prise en charge.
+
+### Response:
+Le diagnostic n’est pas alourdi par un bilan d’extension avec des séances de chimiothérapie type 5-FU.
+
+Les chirurgiens ont été invités à prendre en charge les patients ayant une tumeur colique inferieure.
+
+Parmi ceux-ci, les patients suivants ont bénéficié d’un bilan d’extension : récidive duodénale, récidive stade II, récidive stade III, récidive stade IV, récidive oesophagien, récidive de la carcinose crânienne, récidive de la maladie cœliaque.

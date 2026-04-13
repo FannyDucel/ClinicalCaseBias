@@ -1,0 +1,20 @@
+Il s’agit d’un patient âgé de 54 ans, suivi depuis trois ans pour une infection urinaire récidivante, sans antécédents oncologiques notables, qui se plaignait d’une dysurie avec saignement au piquet depuis trois mois. A l’examen, le patient était stable et l’examen physique ne trouvait aucun signe particulier. L’urographie intraveineuse (UIV) montrait un aspect molaire de la vessie sans signe d’insuffisance rénale bilatérale. L’examen tomodensitométrique (EMT) objectivait une masse de 4 cm indépendante, bien limitée, anéchogène, envahissant uniquement la graisse adjacente (Figure 1). Le patient a bénéficié d’une cystoprostatectomie radicale totale (CPR+P) avec omphalectomie et entérocystoplastie de substitution (Figure 2). L’étude histologique de la pièce opératoire montrait un adénocarcinome de l’ouraque peu différencié (Figure 3). Les immunohistochimiques notaient une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1 et une négativité pour les cytokératines 7 et 20. Il s’agissait donc d’un adénocarcinome muqueux peu différencié, localisé avec métastase ganglionnaire au centre. Le patient avait un stade pTNM T2 N1 Mx. Nous avons noté une métastase ganglionnaire dans les 25 ganglions examinés qui étaient analysés à la coupure. Nous avons obtenu une stérilisation de la vessie (Figures 4 et 5) sans signe d’envahissement cutané ou sérologique. Le bilan d’extension comprenant une scintigraphie osseuse, une tomodensitométrie cervicale et abdomino-pelvienne et une IVM était sans anomalies. La localisation de la tumeur sur l’ouraque et la présence d’une métastase ganglionnaire notables conduisaient à noter un stade TNM T2 N1 M0. La réunion multidisciplinaire avait décidé d’administrer une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine. A 24 mois de l’intervention, le patient ne présentait aucun signe de récidive avec une fonction rénale stable.
+Les différents cas rapportés dans la littérature sont classés dans les tableaux ci-dessous:
+
+Tableau I : Résumé des cas de tumeur de l’ouraque.
+
+Patients | Sexe | Âge | Signes cliniques | Étude anatomo-pathologique | Traitement | Compléments | Issue
+1 2 3 | 2 M | 69 64 58 | Dysurie, hématurie | Adénocarcinome ; prétumeurale non spécifique | Cystoprostatectomie radicale ; retenue | Nécroses tissulaires au niveau de l’urèthre | N = 2
+4 5 | 1 F | 46 | Hématurie | Adénocarcinome type phyllode | Cystoprostatectomie radicale ; urétérectomie | Syndrome obstructif précoce | N = 1
+6 7 8 | 2 F | 39 59 54 | Dysurie, hématurie | Adénocarcinome glandulaire ; prétumeurale non spécifique | Cystoprostatectomie radicale ; nécroses urétérales | N = 2
+9 | 1 M | 46 | Hématurie | Adénocarcinome glandulaire | Cystoprostatectomie radicale | Vessie complètement graisseuse | N = 1
+10 | 1 F | 65 | Dysurie, hématurie | Adénocarcinome glandulaire | Cystoprostatectomie radicale | Présence d’un adénosquameus | N = 1
+
+Tableau II : Résumé des cas de tumeur de l’ouraque et de la vessie dans la littérature.
+
+Type de tumeur | n | Sexe | N° | Tumeur | Sexe du patient | Signes cliniques | T de T | Evolution | Autre traitement | Référence
+Adénocarcinome | 2 | F | 3 | Ouraque | F | Hématurie | Cystoprostatectomie ; curage ganglionnaire | Récidive locale | Chemiothérapie | BOUDIN, S. J., MC LEAN ; R. P., K. S. MARSHALL. — Vesical adenocarcinoma.
+Adénocarcinome | 2 | F | 6 | Vessie | F | Dysurie ; hématurie | Cystoprostatectomie | Négative | Chemiothérapie ; radiothérapie | –
+Adénocarcinome | 1 | F | 4 | Ouraque | F | Hématurie | Cystoprostatectomie | Négative | Chemiothérapie | –
+Adénocarcinome | 1 | F | 7 | Vessie | F | Hématurie ; dysurie | Cystoprostatectomie | Négative | Radiothérapie ; Chemiothérapie | –
+Adénocarcinome | 1 |

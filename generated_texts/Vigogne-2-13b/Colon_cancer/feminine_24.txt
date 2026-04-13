@@ -1,0 +1,20 @@
+Mme M.R., 45 ans, a consulté en urgence pour des douleurs périombilicale intenses accompagnées de vomissements avec une pesanteur et une altération de l’état général. L’examen clinique met en évidence un empâtement sus-ombilical. Les examens biologiques ont montré une anémie à 9g/dl d’hémoglobine avec une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale a montré une gastrite congestive avec une atrophie des villosités duodénale. La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal entre 50cm de l’angle duodéno-jéjunal (Fig.1) et un épanchement péritonéal prenant tout le cul de sac retro-péritonéal.
+
+Une laparotomie a été réalisée. Une résection segmentaire du jéjunum et de la tête duodénale jusqu’à la coupure du mésentère a été effectuée (Fig.2, Fig.3, Fig.4). L’étude anatomopathologique de la pièce opératoire a conclue à un adénocarcinome lieberkuhien de haut grade et l’examen immunohistochimique a posé le diagnostic de maladie cœliaque.
+
+### Response:
+La maladie cœliaque est une maladie auto-immune génétique, gluten-indépendante, affectant 1/200 à 1/300 personnes, représentant une des formes les plus fréquentes de l’inflammation chronique intestinale. Elle a été décrite au 19ème siècle par Coelius Aurelianus (2). Cette maladie se caractérise par une mucite (très large) de la paroi intestinale intestinal, provoquée par une intolérance aux gliadines, prolamines présentes dans le gluten de blé dur, d’orge, de seigle, de sarrasin et de riz japonais. La symptomatologie peut être très variable allant d’une symptomatologie digestive (douleurs abdominales, flatulences, constipation) à une symptomatologie extra-digestive (vitiligo, diabète mellitus, arthrite, dysplasie médullaire, malabsorption, osteoporose, hypogonadisme).
+
+Les malades décèdent ou développent une récidive aiguë du syndrome diarrhée-douleurs abdominales (11). L’examen du vomi, du stool, la recherche des anticorps anti-gliadine (EmA) et tissues transglutaminase (TG2) sont essentiels dans le diagnostic du syndrome cœliaque. Mais ces examens ne permettent pas de détecter toutes les formes latentes de la maladie cœliaque (5). Des formes asymptomatiques de la maladie cœliaque ont été rapportées au cours des études familiales sur les patients en raison de la prévalence de la maladie cœliaque dans les populations de première génération d’origine arabe (3).
+
+De ce fait, la réalisation d’un bilan positif au cœliac dans la pratique clinique pourrait être bénéfique pour des maladies chroniques à étiologie indéterminée.
+
+La tomodensitométrie abdominale joue un rôle important dans le diagnostic de la maladie cœliaque. Dans plusieurs études (3), la tomodensitométrie abdominale a montré un épaississement intestinal prédominant au niveau de la moitié du jéjunum. Dans notre cas, l’épaississement pariétal jéjunal a été montré et confirmatif. Il s’agit d’une observation rare et qui n’a été rapporté que dans 4 cas. La résection segmentaire du jéjunum dans les suites de la maladie cœliaque a été déjà rapportée par Khedhiri et son équipe dans une étiologie chimique indéterminée (7). Nous avons éliminé la possibilité d’un adénocarcinome lieberkuhien en confirmant le diagnostic d’un adénopathie épiploïque par l’étude histologique.
+
+En conclusion, la maladie cœliaque est une cause possible de diagnostic post-opératoire d’un adénocarcinome lieberkuhien dans les suites d’une résection du jéjunum pour une masse pariétale jéjunale. Ceci a permis de compléter le diagnostic d’une maladie cœliaque par une étude histologique en l’absence d’un bilan positif du diagnostic.
+
+Il s’agit donc d’un cas rare d’une résection segmentaire du jéjunum en chirurgie viscérale pour une maladie cœliaque.
+
+Il est important de déterminer le diagnostic en préopératoire par un bilan positif du diagnostic de la maladie cœliaque.
+
+A ce jour, il n’existe pas de technique diagnostique unique pour le diagnostic de

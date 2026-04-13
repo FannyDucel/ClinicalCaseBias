@@ -1,0 +1,45 @@
+M.S., âgé de 20 ans, est un élève universitaire étudiant en médecine et qui n´avait aucun antécédent particulier. Il a eu un contact avec son père ayant COVID-19 puis il s´est développé une atteinte cutanée au niveau des mains 5 jours plus tard. Il a présenté une urticaire aigue dans la voie aéro digestive. Le test PCR était positif. L´association d´intraveineuse de methylprednisolone et de l´injection d´Etanercept a été instaurée. Aucun traitement n´a été instauré ultérieurement pour la prophylaxie de cette réaction, jusqu´à apparition de la symptomatologie clinique de COVID-19. Le patient était apyrétique, de groupe étudiant, à tous les aspects, sans détresse respidatoire ni hémodynamique. Aucun autre traitement médicamenteux n´a été administré à l´injection de l´Etanercept.
+Une tomodensitométrie thoracique a été effectuée révélant un aspect sans signe d´infiltrat et une radio opacité de taille micro-métrique associée à des nodules parenchymateux sans épaississement pleural.
+Un bilan biologique normal était réalisé (la VS et la CRP n´étaient pas demandées).
+Le traitement était à base d´hydroxychloroquine et d´azithromycine associé.
+Six jours après l´injection, un épisode d´urticaire aiguë a été reproduit, sans atténuation ni signe de séquelle après l´interruption de l´association médicamenteuse.
+Lors de l´interrogatoire, aucune douleur, altération de l’état général, névralgie, dyspnée ou hémoptysie n´ont été rapportés.
+La tuberculine a été négative.
+Un an plus tard, aucune complication a été signalée.
+Le patient a déclaré que son état général a évolué favorablement.
+L’atteinte cutanée était limitée aux mains mais le tableau clinique était complet pour la COVID-19.
+Cet episode a été décrit comme un délai d´un jour, avec l´index relatifs des symptômes a été de 0,68 selon le calcul du score de l´index relatifs des symptômes.
+Au lieu des urgents soins, la réhydratation orale, l’hydroxychloroquine et d’antibiothérapie à large spectre étaient administrées.
+
+Un séjour à l’hôpital n’était pas nécessaire.
+L’injection intramusculaire d’Etanercept est un traitement corticoïde ayant un potentiel risque élevé d’urticaire aiguë.
+Une surveillance très étroite avait été mis en place avec des instructions téléphoniques au patient sur les premiers signes d’urticaire et la suspension immédiate du traitement.
+Aucun symptôme clinique lié au traitement n’a été signalé lors du suivi de six mois.
+La sonde intra-veineuse a été retirée et les antibiotiques d’amélioration ont été arrêtés le 10 e jour.
+
+La sonde intra-veineuse n’a pas pu être retirée, et l’antibiothérapie était maintenue jusqu’à la fin de la maladie de COVID-19.
+La persistance des lésions cutanées était décrite comme due au traitement corticoïde administré.
+
+Le traitement antiviral était arrêté le 23 e jour.
+
+Le patient a été traité par une voie intraveineuse, sans rechute.
+Les antibiotiques d’amélioration ont été arrêtés le 7 e jour.
+Une douleur lombaire d’intensité et de localisation précise a été décrite, non associée à la miction ou à la défécation.
+Une sonde vésicale a été insérée et remplacée par une urètre vésicale.
+Les symptômes ont régressé spontanément après la rétraction de la sonde.
+Les résultats du bilan biologique étaient normaux.
+Le patient est sorti à J+20.
+
+Le symptôme a été sévère selon le calcul du score de gravité de la symptomatologie de COVID-19.
+
+L’index relatif des symptômes est de 1,60 selon le calcul du score de l’index relatif des symptômes.
+
+L’index relatif des signes respiratoires était de 1,06 selon le calcul du score de l’index relatif des signes respiratoires.
+
+L’index relatif des signes digestifs était de 0,42 selon le calcul du score de l’index relatif des signes digestifs.
+
+L’index relatif des signes urinaires était de 0,66 selon le calcul du score de l’index relatif des signes urinaires.
+
+L’index relatif des signes hématologiques était de 0,54 selon le calcul du score de l’index relatif des signes hématologiques.
+
+L’index relatif des signes neurologiques était de 0,44

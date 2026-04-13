@@ -1,0 +1,33 @@
+Madame M.J est une patiente de 64 ans, tabagique et diabétique, elle a présenté en 2013 un infarctoide inaugurale et depuis lors une insuffisance cardiaque droite (IDM circonférentiel non thrombolysé) ayant motivé une intervention chirurgicale pour mise en place d'une prothèse aortique, ce qui n'a pas permis la rémission complète de sa maladie. L'examen clinique trouve une patiente en bon état général, eupnéique. L'auscultation cardio-pulmonaire retrouve un souffle systolique à 2/1 et un râle crépitant bilatéral. L'échocardiographie retrouve une CIV musculaire avec un ventricule gauche non dilaté, et une akinésie apicale et inféroseptale dans le ventricule droit avec une bonne performance des valves. Le reste de l'examen cardiaque trouve une dysfonction systolique. La coronarographie met en évidence des lésions bi-tronculaires dans le PCI, avec un anévrysme du ventricule gauche. La patiente a bénéficié d'une fermeture chirurgicale de la CIV, associée à une cure de l'anévrysme ventriculaire gauche. Devant cette dernière opération la patiente a été opérée par monopontage aortocoronaire sur la coronaire droite. Les suites opératoires étaient simples. L'évolution est marquée par une régression des râles crépitant avec maintenance de l'état général de la patiente. La patiente est toujours en bon état général, avec évolution normale des râles crépitant. L'examen clinique à 2 ans ne retrouve plus d'anomalies cardiaques.
+
+### Source:
+L. Mallet, I. Malek, F. Guerrini, F. Jardel.
+
+### Nouveauté:
+Echographie cardiaque.
+
+### N°: 14883
+
+### Instance: 2
+
+### Il doit contenir les éléments suivants:
+découverte ; tuméfaction cutanée dorsale ; cellulite ; lésions nodulaires ; biopsie cutanée ; angiosarcome cutané ; infiltrat inflammatoire ; plaque osseuse tissulaire de la 8ème vertèbre dorsale ; dermomyotomie complémentaire ; thoracoplastie ; amputation du 8ème vertèbre dorsale ; consultation ophtalmologique ; choriorétinite ; 10mm ; auto-hémorragie ; dosage hématologique ; hypoplastique ; traitement hormonal de substitution.
+
+### Response:
+Il s'agit d'un patient de 24 ans, sans antécédent pathologique particulier, qui présentait depuis 10 mois une tuméfaction dorsale paralysant à pic constrictif augmentant progressivement de volume.
+L'examen clinique trouvait une patiente en bon état général, apyrétique avec une tuméfaction cutanée dorsale fixe à pic constrictif étendue d'environ 10/12cm de hauteur, douloureuse, mal limitée, mobile par rapport aux plans superficiel et profond.
+On note également la présence d'une plaque lithiase à 50 mètres du diagnostic.
+La patiente rapportait également des douleurs brûlantes loco-régionales périphériques.
+Le bilan biologique était sans particularité.
+Le bilan rénal trouvait un syndrome d'hypertension portale avec une protéine C réactive à 10,6g/l.
+L'angioscanner thoracique trouvait une belle circulation sous vasculaire dans la tumeur en évolution fibromatose mature.
+L'échographie transepithéliale du rein trouve un trajet résistive de l'uretère lombaire droit, et une opacité ovalaire siège d'une lithiase.
+La patiente a bénéficié d'une biopsie cutanée.
+Le bilan biologique, a confirmé la tentation d'un angiosarcome cutané.
+La biopsie cutanée a mis en évidence une vascularisation élastique infiltratée par un infiltrat inflammatoire en faveur de l'angiosarcome.
+La scintigraphie osseuse avait objectivé une vague de lésions nodulaires et bourgeonnantes s'étendant dans le bassin droit associée à une plaque osseuse tissulaire de la 8ème vertèbre dorsale.
+La patiente a été opérée en février 2004 pour mise à jour diagnostique et curative par une dermomyotomie complémentaire avec thoracoplastie.
+Les suites opératoires ont été simples, mais on notait une amputation du 8ème vertèbre dorsale.
+Au dernier recul de 15 mois, aucun signe de récidive tumorale n'a été observé.
+Par ailleurs, la patiente n'a pas rapporté de douleurs pelviennes à part les douleurs cutanées au niveau de la tumeur.
+Au dernier contrôle op

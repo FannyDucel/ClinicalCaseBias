@@ -1,0 +1,61 @@
+Il s’agissait d’un patient âgé de 55 ans, sans antécédents pathologiques notables, en vie conjugale de 2ème pare, 3ème geste, et 6ème année postpartum. Il avait une hématurie microscopique, et présentait une œsophagite et asthme corticodépendant depuis 2 ans. Le patient a eu un diagnostic de cancer de l’ovaire bilatéral (Tableau I), et un traitement par laparotomie (hystérectomie totale avec annexectomie partielle, et omentectomie) a été réalisé 15 mois auparavant, l’examen anatomo-pathologique était en faveur d’un adénocarcinome séreux peu différencié de grade III. L’échographie hépatique et radio du thorax était normale. La numération formule sanguine a révélé que le CA 125 était augmenté à 10 705, et la vitesse de sédimentation était à 120. Un mois après la chirurgie, le patient a présenté des douleurs abdominales, des vomissements à type de nausée et une diarrhée fébrile associée. La cystoscopie était normale, mais le patient avait présenté une incontinence urinaire totale. Le bilan biologique a montré une pancytopénie: plaquettes: 24 000, hémoglobine: 7.3 g/dl, leucocytes: 450/mm3, une créatininémie à 63 μmol/l, une hyperglycémie à 19.1 mmol/l, et la CRP était à 197. Une antibiothérapie à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) et une transfusion plaquetaire et de globules rouges ont été réalisées. Une cystoscopie avait été réiterée, et le résultat était normal, et la patiente était mise sous antibiothérapie. En attendant l’évolution, le patient est décédé au 20ème jour.
+
+Tableau I : Clinique anatomopathologique du cancer de l’ovaire (OCADI-II).
+
+Symptômes   Classes de risque
+
+Clinique obstétricale
+2
+Clinique gynécologique
+2
+Classification FIGO 2009
+IIB
+Caractérisation histopathologique
+Examen anatomo-pathologique
+Organes examinés
+Grossesse/génitale
+Adénocarcinome endométrial
+Prolifération tumorale
+Adénocarcinome endométrial séreux
+Tableau II : Enzymes de protéolyse (Chu et al. 2006).
+Champ d’application/Taille de la zone de lyse (mm)
+Nature de l’enzyme/Doit-on mentionner?
+G-actine (39.000)
+H-chymotrypsine (320)
+Chymopapain (137)
+Chymotrypsine (26.000)
+Lipase (1440)
+Myoglobine (131)
+Collagénase (440)
+Kallikrein (133)
+Thrombin (48.000)
+Créatinine phosphorylase (43.000)
+B-actine (55.000)
+Croissance du tissu malin
+Lipase (30.000)
+Leucoprotéine (64.000)
+Phospholipase A (10.000)
+Fibrinolysine (32.000)
+Myoglobine (65.000)
+Collagénase (50.000)
+Lipoproteinide (35.000)
+Thrombin (10.000)
+Fibrino-néction
+Créatinine phosphorylase (26.000)
+B-actine (65.000)
+Urate oxydase (25.000)
+Thrombin (1.000)
+Uricase (200)
+Grosse diffusion tumorale
+Aspartat-amino-acides-désidro-glycine-dehydro-genase (120)
+Amylase (25.000)
+Alcool-oxydase (10.000)
+Acétylcholine-estérase (200)
+Acétyl-CoA-désidro-glycine-dehydro-genase (10.000)
+Créatine-kinase-MB (50.000)
+Péroxydase (10.000)
+Leucoprotéine (30.000)
+Acétyl-cholinestérase (200)
+Amylase (30.000)
+Acétyl-CoA-désidro-glycine-dehydro-genase (25.000)
+Acéty

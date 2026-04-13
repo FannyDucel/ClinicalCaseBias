@@ -1,0 +1,24 @@
+Il s'agit d'une patiente de 49 ans, qui est suivie en gynécologie, pour une polypectomie récidivante des dérivations urétrales à gauche. La patiente a présenté depuis deux mois des douleurs périnéales à type de stagnation intermittente, accompagnées d’une dysurie et une pollakiurie. L’examen clinique de l’abdomen a été sans particularité. Le toucher rectal a mis en évidence une volumineuse prostate, dure et irrégulière avec un effet de masse sur la vessie.
+
+Le dosage PSA à 3 reprises a montré un taux normal. Une biopsie prostatique écho-guidée a été réalisée. L’étude histologique, au microscope optique, a montré une prolifération tumorale à structure épithélioide et sarcomateuse. L’immuno-marquage par l'anticorps anti-cytokératine et l’anticorps anti-chromogranine a été positif. La prolifération a été marquée par les marqueurs epithéliaux. L’immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse a été négatif. Le diagnostic retenu était celui de carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne a mis en évidence l’absence de volumineux repercussion tumorale sur les voisinages locaux, la nécrose tumorale avec un doute de métastases pulmonaires et la conservation de la haute-rétention urinaire.
+
+Un traitement par cystoprostatectomie a été réalisé en laisse, avec urostomie continente.
+
+Après un recul de trois ans, la patiente est toujours asymptomatique et est sous chimiothérapie adjuvante (Docetaxel).
+
+### Response:
+Il s'agit d'un patient de 78 ans, suivi depuis cinq ans pour un traitement pour tumeur de prostate. Quatre mois avant son hospitalisation, le patient a consulté pour des douleurs périnéales atroces, associées à des épisodes de dysurie et de pollakiurie. L'examen clinique était sans particularité. Le toucher rectal a mis en évidence une prostate volumineuse, dure et irrégulière, avec une consistance fibreuse et une écho-échographie de la prostate était normale.
+
+Le dosage du PSA était normal, à 4,8ng/ml. Une biopsie prostatique écho-guidée a été réalisée et a montré des aspects d'atrophie, d'éléments de carcinome indifférencié et des images de carcinome urothéliaux. L'immuno-marquage par l'anticorps anti-cytokératine et l'anticorps anti-chromogranine a été positif. La prolifération a été marquée par les marqueurs epithélioides. L'immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse était négatif. Le diagnostic retenu était celui d'un carcinome urothéliaux de la prostate.
+
+L'échographie rénale et l'urographie intraveineuse étaient normales. Le scanner abdomino-pelvien a montré la présence d'un foyer secondaire bilatéral au niveau des réservoirs supra-rénaux. La tomodensitométrie abdomino-pelvienne a montré un carcinome urothéliaux de la prostate avec une nécrose tumorale qui a été associée à la métastase pulmonaire sans localisation secondaires.
+
+Un traitement par cystoprostatectomie a été réalisé en laisse avec urostomie continente, sans mort subite ni complications. Le patient est décédé un mois après l'intervention.
+
+### Response:
+Il s'agit d'un patient de 77 ans, suivi depuis deux ans pour tumeur de prostate. L'examen clinique était normal. Le toucher rectal a mis en évidence une prostate volumineuse, dure et irrégulière avec une urographie intraveineuse normale. Le dosage du PSA était normal, à 5,5ng/ml. La tomodensitométrie abdomino-pelvienne a montré une localisation secondaire pulmonaire à droite et une métastase osseuse, à l'angle sterno-claviculaire gauche. Un traitement par cystoprostatectomie a été réalisé en laisse avec urostomie continente. Le patient est décédé un mois après l'intervention.
+
+### Response:
+Il s'agit d'un patient de 85 ans, suivi depuis cinq ans pour tumeur de prostate, une dysurie irritative a été présente depuis 3 mois associée à une pollakiurie avec une complication urinaire intermittente. L'examen clinique était normal. Le toucher rectal a mis en évidence une prostate volumineuse, dure et irrégulière avec une

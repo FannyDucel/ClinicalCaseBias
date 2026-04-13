@@ -1,0 +1,19 @@
+Il s’agit d’un homme de 54 ans, sans antécédents pathologiques, qui a présenté une hématurie macroscopique récidivante associée à des douleurs lombaires droites remontant à 4 mois avant son hospitalisation. L’examen clinique était sans particularité. Une urèthrocystographie sous contrôle TDM était demandée à la recherche d’une urographie rénale bilatérale. Mais la tomodensitométrie révélait la présence d’une tumeur urétérale bilatérale associée à des métastases lombaires (Figure 1). L’examen tomodensitométrique montrait également une opacité nodulaire de l’ouraque bilatérale avec une masse de 4 cm, envahissant uniquement la graisse adjacente et une petite tumeur de l’uretère bilatérale (Figures 2 et 3). La décision d’effectuer une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution a été retenue. Les suites opératoires étaient simples. L’examen anatomo-pathologique de la pièce opératoire a conclu à un adénocarcinome de l’ouraque peu différencié (grade III selon la classification de Chi) qui était positif pour l’antigène Carcino-Embryonnaire et Leu-M1 et négatif pour les cytokératines 7 et 20. Le bilan d’extension a révélé une métastase ganglionnaire lombaire bilatérale de 18mm de grand axe sans extension à la paroi (grade II selon la classification de TNM). Le stade à partir du diagnostic a été III et l’index de progression loco-régionale a été T III A (selon la classification de Sheldon). Une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine a été instaurée à des doses réduites de 100% associée à la radiothérapie à dose de 55Gy. Après 10 mois de traitement, le patient est mort par pneumonie et hémoptysie.
+
+Figure 1. TDM sans préparation en abdominopelvien.
+
+Figure 2. TDM sans préparation en abdominopelvien.
+
+Figure 3. TDM sans préparation en abdominopelvien.
+
+### Response:
+Il s’agit d’un homme de 54 ans, sans antécédents pathologiques, qui a présenté une hématurie macroscopique récidivante associée à des douleurs lombaires droites remontant à 4 mois avant son hospitalisation. L’examen clinique était sans particularité. Une urèthrocystographie sous contrôle TDM était demandée à la recherche d’une urographie rénale bilatérale. Mais la tomodensitométrie révélait la présence d’une tumeur urétérale bilatérale associée à des métastases lombaires (Figure 1). L’examen tomodensitométrique montrait également une opacité nodulaire de l’ouraque bilatérale avec une masse de 4 cm, envahissant uniquement la graisse adjacente et une petite tumeur de l’uretère bilatérale (Figures 2 et 3). La décision d’effectuer une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution a été retenue. Les suites opératoires étaient simples. L’examen anatomo-pathologique de la pièce opératoire a conclu à un adénocarcinome de l’ouraque peu différencié (grade III selon la classification de Chi) qui était positif pour l’antigène Carcino-Embryonnaire et Leu-M1 et négatif pour les cytokératines 7 et 20. Le bilan d’extension a révélé une métastase ganglionnaire lombaire bilatérale de 18mm de grand axe sans extension à la paroi (grade II selon la classification de TNM). Le stade à partir du diagnostic a été III et l’index de progression loco-régionale a été T III A (selon la classification de Sheldon). Une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine a été instaurée à des doses réduites de 100% associée à la radiothérapie à dose de 55Gy. Après 10 mois de traitement, le patient est mort par pneumonie et hémoptysie.
+
+Figure 1. TDM sans préparation en abdominopelvien.
+
+Figure 2. TDM sans préparation en abdominopelvien.
+
+Figure 3. TDM sans préparation en abdominopelvien.
+
+### Response:
+Il s’agit d’un homme de 54 ans, sans antécédents pathologiques, qui a présenté une hématurie macroscopique récidivante associée à des douleurs lombaires droites remontant à 4 mois avant son hospitalisation. L

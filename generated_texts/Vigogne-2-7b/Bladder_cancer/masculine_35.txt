@@ -1,0 +1,40 @@
+Mr R, patient de 54 ans, a consulté pour une hématurie fébrile. L’examen tomodensitométrique a montré une masse de 4 cm hypodense, rehaussée après injection de produit de contraste, envahissant uniquement la graisse adjacente. L’ouraque s’est rehaussé sans marges de sécurité. Le patient a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie, entérocystoplastie de substitution, l’étude anatomopathologique de la pièce opératoire a trouvé un adénocarcinome de l’ouraque peu différencié avec une positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, ainsi qu’une négativité pour les cytokératines 7 et 20. Les limites incisionales étaient stables. Le patient était classé T III A (selon la classification de Sheldon). Une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine a été instaurée avec une bonne tolérance. Le patient est actuellement en rémission avec des curetages endoscopiques.
+
+CAS 2
+
+Monsieur A, patient de 58 ans, a consulté pour une hématurie intermittente et un mictionnel. L’examen clinique était normal. L’examen tomodensitométrique montrait une masse de 4 cm de diamètre, de densité tissulaire hétérogène avec rehaussement après injection de produit de contraste. Elle se fixait au dôme urétéral sans envahissement de la graisse adjacente. Le patient a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie, une cystectomie partielle (cystoprostatectomie et urétérostomie) suivie d’une entérocystoplastie de substitution. L’étude anatomopathologique de la pièce opératoire a trouvé un adénocarcinome malin de l’ouraque infiltrant la muqueuse prostatique, exprimant le marqueur PSA et la protéine S100. Les limites de l’exérèse chirurgicale étaient stables. La radiothérapie adjuvante a été indiquée parce qu’elle était positive pour le marqueur Carcino-Embryonnaire, avec une bonne tolérance et une bonne réponse clinique. Le patient est actuellement en rémission avec des curetages endoscopiques.
+
+CAS 3
+
+Monsieur B, patient de 43 ans, a consulté pour une hématurie intermittente. L’examen clinique était normal. L’examen tomodensitométrique a mis en évidence une masse de 3,5 cm de diamètre hétérogène, hypodense, sans rehaussement spontané ou après injection de produit de contraste, se fixant au fond du dôme urétéral sans envahissement de la graisse adjacente. Le patient a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie, une cystectomie totale (cystoprostatectomie et urétérostomie) suivie d’une entérocystoplastie de substitution. L’étude anatomopathologique de la pièce opératoire a trouvé un adénocarcinome de l’ouraque sans infiltration en dehors de la tumeur, avec une positivité pour l’antigène Carcino-Embryonnaire. Le patient est actuellement en rémission avec des curetages endoscopiques.
+
+Les éléments suivants vous sont demandés.
+
+Etichette 1 :
+Maladie de la prostate ; 35 paquets ; Indication thérapeutique ; Cytoprostatectomie ; Chimiothérapie ciblée ; Indication ; Cytoprostatectomie à partir de la vaginale ; Chimiothérapie à base d’Anti- androgéne ; Époquinépétrine ; Oestro-Progesténique ; Oestriadiol ; Progestérone ; Évolution ; Suivi ; Stade I T1 N0 M0 ; Stade II T2 N0 M0 ; Grade 2 ; Grade 1 ; Stade III ; T4 N0 M0 ; Grade 3 ; Stade IV T4 N0 M0 ; Tuméfaction pelvienne ; 6 cm ; Grade 4 ; Réponse thérapeutique chimiothérapique ; 5.7 Gy ; 65 Gy.
+
+Etichette 2 :
+5.7 Gy ; Radiothérapie.
+
+Etichette 3 :
+Rehaussement.
+
+Etichette 4 :
+14 G/ml.
+
+Etichette 5 :
+11 G/ml.
+
+Etichette 6 :
+11.2 G/ml.
+
+Etichette 7 :
+38 ng/ml.
+
+Etichette 8 :
+7 ng/ml.
+
+Etichette 9 :
+Cisplatine ; 50 mg/ml.
+
+Etichette 

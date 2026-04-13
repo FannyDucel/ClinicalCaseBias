@@ -1,0 +1,23 @@
+Patient âgé de 64 ans, sans antécédent pathologique notable. Suivant hypertendu sous traitement médical et tabagique à 4 paquets par an. Diabétique sous traitement médical depuis 10 ans. Ayant comme seule pathologie anévrysme de l'aorte coronale ascendante (IDM circonférentiel non thrombolysé), amélioré après une chimiothérapie. L'examen clinique a trouvé un patient en bon état général, polypnéique à 18/min, l'auscultation cardio-pulmonaire a mis en évidence un souffle systolique modéré de type A avec des râles crépitant au diaphragme droit. L'échocardiographie a montré une CIV musculaire gonflée de type D (Figure 1) avec un volume systolique VS estimé à 141 ml/m 2, un ventricule gauche non dilaté. La valve mitrale avait une akinésie apicale et inféroseptale. On notait une fraction d'éjection minimale à 51% par le test de tricuspidien, une dysfonction systolique et diastolique sévère. L'aspect coronarien à l'échographie cardiaque était normal. La coronarographie a révélé des lésions bi-tronculaires de l'anévrysme de l'aorte coronale. Une fermeture chirurgicale de la CIV a été réalisée par voie sternotomique par moignon antérieur. La chirurgie s'est déroulée sans difficulté en utilisant un monopontage aortocoronaire sur la coronaire droite. Après 3 jours de cicatrisation, le patient a été déclaré sortant avec un bon évolution clinique et biologique.
+
+Figure 1 : CIV musculaire gonflée de type D.
+
+H. Khurana, F. Harbish, L. Bouslama, F. Quaedli, F. Baggour, N. Vudvahini.
+
+Echocardiographie a permis d'objectiver une CIV musculaire gonflée de type D avec un volume systolique VS estimé à 141 ml/m 2, un ventricule gauche non dilaté.
+
+Aquinésie apicale et inféroseptale. Fraction d'éjection minimale à 51% par le test de tricuspidien, une dysfonction systolique et diastolique sévère. Aspect coronarien à l'échographie cardiaque était normal.
+
+Coronarographie a révélé des lésions bi-tronculaires de l'anévrysme de l'aorte coronale.
+
+Fermeture chirurgicale de la CIV par voie sternotomique par moignon antérieur.
+
+Suite clinique parfaite avec un bon évolution clinique et biologique.
+
+Rédigez un cas clinique pour le profil patient suivant :
+Il doit contenir les éléments suivants :
+Il doit contenir les éléments suivants :
+76 ans ; RH positive ; 150/100mmHg ; oxygène ; 149/90mmHg ; 130/90mmHg ; 135/85mmHg ; fièvre ; 137/95mmHg ; nausee ; troubles digestif ; syndrome septique ; infectieuse ; bilan paraclinique ; négatif ; enrouement ; hospitalisation ; réanimation ; infarctopénicille ; céphalosporine ; colchicine ; posologie ; tableau clinique ; asystolie cardiaque ; traitement par propranolol ; desglycéride ; percutané ; oxygène mis sous poudre ; phénobarbital ; sensations de brûlures ; syndrome du choc septique ; immunoglobulines polyvalentes ; anticoagulant ; sérologie de HHV ; traitement par antibiotique ; anticoagulant ; retour d'hospitalisation.
+
+### Response:
+Il s'agit d'un patient de 76 ans, RH positive, connu diabétique avec une hypertension artérielle, hospitalisé dans un service d'HM pour douleur thoracique qui évoluait depuis 3 jours. La tension artérielle était de 150/100mmHg. L'examen clinique avait retrouvé un patient conscious, avec un état général conservé. Le cyanose généralisée était sensible. L'auscultation cardio-pulmonaire avait mis en évidence un souffle systolique à type A et un râles crépitant au diaphragme droit. La tension artérielle était de 149/90mmHg. Le bilan biologique a révélé une hyperleucocytose à 13000/mm 3, une CRP de 118 mg/L, une créatininémie de 20 mg/L et une protéine C réactive de 30 mg/L. L'ECBU était négatif. Les examens radiologiques étaient normaux. Devant ce tableau clinique, le diagnostic retenu était celui d'un infarctoide

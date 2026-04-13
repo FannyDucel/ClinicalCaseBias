@@ -1,0 +1,29 @@
+Patient de 49 ans, sans antécédent pathologique notables, a consulté pour des douleurs périnéales associées à une dysurie avec pollakiurie. L'examen clinique était normal. Le toucher rectal a trouvé une prostate volumineuse, dure et irrégulière. Le bilan biologique était sans particularité en particulier le dosage PSA à 3 reprises a montré un taux normal. Une biopsie prostatique écho-guidée a été réalisée dont l'étude histologique et immuno-histochimique a révélé la présence de cellules à cytoplasme éosinophile et au noyau atypique ( Figure 1 ) et la muqueuse prostatique est marquée par un anticorps anti-cytokératine. Le marquage par les anticorps anti-actine, anti-myosine et anti-desmine muscle lisse et muscle strié a montré la positivité d’un grand nombre de cellules tumorales ( Figure 2 ). L'immuno-marquage par l’anticorps antiactine muscle lisse et anticorps anti-desmine muscle lisse a montré la négativité des cellules tumorales ( Figure 3 ). Le diagnostic d'un carcinome sarcomatoïde de la prostate est retenu. La tomodensitométrie abdomino-pelvienne n'a pas montré pas de localisations secondaires. Un traitement par cystoprostatectomie et urostomie continente a été réalisé. L'évolution a été favorable. L'évolution a été favorable.
+
+Figure 1 .
+Figure 2.
+Figure 3.
+
+### Response:
+Il s'agit d'un patient de 30 ans, sans antécédent pathologique notables, qui consulte pour des douleurs lombaires, avec une dysurie à type de pollakiurie. L'examen clinique est sans particularité. Le toucher rectal a trouvé une prostate volumineuse, dure et irrégulière. Le bilan biologique a montré un taux de PSA normal à 2 reprises. La tomodensitométrie abdomino-pelvienne a montré un processus expansif de la prostate adossé au diaphragme uro-sigmoïdien. L'urographie intraveineuse a montré une dilatation du pédicule rénal droit. L'urographie rétrograde est normale. Une biopsie prostatique trans-péritonéale a été réalisée et le résultat histologique est en faveur d'un carcinome prostatique à cellules angiomateuses à cellules gigantesques ( Figure 4 ). Le dosage du PSA a montré un taux normal. Un traitement chirurgical par radical prostatectomie a été réalisé. L'évolution est favorable avec une régression de la douleur et de l'impériosité mictionnelle. Le dosage du PSA est normal.
+
+Figure 4.
+
+### Response:
+Ce sont deux cas d'un carcinome prostatique à cellules angiomateuses ou gigantesques. Les formes solitaires de prolifération tumorale multilignée étaient bien différenciée. Le cytologie prostatique a montré un caryotype diploïde. Le taux de PSA était normal en l'absence de localisation secondaire. Aucune variation morphologique n'a été notée sur la prostate après 18 mois.
+
+### Response:
+C'est un cas d'un carcinome prostatique à cellules épithéliales proliférantes sans localisation secondaire. Le taux de PSA est normal. Une nette augmentation de la taille et de la densité de la prostate a été notée.
+
+### Response:
+L'examen histologique de la prostate de ce dernier cas a conclu à une prolifération prostatique à cellules fusiformes en tropisme vasculaire, avec des éléments végétants et multinucleés atypiques évoquant un carcinome prostatique à cellules endothéliales. L'étude immunohistochimique a montré l'expression intense et diffuse des marqueurs de la différenciation endothélial (CD31, CD34, le CD35 et le CD36) ( Figure 5 ). L'expression focale de ces marqueurs sur les cellules des composants épithéliaux et stromaux de la prostate a été notée.
+
+Le taux de PSA était normal. Une augmentation de la densité prostatique était notée après 18 mois.
+
+Figure 5.
+
+### Response:
+Ce sont des cas de carcinome prostatique à cellules endothéliales. Le taux de PSA est normal. Il n'a pas été noté de récidive tumorale ou de métastase à 18 mois.
+
+### Response:
+Le carcinome à cellules endothéliales prostatique est un nouveau type de tumeur prostatique sans prise en charge consensuelle. Cependant, son incidence dans les formes de carcinome prostatique spécifique est faible. Le diagnostic différentiel doit inclure les carcinom

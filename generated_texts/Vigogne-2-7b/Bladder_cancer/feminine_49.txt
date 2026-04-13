@@ -1,0 +1,29 @@
+Nous rapportons le cas d’une patiente âgée de 54 ans présentant depuis 3 ans une hématurie, la photographie à l’examen des urines objectivant des cellules néoplasiques blanchâtres. L’examen tomodensitométrique avait révélé une masse de 4 cm hétérogène, dure, envahissant uniquement la graisse adjacente (Figure 1). La patiente a bénéficié d’une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution selon la technique de Lich-Grégoire (Figure 2). L’étude histologique concluait à un adénocarcinome de l’ouraque peu différencié avec positivité des cellules néoplasiques pour l’antigène Carcino-Embryonnaire et Leu-M1, négativité pour les cytokératines 7 et 20 (Figure 3) et T III A (selon la classification de Sheldon). La patiente a bénéficié de chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine qui n’a pas amélioré la progression de la maladie (tumeur difficilement accessible avec envahissement pelvien). L’état général de la patiente s’est rapidement dégradé avec un taux de protéine C réactive estimé à 260mg/l au quatrième jour d’hospitalisation. En effet, l’incidence de la patiente était multifocale et multiforme, bien décrite. La patiente a bénéficié d’un traitement par une immunothérapie anti-PD-L1, de douze cycles de cetirabine-gemzar. L’évaluation clinique était bonne au bout de neuf mois de traitement. Le diagnostic de patiente inopérante a été porté sur un adénocarcinome infiltrant du bladder. Une cystoprostatectomie totale a été réalisée à 20 mois de suite, avec des suites simples.
+
+Figure 1 : Images par omphaloscope.
+Figure 2 : Exécution de la cystoprostatectomie totale avec omphalectomie.
+Figure 3 : Celles prises au microscope à haute magnification (40×).
+
+### Note:
+Les auteurs sont : PB, AS, MA, FH, EM.
+
+### Source:
+Uro-Oncologie, Chirurgie Urologique, Uro-Oncologie, FH.
+
+### Niveau:
+Doctorant en Chirurgie.
+
+### Formation:
+Institut National d'Urologie et Nephrologie (INUN).
+
+### Método:
+Écriture d'une nouvelle cas clinique.
+
+### Probleme:
+Cas clinique à explorer.
+
+### Contexte:
+Cas clinique observé aux Uro-Oncologie pour traitement d'une hématurie persistant chez une patiente de 54 ans.
+
+### Résolution:
+Nous rapportons le cas d’une patiente âgée de 54 ans présentant depuis 3 ans une hématurie. Elle avait consulté au service d'urologie en octobre 2014 pour un douloureux périnéum, dans un contexte d'altération de l'état général et de signes d'irradiation lésions loco-régionales et endocriniennes. Les données biologiques n'étaient pas notées. L'examen clinique avait révélé un ouragan inflammatoire du périnéum, des adénopathies inguinales bilatérales et de l'hématurie macroscopique. L'échographie abdomino-pelvienne et l'examen tomodensitométrique avaient objectivé une masse de 4 cm, hétérogène, au dépend du détrusor et de la paroi pelvienne, siégeant au niveau de la fosse iliaque droite, envahissant uniquement la graisse adjacente et un thyrème inguinal droit (Figure 1 et Figure 2). La patiente a bénéficié d'une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution selon la technique de Lich-Grégoire (Figure 2). L'étude histologique concluait à un adénocarcinome de l'ouraque peu différencié. Cette prolifération cancerogène était centrée sur la paroi urétérale, envahissant le poumon grêle et le tissu musculaire profond (Figure 3). Les cellules étaient mitotiques et parfois cellules de Blastoid. Les limites chirurgicales étaient confiantes et la TNM était à T3A N2M0. Par ailleurs, la prolifération tumorale était positivement marquée par l'antigène carcino-embryonnaire (ACE), le Leu-M1, le l'antigène de MUC1 (Figure 3), l'antigène nécrotique (NSE), les anticorps anticytoplasmes immature (anti-CAM 5.2

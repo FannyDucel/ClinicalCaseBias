@@ -1,0 +1,28 @@
+Le 2ème juin 2020, un patient âgé de 20 ans, sans antécédents pathologiques notables, était entré en contact avec son père ayant COVID-19 au Maroc, il a présenté une atteinte cutanée au niveau des mains correspondant à une urticaire aigue, le test PCR effectué 4 jours plus tard était positif pour le virus SARS-CoV-2. Afin de corriger l´immunodéficience due à la COVID-19, l´injection d´Etanercept 50mg à J0, J1, J3 et J5 a été administrée. L´évolution était favorable: à J8, le patient était apyrétique, avec un bon état général, sans détresse respidatoire ni hémodynamique, la tomodensitométrie thoracique était normale sans cloison épiglottique ou pas d´infiltrat, le bilan biologique normal. Le traitement par hydroxychloroquine et azithromycine a été préconisé pendant 10 jours, à J15, le patient était toujours asymptomatique. L´état clinique et biologique de patient a été normal, L´arrêt de l´Etanercept a été décidé et la patiente a été sortie du centre.
+Il s´agit donc d´un patient en bon état général, il présente une urticaire aigue à J4 du contact avec un patient ayant la COVID-19, les injections d´Etanercept et l´association hydroxychloroquine-azithromycine sont des traitements qui ont été donnés au patient. L´évolution est favorable et le patient est sorti du centre à J15. Le patient ne présente aucune complication grave durant la phase d´admission et la phase de sortie.
+Il s´agit d´un patient ayant contact avec son père ayant la COVID-19, patient qui est en bon état général, le traitement par hydroxychloroquine et azithromycine est choisi après arrêt des injections d´Etanercept. Il a eu une évolution favorable, le patient n´a pas présenté de lésions cutanées post Etanercept et il est sorti du centre à J15.
+Les éléments d´évaluation de cet incident sont les suivants:
+• La nature de l´accident (réactions inflammatoires aux injections d´Etanercept, urticaire aigue et pas d´infiltrat à la tomodensitométrie thoracique.
+• Le moyen par lequel ils sont apparus (injections d´Etanercept).
+• La fréquence avec laquelle ils sont apparus (pas de récidive).
+• Le résultat du suivi de la situation des patients.
+Les éléments d´évènement sont les suivants:
+• L´arrivée des 3 patients à la consultation d´endocrinologie.
+• Le début de la COVID-19 chez le père et les 2 enfants.
+• Les injections d´Etanercept et la réaction inflammatoire à J4.
+• L´arrêt des injections d´Etanercept.
+• Le début des traitements par hydroxychloroquine et azithromycine à J8.
+• La sortie du centre et l´arrêt des traitements.
+Les éléments de déclencheurs sont les suivants:
+• Le contact entre les 2 parents et les 2 enfants.
+• Les injections d´Etanercept.
+• Le traitement par hydroxychloroquine et azithromycine.
+L´examen de la composition de la solution d´Etanercept ne montre pas de contaminants qui pourraient expliquer les réactions inflammatoires au niveau des mains et le fait que l´arrêt des injections d´Etanercept à J8 permet de corriger l´immunodéficience induite par la COVID-19 chez les 3 patients et le début du traitement par hydroxychloroquine et azithromycine ne prévoit pas de réaction inflammatoire à J15 pour aucun des patients, on peut considérer que l´administrations des injections d´Etanercept à J4 du contact et le traitement par hydroxychloroquine et azithromycine à J8 du contact sont les éléments déclencheurs de l´incident.
+L´étude des éléments de déclencheurs suggère que les traitements par Etanercept et hydroxychloroquine et azithromycine sont les deux facteurs responsables de cet incident.
+Les analyses de faisabilité de ce plan sont les suivantes:
+• La réaction inflammatoire et urticaire aigue à J4 sont les conséquences des injections d´Etanercept, le traitement par Etanercept a été arrêté à J8.
+• La relance des traitements par hydroxychloroquine et azithromycine est d´une bonne efficacité puisque le patient ne présente pas de récidive des lésions cutanées et qu´il est sorti du centre à J15.
+Par conséquent, les mesures pour éviter un incident du même genre sont les suivantes:
+• Faire un bilan biologique et radiologique avant le début des injections d´Etanercept, afin d´éliminer les éventuels hématomes ou des maladies respiratoires.
+• Faire un bilan biologique à J3 du début des injections d´Etanercept, afin de contrôler les niveaux d´anticorps neutralisant l´action de TNF-α. L´arrêt du traitement par Etanercept ou la modification de la posologie sont préconisés si la dose maximale est dépassée.
+• Refaire le bilan biologique à J3 du début

@@ -1,0 +1,131 @@
+Patiente âgée de 26 ans, nulligeste nullipare, décrite par une sœur comme porteur d´un risque familial élevé pour le cancer du sein (mère et sœur décédées d´un cancer du sein) et qui s’est présentée pour l´étude d´un nodule de 6 cm au niveau du quadrant supéro interne du sein droit d´où une tumorectomie droite avec adénopathie de 1.5 cm au niveau du creux axillaire droit. La tomodensitométrie (TDM) thoracique a objectivé un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche et une autre adénopathie axillaire homolatérale à 1cm. Le bilan étiologique, les sérologies virales (CVH, VHC) n´a pas trouvé de lésion hémopathique ni viral en particulier. L´évolution a été marquée par l´apparition au niveau de la mamelle gauche d´un nodule induré mobile de 1.5cm, à l´origine d´une résection gauche homolatérale avec indemnisation par transfert de peau et de mamelon de la mamelle droite emportant les deux lésions du sein droit. L´analyse histologique a été en faveur d´un carcinome canalaire infiltrant SBR III, récepteurs hormonaux négatifs, le test de l'HER 2 négatif, de T3N1M0 et CA 15-3 à 81 mui/ml. La chimiothérapie néoadjuvante a été à base de quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² suivie de deux cures de docétaxel avant la chirurgie radicale type Patey bilatéral. Les suites ont été marquées par une aggravation du tumor Vivax de la peau, une métastase axillaire homolatérale et une récidive lobaire interne du sein droit, la patiente a bénéficié d’une chimiothérapie et radiothérapie post opératoires : quatre cures de docétaxel et radiothérapie à la dose de 40 Gray. La patiente est actuellement en rémission clinique avec une CA 15-3 <3.3ng/ml, après un total de 24mois de traitement.
+
+Tableau 1
+
+Cas # N°
+
+Age
+
+Sexe
+
+Exposition aux rayons UV
+
+Causes
+
+Patients
+
+Début de la maladie
+
+Localisation
+
+Antécédents familiaux
+
+Revue
+
+Réseaux mammaires
+
+Mammographie unilatérale
+
+Tomodensitométrie thoraco-abdomino-pelvienne
+
+Microbiopsie des deux lésions cliniques des deux seins
+
+Diagnostic histologique
+
+Adénopathies axillaires
+
+Granulomes inflammatoires (collagénisation et fibrose)
+
+Granulomes inflammatoires avec réaction de l’hile lymphatique
+
+Canal lymphatique (canalise)
+
+Adénopathie axillaire droite
+
+Enfouissement du chorion tubulaire glandulaire au niveau des alvéoles par les fibroblastes mammaires
+
+Canal lymphatique métaplasique infiltré par les cellules tumorales
+
+Immunohistochimie
+
+Chimiothérapie adjuvante
+
+Métastases axillaires.
+
+TDM thoracique
+
+Métrise tumorale pulmonaire gauche
+
+Livraison thérapeutique
+
+Thérapeutique
+
+Thérapie ciblé
+
+Tamoxiféne
+
+Décès
+
+Mort.
+
+Tableau 2
+
+Cas # N°
+
+Age
+
+Sexe
+
+Exposition aux rayons UV
+
+Causes
+
+Patients
+
+Début de la maladie
+
+Localisation
+
+Antécédents familiaux
+
+Revue
+
+Réseaux mammaires
+
+Mammographie unilatérale
+
+Tomodensitométrie thoraco-abdomino-pelvienne
+
+Microbiopsie des deux lésions cliniques des deux seins
+
+Diagnostic histologique
+
+Adénopathies axillaires
+
+Granulomes inflammatoires (collagénisation et fibrose)
+
+Granulomes inflammatoires avec réaction de l’hile lymphatique
+
+Canal lymphatique (canalise)
+
+Adénopathie axillaire droite
+
+Enfouissement du chorion tubulaire glandulaire au niveau des alvéoles par les fibroblastes mammaires
+
+Canal lymphatique métaplasique infiltré par les cellules tumorales
+
+Immunohistochimie
+
+Chimiothérapie adjuvante
+
+Métastases axillaires.
+
+TDM thoracique
+
+Métrise tumorale pulmonaire gauche
+
+Livraison thérapeutique
+
+Thérapeutique
+
+Thérapie ciblé

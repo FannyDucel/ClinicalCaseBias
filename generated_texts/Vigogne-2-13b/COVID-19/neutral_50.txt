@@ -1,0 +1,33 @@
+Nous rapportons le cas d´un patient de 20 ans, sans antécédent pathologique connu, suivi depuis 2 ans pour le Béhçet qui présente une polyarthrite associée à des épisodes de conflit péritonéal. À la suite d´un contact avec son père ayant COVID-19, le patient a présenté une atteinte cutanée au niveau des mains. L´examen a trouvé un aspect d´urticaire aigue. Le test PCR positif pour SARS-CoV2 a été retenu. L´intéressé a bénéficié d´une injection d´Etanercept après discussion du conseil de prescription par un rhumatologue. Le bilan radiologique est revenu négatif, l´ECG, le bilan hépatique et rénal étaient sans particularité. L´échographie abdomino-pelvienne, la TDM cérébrale et la TDM thoracique étaient normales. L´examen ophtalmologique était sans particularité. Le bilan biologique revenu normal. Une prise en charge médicale et à domicile a été instaurée. Un traitement par hydroxychloroquine et azithromycine à respecter pendant 2 semaines a été également instauré. L´évolution était marquée par la disparition des lésions cutanées et une amélioration de l´urticaire au bout de 2 semaines. Aucune décompensation respiratoire, ni hémodynamique, ni neurologique n´a été observée, ainsi que l´absence de dépression gazoméatiques. A 1 mois de la prise en charge, aucune récidive cutanée n´a été observée. A 2 mois de la prise en charge, aucune rechute a été observée.
+
+Un bilan à 1 mois a été réalisé (tomodensitométrie thoracique, électrocardiogramme, échographie abdomino-pelvienne, échographie cérébrale) et est revenu normal.
+
+Aucune récidive cutanée n´a été observée au recul de 4 mois.
+
+Le diagnostic d´érythème maculopapuleux typé parvovirus B19 est aussi retenu, le test n´a pas été réalisé en notre structure.
+
+Ce cas met en évidence l´importance de respecter le bilan étiologique, l´intérêt d´une prise en charge médicale et à domicile. A contrario, il nous est apparu que la réalisation d´un bilan biologique est non pertinent et donc non nécessaire dans cette situation.
+
+Le bilan radiologique de thorax est essentiel, en l´absence d´infiltrat il s´agit d´un CCE avec un aspect normale.
+
+En cas de besoin de prise en charge à domicile, la TDM thoracique pour vérification de la non-existence d´infiltrat doit être rapprochée de la réalisation de la Tomodensitométrie abdomino-pelvienne pour étude d´organomégalie. La réalisation d´une échographie oculaire est indispensable pour l´exclusion des affections du segment orbitaire.
+
+L´intervention de l´immunologue est parfaitement indispensable, il nous aide à déterminer l´opportunité du traitement par corticoïdes et par ailleurs les corticoïdes peuvent être substitués par un traitement par des anti-IL-6 (Etanercept).
+
+L´IRM cérébrale est non indispensable et devrait être réalisée au cas où il s´agit d´une première tentative de désensibilisation des lymphocytes T.
+
+L´hydroxychloroquine et l´azithromycine sont parfaitement indispensables par ailleurs il n´est pas non plus sans intérêt de pratiquer la pronostication de cette maladie, ainsi que la recherche de son traitement.
+
+A noter que les données dans le cas présent ne sont que préliminaires et qu’il est nécessaire d´observer le patient pendant un an afin d’apporter de nouveaux éléments et d´évaluer sa sécurité clinique et biologique à long terme.
+
+Évaluation de la gravité :
+- Symptomatologie : asymptomatique ;
+- Consanguinité : non ;
+- Antécédents : pneumopathie à une étiquette indéterminée en 2007, Behcet dans la qualité de patient consultant, hypercolestérol ;
+- Symptomatologie respiratoire : non ;
+- Symptomatologie digestive : non ;
+- Symptomatologie cutanée : œdème facial et des mains ;
+- Symptomatologie neurologique : non ;
+- Symptomatologie ophtalmologique : non ;
+- Symptomatologie musculaire : non ;
+- Symptomatologie à l’examen cutané : urticaire aigue ; œdème facial ; œdème des mains ; réaction cutanée au test à la sobrane ; œdème de la paume et des doigts ; éruptions papulovésicules ; atteinte des épaules ; traitement symptomatique ; anti-histaminiques ; prurit cutané ; topical corticosteroids ;

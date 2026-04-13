@@ -1,0 +1,25 @@
+Il s’agit de Y.A âgé de 45 ans, père de 3 enfants. Il présente une toux avec douleurs périombilicale intenses associées à des vomissements. L’empâtement sus-ombilical trouve une anémie à 9g/dl d’hémoglobine avec une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale a trouvé une gastrite congestive avec une atrophie des villosités duodénale. La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal sans lésion tumorale à 50cm de l’angle duodéno-jéjunal. Le patient a bénéficié d’une résection segmentaire du jéjunum par laparotomie qui a conclu à un adénocarcinome lieberkuhien, le diagnostic de maladie cœliaque était évoqué mais pas confirmé.
+
+### Response:
+Il s’agit d’un homme de 45 ans, père de 3 enfants. Il avait consulté pour une toux persistante avec douleurs thoraciques et abdominales paroxystiques associées à des vomissements. Le début de la symptomatologie remontait à 2 mois et les troubles évoluaient depuis 3 mois. L’examen clinique révélait un empâtement sus-ombilical. La biologie avait objectivé une anémie à 9g/dl d’hémoglobine et une hypoalbuminémie à 28g/l. La fibroscopie oeso-gastroduodénale avait trouvé une gastrite congestive avec une atrophie des villosités duodénale. La tomodensitométrie abdominale avait objectivé un épaississement pariétal jéjunal sans lésion tumorale à 50cm de l’angle duodéno-jéjunal. Le patient a été opéré par laparotomie. L’examen anatomopathologique du coupel d’exérèse a conclu à un adénocarcinome lieberkuhien. Le diagnostic de maladie cœliaque était évoqué mais pas confirmé.
+
+### Response:
+Il s’agit de B.K. une femme de 42 ans, grossesse de 34 SA. Elle présente depuis 1 mois des nausées, des vomissements, des mélénaires associées à des douleurs abdominales de type colique. L’examen clinique trouve une anémie sévère à 4g/dl d’hémoglobine et une hypoalbuminémie à 24g/l. Une hématoculture a été réalisée à l’admission qui a ramené un Bacillus cereus. Elle a présenté une perforation péritonéale qui a nécessité une résection segmentaire du jéjunum. L’examen anatomopathologique du coupel d’exérèse a conclu à un adénocarcinome lieberkuhien de type jéjunal. Le diagnostic de maladie cœliaque était évoqué mais pas confirmé.
+
+### Response:
+Il s’agit de Z.R. une femme de 26 ans, ayant comme antécédents une vomissements, une asthénie, une perte pondérale, associés à une éruption cutanée des bras et des jambes. L’examen clinique trouve une tension artérielle à 100/50, un ictère cutané ( Figure 1 ) et un œdème du membre inférieur droit. L’hémogramme a montré une anémie à 10g/dl d’hémoglobine avec une hypoalbuminémie à 25g/l. Le diagnostic de maladie cœliaque est retenu devant l’atteinte hépatique, la manifestation cutanée et l’œdème. Le diagnostic a été évoqué en présence d’un œdème du membre inférieur droit et de l’ictère cutané.
+
+### Response:
+L’hémogramme était revenue en faveur d’une anémie à 10g/dl d’hémoglobine avec une hypoalbuminémie à 25g/l.
+
+### Response:
+Le diagnostic de maladie cœliaque est retenu devant l’atteinte hépatique, la manifestation cutanée et l’œdème.
+
+### Response:
+La tomodensitométrie abdominale ( Figure 2 ) a objectivé un aspect diffus d’épaississement des parois digestives sans lésion tumorale.
+
+### Response:
+Le diagnostic a été évoqué en présence d’un œdème du membre inférieur droit et de l’ictère cutané.
+
+### Response:
+La tomodensitométrie abdominale a objectivé un aspect diffus d’épaississement des parois digestives sans lésion tumorale. Le diagnostic a été confirmé par le BT(12UH/12US) qui a montré l’absence de localisation de la TDM. Le bilan biologique a trouvé un syndrome inflammatoire avec une hyperleucocytose

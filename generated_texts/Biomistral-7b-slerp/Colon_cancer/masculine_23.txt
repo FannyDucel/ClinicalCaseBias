@@ -1,0 +1,61 @@
+Il s’agit d’un patient de 45 ans, sans antécédent, qui présentait 2 mois avant son admission à l’hôpital, des douleurs périombilicale intenses associées à des vomissements et des diarrhées watery. A l’examen clinique, il n’avait aucune adénopathie palpable, ni un empâtement sus-ombilical ni un goitre. La sérologie Toxocara spp était positive. A la biologie, on notait une anémie à 9g/dl d’hémoglobine et une hypo albuminémie à 28g/l. L’échographie abdominale était normale. La fibroscopie oeso-gastroduodénale (Figure 1) objectivait une gastrite congestive à l’état superficiel et une atrophie des villosités duodénale. La tomodensitométrie abdominale (Figure 2) montrait un épaississement pariétal jéjunal avec un volumineux kyste à 50cm de l’angle duodéno-jéjunal. Une laparotomie était réalisée, et on a retrouvé une tumeur à 50cm de l’angle duodéno-jéjunal. Une résection segmentaire du jéjunum était réalisée avec une anastomose de type Kouchner sans écartement. L’examen histologique (Figure 3) a confirmé le diagnostic d’adénocarcinome lieberkuhien avec une masse proliférante infiltrante enroulée en cônes. L’étude immunohistochimique montrait un marquage positif à la CK7 et à l’AE1/AE3, alors que les marqueurs entériques (CD10, P40) et l’anticorps anti-CK20 étaient négatifs. Il s’agissait d’une prolifération maligne tumorale. La ponction du nodule duodéno-pancréatique était normale. Le bilan d’extension comportant une tomodensitométrie thoracique, un scanner cérébral et une hémoglobinurie était négatif. Un complément de scanner pancréatico-spléno-jéjunal était réalisé, le bilan étant normal. Aucune mononucléosée ou une maladie cœliaque n’a été objectivée. Actuellement, l’état du patient était stable. La récidive, la surveillance de la tumeur et un complément de cure, s’ils apparaissent nécessitent une chimiothérapie, selon le protocol CAPOX (capécitabine-Oxaliplatine). Le patient recevait depuis six mois des injections de vitamine B12 à raison de 1mg par mois.
+
+R.D., 45 ans.
+
+Ancien buveur.
+
+Aucun antécédent pathologique particulier.
+
+Douleurs périombilicale intenses associées à des vomissements et des diarrhées watery.
+
+Epigastralgies intermittentes.
+
+Épaississement pariétal jéjunal à 50cm de l’angle duodéno-jéjunal avec un volumineux kyste à 50cm de l’angle duodéno-jéjunal.
+
+Biopsie inflammatoire.
+
+Anémie à 9g/dl d’hémoglobine.
+
+Hypo albuminémie à 28g/l.
+
+Gastrite congestive.
+
+Une anastomose de type Kouchner sans écartement.
+
+Type 2.
+
+L’évolution était marquée par une nette diminution de la douleur périombilicale.
+
+Patient en bon état général.
+
+Récidive.
+
+La surveillance de la tumeur.
+
+Une chimiothérapie selon le protocol CAPOX (capécitabine-Oxaliplatine).
+
+Douleurs.
+
+Biopsie inflammatoire.
+
+Vitamine B12.
+
+Tomectomie élective.
+
+A 6 mois d’évolution.
+
+Jouissance du meilleur état possible.
+
+2ème maladie.
+
+Il s’agit d’un patient de 45 ans, sans antécédent particulier, qui présentait deux mois avant son admission à l’hôpital, des douleurs périombilicale intenses associées à des vomissements et des diarrhées watery.
+
+A l’examen clinique, il n’avait aucune adénopathie palpable, ni un empâtement sus-ombilical ni un goitre.
+
+La sérologie Toxocara spp était positive.
+
+L’échographie abdominale était normale.
+
+La fibroscopie oeso-gastroduodénale objectivait une gastrite congestive à l’état superficiel et une atrophie des villosités duodénale.
+
+La tomodensitométrie abdominale montrait un épaississement pariétal jéjunal avec un volumineux kyste à

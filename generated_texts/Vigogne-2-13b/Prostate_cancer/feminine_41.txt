@@ -1,0 +1,134 @@
+Monsieur A.E, âgé de 49 ans, a été pris en charge en psychologie médicale après constatation d’une gêne mictionnelle récente (douleurs périnéales, pollakiurie, dysurie).
+
+A l’examen physique, le toucher rectal trouve une prostate volumineuse, dure et irrégulière avec une sténose urétérale bilatérale sans lésion épididymaire, ni à la palpation épigastrique.
+
+Le dosage PSA à 3 reprises a montré un taux normal.
+
+La biopsie prostatique écho-guidée montre des cellules tumorales d’aspect osteoïdes survolumineux et hyalinisés avec une positivité d’un grand nombre de cellules tumorales à l’immuno-marquage par l’anticorps anti-cytokératine, l’immuno-marquage par l’anticorps antiactine muscle lisse et le caractère négatif des cellules tumorales à l’immuno-marquage par l’anticorps antidesmine muscle lisse.
+
+L’étude anatomopathologique conclut à un carcinome sarcomatoïde de la prostate.
+
+La tomodensitométrie abdomino-pelvienne ne montre pas de localisations secondaires.
+
+L’indication d’une cystoprostatectomie avec antrachoanaise et une urostomie continente.
+
+Les suites post-opératoires ont été simples.
+
+Actuellement, Monsieur A.E. est vivant sans signe de récidive avec un recul de deux ans.
+
+Tableau I
+
+Nombre de gènes mutés
+
+Nombre de cellules tumorales
+
+Gène(s)
+
+* 11GREL1
+* 2AHRR
+* 2ATAD2
+* 2BAP1
+* 2BRCA2
+* 2CDKN2A
+* 2CDKN2B
+* 2CHEK1
+* 2CRYAB
+* 2DDR2
+* 2DTL
+* 2EGR1
+* 2EP300
+* 2ERBB2
+* 2ERBB4
+* 2FH
+* 2FOXO4
+* 2GATA4
+* 2GATA5
+* 2GNA11
+* 2GNRHR
+* 2GSTM1
+* 2HPRT2
+* 2IL17RA
+* 2IRF2BP2
+* 2JAK2
+* 2KDM6A
+* 2KIT
+* 2MLH1
+* 2MUTYH
+* 2MUTYH-like
+* 2NBN
+* 2NFE2L2
+* 2NRAS
+* 2PALB2
+* 2PCDH11
+* 2PEL3
+* 2PTEN
+* 2RAD50
+* 2RAGD
+* 2RB1
+* 2SOS1
+* 2SPRED1
+* 2TGFB3
+* 2TP53
+* 2TSC1
+* 2VHL
+* 2WTX
+* 21KDM6A
+* 21MLH1
+* 21NFIB
+* 21PTCH1
+* 21SDHA
+* 21SMARCA4
+* 21SPPARG
+* 22BRAF
+* 22EGFR
+* 22ERBB2
+* 22KDM6B
+* 22KDM6B-like
+* 22MLH1
+* 22MUTYH
+* 22MSH6
+* 22NBN
+* 22NQO1
+* 22PALB2
+* 22PTCH1
+* 22PTEN
+* 22RAD51C
+* 22RAD51D
+* 22SMARCA2
+* 22SMARCA4
+* 22SPRED1
+* 22TSC1
+* 22VHL
+* 22WTX
+* 22BLM
+* 22TP53
+* 22ATM
+* 23APC
+* 23BRAF
+* 23CDH1
+* 23CEBPA
+* 23EGFR
+* 23ERBB2
+* 23EZH2
+* 23FANCA
+* 23FANCC
+* 23GATA4
+* 23GATA5
+* 23GLD2
+* 23GRM4
+* 23HIP1
+* 23HPRT2
+* 23IFI27
+* 23JAK2
+* 23KDM6A
+* 23KIT
+* 23KRAS
+* 23MEN1
+* 23MLH1
+* 23NFE2L2
+* 23NRAS
+* 23PDGFRA
+* 23PDGFRB
+* 23PIK3CA
+* 23POLD1
+*

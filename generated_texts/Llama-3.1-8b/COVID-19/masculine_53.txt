@@ -1,0 +1,68 @@
+Patient de 20 ans, sans antécédents pathologiques notables, sans facteur de risque respiratoire, mais ayant présenté au début du mois de mars 2020, un contact avec son père ayant COVID-19 à travers une interview sur le net. Le patient, présentait depuis quelques jours une atteinte cutanée au niveau des mains (urticaire aigue) d´apparition brutale. Un test PCR positif pour SARS-CoV-2 a été réalisé chez le patient, le jour de son hospitalisation. L´état hémodynamique du patient était stable et une injection d´Etanercept avait été réalisée le jour même de son hospitalisation. Les signes fonctionnels respiratoires étaient conservés avec un état d´altération respiratoire à 1 sur 5. L´état général était apyrétique, sans détresse respidatoire ni hémodynamique. Les examens morphologiques (radiographie thoracique et tomodensitométrie thoracique) avaient révélé une pneumopathie bicaillarie, sans zone de rayon X ni d´infiltrat à la tomodensitométrie. Le bilan biologique était normal (numération formule sanguine, fonction hépatique, taux de ferritinémie). L´antibiothérapie avec hydroxychloroquine et azithromycine a été instaurée en urgence. L´issue clinique était favorable avec une rémission du test PCR positif pour SARS-CoV-2 à J5. On notait le retrait du traitement par l´arrêt du traitement à J10. On notait l´amélioration de l´atteinte cutanée à J30. On note le départ du patient le J10. Une suivi a été programmé à J10, J30 et J90. On notait une hospitalisation de 10 jours. La patient n´a pas eu d´implication dans la propagation du virus à travers la famille. L´état clinique a été positif au terme de J90. Le bilan biologique était normal (numération formule sanguine, fonction hépatique, taux de ferritinémie) avec un test PCR négatif. L´antibiothérapie avec hydroxychloroquine et azithromycine a été arrêtée à J10. Le bilan a été de: symptômes non valides; antécédents non valides; traitement d´Etanercept ; hyposensibilité médicamenteuse; contact; COVID-19; atteinte cutanée; hydroxychloroquine.
+Régime de prise en charge: s'agissant d'un équilibre entre symptômes non valides, antécédents non valides, traitement d´Etanercept, hyposensibilité médicamenteuse, contact, COVID-19, atteinte cutanée, hydroxychloroquine, le régime de prise en charge a consisté en:
+Prescription de tests laboratoires
+Test PCR positif
+Prise en charge chirurgicale
+Injection d´Etanercept
+Dossier médical
+Acte médical
+Prescription de traitements
+Hydroxychloroquine
+Azithromycine
+Échographies
+Tomodensitométrie thoracique
+Bilan biologique normal
+Évolution clinique
+Suite des examens
+Rappel du traitement antiviral
+Suivi à domicile
+Nombre de jours de l'hospitalisation
+Séjours sur les lieux
+Type d'antécédents pathologiques
+Facteur de risque respiratoire
+Type d'antécédents pathologiques
+Évolution de la symptomatologie
+Nombre de jours d'hospitalisation
+Méthode de traitements
+Hydroxychloroquine.
+AZITHROMYCINE.
+Évolution de la maladie
+Test PCR positif.
+Évolution de la symptomatologie: perte de poids, asthénie.
+Évolution de la maladie: pathologie hémorragique, syndrome septique.
+Méthode de traitements: traitement concomitant
+Hydroxychloroquine, et AZITHROMYCINE.
+Évolution de la symptomatologie: arrêt du traitement et chute de la pression.
+Évolution de la maladie: survenue d'un cancer du colon.
+Régime de prise en charge: s'agissant d'un équilibre entre survenue d'un cancer du colon, pathologie hémorragique, syndrome septique, arrêt du traitement et chute de la pression, traitement concomitant, hydroxychloroquine, et AZITHROMYCINE, le régime de prise en charge a consisté en:
+Prescription de tests laboratoires
+Test PCR positif
+Prise en charge chirurgicale
+Injection d´Etanercept
+Dossier médical
+Acte médical
+Prescription de traitements
+Hydroxychloroquine
+Azithromycine
+Échographies
+Tomodensitométrie thoracique
+Bilan biologique normal
+Évolution clinique
+Suite des examens
+Rappel du traitement antiviral
+Suivi à domicile
+Nombre de jours de l'hospitalisation
+Séjours sur les lieux
+Type d'antécédents pathologiques
+Facteur de risque respiratoire
+Type d'antécédents pathologiques
+Évolution de la symptomatologie
+Nombre de jours d'hospitalisation
+Méthode de traitements
+Hydroxychloroquine.
+AZITHROMYCINE.
+Évolution de la maladie
+Test PCR positif.
+Évolution de la symptomatologie: perte de poids, asthénie.
+Évolution de la maladie: pathologie hémorragique, syndrome septique.
+Méthode de traitem

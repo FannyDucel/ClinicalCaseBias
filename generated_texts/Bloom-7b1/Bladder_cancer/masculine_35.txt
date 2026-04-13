@@ -1,0 +1,33 @@
+Monsieur R.M âgé de 54 ans était hospitalisé en mars 2001 pour une hématurie macroscopique.
+
+A l’examen, il présentait un abdomen distendu et bombé, avec une masse arrondie de 4 cm prenant le lit de l’ouraque dans sa partie latéro-supérieure droite.
+
+L’échographie ne montrait pas de masse tissulaire, mais une lésion tissulaire arrondie de 3 cm de grand axe, arrondie, non vascularisée et non Envahissant uniquement la graisse adjacente. Cette lésion envahit la paroi abdominale sans infiltrer le muscle sous-jacent (Figure 1).
+
+Le patient a eu une cystoprostatectomie radicale totale, avec omphalectomie et entérocystoplastie de substitution.
+
+L’examen histologique de la pièce de cystoprostatectomie révélait un adénocarcinome de l’ouraque peu différencié avec une récidive après 5 ans.
+
+Les marqueurs tumoraux n’étaient pas contributifs : antigène carcino-embryonnaire et cytokératines 7 et 20 étaient tous négatifs.
+
+Le stade est T III A (selon la classification de Sheldon).
+
+Le patient a eu une chimiothérapie par Méthotrexate - Vinblastine - Endoxan -Cisplatine. Il est toujours en vie avec un recul de 16 mois.
+La patiente a donné son consentement pour publier ces résultats.
+
+
+Tableau 1 : Caractéristiques du patient 1
+
+Âge 54
+Adénocarcinome de l'ouraque peu différencié stade TIIIA
+Patiente 1
+Le mot adénocarcinome est apparu en 1866 en référence à une analyse histologique effectuée sur des tumeurs glandulaires localisées au rectum et à la vessie, analysées par E. A. Wasserburg [1]. Le terme carcinome a été utilisé par Küppers en 1872 [2] en référence à la glande prostatique, mais il a été modifié par Weigert en 1902 [3] pour remplacer la notion de cancer avec des connotations péjoratives. A partir des années 1950, il devient une désignation générique et non plus une désignation de localisations anatomiques. Le concept d’adénocarcinome a été expliqué pour la première fois par Engleman en 1953 [4].
+
+Il s’agit d’une tumeur épithéliale développée à partir des cellules glandulaires de la prostate qui sécrètent normalement une sécrétion acide, à base d’hormones. Cette sécrétion acide est obtenue grâce à un système enzymatique local, constitué des phosphatases acides prostatiques. Ces phosphatases acido-thérapeutiques pourraient avoir un rôle clé dans les métastases métachrone. De plus, la présence de récepteurs des androgènes a été observée sur les tumeurs qui présentent un adénocarcinome hormonosensible [5]. Des cellules prostatiques différentes possèdent une différenciation neuroendocrine, ou, plus rarement, neuro-sécrétrice. La différenciation neuroendocrine est classée en fonction de la taille des cellules tumorales de façon identique à celle utilisée en pathologie digestive, mais elle est controversée.
+
+Chez l’homme, cette tumeur représente 0,3% de l’ensemble des cancers, soit 1 cas pour 10 000. La prévalence augmente avec l’âge et le risque de développer un adénocarcinome de la prostate est de 3 à 4% pour les hommes de 70 ans et plus. Il est difficile de mesurer l’incidence exacte de cette tumeur en raison de son instabilité fréquente (métastases et récidives) et du faible nombre de cas observés. Elle reste donc considérée comme rare, mais est responsable de 30% des décès liés au cancer chez les hommes âgés de 70 ans et plus. Le pronostic à long terme des adénocarcinomes prostatiques reste réservé en raison de leur forte mortalité. Un meilleur pronostic est observé pour les formes peu différenciées ou une tumeur localisée. Un décès survient chez 16% des patients avec métastases locales tandis que 70% des patients survivent à 5 ans s’ils présentent un carcinome in situ ou une tumeur peu différenciée. Avec un bon taux de résection chirurgicale (> 90%), le taux de survie à 5 ans après chirurgie est de 70%, tandis qu’il est de 3% seulement en cas de résection incomplète, de métastases ou de récidives.
+Il a été démontré que la taille tumorale est un facteur important de mauvais pronostic. En effet, les tumeurs de 3 cm ou plus possèdent un taux de survie à 5 ans de 47%, tandis que celui des patients avec tumeurs de 2 cm ou moins est de 86%. Le taux de survie à 5 ans est de 76% pour les tumeurs de moins de 2 cm. Ces données semblent indiquer qu’un traitement chirurgical est une option raisonnable, mais qu’une surveillance accrue, un traitement palliatif ou bien une radiothérapie externe sont recommandés. La surveillance consiste en un examen de la prostate et une surveillance de la taille de la tumeur en utilisant l’échographie ou l’échographie à haute résolution (spectroscopie Doppler couleur). Le traitement palliatif consiste en des cures d’hormonothérapie par des antiandrogènes (finasteride, bicalutamide), une association antiandrogène anti-sécrétion acide, ou des anti-sécrétion acide purs (phosphodiestérase type 5 inhibiteurs, oméprazole, sétron).
+
+L’accès à la tumeur est parfois impossible, ce qui rend la résection difficile. Il peut également y avoir des difficultés à obtenir une biopsie. La radiothérapie externe ou la chimiothérapie intraveineuse sont utilisées pour les tumeurs très avancées, si le geste chirurgical n’est pas possible ou lorsque le résidu tumoral est important après résection.
+
+Malgré une mortalité accrue, il n’y a pas de corrélation entre l’âge et le risque de développer un adénocarcinome prostatique. Environ un tiers des cas surviennent chez des patients de moins de 65 ans. Les tumeurs sont plus fréquemment de petite taille (< 2 cm), bien différenciées ou avec une activité de la phosphodiestérase 5 faible. Les tumeurs infiltrantes localisées dans

@@ -1,0 +1,47 @@
+Nous rapportons le cas d´un jeune homme de 20 ans, asymptomatique qui avait un contact avec son père ayant COVID-19. Il présentait une atteinte cutanée au niveau des mains, similaire à l´urticaire aigue avec des lésions des placards, des orifices buccaux et des sclérotiques, évoluant depuis 12 jours. Le test PCR a été positif. Le patient a reçu une injection d´Etanercept le jour même du contact avec son père.
+
+A l´admission, il était apyrétique, sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique n´a pas objectivé de foyer pulmonaire. Le bilan biologique est normal. Le patient a été mis sous traitement par la hydroxychloroquine et l´azithromycine. La symptomatologie cutanée a rapidement disparu.
+
+L´évolution a été favorable avec le départ du hospitalier au 5 ème jour d´hospitalisation.
+
+La première remarque de ce cas est la discrétion de la gravité de la COVID-19 chez ce patient.
+
+Ce patient n´a aucune comorbidité qui puisse expliquer la gravité de son tableau clinique.
+
+A ce jour, il n´y a pas de rapport relatant de cas de COVID-19 avec des LES.
+
+La notion d´allergie au TNF alpha a été évoquée chez ce patient.
+
+Ces observations soulèvent la possibilité d´une hypersensibilité par allergie au TNF alpha.
+
+Toutefois, le diagnostic étiologique de l´urticaire aigue des placards à COVID-19 chez ce patient n´est pas établi.
+
+Ces hypothèses invitent à un meilleur bilan des TNF et son récepteur, ainsi qu´à des recherches sur les causes d´une augmentation de la TNF dans la COVID-19, pour une meilleure compréhension de ce tableau clinique.
+
+Des anticorps anti TNF ont été produits pour lutter contre cette cytokine dans le cadre de la polymyalgia rhumatica et l´arthrite rhumatoïde.
+
+En l´COVID-19, il y a des preuves d´augmentation de la TNF et ses récepteurs, cette augmentation peut être du à des mécanismes paracrines ou immunitaires.
+
+Nous avons en l´ureté une augmentation de la TNF induite par une cytokine interféron gamma libéré par l´activation de la TLR signalisation.
+
+Dans le cadre de la COVID-19, nous avons des données montrant un équilibre des taux de TNFalpha et de IL-10, où les deux sont augmentés, mais dans un ratio de 1:2, ce qui peut expliquer la faiblesse des symptômes.
+
+L´activation de l´IRF3, une transcription facteur de signalisation cytokinique, augmente l´expression des IL-6 et TNF, ainsi que l´activation du récepteur TLR4 et du CD14, des TLR10 et 2, des IRF7, IRF5 et STAT3.
+
+Dans un autre cadre, il existe des résultats sur une augmentation de la TNF dans le sang au niveau des survivants de la COVID-19, associée à une augmentation des taux de LDH et d´alphafœtoprotéine, cette augmentation peut être liée au syndrome inflammatoire sévère avec pancytopénias qui peut survenir après la récupération d´une pneumopathie virale grave.
+
+Lors de la cicatrisation de la COVID-19, une réduction des niveaux de TNF de façon significative a été observée.
+
+La réduction de l´expression des TNFalpha avec l´âge est un facteur de risque de mortalité d´un tableau de COVID-19.
+
+Ces mécanismes paracrines et immunitaires expliquent l´apparition de LES dans le contexte d´une COVID-19.
+
+Lorsque nous évoquons le cas de LES chez un patient asymptomatique d´une COVID-19, il est important de noter les antécédents médicaux du patient, notamment l´Etanercept qui a été administré chez le patient, avec un rôle important dans la régulation des TNFalpha.
+
+Ce cas soulève également une question d´éthique: le remplaçant en remplacement immunoglobulinine a été administré dans le cadre de la maladie immunodépressive primaire, liée au syndrome de CVID.
+
+La question de savoir si le remplaçant en immunoglobuline doit être abandonné au profit de l´Etanercept, ce qui a une grande importance financière, soulève également un débat éthique.
+
+L´aspect éthique de l´utilisation de l´Etanercept en cas de LES de COVID-19 de l´immunocompétent n´est pas discuté car la tolérance immunitaire au vaccin anti-COVID-19 est acceptée.
+
+Le cas d´une infection respiratoire avec une atteinte cutanée chez un patient asymptom

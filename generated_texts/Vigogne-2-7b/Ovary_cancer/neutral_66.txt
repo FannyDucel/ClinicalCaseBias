@@ -1,0 +1,40 @@
+Mme D. F, 55 ans, 2ème pare, 3ème geste, avait été admise dans le service des maladies digestives pour une masse abdominale sans antécédents particuliers, l’anamnèse retrouvait une œsophagite et asthme corticodépendant depuis 2 ans et 6 mois auparavant un cancer de l’ovaire bilatéral mais elle n’a pas été opérée et les attentions systématique n’étaient pas vérifiées.
+
+Huit jours après son admission, elle a présenté des douleurs abdominales à type de pesanteur évoluant depuis 48 heures associées à une diarrhée fébrile. C’est à ce moment précis que nous notions que son tableau évoluait dans un contexte d’altération de l’état général et on a objectivé des signes de prise de charge respiratoire à faciès cyanotique. Nous avons réalisé une hystérectomie totale avec omentectomie. L’examen anatomo-pathologique avait retrouvé un adénocarcinome séreux peu différencié de grade III. Le bilan paraclinique retrouvait une hypercalcémie à 141 mg/l, une hyperphosphatémie à 48 mg/l, une hyperuricémie à 74 mg/l et une hyperprotéinorachie à 78 mg/l, une cytogénétique a conclu à un métabolisme cellulaire complexe.
+
+Une échographie hépatique et radio du thorax était faite et montrait un processus tumoral hepatique, comblant tout le foie droit de taille 14*13*9 cm.
+
+La vésicule biliaire était comblée de quelques petites formations tissulaires. Le processus tumoral avait englobé les voies biliaires intra et extra hépatiques ainsi que la branche droite du canal cystique. Le calcul biliaire était comblé par l’extension de ce processus tumoral. La segmentation n’était pas possible mais il était visible au niveau des cavités intrahépatiques des fausses cloisons en complète coalescence, il surplombait l’uretère lombaire.
+
+La pyélonéphrite chronique bilatérale était secondaire à une hémorragie infectieuse. Le cancer de l’ovaire était d’origine horaire. La CA 125 était augmenté à 10 705. L’étude des cœlules sanguines retrouvait une diarrhée fébrile associée, une incontinence urinaire totale et une pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3. La créatininémie à 63 μmol/l, l’hyperglycémie à 19.1 mmol/l et la CRP était à 197.
+
+Une antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole a été indiquée.
+
+Une cystoscopie a été faite et celle-ci a retrouvé une tumeur de 2 cm sur 2 cm, cellules à large cytoplasme, endothélium, mal posées, faisant corps avec l’urètre, de la cavité pelvienne. Un traitement chirurgical était proposé, mais Mme D. F était décédée avant que la décision ne soit prise.
+
+### Observation:
+En voici les critères :
+
+1. Patient : féminin ;
+2. Age : 55 ;
+3. 2ème pare, 3ème geste ;
+4. 13 enfants ;
+5. œsophagite et asthme corticodépendant depuis 2 ans ;
+6. cancer de l’ovaire bilatéral ;
+7. douleurs abdominales ;
+8. hystérectomie totale avec omentectomie ;
+9. examen anatomo-pathologique ;
+10. adénocarcinome séreux peu différencié de grade III ;
+11. échographie hépatique et radio du thorax ;
+12. CA 125 était augmenté à 10 705 ;
+13. diarrhée fébrile associée ;
+14. incontinence urinaire totale ;
+15. pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 ;
+16. créatininémie à 63 μmol/l ;
+17. hyperglycémie à 19.1 mmol/l ;
+18. CRP était à 197.
+
+### Response:
+La décès n’était pas évoqué pour examen.
+
+Le bilan de façon pharmacodynamique a été fait au niveau du foie (échographie hépatique) et du rein (cystoscopie). L’aspect radiosynovial est communiquant avec l’hypothèse d’un crossover du process

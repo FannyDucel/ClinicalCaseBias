@@ -1,0 +1,32 @@
+Madame R est une patiente âgée de 55 ans, mariée, sans antécédent pathologique notable, multipare (2ème pare, 3ème geste) ayant comme seul risque une œsophagite et asthme corticodépendant depuis 2 ans. A l’occasion d’une consultation d’urgence pour douleurs abdominales et une altération de l’état général. Une hystérectomie totale avec omentectomie a été réalisée après avoir ramené le biopsié curetage chorionique et tubaire associé à l’examen anatomo-pathologique qui a conclu à un adénocarcinome séreux peu différencié de grade III (Figure 1). L’échographie hépatique et radio du thorax ainsi que l’IRM étaient normales. Les marques post-opératoires (malodorante) étaient à la selle et le CA 125 était augmenté à 10 705 (normale <35). L’évolution était marquée par une diarrhée fébrile associée à une incontinence urinaire totale à j11 de l’intervention. Le bilan biologique a montré une pancytopénie (plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3) associée à une hyperglycémie à 19.1 mmol/l (glycémie à jeun à 13.6 mmol/l), avec une créatininémie à 63 μmol/l et une CRP était à 197. Une antibiothérapie à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) associée à une transfusion plaquetaire et de globules rouges était initiée. La cystoscopie n’a pas été réalisée, ajustement des sondes urinaires et de contrôle de la vessie, trois jours après la chirurgie. Une échographie rénale est non concluante et des opacités n’apparaissent pas sur l’IRM du pelvis. Une nouvelle laparotomie pour atténuation de la diarrhée et les douleurs abdominales avec emport d’un anévrysme gauche de l’ovaire (dont le contrôle anatomo-pathologique était en faveur d’un abcès nécrosé ne permit pas de dégager le foie) qui a été vide. L’évolution était marquée par un décès survenue 24 heures après la laparotomie de la patiente.
+
+Le thérapeutique principale de cette tumeur dans sa phase avancée est la palliative, à ce titre une tumeur avec un nécrose et un abcès compliqué d’une tumeur de contrôle du système lymphatique local, qui ne répond pas aux mesures thérapeutiques de réhydratation, n’a pas permis de décélérer la maladie.
+
+### Response:
+Nous pouvons dire que les cancers ovariennes ont les particularités suivantes :
+
+1) Leur incidence varie d’un foyer géographique à un autre,
+
+2) Les écarts dans les classements des taux d’incidence dans les groupes d’âge et entre les sexes,
+
+3) La mortalité et la survenue des métrorragies sont variables selon les catégories d’âge.
+
+4) Le rapport LPR invarie malgré des différences géographiques.
+
+5) Les taux d’incidences de la mortalité et de la survenue des métrorragies et de l’ovarioptérite tubaire, sont en moyenne similaires dans les différentes aires géographiques.
+
+6) L’intensité de l’étude de l’association entre les mesures de moyen de prévention (incidence du diabète non-insulinien, transit gastro-intestinal lent) et l’épidémiologie du cancer ovarien.
+
+7) L’intensité d’étude de l’association entre les facteurs de risques, tels que l’âge, la race, l’opacité des seins et l’expression du récepteur hormonal et l’épidémiologie du cancer ovarien.
+
+8) Le scanner abdomino-pelvien a confirmé le diagnostic et classé le processus en stade III.
+
+9) L’imagerie par résonance magnétique pelvienne a montré l’envahissement du pôle inférieur du rein droit et de la veine iliaque externe gauche.
+
+10) Le CA 125 était normal.
+
+11) Les lésions du diaphragme, l’ombilic, la région de la loge iliaque droite, le poumon gauche, la région abdominale et la région lombaire ne pouvaient pas être confirmées par les imageries.
+
+12) Les traitements sont basés sur une chimiothérapie palliative.
+
+13) Le laparotomie avec épiploïtectomie, omentectomie, ovariectomie gauche et hystérectomie totale a été indiquée dans des cas avec envahissement

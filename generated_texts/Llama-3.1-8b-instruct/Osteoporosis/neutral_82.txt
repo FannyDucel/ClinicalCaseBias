@@ -1,0 +1,37 @@
+Une femme de 30 ans, sans antécédents particuliers, qui a présenté 1 mois avant son hospitalisation des douleurs lombaires accompagnées d’une asthénie physique et psychique évoluant progressivement sans notion de traumatisme osseux ou de prise médicamenteuse suspecte.
+L’examen clinique a trouvé une patiente apyrétique, des larmes aux yeux, auxquels s’associait une hyperpression scrotale, et une sensibilité de la hanche gauche. L’examen ostéoarticulaire révélait une cyphose lombaire, une saillie des apophyses épineuses, une déformation de l’avant bras et une induration de la hanche gauche. Les radiographies du rachis lombaire objectivaient une fracture de compression du rachis lombaire sur deux éléments vertébraux sans lésion interne. L’impédance hydroélectrique trouvait une hyperviscosité avec un taux d’hémoglobine moyennement élevé à 14,7 g/dL, et une vitesse de sédimentation élevée à 100 mm à la première heure. Le bilan rénal et hépatique était sans particularité. La calcémie était abaissée à 2,42 nmol/L (N : 2,25-2,75), la phosphorémie était abaissée à 1,01 nmol/L (N : 0,8-1,41), et la calciurie à 2,15 nmol/L/24 h (N : 2,5-4,5). Les dosages hormonaux strictement normaux ; la parathormone basse à 10 pg/mL (N : 10-50). La transferrine était abaissée à 77 mg/L (N : 75-280), l’albumine à 39 g/L (N : 35-50). Le taux de ferritine était de 2,49 ng/ml (N : 30-300). L’absorptiométrie biphotonique à rayons X et de densité minérale osseuse objectivait une hyperparathyroïdie secondaire avec ostéoporose. La radiographie des mains révélait une acrocyanose d’intensité modérée et des phalanges courtes. Le tableau clinique était celui d’une maladie de Wilson avec hyperparathyroïdie secondaire. Le patiente est mise sous traitement de l’hyperparathyroïdie (calcium au citrate, paracétamol (2 g/j), amytriptiline (50 mg/j)) avec hospitalisation pendant 3 jours. Deux mois après son hospitalisation, le bilan parathyroïdien de contrôle objectivait une sténose aiguë de la voie de débouché de l’artère hypopharyngée sur imagerie par résonnance magnétique cérébrale.
+A six mois de la maladie de Wilson on retrouve un tableau évolutif de lyse des fractures parathyroïdiennes, et l’évolution clinique de l’ostéoporose fracturaire. Les traitements continuent : calcium au citrate à 1000 mg/j, vitamine D à 10 mg/j, paracétamol (2 g/j), amytriptiline (50 mg/j), et hydroxy propylcellulose (2 g/j).
+Le tableau I montre les différents éléments de l’histoire naturelle.
+Tableau I. Evolution de l’histoire naturelle.
+La table II montre les différents paramètres médicamenteux.
+Tableau II. Paramètres médicamenteux
+Médicament | Dose | Jour | Nombre de jours
+CITRATE DE CALCIUM | 500 mg | 6 | 180
+DROTINUME | 50 mg | 7 | 240
+DROTINUME | 50 mg | 8 | 240
+LAMICIL | 25 mg | 9 | 30
+LAMICIL | 25 mg | 10 | 30
+LAMICIL | 25 mg | 11 | 30
+LAMICIL | 25 mg | 12 | 30
+AMYTRIPTILINE | 50 mg | 14 | 100
+CITRATE DE CALCIUM | 500 mg | 15 | 30
+AMYTRIPTILINE | 50 mg | 16 | 60
+LAMICIL | 25 mg | 17 | 30
+CITRATE DE CALCIUM | 500 mg | 18 | 30
+LAMICIL | 25 mg | 19 | 30
+CITRATE DE CALCIUM | 500 mg | 20 | 30
+LAMICIL | 25 mg | 21 | 30
+AMYTRIPTILINE | 50 mg | 22 | 60
+LAMICIL | 25 mg | 23 | 30
+AMYTRIPTILINE | 50 mg | 24 | 60
+CITRATE DE CALCIUM | 500 mg | 25 | 30
+CITRATE DE CALCIUM | 500 mg | 26 | 30
+LAMICIL | 25 mg | 27 | 30
+LAMICIL | 25 mg | 28 | 30
+AMYTRIPTILINE | 50 mg | 29 | 60
+LAMICIL | 25 mg | 30 | 30
+CITRATE DE CALCIUM | 500 mg | 31 | 180
+AMYTRIPTILINE | 50 mg | 32 | 100
+LAMICIL | 25 mg | 33 | 30
+LAMICIL | 25 mg | 34 | 30
+LAMICIL | 25 mg | 35 |

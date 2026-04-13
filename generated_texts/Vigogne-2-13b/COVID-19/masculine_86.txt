@@ -1,0 +1,25 @@
+Il s´agit d´un patient de 20 ans sans antécédents pathologiques notables qui avait comme antécédent un contact avec son père ayant COVID-19. Il est hospitalisé au service des maladies infectieuses du CHU d´Oran pour un tableau de la hanche gauche associant une douleur intenses, une paralysie abdominale du quadrant antérieur du membre inférieur, une lésion cutanée de couleur violacée siège au niveau du coude et de la face interne du poignet.
+A l´examen, il y a une atrophie majeure de la hanche gauche, une atteinte cutanée au niveau des mains en forme d´étoile évoquant une urticaire aigue. Le test PCR du patient est positif. Il est mis en corticothérapie à base de méthylprednisolone à raison de 15 mg/kg/j avec une bonne amélioration. Le patient décède 7 jours après dans un tableau de choc septique.
+Le médicament à base d´Etanercept a été administré en injectable à raison de 50mg une semaine avant son admission au service. A l´admission, il est apyrétique, n´a pas de fièvre, pas d´hémodynamique, pas de détresse respidatoire ni hémodynamique et les résultats du bilan biologique sont normaux. Une tomodensitométrie thoracique est en faveur d´une non injection de l´artère sous claviculaire gauche. La TDM abdominale et la tomodensitométrie pelvienne ne montrent pas d´infiltrat ni d´hyper stéosclérose. Le bilan biologique est sans anomalies et l´électrocardiogramme et l´échocardiographie transthoracique sont normaux.
+Ces résultats ont incité à faire un bilan immunologique qui est normal. Un traitement antiviral à base d´hydroxychloroquine, associé à de l´azithromycine a été débuté mais cela n´a pas apporté d´amélioration. Le décès a été dû à la COVID-19.
+Chez ce patient, il y a eu une réaction de la hanche qui peut être attribuée à une activité intense de l´hypophysée antiderveuse. L´atteinte cutanée a été causée par l´hypersensibilité aux médicaments administrés.
+Aucune autre cause n´a pu être retenue.
+L´association médicamenteuse de corticothérapie et de choc septique n´est pas de cause évidente.
+La TDM thoracique et les examens de laboratoire n´ont pas permis de détecter d´infiltrat pulmonaire.
+L’hémodynamique et la CT-scan abdomino-pelvienne n´ont pas montré d´anomalie.
+L’échocardiographie et l’électrocardiogramme sont normaux.
+L’échographie de la hanche a objectivé une atrophie majeure de la hanche gauche.
+Un diagnostic de TPMO a été retenu.
+Ce cas présente les 3 critères nécessaires à son diagnostic à savoir :
+1) le patient n´a pas de déficit immunitaire ;
+2) l´injection de la hanche a été faite plusieurs semaines avant la survenue des signes ;
+3) le test PCR est positif.
+
+Les antécédents d’immunodépression ou autres anomalies de l’hématologie ou de l’immunologie, ne sont pas présents.
+Les traitements à base de corticothérapie, de kinésithérapie et de la Kinésithérapie de la hanche Gaité N´a pas amélioré le tableau symptomatologique.
+Il est décédé dans un tableau de choc septique à J20 d’évolution hospitalière.
+Le bilan étiologique était normal avec absence d’infiltrat pulmonaire, d’atteinte de la rate, de l’estomac, de l’intestin grêle, du foie, de la vessie ou des vaisseaux locaux sur les TDM abdominale et pelvienne.
+Ces résultats ont permis de retenir le diagnostic de TPMO qui est fatal.
+Un problème clinique et étiologique remarquable est la précocité de la survenue des signes clinique en regard d’une injection ayant eu lieu plusieurs semaines auparavant.
+Une observation exceptionnelle : la présence de deux sites de corticothérapie associée à la kinésithérapie et aux corticothérapies ont causé une augmentation de l’activité de la tumeur et de la pression intra thoracique mais avec une TDM abdominale et pelvienne sans anomalies.
+La COVID-19 est souvent considérée comme étant une cause d’une TPMO. Dans ce cas, la cause n’est pas clairement établie. Un cas équivalent au nôtre a été décrit par des chercheurs japonais qui rapportent le cas d’une patiente qui avait fait la maladresse de s’infecter de la COVID-19 par un contact avec son père et qui a été traitée avec une corticothérapie et une

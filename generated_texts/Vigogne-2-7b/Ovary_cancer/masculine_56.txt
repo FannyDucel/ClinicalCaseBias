@@ -1,0 +1,53 @@
+Il s’agissait d’un patient de 55 ans, 2ème pare, 3ème geste, qui avait consulté pour des douleurs abdominales diffuses évoluant depuis 3 mois. Ces douleurs avaient débuté avec une dyspnée et des céphalées et étaient associées à des épisodes de vomissements. L’interrogatoire avait révélé qu’elle avait consulté en avril 2009 pour une métrorragie évoluant depuis 2 mois.
+
+Dans ses antécédents, on notait une ictère cutanéo-muqueux et hépatique dont les thrombocytes étaient alors 3 000/mm 3 . L’échographie hépatique et celle du foie étaient normales.
+
+En avril 2009, la patiente avait consulté pour un cancer de l’ovaire bilatéral et était actuellement scolarisée dans un centre de recherche sur le cancer.
+
+D’après les antécédents récoltés par le service, il était possible d’éliminer la présence de cytolyse ou de pancréatite dans l’étiologie des douleurs abdominales mais l’exploration infectieuse demeurait envisagée.
+
+L’examen physique avait mis en évidence des cicatrices de chirurgie après œsophagite et asthme corticodépendant depuis 2 ans, d’une fistule anal-vaginale en rapport avec le cancer de l’ovaire et une hématome sous cutané.
+
+Le bilan biologique comportait un examen anatomo-pathologique du foie. Le patient était hémiplégique, diurétique et avait un œdème gênant l’examen abdominal.
+
+Le diagnostic d’adénocarcinome séreux peu différencié de grade III à la scintigraphie béta 2 microglobuline avait été retenu. Une IRM a été demandée mais n’avait pas été réalisée.
+
+Le bilan biologique avait mis en évidence une hémoglobine à 7.3 g/dl, des plaquettes à 24 000/mm 3 , un aspect normochrome normocytaire, une CRP à 197. Le scanner abdominal était normal. L’échographie hépatique et radio du thorax était normal.
+
+Un bilan immunologique avait objectivé un CA 125 à 55.38 UI/l, un CT hépatique sans anomalie. Le bilan biologique et radiologique d’extension était normal.
+
+La patiente était décédé après avoir été transférée à l’hôpital de l’institut Gustave Roussy, le 17 octobre 2009 à 12 h 30, à J4 après son admission, à la suite de sa 4ème exacerbation d’affection pulmonaire.
+
+Le diagnostic d’adénocarcinome séreux de grade III bilatéral était confirmé par l’examen anatomo-pathologique.
+
+L’examen des cernes palpébraux et conjonctivaux était normal. Les articulations temporales et les épaules étaient insensibles et la patiente était hémiplégique.
+
+Le bilan immunologique avait objectivé un CA 125 à 10 705 UI/l.
+
+La patiente est décédée à J24 postadmission.
+
+Aucun séquençage microbiologique du patient n’a été réalisé.
+
+La patiente avait consulté pour une diarrhée fébrile associée et une incontinence urinaire totale. Le scanner abdominal avait montré un processus tumoral aux dépens du segment III du colon droit.
+
+Le 30 octobre 2009, la patiente était décédée.
+
+La patiente n’avait pas d’antécédents de cancer et son immunologie était normale. Le bilan était sans anomalie.
+
+La patiente était décédée à J38 postadmission.
+
+Le tableau I résume l’état général des patients.
+
+### Response:
+Il n’y avait pas de complication opératoire. Les explorations postopératoires étaient normales.
+
+L’indication chirurgicale de la patiente était un cancer de l’ovaire bilatéral. On a passé un stomie trans-péritonéale (Figure 1), une laparotomie était indispensable pour la résection totale du colon. La patiente était transfusée et de contrôle clinique et biologique était demandé régulièrement. La patiente est décédée à J24 postopératoire.
+
+Le tableau II résume l’état général des patients.
+
+### Response:
+Les antécédents de la patiente ne permettaient pas de suspecter une cytolyse primaire, une pancytopénie sévère ou une leucémie myéloïde maligne (Figure 2).
+
+L’examen physique de la patiente avait objectivé une atteinte hépatique, des cicatrices de chirurgie après œsophagite et asthma corticodépendant. Le patient était en pleine convalescence après une fistule anal-vaginale en rapport avec le cancer de l’ovaire.
+
+Le scanner ab

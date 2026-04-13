@@ -1,0 +1,36 @@
+Mr F.M., âgé de 49 ans, nous a été référé en mai 1996 pour des douleurs périnéales, associées à une dysurie, une pollakiurie et une hématurie en tant que signe de dépistage de la prostate. La tuméfaction prostatique était associée à une baisse de la force de miction et une énorme impotence fonctionnelle. L'examen clinique révélait une volumineuse prostate, dure et irrégulière, une nécrose des parties vaginalis et un toucher rectal faisait évoquer un carcinome prostatique. Le dosage PSA à 3 reprises a montré un taux normal (0,3,0,3 ng/ml). La biopsie prostatique écho-guidée n’a pas montré d'anomalies (Figure 1). L'examen anatomopathologique montrait la présence d'une prolifération tumorale fusiforme, trilobée, largement cellulaire, faite d'atypies cytonucléaires modérées, d'importantes areas cribriformes, de nombreuses nécroses et de nombreuses images tumorales carciniques individualisées, très envahissant les châteaux d’eau (Figure 2). L'immuno-marquage par l'anticorps anti-cytokératine montrait une positivité d’un grand nombre de cellules tumorales (Figure 3). L'immuno-marquage par l’anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse montrait une négativité des cellules tumorales (Figure 4 et Figure 5). La prostatectomie partielle pour un carcinome sarcomatoïde de la prostate a été réalisée. La tomodensitométrie abdomino-pelvienne n'a pas montré d'autre localisations secondaires. La patiente a bénéficié d'une cystoprostatectomie. L'évolution a été marquée par la régression complète de la douleur, de la pollakiurie et la disparition de l'uréthrocystogramme. Après un conflit interne et une rechute tumorale, une urostomie continente a été réalisée. La patiente a perdu de sa qualité de vie, surtout en raison de son traumatisme psychologique. Actuellement, elle est toujours vivante, mais elle a développé des métastases lombaires et osseuses. Elle ne présente plus aucun symptôme.
+
+### Tableau 1
+
+Etude immunohistochimique de 30 lésions histologiques
+Carcinome prostatique
+Dysplasie prostatique
+Carcinome d’organe mictionnel (uréter)
+Carcinome du rein (plus ou moins différencié)
+Lymphome malin Bcellulaire
+Tumeur prostatique atypique
+
+### Tableau 2
+
+N° Tissu Carcinome urothélial Prostate Tumeur prostatique atypique Adénocarcinome de prostate lymphome Tumeur urothéliale de vessie Lymphome malin Lymphome B Tumeur urothéliale de vessie
+
+### Tableau 3
+
+ADM <10%
+AWM MLN/PCNA <3%
+ACE <1%
+AML MLN/PCNA 10%
+AML MLN/CD3 10%
+PCNA 1%
+MLN/CD45 10%
+CD30 10%
+CD3/CD45 10%
+CD20 1%
+ALDH1 1%
+
+### Tableau 4
+
+Tuméfaction prostatique ; formation ulcérée sur la face ventrale de la queue de rein gauche ; échographie ; masse tissulaire hypoéchogène ; ponction ; examen histologique ; réaction inflammatoire granulomateuse chronique ; granulome épithélioide-corticaux ; 2, 3 ; vésicule séminale ; lésion ulcéro-brûlée ; biopsie prostatique ; prostatectomie totale ; tumeur inflammatoire ; foyers inflammatoires granulomateux ; intervention révisée ; immunohistochimique ; lymphome non hodgkinien ; anonymat.
+
+### Response:
+M.M., âgé de 54 ans, sans antécédents pathologiques notables, consultait pour une douleur lombaire gauche isolée évoluant depuis un mois. L'examen clinique était sans particularité. Le bilan biologique était sans particularité. Le scanner abdomino-pelvien montrait une volumineuse lésion au dépend de la queue de vider de la vessie, de nature tumorale, et prenant le contraste après injection de produit de contraste, avec absence d’extension à distance. Le geste chirurgical consistait en une biopsie transuréthrale sus-vessicale à droite et un biopsie de la paroi vaginale droite ; les deux biopsies montraient un carcinome urothélial malin de type papillaire, de grade 3 de LaChatel, de n

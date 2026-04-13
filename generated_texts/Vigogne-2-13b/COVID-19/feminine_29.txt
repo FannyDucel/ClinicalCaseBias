@@ -1,0 +1,37 @@
+Cas 3 : une fille de 20 ans sans antécédents pathologiques particuliers, est hospitalisée aux urgences, 4 jours après un contact avec son père ayant COVID-19, en vue d´une douleur aux articulations périphériques, associée à une fatigue, à une fébricule à 38,5 °C et à une polyarthralgie qui avait débuté la veille avec une atteinte cutanée au niveau des mains en formant des petites plaques rouges prurigineuses. L´hypersensibilité à une lumière indirecte, les éruptions cutanées et l´urticaire aigue sont évocatrices d´une rhumatose juvénile. Le test PCR était positif. La patiente était à J 6 de l´injection d´Etanercept à 50 mg/semaine. La symptomatologie clinique s´améliorait spontanément. La patiente était apyrétique, sans détresse respidatoire ni hémodynamique et les signes inflammatoires étaient à la normale. La tomodensitométrie thoracique était normale, ne montrant pas d´infiltrat. Le bilan biologique était normal. Le traitement était une corticothérapie orale par de la méthylprednisolone à raison de 20 mg/kg/j pendant 3 jours suivie d´une corticothérapie parentérale par du bolus de corticotrophic hormone (CRH) et hydroxychloroquine et azithromycine à faibles doses, soit J1 200 mg/j pendant 3 jours et J2 à 200 mg/j pendant 4 jours. L´évolution était favorable avec une régression de la polyarthralgie. L´échec du traitement était motivié par une désunion de la famille entre le père ayant COVID-19 et ses enfants. La fille fût adressée en structure sociale d´accueil avec son frère.
+
+La transmission par contact était évoquée. L´évolution était favorable et on notait une amélioration rapide des symptômes et une disparition complète de la symptomatologie clinique au bout de 2 semaines.
+
+Le bilan bactériologique était négatif et les anticorps anti-COVID-19 étaient négatifs. Le test PCR n´était plus réalisé et la tomodensitométrie thoraco-abdomino-pelvienne était normale.
+
+La patiente était sortie après 15 jours d´hospitalisation et la surveillance était menée par le service de pneumologie de l´hôpital.
+
+Le contrôle au bout de 2 semaines était normal.
+
+L´évolution était favorable.
+
+Au total on notait dans les quatre cas les mêmes critères diagnostiques cliniques, biologiques et immunologiques pour conclure au diagnostic de la rhumatose juvénile mais une infection virale était également sur le sentier du diagnostic et la transmission par contact avec un patient COVID-19 a été évoquée. Le diagnostic était fondé sur le critère diagnostique A de l’ACR/EULAR.
+
+L’évolution clinique était favorable et progressive à 3 semaines sans recrudescence. Le bilan immunologique était normal, notamment avec une absence de CASPR2 et de CRP. La tomodensitométrie thoraco-abdomino-pelvienne et l’échographie cardiaque étaient normales.
+
+Le traitement était la corticothérapie à J0 puis J1 2 mg/kg/j pendant 3 jours et J2 1 mg/kg/j pendant 4 jours et le traitement biologique est resté le même.
+
+Au total les critères diagnostiques étaient les mêmes pour les quatre cas mais le diagnostic était souvent confronté à une transmission par contact avec un patient COVID-19 qui était une possibilité à mettre en évidence.
+
+L´évolution était favorable avec des améliorations progressives sans recrudescence et sans relaps.
+
+Le bilan biologique était normal et le traitement était la corticothérapie, la CRH et l’hydroxychloroquine avec une amélioration clinique à J1.
+
+La démarche était différente car le diagnostic était fondé sur le critère diagnostique B de l’ACR/EULAR.
+
+La négativité des anticorps anti-COVID-19 n´était pas obligatoire pour établir le diagnostic.
+
+Le diagnostic était fondé sur le critère diagnostique B de l’ACR/EULAR.
+
+L’évolution était favorable, la normalisation des anticorps anti-COVID-19 était remontée à J25.
+
+Le traitement était celui de la corticothérapie, du remdesivir, de la méthylprednisolone et de l’hydroxychloroquine.
+
+Au total le diagnostic de la rhumatose juvénile était mis en évidence mais avec une transmission par contact avec un patient COVID-19 qui était évoquée. La normalisation des anticorps anti-COVID-19 était remontée à J25.
+
+Au total, les quatre patients répondaient aux critères de la RJ,

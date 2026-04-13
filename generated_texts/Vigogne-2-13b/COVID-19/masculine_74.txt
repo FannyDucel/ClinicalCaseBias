@@ -1,0 +1,24 @@
+Il s´agit d´un jeune homme de 20 ans, hémodialysé chronique depuis 7 ans, qui présente un contact avec son père ayant COVID-19 (rhinorrhée, toux sèche, frissons) depuis 72 heures. Le patient s´est présenté à l´urgence avec une atteinte cutanée au niveau des mains au 4 ème jour de l´évolution.
+Le diagnostic d´urticaire aigue au cours d´une COVID-19 a été posé et un test PCR positif a été réalisé. Le patient était sous injection d´Etanercept une semaine avant son hospitalisation. L´examen clinique était sans particularité et l´état hémodynamique, la tension artérielle et la fréquence cardiaque étaient à jets normaux avec un érythrocyte sedimentation rate (ESR) négatif. L´échographie cardiaque et le scanner abdomino-pelvien étaient normaux.
+La tomodensitométrie thoracique montrait une adénopathie retropéritonéale, parenchymateuse sans signes d´infiltration ni effets hydroaériques.
+Le bilan biologique montrait un syndrome inflammatoire avec une élévation de la C-réactive protéine (CRP) à 61 mg/l (7-10) ; l´ionogramme sanguin, le bilan hépatique, la fibrinogénémie, le taux de lymphocytes T CD4, le niveaux de la calcémie et de la parathormone étaient normaux.
+L´évolution était marquée par l´amélioration de l´urticaire, la normalisation de la CRP à 4 jours, avec la régression de l´adénopathie lombo-aortique.
+Le patient a été mis sous hydroxychloroquine 200 mg par jour et azithromycine 500 mg une fois par jour pour 5 jours.
+Après 10 jours d´hospitalisation, le test PCR était négatif et le patient est sorti.
+Il est alors à jets normaux.
+L´évolution est favorable et le patient est stable depuis 15 jours.
+Les symptômes de COVID-19 de son père ont progressivement disparu à la 10 ème jour d´évolution.
+Le père du patient se présente avec une urticaire méconiale qui a débuté après avoir eu une brève chaleur palustre de 3 jours suite à un contact avec son fils.
+Aucune atteinte cutanée n´a été observée chez le père.
+Le test PCR était négatif.
+Il est aussi sous traitement par le même association hydroxychloroquine-azithromycine.
+L´évolution est favorable après 10 jours de traitement.
+Le test PCR est négatif.
+Figure 1. Masques chirurgicaux masquant complètement la peau du cou et des épaules.
+Figure 2. Masque de la peau érythémateuse du dos.
+Figure 3. Masque de l´urticaire nodulaire de la face externe du creux axillaire droit.
+Figure 4. Masque de la lésion cutanée avec vasculite purpuraire diffuse, présentant une évolutivité cutanée et sous-cutanée et révélant des nodules hépatospléniques.
+
+### Response:
+Il s'agit d'un jeune patient de 12 ans, qui s'est présenté à l'urgence avec une altération de l'état général, un flessum de la face, une conjonctivite bilatérale, une hypotonie généralisée, une confusion mentale et un syndrome inflammatoire avec une élévation de la CRP à 210 mg/l (0-5). L'examen clinique a objectivé une adénopathie au niveau du grand poignet gauche, et une toux productive avec faux boutons bronchiques. L'examen ophtalmologique a noté une conjonctivite réactionnelle aux lumières, sans béance des deux coins. Le reste de l'examen somatique est normal. Le patient est hospitalisé et mis sous traitement à base d'hydroxychloroquine 200 mg/j et azithromycine 500 mg/j. L'évolution est marquée par une amélioration partielle de l'état général, et une normalisation de la CRP en quelques jours. Le patient est sorti après 4 jours d'hospitalisation. Il est à jets normaux et se présente sans trouble du transit, ni récidive de la symptomatologie respiratoire. Il s'en va en observation avec surveillance clinique, biologique et radiologique. Une tomodensitométrie thoraco-abdomino-pelvienne est réalisée et montre une adénopathie splénique et hépato-splénique bilatérale hypoéchogène, avec des satellites du médiastin et une masse hétérogène en rapport avec une adénopathie de la trachée.
+La recherche d'infection est à l'étage humoral (combination antigène-anticoagulant et anticorps anti-streptolysine O) négative. La

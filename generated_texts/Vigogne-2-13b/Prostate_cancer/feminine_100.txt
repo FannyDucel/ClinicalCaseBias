@@ -1,0 +1,44 @@
+Une femme âgée de 49 ans, mal alourdie de 112kg pour 1,77m, admise pour des douleurs périnéales, d'installation brutale évoluant dans un contexte fébrile, associées à une dysurie et une pollakiurie, sans autres signes urinaires associés. L'interrogatoire trouve une notion de pression systolique positive à l'abdomen il y'a 10 ans, qui a motivé un toucher rectal et la découverte d'une volumineuse prostate, dure et irrégulière, mais qui n'a pas motivé de biopsie, d'examen proctologique, ni d'examen clinique anogenital et qui a disparu complètement. A l'admission, le dosage PSA à 3 reprises a montré un taux normal. La biopsie prostatique écho-guidée a montré que les cellules tumorales sont bien différenciées et expriment l’anticorps anti-cytokératine, l'anticorps antiactine muscle lisse et l’anticorps anti-desmine muscle lisse. Le reste du fond de la cystoprostatectomie, le colon, le rectum, le vagin et les organes génitaux externes, est négatif. L'immunohistochimie a montré une positivité d’un grand nombre de cellules tumorales de la glande prostatique et des muscles lisses adjacent à l’anticorps anti-vimentine, à l'anticorps anti-p40, à l'anticorps anti-muscle lisse et à l'anticorps anti-cytokératine. La prolifération tumorale est faite de cellules à cytoplasme riche, présentant un noyau fusiforme ou ovoïde sans atypies nucléaires. Ces cellules sont disposées en faisceaux parallèles, souvent croisés. Cette immunomarquage n'a pas montré de positivité des cellules tumorales aux anticorps anti-desmine muscle lisse et anti-actine muscle lisse. A ce titre, le diagnostic de carcinome sarcomatoïde de la prostate a été retenu. La tomodensitométrie abdomino-pelvienne a montré l'absence de localisations secondaires. La patiente a subi une cystoprostatectomie suivie d'une urostomie continente. Elle a survécu actuellement à 10 mois de recul.
+
+Tableau 3. VC, VG, VT et CD (2-8);
+
+Tableau 4. VC, VG, VT, VF et CD;
+
+Tableau 5. VC et VG;
+
+Tableau 6. VG et VT;
+
+Tableau 7. VC, VG, VT et CD;
+
+Tableau 8. VC et VG;
+
+Tableau 9. VG et VT;
+
+Tableau 10. VC et VT;
+
+Tableau 11. VT et VG;
+
+Tableau 12. CD et VG;
+
+Tableau 13. CD et VT;
+
+Tableau 14. VT et CD;
+
+Tableau 15. VC, VG, VT, CD et VF;
+
+Tableau 16. VF et VC;
+
+Tableau 17. VF et VG;
+
+Tableau 18. VF et VT;
+
+Tableau 19. VF et CD;
+
+Tableau 20. VF et VF;
+
+Tableau 21. VF et VT;
+
+Tableau 22. VF et CD.
+
+### Response:
+D'abord on a entrepris l'acquisition d'images dans la chute ventriculaire, l'âge des vents, la mortalité hospitalière, le score APACHE II et le score SAPS II pour 5 jours et 24 heures. On a recueilli des données sur l'éthnicité et la profession. La notion de pression artérielle positive à l'abdomen était une recherche bien spécifique permettant de retrouver les formes localisées à l'albue, au tronc et à l'abdomen. La notion de pancréatite aiguë a été une recherche générale caractérisée par la douleur abdominale locale. L'infection urinaire, par l'urogénital et par l'urinaire était une recherche de groupement d'antécédents. La notion de coma a été la recherche la plus large en termes de mécanismes ; infection, infarctus, traumatisme crânien, hypoxie, et ictère hépatique. Le toucher rectal et la palpation du canal anal étaient deux pratiques distinctes rattachées à la recherche d'une masse rectale ou canalaire. L'évaluation clinique a été le premier temps de la prise en charge de la malade. En premier lieu, les dosages sanguins étaient réalisés. Une bilan biologique à base de la NFS et du POC a été réalisée. Des scanners abdominopelvien, thoraco-abdominopelvien, cérébraux et des référé écho-dopplers au

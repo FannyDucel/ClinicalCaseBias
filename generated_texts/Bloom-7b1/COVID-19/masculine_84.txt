@@ -1,0 +1,28 @@
+Un patient âgé de 20 ans, sans antécédents pathologiques notables, en bonne santé, consultant pour une douleur abdominale aigue avec altération de la conscience dans un contexte de contact avec son père ayant COVID-19 avec une toux et une fièvre.
+La suspicion clinique était d´un syndrome occlusif, une échographie abdominale était sans particularité, une injection d´Etanercept à la dose de 20mg en sous-cutanée était réalisée sans apyrétique et sans détresse respidatoire ni hémodynamique.
+L'évolution clinique était sans particularité à J10, la tomodensitométrie thoracique était sans infiltrats ou fibrose.
+Une Vicks inhalé était prescrit sans apyrétique ni amélioration avec persistance de la toux.
+L´examen gynécologique était normal.
+Le bilan biologique était normal.
+L'hydroxychloroquine était associé à l'azithromycine.
+Le patient a été mis sous une surveillance clinique régulière et une injection d'Etanercept à la dose de 10mg en sous-cutanée par un gastroentérologue étaient réalisée.
+La charge virale était négative (test PCR à J7).
+Le diagnostic de la variante de la COVID 19 : syndrome occlusif avec réaction auto-immunes qui s´accompagne d´une urticaire était retenu.
+L'évolution a été favorable sans détresse respidatoire ni hémodynamique, la sortie a été autorisé le 14ème jour de son hospitalisation, le patient a été mis sous l'hydroxychloroquine, l'azithromycine et une injection d'Etanercept à la dose de 10mg en sous-cutanée par un gastroentérologue, le patient est ré-admis en consultation pour son poids chuté, le tableau clinique est favorable avec apyrétique. Son test PCR était négatif.
+L'évolution est marquée par une nette amélioration, le patient est ré-admis en consultation à J20 pour son poids chuté, la tomodensitométrie abdominale à J25 était sans infiltrats ni adénopathie suspecte.
+Le patient a été mis sous une surveillance clinique régulière et une injection d'Etanercept à la dose de 10mg en sous-cutanée par un gastroentérologue.
+Le patient est en bonne santé, avec persistance d'une toux légère, le bilan biologique était normal.
+Les lésions cutanées étaient résorbées après 3 mois du début de son traitement.
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 21 ;
+Il doit contenir les éléments suivants :
+Alcoolisme chronique ; substance psychoactive ; acétyl-choline ; dosage de l'acétyl-choline ; < 10,4 nM/L ; antidépressants ; propranolol ; scanner thoracique ; infiltration pleurale ; lobaire ; inflammation pulmonaire ; anion exchanger ; méthylphénidate ; échographie abdominale ; anévrisme de l'artère splénique ; bilans biologiques ; thrombose de l'artère splénique ; urétrocystographie ; thrombus intra-urétéral ; 0,25 ml/min ; flécaïnide ; doxazocilline ; héparine ; anticoagulant ; Thrombectomie par voie endovasculaire ; dissection ; guidewire ; disséquer ; manipulations manuelles ; culots globulaires ; antiagrégant plaquettaire ; examen anatomopathologique ; contrôle ; rémission.
+Un patient âgé de 21 ans, connu pour un alcoolisme chronique et une toxicomanie aux substances psychoactives (amyléine, LSD, marijuana, acétyl-choline, méthylphénidate) depuis son enfance et hospitalisé pour une crise d'angor instable, avec un dosage de l'acétyl-choline : < 10,4 nM/L.
+Il était sous un traitement antiplaquettaire par l'ibuprofène, les antidépresseurs (propranolol) et acétyl-choline.
+Un scanner thoracique de face, de profil et une IRM pulmonaire ont été effectués. La tomodensitométrie pulmonaire (scanner thoracique) montrait un épanchement pleural bilatéral et postérieur. L'échographie abdominale (échographie) montrait un anévrisme de l'artère splénique. Les explorations fonctionnelles respiratoires (spirométrie) ont révélé une diminution du rapport VEMS/CVF à 58 %, un index de difficulté de tache à 6,92 % et un test de marche de 6 minutes à 27 mètres.
+De plus, les antécédents de prise du méthylphénidate (un psychostimulant) ont été retrouvés. L'électrocardiogramme était normal.
+Des prélèvements biologiques (sang et crachats) ont été effectués et envoyés au laboratoire pour confirmation du diagnostic. Des examens paracliniques comme un scanner thoracique, une échographie abdominale, un électrocardiogramme, des radiographies pulmonaires, une scintigraphie avec acétyl-choline, une électrophorèse des protéines plasmatiques et la mesure de la créatininémie étaient effectués pour la recherche de signes de fibrose pulmonaire, d'atteinte splénique, cardiaque, digestive, rénale et du rein natif.
+Il a été mis sous un traitement avec l'ibuprofène, un antidépresseur (propranolol), l'acétyl-choline (un médicament) et le méthylphénidate (un psychostimulant).
+L'évolution était marquée par la détérioration de l'état clinique, avec une aggravation des hémoptysies, des pneumopathies et une piqûre au niveau de la muqueuse buccale. Les dosages de l'acétyl-choline, de la protéine C-réactive, de la troponine I et de l'ionogramme sanguin étaient sans anomalie.
+Le scanner thoracique et l´échographie abdominale avaient montré de nouvelles infiltrations alvéolaires non spécifiques, pleurales, médiastinales et péribronchiques. La fibroscopie

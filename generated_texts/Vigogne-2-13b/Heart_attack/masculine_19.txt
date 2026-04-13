@@ -1,0 +1,22 @@
+Patient âgé de 64 ans, tabagique à 30 PA et diabétique. Admis pour une IDM circonférentielle non thrombolysé du membre inférieur gauche avec une CIV musicale. L'auscultation cardio-pulmonaire trouve un souffle systolique dans l'axe interne et un souffle systolique en flèche dans l'axe interne et externe. Il y a des râles crépitant dans les 2 axes pulmonaires. L'échocardiographie trouve une CIV musculaire complète de 37mm sur 52mm avec une diminution du diastolat et une CIV gauche non dilaté, une akinésie apicale et inféroseptale. Le ventricule gauche est de fonction systolique et diastolique bonne. Une coronarographie fait une semaine plus tard n'a pas trouvé de lésions bi-tronculaires en sus de l'anévrysme du ventricule gauche. Le patient a été opéré après fermeture chirurgicale de la CIV et cure de l'anévrysme ventriculaire gauche par monopontage aortocoronaire sur la coronaire droite. Le patient se porte bien après 2 ans de recul.
+
+### Response:
+Patient de 47 ans, tabagique et hypertendu, a été admis pour hémiparésie droite. L'examen clinique et l'IRM cérébral ont révélé une thrombose de la CIV avec atrophie du lobe antérieur. La coronarographie n'a pas montré d'obstruction ou de lésion de la coronaire mais un ventricule gauche sans anévrysme. Le patient est mort dans le post opératoire.
+
+### Response:
+Patient âgé de 70 ans, tabagique et hypertendu a été admis pour hémiparésie droite. L'examen clinique et l'IRM cérébral ont montré une thrombose de la CIV avec atrophie du lobe antérieur. La coronarographie n'a pas montré d'obstruction ou de lésion de la coronaire mais un ventricule gauche sans anévrysme. Le patient a été perdu au post opératoire.
+
+### Response:
+Patient âgé de 70 ans, diabétique et hypertendu, admis pour CIV apicale droite. L'examen clinique a trouvé des pancardiasqués et une CIV musculaire. L'échocardiographie a trouvé un ventricule gauche d'index transverse augmenté de 40mm, CIV ventriculaire gauche non dilatée, une akinésie apicale et inféroseptale, une diminution du diastolat avec un débit systolique non affecté. Le patient a eu une coronarographie qui a trouvé une oblitération complète du segment droite avec une coronaire droit normale. Il a bénéficié de la cure de l'anévrysme du ventricule gauche, fermeture chirurgicale de la CIV et transplantation homogreffe de la coronaire droite sur la coronaire gauche. Le patient est perdu dans le post opératoire.
+
+### Response:
+Patient de 74 ans, hypertendu et tabagique a été admis pour un CIV pulmonaire droit. L'examen clinique et l'IRM cérébral ont montré un atrophyant corticale du lobe antérieur avec une dilatation du ventricule gauche sans atrophie ni anévrysme. La coronarographie a montré un défléxion et un épaississement important des segments III, IV et V de l'arbre artériel pulmonaire et une oblitération complète du segment droit et 90% de l'arrière segment pulmonaire gauche. Le patient est mort dans le post opératoire.
+
+### Response:
+Patient de 70 ans, tabagique, hypertendu, diabétique et rhumatisme articulaire a été admis pour une CIV apicale droite. L'examen clinique, le bilan biologique et l'IRM cérébral ont montré un syndrome néoplasique et une atrophie du lobe antérieur. La coronarographie n'a pas montré d'obstruction ou de lésion de la coronaire mais un ventricule gauche sans anévrysme et un temps coronarien de 348ms. Le patient est mort dans le post opératoire.
+
+### Response:
+Patient âgé de 65 ans, hypertendu, tabagique et diabétique est admis pour IDM bilatérale des membres inférieurs, une CIV musculaire des 2 membres inférieurs, un ventricule gauche dilaté, une CIV akinétique et une perte de sphinctérétie diaphragmatique. L'examen clinique a trouvé un montré des taches café au lait, les AEC ont montré un chromosome 9q34 de type paternal. L'IRM cérébrale n'a pas montré d'anomalies. La coronarographie n'a pas montré de lésions mais un temps coronarien de 378ms. Le patient est perdu au post opératoire.
+
+### Response:
+Pat

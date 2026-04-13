@@ -1,0 +1,35 @@
+Le patient P.C., âgé de 18 ans est le troisième enfant d'un couple consanguin non parenté galopée, après deux frères décédes par drépanocytose. Ses débuts étaient marqués par la nauséea et des douleurs osseuses diffuses évoluant depuis une année, aggravées par les froid et exacerbées par l'effort ou la poussée de colère. Le patient bu une préparation contenant du plomb au Sénégal pendant trois ans. Le bilan radiographique initial montre la présence du plomb dans le tube digestif avec une ostéonécrose aseptique, le scanner et l'IRM de la hanche n'ont pas été réalisés pour la première fois, la radiographie du bassin montrait une destruction des cônes périphériques, le trou de Kohler, la scoliose et la radiographie du rachis dorsolombaire montrait la destruction de la wirsung, le condyle antérieur de la vertèbre lombaire, le pédicule vertébral antérieur et postérieur, la destruction des cônes inférieurs. L'interrogatoire enquête la phosphovitaminothérapie: les patientes ont un apport en vitamine D insuffisant et phosphorescent (400 UI de vitamine D3). L'électrophorèse d'hémoglobine a permis de constater l'hémoglobine S à 79%. Le traitement consistait en la vitamine D et la phospho vitamine D, la résection des ostéonscléroses.
+
+L'évolution était bonne et les contrôles radiologiques réalisés un an après, montraient une nette régression de la destruction osseuse des bassins et du rachis.
+
+La recherche de plomb dans le sang était négative. Le patient a été adressé à la nutrition pour la corrélation entre l'absorption et le plomb et l'étude des éventuels facteurs gênants dans son niveau de vie social.
+
+L'enfant avait de longue date bu des préparations contenant du plomb, sous forme de charbon activé.
+
+L'exposition au plomb est un désordre très fréquent dans le monde, c'est un facteur qui génère un risque d'une grande ampleur et de type congénital et néonatal, l'enfant est plus sensible à une exposition au plomb avec une grande étendue de durées d'exposition et d'intensité, les conséquences sont grave et irréversible, le plomb est toxique, un traitement par résection chirurgicale, par ablation par voie rétrograde est utilisé dans un cas du stade 3 [1, 2].
+
+La dose pondérale d'exposition à un élément radioactif permet de mesurer la dose effective au niveau de l'organisme, de façon simple et rapide.
+
+Ainsi la dose effective peut être estimée de façon logarithmique, en utilisant la relation suivante :
+
+Doeffective = DozeIngestée.1.000 / tMJ
+
+Doeffective : dose effective à l'organisme; DozeIngestée : dose ingérée; tMJ : facteur masse-air ; 210 cm2/g/Gy.
+
+La dose effectif est donc estimée à 0.0015 Gy, une dose de 2 Gy est nécessaire pour déclencher des symptômes.
+
+Il existe d'autres facteurs médicaux qui sont susceptibles de déclencher une ostéonécrose comme les anomalies hémoglobinémiques et plasmatiques, l'arthrite infectieuse, la surcharge pondérale, la tumeur des pouvoirs endorriques.
+
+Les études sur les ostéonécrose aseptiques décrit que les études sur le marquage des os montrent un processus de déminéralisation des os avec déploiement de molécules inflammatoires, notamment de l'interleukine 6 et de la interleukine 8.
+
+L'ostéonécrose aseptique est définie comme un processus pathologique qui est caractérisé par une déminéralisation des os, localisée et en foyer, avec des symptômes douloureux (qui peuvent s'aggravés avec l'effort ou la position de dépendance du membre touché), une altération du système immunitaire et une certaine crainte de l'infection.
+
+Ainsi, l'ostéonécrose aseptique est vue comme un trouble du fonctionnement systémique.
+
+L'analyse de la fonction des os et du syndrome inflammatoire permet de faire le diagnostic, et un traitement d'immunosuppression est alors demandé.
+
+Il est important de souligner qu'une cause infectieuse doit être suspectée dans toute ostéonécrose aseptique.
+
+Les troubles du fonctionnement des os et du système immunitaire et le débit de plomb excreté dans les urines sont des facteurs qui peuvent faire l'objet d'études.
+
+L'enfant avait des troubles de la santé de longue date et avaient une alimentation complémentaire irréversible, et il

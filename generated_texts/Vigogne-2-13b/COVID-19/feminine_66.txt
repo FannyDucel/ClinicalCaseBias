@@ -1,0 +1,23 @@
+Patiente de 20 ans avec comme antécédent une atteinte cutanée au niveau des mains depuis un mois et dont le diagnostic d´urticaire aigue a été posé par l´analyse de tissus. Elle a présenté une toux sèche, une fièvre associées à un amaigrissement important et des maux thoraciques. A l´examen clinique elle était fébrile, le bilan biologique était normal et le test PCR positif. Elle a eu une injection d´Etanercept et a été hospitalisée. Elle était apyrétique, tachycarde avec une élévation des troponines et sans détresse respidatoire ni hémodynamique. Elle a eu une échocardiographie transoesophagienne objectivant un aspect normal. Elle a bénéficié d´une tomodensitométrie thoracique qui a objectivé des lésions sur le poumon droit sans finition, pas d´infiltrat mais semblant finir au niveau du berceau pulmonaire. Elle est sortie sur hydroxychloroquine et azithromycine. Après 5 mois, elle était asymptomatique avec une régression des lésions sur le poumon droit.
+
+L´urticaire aiguë est liée aux allergies au sulfate de zinc utilisé dans l´injection d´Etanercept. Cette urticaire aiguë est une manifestation de l´allergie au COVID-19. Dans notre cas il est possible qu´il y ait eu un contact avec son père ayant COVID-19 qui lui a donné le virus et elle a développé une réponse immunitaire adaptative. Ce qui a induit une réponse immunitaire innée pour les Endothéliums pulmonaires qui a induit une vasodilatation avec les manifestations cutanées et respiratoires.
+
+Ce cas qui a été considéré d´urticaire aiguë liée à un contact avec le père est le premier cas de la COVID-19 avec syndrome d´hypersensibilité immunitaire.
+
+Il est probable que la COVID-19 a induit une réponse immunitaire par l´axe adaptatif puis innée dans notre cas. La mise en évidence d´un test de sensibilité à l´injection d´Etanercept sera bénéfique pour la prise de décision clinique.
+
+Les symptômes respiratoires sont rares, la recherche d´une bronchopneumopathie doit être faite chez les patients de la COVID-19 chez lesquels nous avons suspecté une réaction immunitaire et les praticiens devront s´attendre à la normalisation des troponines avant la déclaration de rémission.
+
+En conclusion, le bilan de l´urticaire aiguë devrait toujours inclure le COVID-19 et la recherche de réaction d´hypersensibilité immunitaire.
+
+Cet article sera utile pour :
+- Éviter des malentendus entre les praticiens sur la notion d´urticaire aiguë liée à la COVID-19.
+- Orienté les praticiens sur les deux types d´hypersensibilité immunitaire susceptibles d´apparaître dans les patients de la COVID-19, les médicaments ayant induit la réaction immunitaire adaptative qui est rare et la recherche d´une hypersensibilité innée qui est une éventualité.
+- Il est nécessaire d´établir une surveillance permanente des médicaments prescrits aux patients de la COVID-19 susceptibles d´inducer des réactions hypersensibilité immunitaire, d´où l´utilité de la mise en place de dossiers médicaux chez les patients atteints de la COVID-19 et la réalisation de test de sensibilité aux médicaments prescrits.
+- Le COVID-19 étant une infection virale le bénéfice thérapeutique d´un immunomodulateur qui est prescrit de nombreuses fois aux patients de la COVID-19 doit être bien évalué et après évaluation le médecin doit changer la molécule de l´immunomodulateur pour une autre.
+- Dans la mesure où nous avons aucune donnée sur la durée de la réponse immunitaire dans la COVID-19, la durée de l´arrêt du médicament immunomodulateur doit être revue périodiquement en regard du bien-être du patient.
+- Le diagnostic d´urticaire aiguë doit toujours inclure le COVID-19 chez le patient ayant les antécédents de contact avec un malade de la COVID-19.
+- L´étude des histoenzymes ainsi que les immunofluorescences des sections de biopsiestomachiques chez ces patientes susceptibles d´urticaire aiguë va permettre d´éliminer la persistance d´un processus tuberculeux sous la réaction de l´immunité innée.
+- Le test d´hypersensibilité aux médicaments est utile et prudent.
+
+Le COVID-19 est une infection viral l´exclusion de tout autre processus qui peut être induit par la médication est essentielle, car les échecs de traitement d´hypersensibilité immunitaire par un médicament non indiqué devraient toujours être éliminés, car il peut causer des déficits fonctionn

@@ -1,0 +1,33 @@
+Il s´agit d´une femme de 20 ans, sans antécédents pathologiques, dont la fille a été testée positive au PCR par COVID-19. Son mari testé négatif au PCR. Il est alors atteinte par une fièvre non chiffrée sans toux ni dyspnée ni pneumonie à j0. Elle s´est retrouvée peu après à coucher dans une attitude debout. L´atteinte cutanée au niveau des mains était associée à un urticaire aigue. La PCR à la SARS-COV-2 a été faite et le test a été positif (10 Ct). Son fils et son époux sont néanmoins testés négatifs au PCR. Une immunosuppression se fait donc par une injection d´Etanercept et une antibiothérapie prophylactique par Aciclovir.
+
+Au troisième jour, sa fièvre est redevenue continue avec un temps de dépli du C-réactive protéine à 50mg/L. Elle ne présentait pas d´acetonurie ni de détresse respidatoire ni hémodynamique. Sa saturation en oxygène était à 98% en air ambiant. La radiographie thoracique à ce stade était normale. Le bilan biologique (créatinine, UEC, uricémie, numération formule sanguine, hémoglobine, TP) et radiologique (tomodensitométrie thoracique et abdominale) était normal. Une hydroxychloroquine (400mg deux fois par jour) et une azithromycine (1g deux fois par jour) se font ainsi.
+
+Il y´a une amélioration par le temps de ses symptômes et elle repart chez elle. Ajouté au traitement à domicile, elle continue par la same quântité d´Etanercept.
+
+Il n´y´a pas eu de rétrograde contagion chez l´ensemble des membres de la famille.
+
+Il n´y´a pas eu d´autre incidence clinique.
+
+Aucun risque lié au traitement d´Etanercept et l´hydroxychloroquine n´a été signalé.
+
+Le test a été fait à l´hôpital : la fille n´a pas été suivie par un spécialiste de l’inflammation et l’oncologue n´a jamais été informé.
+
+Dans notre expérience, l’administration de l’Etanercept n’a pas été associé à d’autres lésions ou complications en dehors de la douleur et de la démangeaison localisée (urticaire).
+
+L’hydroxychloroquine a été administrée à raison de 100mg deux fois par jour pendant une semaine. Aucune complication n’a été signalée.
+
+Aucune toxicité de l’hydroxychloroquine n’a été observée, même lorsque l’antibiothérapie est associée.
+
+L’administration d’une corticothérapie n’a pas augmenté la suspension d’Etanercept dans la population étudiée.
+
+L’administration d’une corticothérapie associée à l’hydroxychloroquine a permis la rémission clinique totale.
+
+Il n’est pas encore établi qu’un premier choc immunologique soit associé à un seconde exposition virale après une première infection à SARS-COV-2. En effet, les patientes qui ont eu la SARS-COV-2 une première fois peuvent être immunisées (la proportion de personnes immunisées contre le COVID-19 chez les patientes ayant déjà été diagnostiquées positive est estimée à 100%).
+
+Dans notre cas, la patiente n’a pas eu d’exposition secondaire car elle a été totalement isolée chez elle.
+
+Bien qu’il n’existe pas de preuves que les patientes récupérées de SARS-COV-2 puissent se contaminer à nouveau, le Conseil National de la Santé a recommandé qu’il fasse une quarantaine de 14 jours avant de reprendre sa vie quotidienne normale. La même réflexion a été faite par la World Health Organization (WHO), qui a recomandé que les patientes ayant rétrogradement transmis le COVID-19 lors de leur reprise quotidienne gardeient un degré d’autocaution particulier pendant 14 jours.
+
+Avec les complications possibles en général, l’immunosuppression a permis une amélioration dans la majorité des cas de COVID-19. Ces approches sont soutenues par des études randomisées (EUA ou FDA) en cours (FDA).
+
+Leur sécurité n’est pas établie, mais leur efficacité est bénéfique. Ainsi, le Dr. Paul Rolland a publié, dans le Wall Street Journal, le 16 juillet 2020, l’article « COVID-19 and rheumatic diseases: Treat to target and mitigate risk », mettant en avant le potentiel d’un traitement immunosuppresseur, comme le corticost

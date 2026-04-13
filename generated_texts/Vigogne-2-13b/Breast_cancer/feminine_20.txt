@@ -1,0 +1,58 @@
+Mme N. A. 26 ans, nulligeste nullipare, consulte en gynécologie pour un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, à type de tuméfaction indolore, associé à une adénopathie de 1.5 cm au niveau du creux axillaire droit, et un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche.
+
+L´examen clinique est conforme et le bilan biologique est normal.
+
+L´IRM scannographique au doppler est en faveur d´un carcinome infiltrant avec métastases ganglionnaires axillaire et thoracique, et une métastase cérébrale (Figure 1).
+
+La mammographie et l’échographie sont en faveur d´un BIRADS V (Figure 2).
+
+La microbiopsie des deux lésions cliniques des deux seins confirme le diagnostic de carcinome canalaire infiltrant SBR III (Figure 3), ayant un profil nucléaire avec un aspect de récepteurs hormonaux négatifs et un test de l’HER 2 négatif.
+
+Le scanner thoraco-abdominal montre un état tumoral et métastatique T3N1M0 (Figure 4) avec CA 15-3 à 81 mui/ml.
+
+Une chimiothérapie néoadjuvante a été instaurée : quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² et deux cures de docétaxel, soit en tout 6 cures.
+
+Le bilan de performance a montré une impotence fonctionnelle, d´où la décision d´un traitement par chirurgie radicale type Patey bilatéral.
+
+Une chimiothérapie adjuvante a été instaurée : trois cures de docétaxel + radiothérapie, puis trois cures de docétaxel seul et enfin une radiothérapie, soit en tout huit cures de chimiothérapie adjuvante.
+
+L’évolution est favorable, avec une rémission complète.
+
+Dix huit mois après le diagnostic, la patiente est en rémission complète avec un CA 15-3 à 5.1mui/ml.
+
+Les contrôles cliniques et radiologiques sont normaux.
+
+### Response:
+Une femme de 42 ans, est référée dans le service, en urgence pour douleur de la poitrine droite.
+
+L’examen clinique de la mamelle droite a retrouvé un nodule au niveau du quadrant supérieur du sein droit faisant 6 cm, dure, fixé, non mobile, donnant l’aspect d’une tumeur.
+
+L’examen des aires ganglionnaires (aigue et gauche) n’a pas objectivé d’adénopathie.
+
+Le bilan d’extension chirurgical a retrouvé une adénopathie axillaire droite de 2 cm, et un hémopéritoine nettement ferme.
+
+L’échographie mammaire a montré un nodule de 30mm de diamètre, de densité hétérogène, délimitée, faisant 21mm de diamètre, en hilum et par un nodule supéro-inférieur de 8,5mm de diamètre hypoéchogène, bien limité, et une adénopathie axillaire homogène hypersignalée, de 22mm de diamètre.
+
+La TDM mammaire est en faveur d’un nodule solide, bien délimité, refoulant le lobe supéro-externe en dedans (Figure 1) et un processus nodulaire associé d’allure nodulaire localisé au niveau du quadrant supéro-externe.
+
+Un prélèvement a été fait en adressant les prélèvements au service de cytologie (Figure 2).
+
+Le diagnostic est celui de carcinome canalaire infiltrant de SBR III (Figure 3).
+
+Les récepteurs hormonaux sont positifs (Figure 4).
+
+Le test de l’HER2 est négatif.
+
+L’index de prolifération est 11% (Figure 5).
+
+Le premier thérapeutique a été une chimiothérapie néoadjuvante à base d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² quatre cures (Figure 6).
+
+L’échographie clinique a montré une réduction de taille du nodule de la mamelle droite.
+
+La chirurgie est menée après 7 jours du dernier cycle de chimiothérapie.
+
+L’examen anatomopathologique fait auprès de la référence de Marseille a montré un carcinome infiltrant du sein gauche avec métastase axillaire droite et hémopéritoine (Figure 7).
+
+L’échographie abdominale est normale.
+
+Le bilan d’extension confirme la réduction du volume du nodule supéro-externe du sein droit

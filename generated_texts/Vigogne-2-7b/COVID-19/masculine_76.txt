@@ -1,0 +1,24 @@
+Il s´agit d´un patient âgé de 20 ans, sans antécédents pathologiques notables, présentant un contact avec son père ayant un tableau infectieux à type de COVID-19 évoluant depuis 3 jours avec une atteinte cutanée au niveau des mains et un syndrome d´urticaire aigue ailleurs. Le test PCR positif confirme l´admission dans un hôpital de traitement. L´état hémodynamique est stable, la pression artérielle est à 120/80 mmHg, la fréquence cardiaque est à 65 bpm, l´apparat respiratoire est sans trouble, la fièvre et l´antipyrétique sont absents. Le patient est déclaré apyrétique, fébrile à 38.5°C sans détresse respidatoire ni hémodynamique, ni troubles digestifs.
+
+L´examen cutanéo-muqueux est normal. La radiographie thoracique est normale et la tomodensitométrie thoracique objectivant un parenchyme pulmonaire de calibre normal sans pas d´infiltrat pulmonaire, ni foyers inflammatoires.
+
+Le bilan biologique est normal. Après 48 heures de traitement anti-COVID, le patient est mis sous hydroxychloroquine à la dose de 600 mg deux fois par jour et azithromycine 500 mg deux fois par jour avec apyrexie et reprise de l´appétit. L´évolution est favorable.
+
+Le patient est transféré à domicile en bon état général après 10 jours de traitement.
+
+Et ce cas clinique illustre l´utilisation de l´Etanercept par voie injection sous piston en association avec la hydroxychloroquine lors d´une infection par le VIH, et surtout lors d´un contact avec un parent infecté par le COVID 19 chez un patient sans détresse respiratoire, une normalité de la tomodensitométrie thoracique.
+
+Nous signalons une large gamme d´effets indésirables dans le cadre de la molécule de l´Etanercept notamment: les lésions cutanées, oculaires, articulaires, le syndrome d´urticaire aigue, l´insomnie, le malaise général, et des cas rares d´atteinte hépato-rénale et du système sanguin, ainsi que des pneumopathies interstitielle sous-tentevrales associées à des pneumopathies interstitielle diffuses multifocales avec présence de pneumocysteciose. Les antiviraux à large spectre doivent être utilisés avec prudence par voie injectable au vu de leur lésion de l´organisme par l´Etanercept.
+
+La hydroxychloroquine est aussi connue pour avoir un ensemble d´effets indésirables tels que les lésions cutanées, oculaires et articulaires, l´hypoglycémie, le syndrome métabolique sudetique, la désordonnée nocturne, la désordonnée quotidienne, les saignements digestifs, la réaction prurigineuse, la neuropathie optique, le syndrome hypoglycémique, la désordonnée oculaire, l´atteinte hépatique, le syndrome de Stevens-Johnson, l´atteinte rénale qui peut conduire à la néphrotuberculeuse, et le syndrome séro-negatif où les anticorps anti-récepteurs des lymphocytes T au niveau hépato-rénal sont positifs avec la normalité de l´image à la tomodensitométrie thoracique et au scanner cérébral.
+
+Le prophylaxie rénale est nécessaire lorsque l´Etanercept est administré par voie injectable.
+
+Nous préconisons une surveillance bi-hebdomadaire du bilan hépatique et des tests de dépistage de la tuberculose, avec un bilan électrolytique pour l´hypokaliémie, l´hyponatrémie et les myoglobine.
+
+La recherche de la résistance au méprinol et à l´acide pyrilidonique et l´administration de pondéreuses sont indispensables.
+
+L´administration de l´Etanercept est contraindue lors de l´état infectieux, lors d´une sérologie positive pour VIH, lors d´une sérologie positive pour hépatite B et C, et lors de l´installation d´un épaississement de l´écran qui peut être un signe d´asthme, d´insuffisance cardiaque ou d´une embolie pulmonaire. L´Etanercept peut être administré par voie injectable chez les patients atteints de NASH, d´hepatite alcoolique, d´hépatites virus B, C, cytomégalovirus, éosinophiles ou du VIH, sans imposer un accouchement par césarienne.
+
+L´Etanercept est également un médicament potentiellement toxique pour les femmes enceintes et laisserait des anticorps maternels dans le placenta.
+

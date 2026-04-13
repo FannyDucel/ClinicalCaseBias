@@ -1,0 +1,25 @@
+Cas 2:Patient de 20 ans qui consultait pour une atteinte cutanée au niveau des mains avec des signes d´urticaire aigue. Enquiry à la famille retrouvait un contact avec son père ayant COVID-19. Le résultat du test PCR était positif. Le patient a été instauré à la clozapine, après confirmation de la tolérance, 100 mg par jour, un injectable d´Etanercept une fois par semaine. Le patient a été mis sous hydroxychloroquine (HCQ) 400 mg/jour et azithromycine 500mg/jour à jour 5. Il était apyrétique et sans détresse respidatoire ni hémodynamique après 48 heures. L´évaluation sur TDM 48 heures après l’injection d´Etanercept a objectivé des lésions parenchymateuses au niveau des lobi supérieur droit et de la lame supérieure de la lungée gauche. Le bilan biologique était normal. Le patient a été mis sous HCQ, azithromycine pendant une semaine, et son traitement était poursuivi par la clozapine.
+
+Avec la diminution des effets indésirables, l´injection d´Etanercept était administrée une fois par semaine pendant un mois.
+
+Dans cette série, nous avons pu constater que le traitement des patients atteints de troubles psychiatriques par les agents dont leur organisme sensibilisé est l´Etanercept peut avoir un risque spécifique lorsque ces patients sont atteints par le COVID-19. L’utilisation de l’Etanercept en cas de COVID-19 doit être prudente, en particulier si le patient prend des psycho-pharmacologues avec antiréciproque, telles que la clozapine.
+
+Selon l’état de patient, le traitement devra être adapté dans la mesure où l’exposition à des agents infectieux est possible. Dans ce contexte le patient était mis sous hydroxychloroquine et azithromycine pendant 48 heures, et le traitement avec l’Etanercept n’a pas été administré qu’après confirmation d’un test PCR de la COVID-19 négatif.
+
+Cette thèse est pratiquement appliquée dans une série de quatre cas :
+
+Patient 3 a été mis sous HCQ et azithromycine en cas d’épisode de fièvre d’étiologie inconnue.
+
+Patient 4 était en convalescence d’une COVID-19 (test PCR négatif), ayant développé un urticaire aigue, qui n’a pas répondu aux traitements habituels. Un traitement par Clozapine a été administré, en plus des hydroxychloroquine et azithromycine pendant 48 heures, et l’Etanercept a été administré dès que les résultats du test PCR ont confirmé un cas positif.
+
+Patient 5 a été mis sous HCQ et azithromycine dans le cadre de la surveillance de son état de santé, en raison de son âge avancé et de son contexte psychiatrique préexistant (schizophrénie).
+
+Patient 6 était suivi pour schizophrénie et avait été contrôlé en phase stable clinique et biologique. Devant l’éruption cutanée se développant sous Clorazépate, d’une part et sous Clozapine, d’autre part, le patient a été mis sous HCQ et azithromycine à la suite d’une fièvre indolente.
+
+Selon nos observations, les produits d´immunomodulation étaient rétroactivés dans ce contexte infectieux. Les fournisseurs de ces médicaments faisaient entendre que les effets indésirables en cas de COVID-19 étaient une coïncidence fortuite. En général, la rétroactivation des médicaments selon le contexte infectieux a été utile pour réduire les effets indésirables spécifiques de la Schizophrénie.
+
+Il est à noter que les patients sur qui cette approche est appliquée doivent être identifiés précocement dans une population hospitalière très grande. Par conséquent, le surveillance des patients sur qui cette approche est appliquée est imperatif pour son application en pratique clinique.
+
+La rétroactivation des médicaments étant possible, les mêmes principes sont utilisés pour les effets indésirables spécifiques dans d´autres contexte infectieux tels que l’herpès simplex viral ou la varicelle zoster.
+
+En conclusion, dans ce cas isolé, nous avons décrit une exposition à l’Etanercept chez des patients atteints de troubles psychiatriques et de COVID-19. L’étude complète de cette problématique a été rendue impossible par le manque d’études cliniques à l’échelle de la population, cependant, elle repose sur l’observation de cas isolés et sur une compréhension biologique. En effet, des cas isolés sont utile pour identifier les effets secondaires d’un médicament, et la compréhens

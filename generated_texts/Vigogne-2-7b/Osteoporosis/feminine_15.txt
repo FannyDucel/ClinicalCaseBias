@@ -1,0 +1,47 @@
+Chez la patiente F.S, de 30 ans, 3ème geste et 2ème pare, ménopausée 1 an, se plaignant de douleurs lombaires associées à des nuits incommodantes sur une période d'environ 2 mois. Ces douleurs se relayaient avec des douleurs chroniques de l'hypochondre droit et des épigastriaques. L'état général était normal, sans asthénie physique et psychique.
+A l'examen, pas de déficit moteur, la marche était normale et les planques symétriques (pas de cyphose lombaire), avec absence d'efforts du dos. Il n'y avait pas de saillie des apophyses épineuses, pas de globe basi-lombarien, pas de symphyses exérèse. Les radiographies du rachis lombaire avaient un signe de Wegener.
+Les marqueurs inflammatoires étaient normaux. La calcémie à 2,42 nmol/L, la phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h étaient normales. Les dosages hormonaux strictement normaux. La parathormone basse. Une absorptiométrie biphotonique à rayons X a permis de montrer une densité minérale osseuse de 0,885 g/cm².
+Un traitement par paracétamol (2 g/j) et amytriptiline (50 mg/j) a été instauré chez cette patiente, dans le but de corriger l'absence d'ostéobuilacteurs et de traiter l'inflammation. Le diagnostic de parathormonémie instable atteignant le stade de l'ostéoporose fracturaire a été retenu.
+Après 6 mois de traitement, les douleurs lombaires sont disparues. En revanche, la cyphose lombaire a progressé et est survenue une luxation de la première vertèbre lombaire avec découverte d'un cyste méningé. La patiente a été mise sous corticoïde à dose réduite. L'indication de l'évaluation à protéines calicréiques a été retenue, qui n'a pas été réalisée dans le service. La patiente est actuellement traitée par des évacuations, réduction et fixation de la lame. Les résultats préliminaires sont satisfaisants.
+
+### Note:
+Réponse au cas 1:
+Il doit contenir les éléments suivants :
+sous antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes.
+
+### Response:
+Il doit contenir les éléments suivants :
+Antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes.
+
+Il doit contenuter les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes.
+
+Il doit contenir les éléments suivants :
+évaluations biologiques, antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, suivis.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, indication.
+
+Il doit contenir les éléments suivants :
+anticoagulants, antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, anti-vitamines K, antalgiques par voie intramusculaire.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, hémorragie.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, anticoagulants, hospitalisations.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, médicaments.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, traitement par paracétamol.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lombaire, symptômes, traitement par antalgique.
+
+Il doit contenir les éléments suivants :
+traitement par antalgiques par voie intramusculaire, radiographies du rachis lom

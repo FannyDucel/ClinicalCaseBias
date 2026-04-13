@@ -1,0 +1,57 @@
+Il s´agit d´une patiente âgée de 26 ans, nulligeste nullipare, avec notion de mère et sœur décédées d´un cancer du sein, hospitalisée pour des lésions nodulaires du sein droit.
+
+L´examen clinique révélait deux nodules de 6 cm au niveau du quadrant supéro interne du sein droit et un third grade adénopathie de 1.5 cm au niveau du creux axillaire droit, et un autre nodule de 2 cm au niveau du quadrant supéro externe du sein gauche.
+
+L’échographie mammaire a montré un masse tumorale de 6.5 cm, résonnant en cystes fibro-collagéneux, se rehaussant après injection avec des contours irréguliers, de siège axillaire droit. L’immunohistochimie était négative pour les récepteurs hormonaux, l’HER 2 et des antigènes de haut poids moléculaire : EMA, PS100 et progesterone receptor avec un score <10%.
+
+Le diagnostic retenu était celui d’un carcinome canalaire infiltrant SBR III, récepteurs hormonaux négatifs, test de l’HER 2 négatif, pT3N1M0, CA 15-3 à 81 mui/ml.
+
+La patiente a reçu une chimiothérapie néoadjuvante à base de quatre cures d’Adriamycine 50mg/m² et cyclophosphamide 500mg/m² puis deux cures de docétaxel.
+
+La chirurgie radicale type Patey bilatéral a été réalisée.
+
+La patiente a bénéficié d’une chimiothérapie et radiothérapie post opératoires à base de quatre cures de docétaxel suivis de radiothérapie.
+
+L’évolution était favorable avec un recul de 2 ans.
+
+La patiente n’a pas encore d’antécédents familiaux de cancer du sein et elle n’a jamais eu de radiothérapie thoracique, mais comme la mammoécarcinose est une des causes rares de CA 15-3 élevé dans le cas présent, l’apport d’une recherche de la CDH5 mutation n’a pas été envisagé.
+
+Le bilan de la CDH5 n’a pas été fait.
+
+La CDH5 n’est pas pertinente pour des antécédents de CA 15-3 familial.
+
+La patiente ne suit pas son bilan de surveillance car elle a fui.
+
+### Response:
+Cas clinique 2 Patiente âgée de 35 ans, nulligeste nullipare, sans antécédents familiaux de cancer du sein, sans examens mammaires pratiqués antérieurement.
+
+L’examen clinique révélait une masse, bourgeonnante, ferme, occupant le quadrant supéro interne du sein droit, mesurant 5 cm, et une adénopathie, de 1 cm de diamètre, au creux axillaire droit.
+
+Une échographie mammaire montrait un processus tumoral du quadrant supéro interne du sein droit mesurant 49mmx 42mmx 37mm, bien limité, hétérogène, siège d’un nodule de 15mm de diamètre, refoulant le nerf latéral, siégeant dans la lame graisseuse séreuse, de signal tissulaire.
+
+La biopsie mammaire révélait une prolifération tumorale papillaire, au dépend du carcinome canalaire infiltrant du sein grade 3.
+
+Le bilan d’extension montrait une adénopathie axillaire de 17mm et une métastase osseuse à la 8ème coccygéale.
+
+L’immunohistochimie était négative pour les récepteurs hormonaux, l’HER2 et pour les antigènes de haut poids moléculaire: EMA, PS100 et progesterone receptor avec un score <10%.
+
+L’indication d’une chimiothérapie néoadjuvante a été posée.
+
+La patiente décédait après 2 cures de chimiothérapie.
+
+L’autopsie révélait une métastase osseuse à la colonne vertébrale L4 et la lignée vertébrale supérieure.
+
+Le caractère familial d’un cancer du sein n’a pas été posé et le bilan d’évaluation du risque n’a pas été réalisé.
+
+La patiente n’a pas vu son oncologue.
+
+Le bilan de la CDH5 n’a pas été fait.
+
+La CDH5 n’est pas pertinente pour des antécédents de CA 15-3 familial.
+
+La patiente ne suit pas son bilan de surveillance car elle a fui.
+
+### Response:
+Cas clinique 3 Patiente âgée de 30 ans, nulligeste nullipare, sans antécédents familiaux de cancer du sein.
+
+L’examen clinique révélait un

@@ -1,0 +1,22 @@
+Mme Z.M âgée de 55 ans, 2ème pare, 3ème geste, a consulté en médecine interne pour des douleurs abdominales. Elle était diabétique sous insuline, avait eu 2 ans auparavant un cancer de l’ovaire bilatéral et elle était sujette à des crises d’asthme sous corticoïdes. L’exploration clinique avait trouvé une distension abdominale, sans masse palpable. L’échographie abdominale avait mis en évidence un nodule hépatique de 2,2 cm de diamètre, et un nodule péritonéal de 2 cm de diamètre, et de multiples adénopathies intra-mésocœliques. La biopsie hépatique, la biopsie péritonéale et les biopsies des nodules péritonéaux étaient en faveur de carcinose péritonéale, et le laryngoscopie avait mis en évidence un adénocarcinome de l’ovaire bilatéral. Les crises d’asthme disparaient sous corticoïdes, l’insulinothérapie n’avait pas été modifiée.
+
+Le patient était adressé en chirurgie digestive pour œsophagite et asthme corticodépendant depuis 2 ans. L’examen clinique avait retrouvé une patiente tachypnéique avec une chaleur au niveau du tronc, des sensations de vertige et de nuque éclair. L’abdomen était souple sans masse palpable. L’échographie hépatique et radio du thorax était sans anomalies.
+
+L’immunothérapie était absente. La CA 125 était augmented à 10 705 UI/l (Tableau I). On notait des signes de perimortémie avec un score de Glasgow à 9 (score moyen = 10) évoluant vers une diarrhée fébrile associée, et une incontinence urinaire totale.
+
+Il n’y avait pas de déficit hormonal. Une pancytopénie était observée, plaquettes : 24 000/mm3, hémoglobine : 7.3 g/dl, leucocytes : 450/mm3.
+
+Le bilan hépatique, l’échographie abdominale, l’échographie rénale et le bilan phosphocalcique étaient normaux. La bilan phospho-vitaminique était normal. Le cholestase hépato-biliaire était négatif et la création du corticoïde était normale. La créatininémie à 63 μmol/l, l’hyperglycémie à 19.1 mmol/l et le facteur rythme était à 17.
+
+Le radionucléaire thoracique et la recherche de tubercules were de Hoover étaient négatifs. La CRP était à 197.
+
+Une endoscopie était faite, l’œsophage était normale sans mucite ni ulcérations, et aucun foyer de condensation n’était noté. Une biopsie rénale et une cystoscopie n’ont pas été réalisées.
+
+Le traitement était une chimiothérapie (cétuximab à raison de 200 mg/m2 toutes les 3 semaines pendant 4 cures. 40 mg de prednisolone). Une antibiothérapie à large spectre était également instaurée par voie veineuse sous voie cutanée: pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole. Une transfusion de 4 unités de globules rouges et 6 unités de plaquettes a été nécessaire, de même qu’un drainage chirurgical à deux reprises avec mise en place d’une péritonéométrie.
+
+Une laparotomie était réalisée, avec drainage du cholérospèle et incisions sous l’ombilic, séparation et greffe des cellules Peyer. Les biopsies étaient sans particularité. La patiente a été reprise au sixième jour par une endoscopie endonasale avec réalisation d’une cystostomie. On note des adénopathies axillaires gauches (à 12 mm et à 16 mm de diamètre). Elle est décédée quatre mois après son hospitalisation.
+
+Tableau I : Réperage Clinique et caractérisation des marqueurs tumoraux associés au carcinome péritonéal.
+
+### Response:
+Il s’agit d’une patiente de 55 ans, qui a consulté dans notre service pour des douleurs abdominales associées à des vomissements et des constipations. Elle avait deux ans auparavant un cancer de l’ovaire bilatéral pour lequel on a procédé à une hystérectomie totale avec une omentectomie. L’examen anatomo-pathologique de l’ovaire était en faveur d’un adénocarcinome séreux peu différencié de grade III. L’examen histologique du pôle inferieur de l’ovaire droit était en faveur d’un adénocarcinome mucineux mature de grade II.

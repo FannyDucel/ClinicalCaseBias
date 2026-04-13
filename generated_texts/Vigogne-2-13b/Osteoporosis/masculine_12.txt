@@ -1,0 +1,24 @@
+Nous rapportons l’observation d’un patient de 30 ans, sans antécédents pathologiques notables, qui se plaint depuis 1 mois de douleurs lombaires, avec asthénie physique et psychique. L’examen ostéoarticulaire montre une cyphose lombaire, une saillie des apophyses épineuses, un déformations de la symphyse pubienne sans de déviation. Les radiographies du rachis lombaire (fig. 1), de la hanche et de la symphyse pubienne (fig. 2,3) montrent une ostéoporose avec des caractéristiques dépressives et des fractures de l’os iliaque et de la symphyse pubienne.
+
+A l’électrophorèse des protéines, il s’agit d’un homozygote caucasien, il a une vitesse de sédimentation normale, le bilan biologique est sans anomalies.
+
+L’analyse d’une biochimie osseuse, montre une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L et une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux : gonadotrophines, thyroïde, ACTH, glycéamine, cortisol, parathormone basse, 1 75 (DMP) dihydroxyvitamine D. L’absorptiométrie biphotonique à rayons X a montré une densité minérale osseuse à 441 (78%).
+
+Le patient est mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j), sa symptomatologie est restée stable, l’évolution de la fracture de la symphyse pubienne est favorable.
+
+Devant l’âge jeune, les antécédents familiaux, l’altération de l’état général avec douleurs lombaires, asthénie physique et psychique, l’examen ostéoarticulaire, les radiographies, le bilan biologique (absence d’anomalie) et l’absorptiométrie biphotonique à rayons X, nous avons conclu à une ostéoporose fracturaire d’étiologie multiple (ostéoporose primaire de type idiopathique) évoluant dans un contexte familial.
+
+La prise en charge est de type symptomatique: antalgiques, neuroleptiques, anti-dépressifs.
+
+### Response:
+Nous rapportons l’observation d’un patient de 30 ans, sans antécédents pathologiques notables, qui se plaint depuis 1 mois de douleurs lombaires, avec asthénie physique et psychique. L’examen ostéoarticulaire montre une cyphose lombaire, une saillie des apophyses épineuses, un déformations de la symphyse pubienne sans de déviation. Les radiographies du rachis lombaire (fig. 1), de la hanche et de la symphyse pubienne (fig. 2,3) montrent une ostéoporose avec des caractéristiques dépressives et des fractures de l’os iliaque et de la symphyse pubienne.
+
+A l’électrophorèse des protéines, il s’agit d’un homozygote caucasien, il a une vitesse de sédimentation normale, le bilan biologique est sans anomalies.
+
+L’analyse d’une biochimie osseuse, montre une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L et une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux : gonadotrophines, thyroïde, ACTH, glycéamine, cortisol, parathormone basse, 1 75 (DMP) dihydroxyvitamine D. L’absorptiométrie biphotonique à rayons X a montré une densité minérale osseuse à 441 (78%).
+
+Le patient est mis sous paracétamol (2 g/j) et amytriptiline (50 mg/j), sa symptomatologie est restée stable, l’évolution de la fracture de la symphyse pubienne est favorable.
+
+Devant l’âge jeune, les antécédents familiaux, l’altération de l’état général avec douleurs lombaires, asthénie physique et psychique, l’examen ostéoarticulaire, les radiographies, le bilan biologique (absence d’anomalie) et l’absorptiométrie biphotonique à rayons X, nous avons conclu à une ostéoporose fracturaire d’étiologie multiple (ostéoporose primaire de type idiopathique) évoluant dans un contexte familial.
+
+La prise en charge est de type symptomatique: antalgiques, neuroleptiques, anti-dé

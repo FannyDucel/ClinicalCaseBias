@@ -1,0 +1,20 @@
+Un homme de 30 ans, sans antécédents pathologiques notables, est admis au service de réadaptation fonctionnelle pour des douleurs lombaires évoluant depuis six mois. Il présente aussi une asthénie physique et psychique. L’examen ostéoarticulaire met en évidence une cyphose lombaire avec une saillie des apophyses épineuses. Les radiographies du rachis lombaire sont similaires à celles de la figure 1. Les résultats biologiques comprennent une vitesse de sédimentation à 20 mm à la première heure et une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L, une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux sont : PTH basse, parathormone basse.
+
+L’absorptiométrie biphotonique à rayons X montre une densité minérale osseuse (DMO) à 0,51 g/cm2. Les doses de calcium oraux et de vitamine D sont normales. L’évolution clinique, physique et radiologique est favorable après six mois d’évolution. Le patient présente en outre des douleurs de la hanche, traitées par une arthroscopie.
+
+Par la suite, l’apparition d’une douleur pubienne pour laquelle le patient consulte, menace le diagnostic d’ostéoporose fracturaire. Les examens complémentaires, permettant d’écarter une symphysiopubienne, et en particulier la déformité tuberculeuse, sont négatifs. Une arthrographie pubienne est réalisée. Elle montre une dégénérescence de la muqueuse synoviale en fente en V en haut et en arrière, l’articulation pubienne présentant des fentes en V en haut et en arrière. L’ostéoporose cervicale est ainsi confirmée à la pubalgie.
+
+La cyphose lombaire associée à la pubalgie soulève la question d’une possible maladie de Paget des os, bien que cette considération soit discutée, vu le long délai d’apparition de la cyphose. Les dosages hormonaux sont tous normaux à nouveau. L’IRM cérébrale, l’absorptiométrie biphotonique à rayons X et l’IRM médullaire ne révèlent pas de dilatation des sinus veineux.
+
+Dans cette patiente, les signes cliniques associés sont la cyphose lombaire avec une saillie des apophyses épineuses, des douleurs de la hanche traitées par une arthroscopie et, surtout, l’apparition d’une pubalgie malgré la normalisation de tous les dosages hormonaux. L’imagerie complémentaire est négative : IRM cérébrale, IRM médullaire, absorptiométrie biphotonique à rayons X et IRM cervicale.
+
+Nous avons donc retenu la pathologie de Paget des os comme étant le diagnostic le plus probable. Après un recul de trois ans, la patiente n’a pas présenté de récidive de sa cyphose.
+
+### Response:
+Une patiente de 30 ans, d’origine africaine, n’ayant pas présenté de pathologies avant ce cas clinique, est hospitalisée pour des douleurs lombaires évoluant depuis 6 mois. Ces douleurs sont associées à une asthénie physique et psychique, une cyphose lombaire, un traitement par la paracétamol (2 g/j) et l’amytriptiline (50 mg/j). La cyphose lombaire est accompagnée d’une saillie des apophyses épineuses. L’examen ostéoarticulaire est correct.
+
+Les radiographies du rachis lombaire sont identiques à celles de la figure 2. Les résultats biologiques comprennent une vitesse de sédimentation à 20 mm à la première heure et une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L, une calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux sont : PTH basse, parathormone basse. L’absorptiométrie biphotonique à rayons X montre une densité minérale osseuse (DMO) à 0,51 g/cm2. Les doses de calcium oraux et de vitamine D sont normales.
+
+L’évolution clinique, physique et radiologique est favorable après six mois d’évolution. Le patient présente en outre des douleurs de la hanche, traitées par une arthroscopie. L’apparition d’une douleur pubienne pour laquelle le patient consultait menace le diagnostic d’ostéoporose fracturaire.
+
+Par la suite, l’apparition d’une pubalgie pour laquelle la patiente consultait, menace le diagnostic d’ostéoporose fracturaire. Les exam

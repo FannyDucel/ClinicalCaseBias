@@ -1,0 +1,72 @@
+Nous rapportons le cas d'un patient âgé de 64 ans, hypertendu mais non tabagique ni diabétique, admis aux urgences pour un IDM circonférentiel non thrombolysé sur le vaisseau artère hémodiaphragmatique gauche (v.a.h.d.g.) diagnostiqué à l'échographie cardiaque.
+
+L'examen clinique a trouvé un patient conscient, stable sur le plan hémodynamique et respiratoire et un bon état général.
+
+L'auscultation cardio-pulmonaire a noté le souffle systolique au foyer mitral et un raffut scapulohumeral.
+
+L'échocardiographie a objectivé une CIV musculaire avec une absence de dilatation du ventricule gauche et une dysfonction systolique avec une akinésie apicale et inféroseptale.
+
+La coronarographie a objectivé des lésions bi-tronculaires avec un anévrysme du ventricule gauche en position apicale.
+
+La fermeture chirurgicale de la CIV a été réalisée par voie minithoracique et suivie d'une cure de l'anévrysme ventriculaire gauche sur le parenchyme musculaire apical.
+
+La pose de monopontage aortocoronaire sur la coronaire droite est indiquée.
+
+L'évolution a été favorable avec un recul de 30 mois.
+
+La CIV comporte des séquelles avec une scintigraphie myocardique d'extraction diminuée en correspondance de la CIV.
+
+L'évolution du patient a été favorable sans récidive de la CIV.
+
+L'anévrysme du ventricule gauche a disparu complètement.
+
+A 1 ans de recul, le monopontage sur la coronaire droite a été remplacé par une coronarographie.
+
+A 3 ans de recul, il n'a pas eu de récidive de la CIV avec un débit systolique ventriculaire gauche normal.
+
+Le patient est considéré comme archiévolué.
+
+Au plan fonctionnel, il a eu une bonne évolution avec un recul de 30 mois.
+
+Au plan anatomique, il a eu une disparition complète de l'anévrysme du ventricule gauche.
+
+La persistance de la scintigraphie myocardique d'extraction diminuée en correspondance de la CIV.
+
+Il n'a pas eu de récidive de la CIV, mais la persistance d'un diabète non diagnostiqué avant la survenue de l'IDM circonférentiel.
+
+A 3 ans de recul, il n'a pas eu de récidive de la CIV avec un débit systolique ventriculaire gauche normal.
+
+Le patient est considéré comme archiévolué.
+
+Au plan fonctionnel, il a eu une bonne évolution avec un recul de 30 mois.
+
+Au plan anatomique, il a eu une disparition complète de l'anévrysme du ventricule gauche.
+
+La persistance de la scintigraphie myocardique d'extraction diminuée en correspondance de la CIV.
+
+Il n'a pas eu de récidive de la CIV, mais la persistance d'un diabète non diagnostiqué avant la survenue de l'IDM circonférentiel.
+
+### Response:
+Nous rapportons le cas d'un patient âgé de 64 ans, hypertendu mais non tabagique ni diabétique, admis aux urgences pour un IDM circonférentiel non thrombolysé sur le vaisseau artère hémodiaphragmatique gauche (v.a.h.d.g.) diagnostiqué à l'échographie cardiaque.
+
+L'examen clinique a trouvé un patient conscient, stable sur le plan hémodynamique et respiratoire et un bon état général.
+
+L'auscultation cardio-pulmonaire a noté le souffle systolique au foyer mitral et un raffut scapulohumeral.
+
+L'échocardiographie a objectivé une CIV musculaire avec une absence de dilatation du ventricule gauche et une dysfonction systolique avec une akinésie apicale et inféroseptale.
+
+La coronarographie a objectivé des lésions bi-tronculaires avec un anévrysme du ventricule gauche en position apicale.
+
+La fermeture chirurgicale de la CIV a été réalisée par voie minithoracique et suivie d'une cure de l'anévrysme ventriculaire gauche sur le parenchyme musculaire apical.
+
+La pose de monopontage aortocoronaire sur la coronaire droite est indiquée.
+
+L'évolution a été favorable avec un recul de 30 mois.
+
+La CIV comporte des séquelles avec une scintigraphie myocardique d'extraction diminuée en correspondance de la CIV.
+
+L'évolution du patient a été favorable sans récidive de la CIV.
+
+L'anévrysme du ventricule gauche a disparu complètement.
+
+A 1 ans de recul

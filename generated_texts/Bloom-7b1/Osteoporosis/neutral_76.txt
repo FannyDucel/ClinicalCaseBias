@@ -1,0 +1,51 @@
+Il s’agit d’un patient âgé de 30 ans, sans antécédents pathologiques notables, qui a consulté en janvier 2001 pour des lombalgies avec une asthénie physique et psychique évoluant depuis 6 mois. A l’examen clinique, il avait une claudication intermittente à la hanche droite. L’examen ostéoarticulaire avait noté une cyphose lombaire, une saillie des apophyses épineuses et une trace d’arthrose au niveau des membres inférieurs. Les radiographies du rachis lombaire avaient montré un début d’ostéophytose des épineuses et des vertèbres lombaires avec un corps vertébral bombé avec des calcifications sur les facettes articulaires (Figure 1).
+
+La vitesse de sédimentation était augmentée à 27 mm à la première heure.
+
+Le bilan phosphocalcique a objectivé une calcémie à 2,42 nmol/L (72mg/l), une phosphorémie à 1,01 nmol/L (34mg/l), une calciurie à 2,15 nmol/L/24 h (normal <0,3) et des dosages hormonaux strictement normaux.
+
+Les tests immunologiques étaient normaux (parathormone basse à 4 pg/ml et 1,25 dihydroxyvitamine D à 23 pg/ml).
+
+L’absorptiométrie biphotonique à rayons X avait mis en évidence une ostéoporose légère des lombaires avec une densité minérale osseuse à 0,888 g/cm3.
+
+Le patient a été mis sous paracétamol (2 g/j), amytriptiline (50 mg/j) et acide folique (1,5 mg/j).
+
+A 6 mois du début des douleurs, l’examen ostéoarticulaire avait objectivé une ostéoporose fracturaire des vertèbres lombaires qui s’est avérée irréversible. De plus, le patient avait subi des fractures spontanées de fémur droit en novembre 2000. Le patient était décédé 10 mois après son admission (février 2001).
+
+
+
+
+
+Endocrinology & Metabolism
+
+Vol. 44, No. 3, June 2005
+Coordinated Revision for
+Case Presentation Guidelines
+
+Effects of Vitamin D Deficiency on Osteoblast Function
+Lorenzo Skeggs
+1,2* and
+Phillippe Sillard
+1,2
+The Association for Research in Pain
+
+1
+Division de métabolisme et de nutrition, Centre hospitalier universitaire de Liège, Belgique
+2
+Division des neurosciences cliniques et fondamentales, Centre hospitalier universitaire de Liège, Belgique
+*These authors contributed equally to this work.
+
+The current guidelines issued by the Association for Research in Pain (ARP) Committee on Case Presentation provide the basis for discussion regarding how a successful case can be introduced into the audience. These guidelines should be readily available for all interested parties. The sole purpose of this exercise is to improve the quality and speed of communication while increasing the overall clarity and success of presenting new results.
+
+This article discusses how the influence of vitamin D deficiency on osteoblast function may explain the fact that lower vitamin D levels are more commonly associated with painful diseases such as osteoarthritis, fracture, and low back pain. The normal contribution of osteoblasts to bone formation is hindered in situations of deficient vitamin D and calcium levels. This translates into increased bone resorption and therefore increased bone turnover and osteoblast apoptosis.
+
+During the past 10 years, several in vitro and in vivo studies have been carried out to shed light on the possible role of vitamin D on the balance between bone resorption and bone formation, particularly at the organ, cellular, and molecular levels. The aim of the present review is to highlight some of the possible mechanisms by which vitamin D deficiency leads to increased bone resorption.
+Influence of 1,25-dihydroxyvitamin D on Bone Resorption
+
+In 1976, Dorr and Rutter have been the first to demonstrate that 1,25-dihydroxyvitamin D (calcitriol) is a potent inhibitor of calcium-dependent bone resorption in humans.1 Since then, the action of calcitriol as a potent inhibitor of bone resorption in humans has been confirmed by numerous authors. In addition, 1,25-dihydroxyvitamin D inhibits osteoclast differentiation and migration, thus explaining its effect on bone resorption and reducing bone turnover in adults, particularly in states of vitamin D deficiency. The antiresorptive activity of calcitriol depends mainly on its affinity for the vitamin D receptor (VDR). Several other mechanisms have been proposed to explain the inhibitory effects of calcitriol on bone resorption, including its effects on the fibroblast growth factor (FGF), transforming growth factor beta (TGF-β), and insulin-like growth factor (IGF)-1 systems and on the MAPK, Akt, and phosphoinositide 3-kinase signaling pathways.2-4
+
+Bone metabolism in osteoporosis and osteoporotic fractures
+
+In contrast to healthy subjects, patients with osteoporosis have a decreased sensitivity to calcitriol. This is probably related to a decreased number of osteoblasts or to decreased levels of specific binding proteins (VDR, megalin) in osteoblastic cells.1 Indeed, the ability of calcitriol to inhibit bone resorption is impaired in patients with osteoporosis.2 In addition, calcitriol decreases bone resorption to a greater extent in subjects with the normal vitamin D level and a higher risk of fractures (e.g., women and Caucasians). Therefore, the possible interactions of vitamin D and calcium (or other minerals) appear to play a significant role in the treatment of osteoporosis.2-4 In such conditions, vitamin D seems to induce an inhibition of bone resorption to a larger extent in the setting of an increased calcium concentration (or other minerals). However, in normal vitamin D status, calcitriol remains largely ineffective in reducing bone resorption. Therefore, vitamin D deficiency and a low calcium intake appear to be independent risk factors for the development of bone loss. Consequently, in subjects with low levels of both 1,25-dihydroxyvitamin D and calcium, an increased bone resorption may be induced.2-4
+
+Since its discovery as an anti-resorptive agent in 1977,1 calcit

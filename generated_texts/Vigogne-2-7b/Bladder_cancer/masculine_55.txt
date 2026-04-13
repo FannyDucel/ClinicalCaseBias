@@ -1,0 +1,20 @@
+Il s’agissait d’un patient de 54 ans sans antécédents particuliers, consulte pour une hématurie de moyenne abondance évoluant depuis 2 ans et évoluant dans un contexte fébrile, et d’une distension des anses urinaires bilatérales d’aggravation progressive. L’examen clinique trouvait un patient conscient, avec un bon état général, sans adénopathies profondes. L’examen tomodensitométrique objectivait une masse de 4 cm à contours réguliers avec des multiples calcifications et envahissant uniquement la graisse adjacente. Le patient a subi une cystoprostatectomie radicale totale avec omphalectomie et entérocystoplastie de substitution de l’ouraque inférieur. A la résection, on notait un adénocarcinome de l’ouraque peu différencié. Le bilan d’extension à la thoracoscopie, au scanner abdomino-pelvien ainsi que l’examen anatomopathologique des pièces d’omphalectomie et de prostatectomie ont montré une nette limite cutanée. L’étude anatomopathologique montrait une prolifération tumorale à cellules fusiformes au sein de la glandulaire avec des cellules néoplasiques positives pour l’antigène Carcino-Embryonnaire et Leu-M1 et négatif pour les cytokératines 7 et 20. Le patient a été adressé pour contrôle et chimiothérapie et la récidive a été constatée avec une tumeur d’infiltration, à la PET-scan et la scintigraphie osseuse (T III A (selon la classification de Sheldon). Le patient est décédé 1 mois après du moment par suite à la progression de sa maladie.
+
+### Source:
+O.S. de l’Hôpital Militaire Frères Schœnecker, Marseille
+
+### N°: 4
+
+### Instruction:
+Relire un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 54 ;
+Il doit contenir les éléments suivants :
+métrorragies ; pelvi-urétrotomie ; urétéro-pyélographie ; uretère de type IIIb ; dilatation urétérale ; passage de la urétérographie ; instrumentation ; urétéro-pyélo-plastie ; masse polypoïde ; urétéro-stomie ; cystoscopie ; dilatation urétérale intermittente ; gêne urinaire ; produit de contraste ; analyse morphologique ; localisation urétérale secondaire ; recherche de matières de caillots ; opératoire ; lésions d’endokyste rétro péritonéale gauche ; incision sur la face postérieure de l’épiploon ; exérèse ; bien limité ; urétéro-plastie ; anastomose urétéro-péritonéale ; revue postopératoire.
+
+### Response:
+Il s’agissait d’une patiente âgée de 54 ans, sans antécédents notables, sans traumatisme, ni antécédents pathologiques, qui a consulté pour hématurie micropénienne évoluant depuis un an associée à des métrorragies. L’examen clinique était sans particularités. L’imagerie par résonance magnétique a montré un urétère de type IIIb avec dilatation urétérale et passage de la urétérographie.
+
+La patiente a bénéficié d’une chirurgie pelvienne avec instrumentation, passant par une urétéro-pyélo-plastie avec résection d’une masse polypoïde au niveau de l’uretère iliaque supérieur. L’examen anatomopathologique de la pièce opératoire a montré une dilatation tubulaire grossièrement arrondie qui a été ouverte et deux caillots dont l’analyse morphologique a été en faveur d’un caillot d’endokyste. Cette dilatation urétérale secondaire est en rapport avec la localisation urétérale secondaire d’un caillot primitif d’endokyste rétro péritonéale gauche. La patiente a été opérée par une incision sur la face postérieure de l’épiploon avec exérèse du caillot et fermeture du collet. Le péritoine a été laissé en place. Le résultat anatomopathologique de la pièce d’exérèse est de relief granuleux. Il a été réalisé une urétéro-plastie avec anastomose urétéro-péritonéale à vis isolée. La patiente était revue postopératoire, elle a présenté une bon retour à l’activité quotidienne avec une sérologie HIV négative. L’analyse morphologique des caillots fait état d’une présence d’œufs d’ascaris.
+
+La patiente est perdu de vue. L’absence de lésions d’endokyste rétro péritonéale gauche et de la présence d’œufs d’ascaris à la recherche de matières de caillots étaient

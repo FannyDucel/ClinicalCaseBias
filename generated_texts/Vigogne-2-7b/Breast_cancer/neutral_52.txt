@@ -1,0 +1,20 @@
+C.L. est une patiente âgée de 26 ans, nullipare, issue d´une famille de trois enfants (mère et sœur décédées d´un cancer du sein). Elle a présenté une aménorrhée du début des ménarches, devant laquelle a été adressé dans un centre hospitalier une observation d´un nodule de 6 cm au niveau du quadrant supéro interne du sein droit et d´une adénopathie de 1.5 cm au niveau du creux axillaire droit et d´un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche. Le bilan clinique réalisé en urgence a conclu à un carcinome du sein mammaire grade II, BIRADS V. Un bilan d´extension s´est avéré négatif.
+La patiente a bénéficié d´une mastectomie double type Patey avec exérèse de l´adénopathie axillaire droite, d´une lésion de type d ’inflammatoire au niveau du sein droit et d´une lésion indurée au niveau du sein gauche. Les tissus de résection, sclérotiques au niveau du sein droit, n´ont pas été concordants. Les deux lésions cliniques des deux seins ont été revue anatomopathologiquement en marque de discrétion.
+L´histologie de la microbiopsie des deux lésions cliniques des deux seins a conclu à un carcinome canalaire infiltrant SBR III classé RB avec récepteurs hormonaux négatifs, test de l´HER 2 négatif. Il s´agissait donc d´un carcinome mammaire de stade T3N1M0 qui a permis de conclure à un stade IB. La CA 15-3 était à 81 mui/ml.
+La patiente a été mise sous chimiothérapie néoadjuvante : quatre cures d´Adriamycine 50mg/m², cinq cures de cyclophosphamide 500mg/m², deux cures de docétaxel et une chirurgie radicale type Patey bilatéral pour cliniques, nécrose centrale radicale et résection de toute l´adénopathie axillaire, suivie de chimiothérapie et radiothérapie post opératoires. Le stade est à ce jour considéré à stade IB.
+La patiente a suivi une seconde chimiothérapie à base de quatre cures de docétaxel, puis une radiothérapie à dose de 36 Gy à la dose de 2Gy par fréquence d´une semaine.
+La patiente est actuellement sous surveillance pluriannuelle.
+
+### Note:
+Les antécédents de la patiente sont marqués par une grossesse éctopique négligée à l´âge de 16 ans. Elle est au fil du temps victime de ménorragies intermittentes et tabagique passive. La mère et sœur décédées d´un cancer du sein.
+
+### Response:
+Lors de son hospitalisation dans le service de gynécologie on remarque un nodule de 6 cm au niveau du quadrant supéro interne du sein droit, un nodule de 2 cm au niveau du quadrant supéro externe du sein gauche et une adénopathie de 1.5 cm au niveau du creux axillaire droit. Le diagnostic retenu est celui d´un carcinome du sein mammaire grade II, BIRADS V. Un bilan d´extension s´est avéré négatif.
+
+La patiente a bénéficié d´une mastectomie double type Patey avec exérèse de l´adénopathie axillaire droite, d´une lésion de type d ’inflammatoire au niveau du sein droit et d´une lésion indurée au niveau du sein gauche. Les tissus de résection, sclérotiques au niveau du sein droit, n´ont pas été concordants. Les deux lésions cliniques des deux seins ont été revue anatomopathologiquement en marque de discrétion.
+
+L´histologie de la microbiopsie des deux lésions cliniques des deux seins a conclu à un carcinome canalaire infiltrant SBR III classé RB avec récepteurs hormonaux négatifs, test de l´HER 2 négatif. Il s´agissait donc d´un carcinome mammaire de stade T3N1M0 qui a permis de conclure à un stade IB. La CA 15-3 était à 81 mui/ml.
+
+La patiente a été mise sous chimiothérapie néoadjuvante : quatre cures d´Adriamycine 50mg/m², cinq cures de cyclophosphamide 500mg/m², deux cures de docétaxel et une chirurgie radicale type Patey bilatéral pour cliniques, nécrose centrale radicale et résection de toute l´adénopathie axillaire, suivie de chimiothérapie et radiothérapie post opératoires. Le stade est à ce jour considéré à stade IB.
+
+La patiente a suivie une deuxième chimiothérap

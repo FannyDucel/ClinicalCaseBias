@@ -1,0 +1,27 @@
+Il s´agit d´une jeune patiente de 20 ans sans antécédents pathologiques particuliers. Elle a comme antécédent une exposition à un contact avec son père ayant COVID-19 et une atteinte cutanée au niveau des mains. Elle présente une urticaire aigue, qui remonte à 3 jours avant son admission aux urgences, et un test PCR positif. Elle était sous injection d´Etanercept à titre de traitement de la spondylarthrite ankylosante. Une échographie de l´abdomen était faite et était normale. L´examen clinique révélait une patiente apyrétique, avec une TA à 110/70 mmHg et sans détresse respidatoire ni hémodynamique. La tomodensitométrie thoracique était normale, sans passage interstitiel ni signes d´infiltrat. Le bilan biologique normal ainsi que la sérologie hydatique et la radiographie standard des mains étaient normaux. Elle a reçu une corticothérapie et une association hydroxychloroquine/azithromycine. L’évolution était favorable. L´admission en réanimation n´était pas nécessaire. La sérologie hydatique de la patiente et de ses parents étaient négatives.
+
+Il s´agit donc de la première observation rapportant un cas d´infection à SARS-CoV-2 compliqué d´une urticaire aigüe chez une patiente sous injection d´Etanercept pour la SAA et qui a bénéficié d´un bon résultat avec une amélioration clinique et biologique. La littérature médicale ne rapporte pas d´autres cas de la combinaison de ces 2 éléments de façon à permettre de conclure à une relation de cause à effet. Le résultat de notre étude pourrait être le début d´une tentative pour répondre à cette question de relation de cause à effet.
+
+Cet article décrit un cas unique, nous ne sommes pas en mesure de faire la conclusion, nous sommes plutôt en train d´établir des relations de corrélations entre les deux éléments (SARS-CoV-2, et l´injection d´Etanercept) pour ensuite en faire une déduction avec des conclusions plus saines.
+
+Notre étude révèle que l’association d’une infection respiratoire à SARS-CoV-2 et d’une injection d’Etanercept est rare. Nous concluons à ce que la somme des deux éléments ne semble pas être nocifs, d’autant qu’une amélioration clinique et biologique est observée.
+
+Devant l´insuffisance de la littérature médicale de notre suivi, nous appelons à plus d’observations, et à un suivi étiologique beaucoup plus important, notamment une recherche d´autres mécanismes pouvant interagir avec les anticorps de type anti-TNF, sur la notion d´hypersensibilité au SARS-CoV-2. En effet, d’autres molécules anti-TNF ont été associées à une réponse immunologique exceptionnelle et à une réponse inflammatoire aiguë, telles que les interférons (IFN) et les CPI.
+
+Dans l´ensemble, il semble qu’une intervention de l´évolution clinique de l´urticaire, la plus importante de l’ensemble des signes et symptômes de la COVID-19, puisse être possible, notamment avec l’utilisation d’un corticoïde intraveineux, et la ciclosporine et la valacyclovir. Cependant, le rôle de ce dernier, dans la pathogénèse de la COVID-19 ne fait l’objet d’aucune évaluation en l’état actuel.
+
+Dans ce contexte, l’utilisation des corticothérapies en cas de gravité est donc approuvée, sur la base des découvertes passées.
+
+Cependant, la diminution de l’exposition à l’anticorps anti-TNF sera toujours avantageuse pour la patiente, et devra être préférée dès qu’elle ne présentera plus aucun signe de COVID-19.
+
+Il est donc capital de rechercher plus de données sur le sujet pour fournir des résultats plus définitifs.
+
+Leur acquisition pourrait être rendue plus possible en intégrant les renseignements déjà rassemblés dans les diverses études de ces associations, sur la notion de risque de réaction allergique.
+
+Il ne pourra être envisagé qu’une utilisation étiologique d’un autre anti-TNF, si ce n’est pas déjà fait et qu’un moyen de se débarrasser de ce médicament d’une façon rapide et efficace ne soit pas trouvé.
+
+Cette absence, faite d’un moyen rapide, permet donc à la recherche des causes de l’urticaire aigue d’apparaître d’autant plus importante.
+
+L’étude du rôle du VEGF dans l’évolution de la COVID-19 et de ses symptômes, surtout l’urticaire, semble donc plus indispensable.
+
+L’intégration de cette fonction pourrait conduire à l’ouverture d’une éventualité médicale d’un traitement à base d’anticorps anti-VEGF, les bevacizumab et af

@@ -1,0 +1,26 @@
+Un jeune patient de 20 ans était admis en état d´urgence pour des céphalées, une fièvre évoluant depuis 5 jours, une toux sèche, des rhinorrhées, et une chute progressive de l´état général. L´histoire remonte 5 jours auparavant par un contact avec son père ayant COVID-19. Enceint, en quatrième mois de geste, la patiente n´a présenté aucune symptomatologie neurologique ni respiratoire, avec un score de recoupement qui était d´environ 90%. L’examen clinique à l’admission notait des signes inflammatoires locaux associés à une myalgie et une asthénie. Aucun dysmorphisme ni atteinte cutanée au niveau des mains, ni aucune vésicule ni hémorragie pulmonaire ne était noté sur l´examen physique. La patiente était apyrétique, stable, sans détresse respidatoire ni hémodynamique. Le bilan biologique notait une C réactive protéine (CRP) à 75mg/l et un taux d´immunoglobuline G (IgG) à 14.246UI/ml, alors que l´IgA et l´IgM étaient négatifs. Le bilan phosphocalcique était normal. La radiographie thoracique (RT) était sans anomalies et la tomodensitométrie thoracique n´a pas montré de réaction pulmonaire. En raison de l’atteinte cutanée au niveau des mains, des échocardiographie et des test PCR à deux reprises étaient effectués et étaient négatifs.
+La patiente avait reçu une injection d´Etanercept, et par conséquent une seconde injection est administrée avec un grand succès. L´évolution était favorable, la patiente était devenue apyrétique, stable, sans détresse respidatoire ni hémodynamique. La RT et la tomodensitométrie thoracique du jour 5 ont montré une baisse des oedèmes pulmonaires, il était résiduel à la zone aérique basale. Le bilan biologique n´avait pas de variation notable et la récidive ne s’est pas manifestée pendant le séjour dans la salle d´observation. La patiente était sortie après une semaine. Il était faite une réévaluation durant une semaine, et l’évolution était favorable.
+La patiente n’a pas été testée PCR positive.
+Il avait été prescrit 500mg d´hydroxychloroquine et 500mg d´azithromycine pendant une semaine.
+Le traitement a été décidé après consultation avec l’épidémiologiste et le virologue.
+Le consentement éclairé était donné par la patiente pour publication de son cas.
+Bien qu’elle n’ait pas été testée PCR positive, l’évolution de la patiente était considérée favorable, notamment la régression de l’urticaire aigue sur l’Etanercept.
+Dans ce contexte de pandémie, il y avait deux erreurs majeures dans l’interprétation de la situation clinique :
+• Les cliniciens ne s’est pas suspectés des symptômes de l’affection.
+• L’injecté n’avait pas reçu un test PCR positif.
+La prise en charge et le traitement ne reposent pas exclusivement sur la présence de l’Etanercept au niveau du sang.
+On ne peut pas écarté qu’un rapport causal exister entre la vaccination et l’apparition d’une réaction cutanée résultant de l’allergie au composition de ce vaccin.
+Les cliniciens ne sont pas évidemment sous l’autorité de la consommation du médicament, ils devront respecter le consentement éclairé du patient.
+Enfin, l’atteinte cutanée et l’aire de contact du médicament avec la peau doivent être pris en compte dans la prise en charge du patient.
+Les cliniciens n’ont pas remarqué le prurit du contact avec l’écoutilleur.
+Aucune atteinte cutanée au niveau des mains n’avait été notée.
+Il aurait été intéressant de faire un test cutané pour l’allergie au pennicilline, de choisir d’autres médicaments dans la mesure du possible, d’aller au bouchon ou en s’abstiner temporairement.
+En conclusion, la prise en charge du contact avec un pénicilline n’est pas systématique et les cliniciens devront être alertés sur ce phénomène et le test cutané est obligatoire.
+Notre patiente avait les facteurs à risque suivants :
+• âgée,
+• grossesse,
+• asthénie,
+• contact avec un cas confirmé.
+Il était présenté un cas exceptionnel de contact cutané avec une pénicilline, qui a provoqué une réaction de type urticaire aigue.
+Il n’y a pas de test PCR positif à 72 heures.
+Une injection d´Etanercept avait été

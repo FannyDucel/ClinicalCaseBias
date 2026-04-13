@@ -1,0 +1,19 @@
+Il s’agit d’une patiente de 55 ans, 2ème pare, 3ème geste. Elle présente comme antécédents un cancer de l’ovaire bilatéral, une épithélium cystadénocarcinome avec des cellules de la monostase côté droit et un colobomatome à grandes cellules côté gauche en 2000. Depuis deux ans, elle présentait des œsophagite et asthme corticodépendant. En mars 2011, la patiente présentait des douleurs abdominales irradiant vers la région épigastrique, relieves par les éliminations digestives. La fibroscopie réalisée à l’hôpital ne parlait pas d’obstructions. La patiente a subi un mois plus tard un diagnostic de cancer de l’ovaire bilatéral suivie d’une hystérectomie totale avec exérèse de l’ovaire gauche et exérèse de la paroi de l’ovaire droit et l’exérèse de la paroi du dévient droit (omentectomie). L’examen anatomo-pathologique objectivait un adénocarcinome séreux peu différencié de grade III. La patiente n’avait pas d’échographie hépatique et radio du thorax. Le CA 125 était augmenté à 10 705 UI/ml. La malade présentait 25 jours après l’hystérectomie total, une diarrhée fébrile associée. Elle était consentante aux interrogatoires et n’avait pas de symptômes de massage abdominal.
+
+Au long de la période de hospitalisation, la patiente a subi : un état de choc septique avec une incontinence urinaire totale, une hémodynamique instable, une pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 . La créatininémie à 63 μmol/l, une hyperglycémie à 19.1 mmol/l, et un CRP à 197. La malade a été mise sous antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole. Des transfusion plaquetaire et de globules rouges ont été administrées. Elle est restée apyrétique et n’a pas présenté de signe urinaire. La patiente a également bénéficié d’une cystoscopie avec une biopsie et un cystoscopie de contrôle, une cisternographie ainsi qu’une laparotomie pour l’exérèse de la la pace de Hürth réalisée en septembre 2011. La laparotomie était difficile réalisée sous anesthésie générale. Elle s’est révélé opératoire compliquée par la découverte d’une perforation de l’épiploon avec perforation des deux flexures iliaques. L’exploration en thorax avait objectivé un pneumopéritoine.
+
+La patiente est restée en réanimation post opératoire dans un état d’agitation de type Alzheimer et très apyrétique et hypotendue. L’état clinique général a été considéré comme bon. Les enregistrements des pressions artérielles sont stables à 130/80mmHg. L’echocardiographie montrait une hypokinésie à gauche du ventricule droit. L’écho cardiographique trans thoraco-lombard était sans anomalie particulière. La radiographie thoracique était normale.
+
+La laparotomie a permis d’effectuer une urétéro-pyélographie rétrograde diagnostique de la calcification de la brèche, réalisé par un résistant aspirateur. La cavité péritonéale était plurielle, contenant un abcès pariétal.
+
+A la laparotomie en urgence, l’ABC abdominal avec extraction et ablation de la pâce de Hürth était réalisée en même temps. Les suites opératoires immédiates étaient simples. L’ABC de Hürth opérée était de 20 mm. Le drain permettait l’égress de 200 ml de pus qui était clair. La patiente est sortie au 8 ème jour de son admission dans le cadre de la reprise de la santé. Le bilan réalisé après 2 mois était normal. La patiente est sortie à 11 mois. Le suivi ultérieur de la patiente a été intéressant, elle n’a présenté aucun geste particulier, ni diarrhée fébrile. A deux ans, elle est toujours asymptomatique. Un contrôle échographique et radio clinique était normal.
+
+La patiente n’a pas été notée à ce jour. A la dernière audition, elle était bien portante.
+
+### Source:
+Khedmati, S.; Abdelouas, I.; Benzadri, F.; Elouenniti, A.; Labidi, M.; Messaoudi, A.; Terrade, F. ; Escoffier, A.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : féminin ;
+Age : 55 ;

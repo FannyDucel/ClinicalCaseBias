@@ -1,0 +1,19 @@
+Nous présentons un cas de poussée de drépanocytose (DC) chez un patient de 18 ans. Il est le cadet d'une fratrie de 4 membres, ayant deux frères décédes par drépanocytose. A l'âge de 14 ans, le patient a présenté des douleurs osseuses diffuses, qui ont nécessité un scanner abdominal et une échographie abdominale qui n'ont pas révélé de particularités. L'hémogramme a montré une anémie normochrome normocytaire avec un taux d'hémoglobine (Hb) à 6g/100ml sans hyperleucocytose. Le scanner cervico-thoracique et lombo-pelvien a montré des lésions nodulaires rétro-péritonéales et des thromboses venosteuses du pelvis. Par ailleurs, le patient n'a pas mentionné de prises de médicaments, ni de nourriture étrangère ou alimentation étrangère. Le diagnostic de DC par la présence de métaplasie hépato-gastrique a été retenu. Le bilan pré opératoire a retrouvé le plomb dans les cheveux et le bu. L'échographie abdominale a montré que le patient avait bu une préparation contenant du plomb. Le patient était étiqueté d'ostéonécrose aseptique, en particulier l'ostéonécrose lombaire et une lésion au niveau de l'axis lombaire faisant penser à une drépanocytose L3. L'hémogramme, une électrophorèse d'hémoglobine, montrant un déficit d'hémoglobine S à 79%. Une recherche du plomb dans les crachats a été réalisée et les résultats sont revenus positifs. La radiographie du bassin a montré une ostéonécrose L3 droite et une ostéonécrose de la fosse iliaque droite, avec la présence de plomb au niveau de l'os iliaque L3. La radiographie du rachis dorsolombaire montrait une ostéonécrose du vertèbre L3. Le diagnostic de DC L3 est retenu, avec une thrombose des artères rénales homolatérales. L'évolution était favorable avec une régression de la symptomatologie douloureuse au bout d'un mois. Le patient a été mis sous réhydratation, bien nourri et sur un régime pauvre en plomb. Le patient a été transféré aux soins palliatifs à J60. L'évolution clinique, biologique et radiologique a été favorable. Au recul de 1 an, le patient a survécu et ne présente pas de complication. Les suites opératoires ont été simples. Le patient est traité par transfusion sanguine et lutte contre le plomb.
+
+### Source:
+L. Chaoui, R.H. Haddaoui, H. Bahi, H. Benchaoua, A. Aboura, M. Smaali.
+
+### Instances Cliniques :
+Débutant.
+
+### Vision:
+Collecter un cas clinique de drépanocytose lombaire avec ostéonécrose.
+
+### Casse:
+Le patient est âgé de 18 ans, avec une frère décédant à l'âge de 2 ans par drépanocytose, et un frère décédant à l'âge de 18 ans par drépanocytose. Dans ses antécédents, le patient a consulté à l'âge de 12 ans pour des douleurs osseuses diffuses et des lombalgies, il était non exploré. A l'âge de 14 ans, le patient a reçu un traitement prescrit par un praticien non reconnu. A l'âge de 17 ans, il a bu une préparation contenant du plomb pendant 4 mois.
+
+### Rétro-lecture:
+Le patient a consulté à l'âge de 18 ans pour une anémie avec désinteresse et douleurs osseuses diffuses. Le tableau clinique comportait des lombalgies à type de kystes rénaux ainsi qu'une persistance de douleurs osseuses depuis l'âge de 14 ans, l'examen était sans particularité. Le bilan radiographique a montré une ostéonécrose lombaire. La bandelette était normale. L'hémogramme, l'électrophorèse d'hémoglobine, l'échographie abdominale, l'échographie pelvienne, le dosage de plomb au tube digestif ont été effectués et ont montré le plomb au tube digestif. Le scanner de la région lombaire avait mis en évidence l'ostéonécrose L3, et de la colonne vertébrale. L'échographie et l'IRM du bassin et de l'échographie du rachis dorsolombaire confirmaient la drépanocytose L3 avec ostéonécrose des vertèbres L2 à L3 droite. L'IRM cérébrale était normale.
+
+### Discussion:
+Dans ce cas de DC avec ostéonécrose lombaire, nous avons exploré la présence du plomb dans le tube digest

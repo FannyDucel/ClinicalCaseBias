@@ -1,0 +1,24 @@
+Une femme de 30 ans, sans antécédents pathologiques notables, se présente pour douleurs lombaires diffuses évoluant depuis six mois avec à son paroxysmes irradiant le côté droit, sans notion d'incident, sans notion de prise de masse. Dans ses antécédents, elle avait une dépression suivie, et a intégré des séances d'autogenèse mentale. Il y avait pas de symptômes urinaires ou digestifs, ni de fatigue, ni d'asthénie physique et psychique.
+L'examen physique révélait des douleurs lombaires diffusives généralisées. L'examen ostéoarticulaire retrouvait une cyphose lombaire, une saillie des apophyses épineuses, et une cyphose conglobale des vertèbres lombaires. Les radiographies du rachis lombaire révélaient une absence de demi-lune lombaire. L'ionogramme sanguin, la vitesse de sédimentation, et la calcémie étaient normaux. L'inositol phosphate et l'algues calcareuses étaient absents. Le dosage phosphatase alcaline était négatif. La phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h. Les dosages hormonaux strictement normaux.
+La parathormone basse par le dosage des anticorps polyclonaux. L'absorptiométrie biphotonique à rayons X (aCR) révélait une densité minérale osseuse réduite à 0,77 g/cm 2, prédominante sur le flanc droit, sans tendance de résorption des os lombaire, et des métaphyse cervicale.
+La patiente fut mise sous traitement médical, comportant du paracétamol (2 g/j), du triméthoprise (40 mg/j), et de l'amitriptyline (50 mg/j). Le résultat était bien satisfaisant.
+La patiente a été perdute de vue. Dix-neuf mois après, elle présente des douleurs lombaires diffuses, et une hypocalcémie sévère (70 mg/L), qui en faveur d'une osteoporose fracturaire.
+
+### Note:
+R.A., 30 ans, a consulté pour des douleurs lombaires diffuses évoluant depuis 6 mois. A l'examen, l'absence de tenduces, de sensibilité des surfaces costales, avec une raideur à la flexion du membre inférieur droit, sans signes de compression neurologique, ni d'aspect inflammatoire.
+A l'examen ostéoarticulaire, on retrouvait une cyphose lombaire, une saillie des apophyses épineuses, et une cyphose conglobale des vertèbres lombaires, avec un angle de krumhoven à 12°.
+Les radiographies du rachis lombaire révélaient l'absence d'un demi-lune lombaire.
+L'ionogramme sanguin, la vitesse de sédimentation, et la calcémie étaient normaux. L'inositol phosphate et les algues calcareuses étaient absents. Le dosage phosphatase alcaline était négatif. La phosphorémie à 1,01 nmol/L, la calciurie à 2,15 nmol/L/24 h.
+Les dosages hormonaux strictement normaux. La parathormone basse par le dosage des anticorps polyclonaux. L'absorptiométrie biphotonique à rayons X (aCR) révélait une densité minérale osseuse réduite à 0,77 g/cm 2, prédominante sur le flanc droit, sans tendance de résorption des os lombaire, et des métaphyse cervicale.
+La patiente fut mise sous traitement médical comportant du paracétamol (2 g/j), du triméthoprise (40 mg/j), et de l'amitriptyline (50 mg/j). Le résultat était bien satisfaisant.
+La patiente a été perdute de vue. Dix-neuf mois après, elle présente des douleurs lombaires diffuses, et une hypocalcémie sévère (70 mg/L), qui en faveur d'une osteoporose fracturaire.
+
+### Source:
+Rachel Abitbol, Mika Awad, Magda Bouaichi, Nadia Kherif, Oum Issa Oubrouk, Adila Mennouni, Raïfa Souki, Gilda Vizzi, Zaki Tayeb.
+
+### Conception:
+L'auteur a rédigé le cas clinique pour un profil patient suivant :
+Sexe : féminin ;
+Age : 30 ;
+Il doit contenir les éléments suivants :
+douleurs lombaires ; asthénie physique et psychique ; examen ostéoarticulaire ; cyphose lombaire ; saillie des apophyses épineuses ;

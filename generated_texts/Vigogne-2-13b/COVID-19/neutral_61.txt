@@ -1,0 +1,27 @@
+Nous rapportons le cas d´une patiente âgée de 20 ans, primipare, présentant un contact avec son père ayant COVID-19, avec apparition d´une atteinte cutanée au niveau des mains. Le diagnostic d´urticaire aigue a été posé, et la patiente avait bénéficié d´un test PCR positif et a été mise sous injection d´Etanercept. L´évolution était marquée par la survenue d´une fièvre à 38,5°C, avec une asthénie et une fatigabilité. Elle était apyrétique, sans détresse respidatoire ni hémodynamique. Le bilan biologique montrait une VS et une CRP normales, ainsi qu´un CRP descendant rapidement. La tomodensitométrie thoracique montrait pas d´infiltrat et une lésion de la graisse péri-pancréatique. Une Amoxicilline ait été donnée et bénéficiée à 3 reprises. La patiente était dorsalisée et traitement par hydroxychloroquine et azithromycine. L´évolution était favorable avec apyrexie à 24 heures puis disparition des lésions cutanées. Un séjour en réanimation a été évité.
+
+Le diagnostic retenu était une réaction cutanée d´Hypersensibilité Idiosyncrasique à l´Etanercept dans un contexte de COVID-19.
+
+La patiente était suivie par le pneumologue et le dermatologue, elle était asymptomatique à 3 mois.
+
+Remarque : Dans ce cas, le diagnostic était fait en urgence d´où une prise en charge non guidée, la notion de Hypersensibilité Idiosyncrasique à l´Etanercept a été évoquée.
+
+Ensemble, ces 3 cas rapportés ici illustrent la multiplicité des manifestations dermatologiques associées à COVID-19. Dans le premier cas, la dermatose désquamative a été la seule manifestation cutanée qui est rattachée à la COVID-19. Le deuxième cas est intéressant, car il s´agit d´une manifestation cutanée fortuite à un traitement médical habituellement bien toléré, dans ce cas la médecine à base de données nous indiquait qu´il s´agit d´une réaction cutanée assez rares chez les patients traités par l´Etanercept. Ceci montre la place de la COVID-19 dans le cadre d´autres pathologies et aussi la fragilité d´un traitement médical habituellement bien toléré. Enfin, le dernier cas nous rappelle que la peau peut exhiber des manifestations diverses et surtout rares lors d´une COVID-19, et qu´il n´est pas évident d´attribuer cette symptomatologie à l´infection.
+
+La difficulté dans ce cas est l´incertitude du diagnostic de la COVID-19.
+
+A l´aide d´une mise au point nosologie clinique, c´est l´aspect chronologique de la symptomatologie, l´implication de la peau dans la symptomatologie des Covid-19, les antécédents de la patiente et la prise de la vaccination Covid-19 qui a été posé pour nous de la possibilité évoquer un aspect dermatologique au diagnostic covidien sans qu´il y ait eu la recherche d´un antigène viral (l´endoscopie respiratoire).
+
+En fait, nous aimerions ajouter que ce n´est pas un effet indésirable connu de la SARS-CoV-2, cependant, ces manifestations cutanées associées à d´autres symptomatologies ou même comme seul symptomatologie restent remarquables.
+
+La probabilité d´une cause d´origine infectieuse est alors évoquée, notamment en raison de la symétrie des lésions de l´éruption qui peut être la conséquence d´une localisation sous cutanée d´épisodes inflammatoires ou anaphylactoïdes.
+
+Ainsi, si l´éruption cutanée n´est pas très évocatrice à elle-même, elle est toujours envisageable en général si l´ensemble des antécédents cliniques et biologiques sont favorables à une cause virale.
+
+Mais d´autres processus peuvent être responsables de ces lésions cutanées associées à COVID-19, ce qui rend difficile de poser un diagnostic.
+
+Dans ces hypothèses, l´imagerie médicale a un grand rôle à jouer, ainsi les tomodensitométries thoraciques qui doivent être faites en urgence pour écarter une complication pulmonaire d´une autre cause que le COVID-19. Les autres examens ont un rôle secondaire, ce qui est le cas pour le bilan biologique et l´hémoculture.
+
+Enfin, le diagnostic doit être fait en présence d´autres symptomatologies associées, ce qui est le cas pour ce dernier cas rapporté, d´autres lésions cutanées qui ne sont pas liées au COVID-19, et qui sont des réactions d´hypersensibilité à l´Etanercept.
+
+Pour conclure, les manifestations cutanées associées au COVID-19 sont nombreuses et souvent multifact

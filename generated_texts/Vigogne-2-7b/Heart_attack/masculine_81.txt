@@ -1,0 +1,20 @@
+Mr. A.H... est un patient de 64 ans, tabagique et diabétique, hospitalisé pour prise en charge d'un infarctoide inaugurale, en CIV circulaire infero-septale (IDM circonférentiel non thrombolysé). À l'admission le patient était conscient, normothermique, l'auscultation cardio-pulmonaire mettait en évidence un souffle systolique au 5 ème inter-auriculaire droit et au 3 ème inter-auriculaire gauche associé à des râles crépitant au 2 ème inter-auriculaire droit. La 1 ème biologie demandée était normale. Un IRM cardiaque a été réalisé et a objectivé un énorme anévrysme gauche avec une perfusion extra-coronaire de la CIV réduite au 20% et dont l'origine n'a pas pu être localisée (Figure 1). Une échocardiographie a confirmé l'absence de communication inter-ventriculaire et a objectivé un CIV musculaire aux contours volumineux, avec extension en fente et bourgeon ventriculaire gauche non dilaté (Figure 2). La 2 ème IRM cardiaque réalisée à J10 d'hospitalisation (Figure 3), a montré une réduction de l'anévrysme du ventricule gauche associée à une akinésie apicale et inféroseptale et à une dysfonction systolique. La coronarographie (Figure 4) réalisée 4 mois plus tard a objectivé des lésions bi-tronculaires du faisceau main gauche et du faisceau gauche en pôle inféro-septal avec présence d'un anévrysme du ventricule gauche. Une fermeture chirurgicale de la CIV par cure de l'anévrysme ventriculaire gauche a été réalisée par monopontage aortocoronaire sur la coronaire droite. L'examen anatomopathologique de la pièce chirurgicale a permis de mettre en évidence un anévrysme ventriculaire gauche rentrant en fermeture spontanée au coronarien. Les suites post-opératoires ont été simples. L'examen tomodensitométrique thoraco-abdomino-pelvien fait après un recul de 6 ans, n'a pas révélé de reformation de l'anévrysme du ventricule gauche. Ce dernier est donc considéré fermé sur la tomodensitométrie. L'évolution a été marquée par une stabilisation du débit cardiaque à J24 post opératoire, puis une régression progressive avec disparition des râles de Hoover à J24 puis des râles crépitants à J28 post opératoire. Sur la radiographie thoracique réalisée à J36 post opératoire, il s'agissait d'une radiographie parfaitement normale. Le bilan biologique réalisé a noté une normo-triglicéridémie et normo-cholestérolémie. Au recul de 6 ans, l'état général était conservé, et la fonction cardiaque était normale. L'évolution était favorable avec disparition complète des râles de Hoover et crépitant à J28 post opératoire. Devant le type de CIV, l'évolution favorable et les résultats fonctionnels objectifs, l'accent est mis sur la prévention de la récidive. Le patient a consulté à la cardiologie après un anopie avec l'évolution favorable sur les traitements apportés.
+
+Figure 1 : CIV gauche complète en IRM cardiaque.
+
+Figure 2 : Échographie cardiaque de contrôle.
+
+Figure 3 : CIV gauche réduite à 80% en IRM cardiaque, 2 mois après l'intervention de fermeture.
+
+Figure 4 : CIV gauche partiellement fermée après la coronarographie de confirmation.
+
+Tableau 1 : Résultats des vérification cliniques, biologiques et radiologiques à 6 mois d'intervalle après l'intervention.
+
+Tâche 1 : Écris la réponse qui répond de manière précise à la demande.
+
+### Instruction:
+Écris un cas clinique pour le profil patient suivant :
+Sexe : masculin ;
+Age : 66 ;
+Il doit contenir les éléments suivants :
+mort subite sur découverte d'un cancer prostatique ; arythmie bidirectionnelle multifocale ; activité atrio-ventriculaire ; 8/4 cm ; contrôle cardiovasculaire ; syndrome coronarien aigu ; tachycardie supra-ventriculaire antagonisée par l'alcaloïde ; tachycardie ventriculaire ; IVH ; fibro-gigantose ; kératine de Verneuil ; radio-sondage par des capillaires de micro-sécateur ; radio-sondage de l'oreille interne ; cathétérisme cardio-vénerable ; clampage vascular ; cholestérol ; 12,5 g/dL ; 78000 éléments/mm3 ; 3,9 g/dL ; 540 000 éléments/mm3 ; 45

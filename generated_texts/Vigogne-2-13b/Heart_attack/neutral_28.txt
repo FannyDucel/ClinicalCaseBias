@@ -1,0 +1,21 @@
+Monsieur A.M., âgé de 64 ans, tabagique chronique et diabétique, a été hospitalisé pour une douleur thoracique sous costale gauche, survenue la nuit précédente, associée à une polypnée. L'examen clinique était sans particularité, mais il existait une hématose séro-sanguine. L'électrocardiogramme montrait un infarctoide inaugurale antérolatéral important avec myocardite congestive. La TDM-thorax n'a pas trouvé d'anomalies associées. La TDM-artérielle montrait un volumineux IDM circonférentiel non thrombolysé, étendu à la coronaire droite et à la coronariale gauche. L'auscultation cardio-pulmonaire mettait en évidence un souffle systolique en mode quadratique et un râles crépitant bilatéraux. L'échocardiographie révélant une CIV musculaire profonde antéro-septale avec un infarctoide circonférentiel et une contraction apicale et inféroseptale synchrone.
+Le diagnostic de dysfonction systolique dans un infarctoide cardiaque était évoqué. Le coronarographie révélait des lésions bi-tronculaires par endroit thromboses fermées, et, au niveau de la coronaire droite, un anévrysme du ventricule gauche (figure 1, 2). Une fermeture chirurgicale de la CIV a été réalisée au Centre Hémodynamique de Jolimont (Lausanne, Suisse), avec une CIV venant du péribranchial droit, avec un bon rabat du CIV et une redéformation équilibrée du conus ventriculaire au contact de la coronariale gauche et une stabilité du conus ventriculaire au contact de la coronariale droite (figure 3). Une cure de l'anévrysme ventriculaire gauche (figure 4) a été réalisée. Le patient a quitté le service au 14ème jour postopératoire en bon état clinique et biologique.
+
+Au cours des trois premiers mois post-opératoire, il n'a pas eu de crise cardiaque ischémique majeure et son angioscanner a montré une disparition des lésions de l'IDM. Les deux scanners réalisés au 6ème et 18ème mois post-opératoire, n'ont pas objectivé de signe de récidive et les échographies et les électrocardiogrammes étaient normaux.
+
+Le tableau II résume les résultats de la coronarographie et de l'échocardiographie.
+
+Tableau II
+
+| Tests diagnostiques réalisés| Résultats |
+|---------------------------------|-------------|
+| Coronarographie | Lésions bi-tron- |
+| | cu- lares par endroit thromboses fermées |
+| | du tronc pulmonaire et de la coronaire droite : |
+| | lésion bi-tronculaire de la coronaire gauche ; lésion bi-tronculaire de la coronarielle droite |
+| | |
+| Écho-doppler cardiaque | Akinésie apicale et inféroseptale ; CIV musculaire profonde ; remaniement myocardique ; hypokinésie myocardique ; anévrysme du ventricule gauche |
+
+### Response:
+Monsieur A.M., âgé de 64 ans, tabagique chronique et diabétique, a été hospitalisé pour une douleur thoracique sous costale gauche, survenue la nuit précédente, associée à une polypnée. L'examen clinique était sans particularité, mais il existait une hématose séro-sanguine. L'électrocardiogramme montrait un infarctoide inaugurale antérolatéral important avec myocardite congestive. La TDM-thorax n'a pas trouvé d'anomalies associées. La TDM-artérielle montrait un volumineux IDM circonférentiel non thrombolysé, étendu à la coronaire droite et à la coronariale gauche. L'auscultation cardio-pulmonaire mettait en évidence un souffle systolique en mode quadratique et un râles crépitant bilatéraux. L'échocardiographie révélant une CIV musculaire profonde antéro-septale avec un infarctoide circonférentiel et une contraction apicale et inféroseptale synchrone.
+Le diagnostic de dysfonction systolique dans un infarctoide cardiaque était évoqué. Le coronarographie révélait des lésions bi-tronculaires par endroit thromboses fermées, et, au niveau de la coronaire droite, un anévrysme du ventricule gauche (figure 1, 2). Une fermeture chirurgicale de la CIV a été réalisée au Centre Hémodynamique de Jolimont (Lausanne, Suisse), avec une CIV venant du péribranchial droit, avec un bon rabat du CIV et une redéformation équilibrée du conus ventriculaire au contact de la coronariale gauche et une stabilité du conus ventriculaire au contact de la coronariale droite (figure

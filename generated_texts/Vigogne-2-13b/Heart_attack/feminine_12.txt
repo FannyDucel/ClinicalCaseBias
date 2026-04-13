@@ -1,0 +1,24 @@
+Mme M. H, 64 ans, tabagique chronique d'environ 40 paquets/années, et diabétique, présente un antécédent d'insuffisance aortique, et d'une IDM circonférentielle non thrombolysé, découverte fortuitement à l'admission dans le service de cardiologie. L'auscultation cardio-pulmonaire retrouve un souffle systolique en aile de pigeon, sans râles crépitant. L'échocardiographie révèle une CIV musculaire avec un rein inféroseptal inexcisable, un ventricule gauche non dilaté, et une akinésie apicale et inféroseptale avec un dysfonction systolique évalué à 35%. La coronarographie a montré des lésions bi-tronculaires de l'artère coronaire droite, avec un anévrysme du ventricule gauche. Une fermeture chirurgicale de la CIV a été réalisée, avec cure de l'anévrysme ventriculaire gauche, associée à un monopontage aortocoronaire sur la coronaire droite. Un bon recul de 24 mois a été noté.
+
+### Réponse:
+Il s'agit d'une patiente âgée de 64 ans, nullipare, postménopausique, tabagique chronique d'environ 40 paquets/années, et diabétique.
+L'anamnèse retrouve un antécédent d'insuffisance aortique, et d'une IDM circonférentielle non thrombolysé, découverte fortuitement à l'admission dans le service de cardiologie.
+L'auscultation cardio-pulmonaire retrouve un souffle systolique en aile de pigeon, sans râles crépitant. L'échocardiographie révèle une CIV musculaire avec un rein inféroseptal inexcisable, un ventricule gauche non dilaté, et une akinésie apicale et inféroseptale avec un dysfonction systolique évalué à 35%.
+La coronarographie a montré des lésions bi-tronculaires de l'artère coronaire droite, avec un anévrysme du ventricule gauche.
+Une fermeture chirurgicale de la CIV a été réalisée, avec cure de l'anévrysme ventriculaire gauche, associée à un monopontage aortocoronaire sur la coronaire droite. Un bon recul de 24 mois a été noté.
+La patiente est perdu de vue actuellement.
+
+### Response:
+Il s'agit d'une patiente âgée de 64 ans, nullipare, postménopausique, tabagique chronique d'environ 40 paquets/années, et diabétique.
+L'anamnèse retrouve un antécédent d'insuffisance aortique, et d'une IDM circonférentielle non thrombolysé, découverte fortuitement à l'admission dans le service de cardiologie.
+L'auscultation cardio-pulmonaire retrouve un souffle systolique en aile de pigeon, sans râles crépitant. L'échocardiographie révèle une CIV musculaire avec un rein inféroseptal inexcisable, un ventricule gauche non dilaté, et une akinésie apicale et inféroseptale avec un dysfonction systolique évalué à 35%.
+La coronarographie a montré des lésions bi-tronculaires de l'artère coronaire droite, avec un anévrysme du ventricule gauche.
+Une fermeture chirurgicale de la CIV a été réalisée, avec cure de l'anévrysme ventriculaire gauche, associée à un monopontage aortocoronaire sur la coronaire droite. Un bon recul de 24 mois a été noté.
+La patiente est perdu de vue actuellement.
+
+### Response:
+Il s'agit d'une patiente âgée de 64 ans, nullipare, postménopausique, tabagique chronique d'environ 40 paquets/années, et diabétique.
+L'anamnèse retrouve un antécédent d'insuffisance aortique, et d'une IDM circonférentielle non thrombolysé, découverte fortuitement à l'admission dans le service de cardiologie.
+L'auscultation cardio-pulmonaire retrouve un souffle systolique en aile de pigeon, sans râles crépitant. L'échocardiographie révèle une CIV musculaire avec un rein inféroseptal inexcisable, un ventricule gauche non dilaté, et une akinésie apicale et inféroseptale avec un dysfonction systolique évalué à 35%.
+La coronarographie a montré des lésions bi-tronculaires de l'artère coronaire droite, avec un anévrysme du ventricule gauche.
+Une fermeture chirurgicale de la CIV a été réalisée, avec cure

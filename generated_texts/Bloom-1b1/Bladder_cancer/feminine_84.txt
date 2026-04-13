@@ -1,0 +1,36 @@
+Il s’agit d’une patiente de 54 ans, ayant comme antécédents de maladies cardiovasculaires une hypertension artérielle traitée par anti-hypertenseurs, une carcinose médullaire tuberculeuse traitée par une chimiothérapie conventionnelle et trois consultations hospitalières pour hématurie.
+
+L’examen clinique a révélé une masse de 4 cm de diamètre de l’OMS qui envahissait la graisse, à l’examen sous-jacent, le reste de l’œsophagogramme était normal, les leucocytes et les réticulocytes étaient neutrophiles.
+
+L’échographie tumorale a montré la présence d’une masse tissulaire échogène située au niveau de l’OMS augmentant de volume avec l’acidose. Il n’y avait pas de compression du psoas ni de cavité abdominale externe.
+
+Le scanner 2D volumétrique a confirmé la présence d’une masse de 4 cm de diamètre au niveau de l’OMS avec envahissant uniquement la graisse adjacente. En tenant compte de la notion de récidive après cystoprostatectomie, une cystoprostatectomie radicale totale a été réalisée avec omphalectomie complète. L’étude anatomo-pathologique a révélé le type d’apocrine mélangée à un adénocarcinome de l’ouraque peu différencié (T III B), sans particularités cellulaires. La biopsie du résidu du curage est restée négative pour les cellules tumorales.
+
+La patiente a reçu une chimiothérapie par Méthotrexate – Vinblastine – Endoxan – Cisplatine. Les suites opératoires ont été simples. Devant la bonne réponse clinique à la chimiothérapie et l’absence d’extension clinique, le patient est traité par chimiothérapie adjuvante par Adachi – Vinorelbine, qui a été arrêté quatre mois après le début des traitements et maintenu trois mois plus tard.
+Une stabilisation de la tumeur a été obtenue par la chimiothérapie adjuvante et l’ascension au TIVV (tumour entity wellcontrolled) selon la classification de Sheldon. Le traitement par chimiothérapie a été arrêté huit mois après la fin de la chimiothérapie et la patiente s’est mise en rémission complète.
+Une seule récidive s’est produite sur les six suivants.
+L’échographie de contrôle en plusieurs mois n’a pas montré de récidive.
+
+Les taux de PSA et de CA 125 sont stables.
+
+Cette patiente, non ménopausée a choisi de ne pas recevoir de chimiothérapie adjuvante et les diagnostics étiologiques de sa tumeur restent probablement incertains.
+Le rôle d’une biopsie de la tumeur dans le cadre du diagnostic étiologique de la maladie n’est pas le même que celui d’une anomalie anatomopathologique définitive.
+
+Une simple mesure de leur volume et des proportions cytoplasmiques ne permet pas de déceler la présence d’un adénocarcinome avec précision.
+Au regard des données cliniques et tomodensitométriques présentées, elle est classée comme un adénocarcinome de l’ouraque, avec une possibilité réduite de métastase à l’os. La patiente a été classée pour une tumeur d’élucubration.
+Les traitements échoguidés pour ces adénocarcinomes et carcinomes d’extérieur sont controversés. Cependant, les données actuelles suggèrent que l’utilisation d’anti-VEGF reste préconisée chez les femmes ayant des cancers à faible risque de métastase (T I). A ce stade, la place des traitements antihypertenseurs et dans le cadre de la chimiothérapie n’est pas décisive, mais peut être, dans certains cas, compliquée par la présence de la tumeur.
+De nombreux essais randomisés ont été réalisés sur les anti-VEGF en cancérologie.
+L’un d’entre eux, le plus ancien, a comparé une association de lussanibumab à la mitRAL (umanimab vedotin) en association avec un médicament inhibiteur de l’aktégastrin-1 et un agent inhibiteur de l’eglucolysine-1 (calceolifene).
+Il a montré une diminution importante des cruralgies de grade 2, ce qui a marqué un réel tournant dans le traitement de cette tumeur.
+Dans une population de cancers du péritoine (T I), le lussanibumab a été associé à la capécitabine, de la gemcitabine, de la cisplatine et de la vincristine. Les résultats cliniques n’ont pas été publiés et la tolérance médicamenteuse n’a pas été évaluée.
+Le vedotin n’a donc pas été utilisé en association avec des anticorps anti-VEGF en cancérologie.
+Le vedotin n’a pas été utilisé en association avec des anticorps anti-VEGF en cancérologie.
+A ce jour, il n’existe pas de données de sécurité et de tolérance pharmacologique pour les anti-VEGF.
+Il n’existe pas non plus de données de sécurité et de tolérance pharmacologique pour les anti-VEGF. Les études de référence n’ont pas comparé la vascularisation tumorale avec celle de la graisse adjacente.
+Les données d’étude sont limitées par la définition des critères de l’échographie diagnostique.
+Il ne peut être établi si la vascularisation tumorale peut être considérée comme un facteur indépendant de la vascularisation de la graisse adjacente.
+Il ne peut être établi si une antégrossectomie, comme une adénocarcinome d’ouraque peu différencié, peut constituer un facteur indépendant de la vascularisation tumorale de la graisse adjacente.
+Il n’est pas possible d’estimer le rôle exact de la chimiothérapie dans la vascularisation tumorale ni dans la vascularisation de la graisse adjacente et dans son éventuelle influence sur les récidives.
+De nombreux essais randomisés sur les anti-VEGF ont été réalisés sur des cancers du péritoine.
+Des études de phase 1 ont été menées pour comprendre les effets du vedotin sur la vascularisation des tumeurs épidermoïdes. De ce fait, les mécanismes sous-jacents et les effets indésirables surviennent.
+Les études sur des tumeurs du péritoin ne devaient pas chercher à définir les critères de l’échographie

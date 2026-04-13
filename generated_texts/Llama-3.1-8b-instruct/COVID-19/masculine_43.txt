@@ -1,0 +1,41 @@
+Nous rapportons le cas d´un jeune patient de 20 ans ayant comme antécédent la présence chez lui d´un contact avec son père ayant COVID-19. Il se présente aux urgences en raison d´une atteinte cutanée au niveau des mains ainsi qu´un urticaire aigue. Il a eu le test PCR positif à COVID-19. L´injection d´Etanercept a été prescrit mais est interrompu suite à l´aggravation de son tableau clinique. Il a présenté un tableau clinique évoluant en 24 heures, comprenant des prurit, des douleurs abdominales et des vomissements avec une température à 39.5. Son examen somatique, montrait un patient apyrétique, apyrexique à 35,7°C sans détresse respidatoire ni hémodynamique. L´examen abdominal a révélé la présence d´une décoloration de la peau et d´une formation vésiculeuse au niveau des membres. La tomodensitométrie thoracique révèle une infiltration pulmonaire de l´aire supérieure gauche. Aucun autre organisme était trouvé par l´abdomen par le scanner et le bilan biologique normal. Un traitement par hydroxychloroquine et azithromycine a été prescrit. Les suites cliniques ont été positives. Devant la symptomatologie non spécifique et les nombreuses variantes cliniques de COVID-19, il semble primordial de faire le diagnostic d´un prélèvement de voie nasale. Le temps d´incubation peut être très court. L´étude des mécanismes moléculaires de la COVID-19 a permis l´identification d´une molécule capable de bloquer la nidation virale. Les résultats de la recherche moléculaire et les essais cliniques de vaccination menés dans différents pays ont été prometteurs. La vaccination contre le SARS-CoV-2 reste en cours de développement. L´efficacité de la protection a été démontrée par le basse taux de complications chez les malades traités avec cette molécule. La chimiothérapie de consolidation a été interrompu. Le patient reçoit actuellement l´oxacine et l´hydroxychloroquine. Les évolution médicale et radiologique sont favorables.
+Le tableau ci-dessous résume les résultats cliniques.
+Observations:
+1er a: 27/02/2020
+- Age : 20
+- Sexe : Masculin
+- Symptômes : Fièvre, toux ; Détresse respiratoire ; Contact avec son père ayant COVID-19
+- Traitement : Achromycine ; Levofloxacin ; Paracétamol ; Bien pris
+- Évolution : Admission au service des maladies infectieuses des urgences du Centre Hospitalier Universitaire de Lomé. Prognostic: Très bon.
+2ème a: 02/03/2020
+- Age : 20
+- Sexe : Masculin
+- Symptômes : Urticaire aigu ; Prurit cutané ; 39.5
+- Traitement : Injection d´Etanercept 50 mg ; Bien pris
+- Évolution : Patient transposé aux urgences de l´Hôpital de Kwamé N´Krumah, bien stabilisé sous hydroxychloroquine 200mg/jour et azithromycine 500mg/j.
+- Prognostic: Très bon.
+3ème a: 04/03/2020
+- Age : 20
+- Sexe : Masculin
+- Symptômes : Dyspnée ; Infection pulmonaire. Contact avec son père ayant COVID-19
+- Traitement : Admission à la chambre des suites de soins intensifs (SSSIs) du Centre Hospitalier Universitaire de Lomé, chloroquine 200mg/jour, chloramphénicol 500mg/jour
+- Évolution : Amélioration sous traitement. Prognostic: Bon.
+4ème a: 07/03/2020
+- Age : 20
+- Sexe : Masculin
+- Symptômes : Douleurs abdominales ; Dyspnée ; Contact avec son père ayant COVID-19
+- Traitement : Admission à la chambre des SSSIs du Centre Hospitalier Universitaire de Lomé, hydroxychloroquine 200mg/jour, cotrimoxazole 960mg/jour
+- Évolution : Amélioration sous traitement. Prognostic: Bon.
+5ème a: 11/03/2020
+- Age : 20
+- Sexe : Masculin
+- Symptômes : Douleurs abdominales ; Douleurs musculaires ; Infection urinaire ; Infection au niveau de l´urètre ; Pénicilline. Contact avec son père ayant COVID-19
+- Traitement : Admission à la chambre des SSSIs du Centre Hospitalier Universitaire de Lomé, hydroxychloroquine 200mg/jour, cotrimoxazole 960mg/jour
+- Évolution : Amélioration sous traitement. Prognostic: Bon.
+6ème a: 15/03/2020
+- Age : 20
+- Sexe : Masculin
+- Symptômes : Douleurs abdominales ; Infection pulmonaire ; Infection des voies urinaires ; Pénicilline ; Contact avec son père ayant COVID-19
+- Traitement : Admission à la chambre des SSSIs du Centre Hospitalier Universitaire de Lomé, hydroxychloroquine 200mg/jour, cotrimoxazole 960mg/jour
+- Évolution : Amélioration sous traitement. Prognostic: Bon.
+7ème a: 17/03/

@@ -1,0 +1,53 @@
+Nous rapportons l’observation d’une patiente âgée de 49 ans, sans antécédents pathologiques notables, qui a présenté deux mois avant son admission un tableau de dysurie et de douleurs périnéales intermittentes avec pollakiurie et troubles mictionnels de type obstructif. Au toucher rectal, le pôle antérieur de la prostate était volumineux, dure et irrégulière, comportant quelques crochets. Le bilan préopératoire a inclus un dosage PSA à trois reprises a montré un taux normal et l’échographie rénale était normale. Une biopsie prostatique écho-guidée a été réalisée et a été interprétée comme des tumeurs neuroendocrines à travers un aspect stellaire microfolliculaire. Une décision chirurgicale a été prise à ce moment. Les lésions tumorales ont été ensuite marquées par l’immuno-marquage par l’anticorps anti-cytokératine (Ck) et par l’anticorps anti-vimentine. On a observé une positivité d’un grand nombre de cellules tumorales aux marqueurs précités. Les cellules tumorales étaient négatives aux anticorps anti-PSA, anti-PSA antibodies, anti-actine, anti-Desmine et anti-Profilatin. L’étude morphologique au microscopie optique était concluante pour carcinome sarcomatoïde de la prostate. Une tomodensitométrie abdomino-pelvienne a été réalisée afin de rechercher des localisations secondaires et n’a montré pas de localisations secondaires à ce niveau. Nous avons réalisé une cystoprostatectomie et une urostomie continente sur les suites postopératoires. L'étude histologique de la pièce opératoire n'a pas montré de dysplasie urinaire. Les suites postopératoires étaient simples. La patiente était indemne de récidive après 14 mois d'observation. Son suivi avait été fait à un mois puis à 3 mois, à 6 mois, à 9 mois, à 12 mois, à 18 mois et à 24 mois. L’étude histologique et l’immuno-marquage de la pièce opératoire a été fait dans un laboratoire français de bonne réputation. L’histo-pathologie a été réalisée par le Docteur Pierre FUMAL. Nous avons noté qu’il n’y avait pas de suite en France de cette patiente, une fois l’opération effectuée en France. Le tableau clinique est résumé dans le tableau I.
+Tableau I : Tableau clinique de la patiente
+• Géographie, âge, sexe
+• 49 ; féminin
+• Symptômes
+• Douleurs périnéales
+• Dysurie
+• Pollakiurie
+• Examens
+• Toucher rectal
+• Bilan d'extension
+• Dosage du PSA
+• Échographie rénale
+• Biopsie prostatique écho-guidée
+• Abord
+• Abord transvésical
+• Lésions
+• Type de biopsie
+• Lésions tumorales
+• Masse tumorale prostatique
+• Dosage des PSA après l'intervention
+• Examen anatomo-pathologique de la pièce
+• Carcinome sarcomatoïde
+• Plus de 90%
+• Vasectomie
+• Urostomie continente
+• Surveillances
+• Réponse clinique
+• Exitus
+
+On a pu alors écarter la possibilité d'un processus maligne au niveau des glandes salivaires. La patiente a bénéficié d'une réintervention, une biopsie sus-jacqueto-laryngée, a révélé un chondrosarcome. On a alors indiqué la réalisation d'une laryngectomie totalle avec reconstruction de la voie aérienne d'air moyenne (Cervico-thoracique plastique). Nous avons noté qu'il n’y avait pas de suite en France de cette patiente, une fois l’opération effectuée en France. Le tableau clinique est résumé dans le tableau II.
+Tableau II : Tableau clinique de la patiente
+• Géographie, âge, sexe
+• 49 ; féminin
+• Symptômes
+• Dysphonie évolutive; palpabilité de la masse laryngée
+• Examens
+• Angioscanner cervico-thoraco-abdominal
+• Échographie oso-hydatique
+• Échographie des glandes salivaires
+• Biopsie sus-jacqueto-laryngée
+• Chondrosarcome
+• Abord
+• Abord orotraqué
+• Lésions
+• Type de chirurgie
+• Laryngectomie totale
+• Cervico-thoracique plastique
+• Complément d'examen
+• Réanimation et surveillance
+• Evolution
+• 25 mois
+• Exitus

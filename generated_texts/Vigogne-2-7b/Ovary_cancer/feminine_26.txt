@@ -1,0 +1,47 @@
+Une femme de 55 ans, ayant des antécédents de 2ème pare, 3ème geste et 3 gestes, avec un accouchement à domicile, suivie en gynécologie pour œsophagite et asthme corticodépendant depuis 2 ans, a été hospitalisée pour douleurs abdominales associées à des signes urinaires, des vomissements et fièvre. L’examen clinique avait objectivé un syndrome infectieux (œdème de la queue de la langue, hipertension artérielle à 170/100). Une fibroscopie œsophagienne a été réalisée, objectivant un œdème œsophagien.
+
+A l’échographie abdominale, il existait une masse mésentérique grade 3 sans obstacle pour le pôle supérieur de l’estomac.
+
+L’endoscopie hépatique a montré une masse de 25 mm de grand axe avec une chaine lymphonodale vascularisée à droite.
+
+Le bilan d’extension, qui comprenait une échographie pulmonaire, une échographie hépatique et radio du thorax, était normal.
+
+Le CA 125 était augmenté à 10 705.
+
+Au lit de repos, une augmentation du bilan biologique a montré une diarrhée fébrile associée à une incontinence urinaire totale et à une pancytopénie : plaquettes : 24 000 , hémoglobine : 7.3 g/dl , leucocytes : 450/mm3 , créatininémie à 63 μmol/l , et une hyperglycémie à 19.1 mmol/l (Tableau 1).
+
+Le CRP était à 197.
+
+La patiente a été traitée par antibiothérapie à large spectre (pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole) associée à une transfusion plaquetaire et de globules rouges.
+
+La cystoscopie, la fibroscopie œsophagienne, les ponctions lymphonodales étaient négatives.
+
+La patiente a été abordée à l’examen opératoire, qui avait découvert une massue mesurant 25 mm de grand axe.
+
+La patiente a été opérée le lendemain par une laparotomie, avec vérification du myometre dans sa totalité, et extrapéritonisation de la massue enveloppée dans un remplissage de substance grasse. Les suites post-opératoires étaient simples.
+
+L’examen anatomo-pathologique avait objectivé un adénocarcinome séreux peu différencié de grade III (pT3N0M0).
+
+Le bilan d’extension était négatif.
+
+Une surveillance par une tomodensitométrie abdominale a été indiquée, qui ne montrait aucune métastase loco-régionale ou horaire.
+
+La patiente était actuellement en rémission complète, 5 mois après l’intervention.
+
+L’évolution était favorable, avec une bonne normalisation du bilan biologique, avec un recul de 9 mois.
+
+Clinique Initial ;
+Pancytopénie ; plaquettes : 24 000 ; hémoglobine : 7.3 g/dl ; leucocytes : 450/mm3 ; créatininémie à 63 μmol/l ; hyperglycémie à 19.1 mmol/l ; CRP était à 197 ; antibiothérapie à large spectre ; pipéracilline ; tazobactam ; métrodinazol ; amikacine ; fluconazole ; transfusion plaquetaire ; globules rouges ; cystoscopie ; laparotomie.
+
+### Response:
+Une femme de 55 ans, ayant des antécédents de 2ème pare, 3ème geste et 3 gestes, avec un accouchement à domicile, suivie en gynécologie pour œsophagite et asthme corticodépendant depuis 2 ans, a été hospitalisée pour douleurs abdominales associées à des signes urinaires, des vomissements et fièvre. L’examen clinique avait objectivé un syndrome infectieux (œdème de la queue de la langue, hipertension artérielle à 170/100).
+
+A l’échographie abdominale, il existait une masse mésentérique grade 3.
+
+L’endoscopie hépatique a montré une masse de 25 mm de grand axe avec une chaine lymphonodale vascularisée à droite.
+
+Le bilan d’extension, qui comprenait une échographie pulmonaire, une échographie hépatique et radio du thorax, était normal.
+
+Le CA 125 était augmenté à 10 705.
+
+Au lit de repos, une augmentation du bilan biologique a montré une diarrhée fébrile associée à une incontinence urinaire totale et à une pancytopén

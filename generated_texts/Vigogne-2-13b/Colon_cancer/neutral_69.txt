@@ -1,0 +1,24 @@
+Une femme de 45 ans a consulté pour des douleurs périombilicale intenses évoluant depuis 3 mois. Elle a présenté des vomissements et une anorexie sans autres symptômes. L’examen a trouvé une sensibilité sus-ombilicale avec empâtement sus-ombilical. Le bilan a montré une anémie à 9g/dl d’hémoglobine, une hyperalbuminémie à 40g/l et une hypo albuminémie à 28g/l. La fibroscopie oeso-gastroduodénale a objectivé une gastrite congestive et une atrophie des villosités duodénale sans signe de malignité. La tomodensitométrie abdominale a objectivé un épaississement pariétal jéjunal de 15cm de diamètre et un épanchement intrapéritonéal ( Figure 2 ). L’étude anatomopathologique a montré une tumeur à 50cm de l’angle duodéno-jéjunal et a requis une résection segmentaire du jéjunum. L’examen histologique de la pièce opératoire a conclu à un adénocarcinome lieberkuhien, sans signes de maladie cœliaque. Le cancer était de stade T2aN0M0.
+
+### Response:
+Il n’y a pas eu de récidive locale ou d’évolution métastatique après un suivi post opératoire de 6 mois.
+
+### Response:
+La maladie cœliaque est une glutenose réactionnelle au gluten du blé, de l’orge, du seigle. Elle se développe à la suite d’un immunodéfaut hérité. Elle touche environ 1/1000 de la population avec une incidence fortement géographique. C’est une maladie chronique et invalidante. Le premier cas de l’adénocarcinome chez la maladie cœliaque a été rapporté en 1969 par Hellström. À ce jour, il n’y a pas eu de consensus quant à la nature prédisposante de la maladie cœliaque à l’adénocarcinome. Il a été proposé des hypothèses relatives à la barriére intestinale. La présence de germes sous la mucose avec un milieu inflammatoire pourrait favoriser la colonisation et l’invasion par des agents pathogènes pathogènes comme HPV (Human Papilloma Virus) ainsi que par les gluten. Il n’y a pas eu jusqu’à présent d’étude sur la prévalence de l’HPV chez les patients porteurs de maladie cœliaque.
+
+### Response:
+A noter que les adénocarcinomes lié au foie cirrhoseux sont extrêmement rares, le dernier cas publié était daté de 1989. Les histopathologistes ont noté que la morphologie des cellules neuroendocrines observée dans notre étude n’était pas spécifique du processus malin par rapport à celles observées dans le foie sain. Il y a eu un rapprochement morphologique entre le processus malin et les cellules neuroendocrines dites nodulaires des villosités duodénales. Mais le caractère massif et le fait qu’elles envahissaient les villosités font évoquer un processus tumoral d’origine des cellules digestives duodénales.
+
+### Response:
+Il n’a pas été trouvé d’amas inflammatoire associé à ce processus malin. Il n’y a pas eu de méthodes analytiques à disposition pour détecter les cellules neuroendocrines nerveuses.
+
+### Response:
+Le rôle des gluten dans la génération des lymphocytes cytotoxiques n’a pas été évalué dans notre étude mais il a été noté que l’apport protidique supplémentaire mal adapté des gluten pouvait induire un état inflammatoire au niveau intestinal.
+
+### Response:
+Le processus tumoral trouvé dans notre cas est un adénocarcinome primitif jéjunal. L’exclusion d’un processus métastatique fait au niveau duodéno-jéjunal, d’un méso-tumoral et d’une formation lymphoïde granulomateuse a été confirmée par les techniques histopathologiques et immunohistochimiques. Une origine épithélioïde est la plus probable.
+
+### Response:
+Le caractère rénitent des lymphomes digestifs aurait pu être suspecté d’autant qu’un type de lymphome épithélial a été observé dans les cellules germinales duodénales. Ce type de lymphome est typiquement associé à des anticorps anti-mullériens. En l’absence d’anticorps antiproteinase K, anti-mullériens, anti-chromogranine ou anti-synaptophysine. Une maladie de lynch, un adénocarcinome primitif, un épithélioma a été éliminé comme cause rénitent. Il n’y a pas eu de dystrophie des villosités intestinales.
+
+### Response:

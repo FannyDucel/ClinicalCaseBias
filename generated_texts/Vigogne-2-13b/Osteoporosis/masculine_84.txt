@@ -1,0 +1,38 @@
+L.A est âgé de 30 ans. Il a toujours été svelte et athlétique avec une alimentation carnée bonne. En juin 1988 il a eu une fracture du col fémoral gauche. Le recul de l'hémarthrose avec une fracture ; pas de traumatisme retrouvé, ni de douleurs lombaires.
+
+Deux mois plus tard, il commence à se plaindre de douleurs lombaires, des céphalées, d'une asthénie physique et psychique. L'examen ostéoarticulaire révèle une cyphose lombaire avec une saillie des apophyses épineuses (Figure 1).
+
+Les radiographies du rachis lombaire montrent une perte de lordose dorsale avec une atrophie des corps vertébraux (Figure 2).
+
+Les radiographies du rachis lombaire et des os longs sont sans particularité.
+
+Le bilan biologique a objectivé une vitesse de sédimentation à 28 mm/h, une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L, une calciurie à 2,15 nmol/L/24 h, les dosages hormonaux sont strictement normaux, l'immunofixation sérique était négative, la parathormone est basse.
+
+L'absorptiométrie biphotonique à rayons X montre une densité minérale osseuse normale (Figure 3).
+
+Le traitement est basé sur le paracétamol (2 g/j) associé à une amytriptiline (50 mg/j) et des soins orthopédiques.
+
+Le résultat est une stabilisation des douleurs lombaires avec une aggravation de l'asthénie physique et psychique. La cyphose lombaire évolue vers une hypertrophie des apophyses épineuses.
+
+Un an après, un recul de sa rachitisme (Figure 4) s'observe. Il a une ostéoporose fracturaire au niveau de la dorsolumbar, sans aucun traumatisme.
+
+Le patient est ailleurs en bon état général.
+
+Il n'y a pas de traumatisme, ni de douleurs lombaires.
+
+### Response:
+Il s'est aggravé d'une asthénie physique et psychique. L'examen ostéoarticulaire révèle une cyphose lombaire avec une saillie des apophyses épineuses (Figure 1). Les radiographies du rachis lombaire montrent une perte de lordose dorsale avec une atrophie des corps vertébraux (Figure 2).
+
+Les radiographies du rachis lombaire et des os longs sont sans particularité.
+
+Le bilan biologique a objectivé une vitesse de sédimentation à 28 mm/h, une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L, une calciurie à 2,15 nmol/L/24 h, les dosages hormonaux sont strictement normaux, l'immunofixation sérique était négative, la parathormone est basse.
+
+L'absorptiométrie biphotonique à rayons X montre une densité minérale osseuse normale (Figure 3).
+
+Le traitement est basé sur le paracétamol (2 g/j) associé à une amytriptiline (50 mg/j) et des soins orthopédiques.
+
+Le résultat est une stabilisation des douleurs lombaires avec une aggravation de l'asthénie physique et psychique. La cyphose lombaire évolue vers une hypertrophie des apophyses épineuses. Un an après, un recul de sa rachitisme (Figure 4) s'observe. Il a une ostéoporose fracturaire au niveau de la dorsolumbar, sans aucun traumatisme. Il n'y a pas de traumatisme, ni de douleurs lombaires. Il s'est aggravé d'une asthénie physique et psychique. L'examen ostéoarticulaire révèle une cyphose lombaire avec une saillie des apophyses épineuses (Figure 1). Les radiographies du rachis lombaire montrent une perte de lordose dorsale avec une atrophie des corps vertébraux (Figure 2).
+
+Les radiographies du rachis lombaire et des os longs sont sans particularité.
+
+Le bilan biologique a objectivé une vitesse de sédimentation à 28 mm/h, une calcémie à 2,42 nmol/L, une phosphorémie à 1,01 nmol/L, une calciurie à 2,15 nmol/L/24 h, les dosages hormonaux sont strictement normaux, l'immunofixation sérique était négative, la parath

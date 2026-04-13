@@ -1,0 +1,27 @@
+Nous rapportons le cas d´une patiente de 20 ans, sans antécédents pathologiques notables, ayant pour compte le contact avec son père ayant COVID-19. L´atteinte cutanée au niveau des mains s’est manifesté par un urticaire aigue, la patiente a été testé et le résultat était positif, et elle a bénéficié d´une injection d´Etanercept pour le pneumopathie aigu, elle était apyrétique et sans détresse respidatoire ni hémodynamique, et la tomodensitométrie thoracique était normale. L´évolution était favorable. Le bilan biologique était normal: lymphocytose (3,30). La patiente était traitée par hydroxychloroquine et azithromycine. La 2eme injection d´Etanercept était planifiée.
+Ce cas répond aux critères de la Définition 4.3 de la CDC « ATTENDUE » : pas de symptômes respiratoires, ne présente aucun symptôme clinique, mais des plaies sur les doigts. Pas de contact avec de ses contacts proches (famille, patient symptomatique) étant positifs au Covid-19. Les critères de la Définition 4.4 de la CDC « HIGH EXPOSURE » : pas de symptômes respiratoires, pas de symptômes cliniques, et pas de contact avec de ses contacts proches (famille, patient symptomatique) étant positifs au Covid-19.
+
+La « présente » Légère atteinte cutanée au niveau des mains a été favorisée par le contact avec son père ayant COVID-19 (grade de contact: contact direct avec un patient positif qui est un « close contact » de niveau 3) [1]. Le contact d’une personne non symptomatique avec un patient COVID-19 peut être « presque » immédiat, comme avec le père de notre patient. Le grade de contact de notre patient était donc élevé.
+
+Les symptômes de la légère atteinte cutanée au niveau des mains pourraient être causés par les épiètres itératives de contact direct avec son père (tirade de saliva), l’approche du sang du père ou de toute matière péritonéale. La présence d’esquins de tissus comporte un risque élevé d’une transmission indirecte du virus (trophozoïte) par une superficie non inocule.
+
+Il est important à noter que les symptômes et signes peuvent être modérés et ne sont pas obligatoires. Les symptômes de la légère atteinte cutanée au niveau des mains sont généralement mineurs et le contact de la peau avec le virus peut être inexistant, ou peu importante [2].
+
+La légère atteinte cutanée au niveau des mains n’est pas un diagnostic spécifique de la COVID-19. Cette atteinte cutanée a été mentionnée dans plusieurs études (sur Internet).
+
+Tous les symptômes ressentis sont absents de ces études, donc pas de syndrome respiratoire et pas de contact avec des contacts proches symptomatiques, et absolument pas de contact direct avec un patient positif au COVID-19 [3,4].
+
+Le niveau d’exposition au virus SARS-CoV-2 par le contact direct avec le patient n’a pas pu être quantifié. Par exemple, le temps de contact et les mesures de précaution (comme le port de masque, de chaussettes et de gants en PVC) n’a pas pu être déterminé. La hauteur du produit respiratoire du patient au moment du contact avec la patiente était également inconnue, donc la dose du virus était indéterminée.
+
+La légère atteinte cutanée au niveau des mains de notre patient peut donc être causée par un contact avec un virus du patient. Le temps de contact et le niveau de danger du patient ont pu être quantifiés, mais l’intensité de l’exposition au virus est inconnue.
+
+Dans une série française, le contact par la voie respiratoire et la voie cutanée du virus SARS-CoV-2 permettait de générer un contage étendu chez les contacts. Dans cette étude, 39 cas de contage (avant et après l’hospitalisation) étaient étudiés chez les patients atteints du COVID-19 [5].
+
+Notre patient avait un contact de niveau 3 avec un patient positif au COVID-19. Le niveau de contact était basé sur les suivants facteurs [1]:
+
+- contact direct avec des personnes ayant un cas confirmé par le test PCR positif
+- contact direct avec un contact proche de niveau 2 qui a eu un contact direct avec un cas confirmé par le test PCR positif
+- contact direct avec une surface inanimée ayant fait l’objet d’un contact proche de niveau 2 ayant eu un contact direct avec un cas confirmé par le test PCR positif
+- contact direct avec une surface inanimée ayant fait l’objet d’un contact proche de niveau 3 ayant eu un contact direct avec un cas confirmé par le test PCR positif
+
+Puisqu’il a existé des contacts de niveau 3 avec un cas confirmé par le test PCR positif
